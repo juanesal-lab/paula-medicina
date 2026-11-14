@@ -57,7 +57,7 @@ Link: https://juanesal-lab.github.io/paula-medicina/app/
 ## 4. Lo que debes saber
 
 - **Es material de estudio.** No reemplaza tus libros, tus docentes ni el criterio clínico.
-- **Datos sin contrastar.** Algunas dosis y cifras no se pudieron confirmar contra su fuente. La tutora te avisa cuando usa una; confírmala en tu guía o libro antes de darla por buena. El área más floja es hematología.
+- **Datos sin contrastar.** Algunas dosis y cifras no se pudieron confirmar contra su fuente. La tutora te avisa cuando usa una; confírmala en tu guía o libro antes de darla por buena. Quedan muy pocas (10 en toda la base).
 - **Fichas con aviso.** Muchas fichas de la app dicen que no están contrastadas: úsalas para orientarte y verifica en tu atlas.
 - **El modelo 3D es masculino.** No trae útero, ovarios, mama ni pelvis femenina; la tutora te los explica en texto.
 - **No todo es una pieza tocable.** El corazón entero, el nervio frénico o el recto no existen como pieza única en el modelo.

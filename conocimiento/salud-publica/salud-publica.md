@@ -4,7 +4,7 @@ archivo: conocimiento/salud-publica/salud-publica.md
 prefijo: SALUDP
 actualizado: 2026-11-13
 verificado: 2026-11-13
-sin_contrastar: 1
+sin_contrastar: 0
 temas: [Medidas de frecuencia, Medidas de asociación e impacto, Diseños de estudio, Sesgos y confusión, Pruebas diagnósticas, Estadística inferencial básica, Vigilancia en salud pública y SIVIGILA, Sistema de salud colombiano, Determinantes sociales de la salud, Tamizaje, Estudio de brotes, Indicadores de salud (mortalidad materna e infantil), Medicina basada en la evidencia y GRADE, Ética de la investigación]
 casos: [VPP de una prueba en baja prevalencia, Brote de ETA en un colegio, Lectura de un ensayo clínico con cálculo de NNT, Evaluación de un programa de tamizaje]
 ---
@@ -154,7 +154,7 @@ casos: [VPP de una prueba en baja prevalencia, Brote de ETA en un colegio, Lectu
 **Lo esencial:**
 - Mortalidad materna: muerte de una mujer gestante o en los 42 días siguientes al fin de la gestación, por causas relacionadas con el embarazo o agravadas por él, con exclusión de las accidentales [F12][F11].
 - Razón de mortalidad materna (RMM) = muertes maternas dividido entre nacidos vivos, por 100 000; el ODS 3 propone llevarla por debajo de 70 por 100 000 nacidos vivos [F12][F11].
-- Mortalidad infantil: muertes de menores de 1 año por 1 000 nacidos vivos; neonatal: primeros 28 días; la mortalidad perinatal incluye el periodo desde la semana 22 de gestación hasta los 7 días [F11]. ⚠ sin contrastar
+- Mortalidad infantil: muertes de menores de 1 año por 1 000 nacidos vivos; neonatal: primeros 28 días de vida [F21]; la mortalidad perinatal suma los mortinatos y las muertes de los primeros 7 días desde la semana 22 de gestación, aunque la definición varía entre países [F22].
 - Las muertes maternas se clasifican en tempranas (hasta 42 días), tardías (entre 43 días y 1 año) y coincidentes; las evitables se relacionan con hemorragia, trastornos hipertensivos, sepsis, aborto inseguro y el acceso a atención calificada [F12][F11].
 - Otros indicadores: esperanza de vida, años de vida ajustados por discapacidad (AVAD), años de vida perdidos y tasas específicas por edad y causa [F5].
 **En Colombia:** la mortalidad materna y la morbilidad materna extrema se vigilan en el SIVIGILA con protocolos propios del INS (mortalidad materna, código 550); toda muerte materna pasa por unidad de análisis [F12].
@@ -239,3 +239,5 @@ casos: [VPP de una prueba en baja prevalencia, Brote de ETA en un colegio, Lectu
 - [F18] Resolución 8430 de 1993 (normas científicas, técnicas y administrativas para la investigación en salud) — Ministerio de Salud. https://www.minsalud.gov.co/sites/rid/lists/bibliotecadigital/ride/de/dij/resolucion-8430-de-1993.pdf (consultado 2026-11-13) · leída: pdf 2026-11-13
 - [F19] Type I and Type II Errors and Statistical Power — StatPearls, NCBI Bookshelf. https://www.ncbi.nlm.nih.gov/books/NBK557530/ (consultado 2026-11-13) · leída: statpearls-oa 2026-11-13
 - [F20] Hypothesis Testing, P Values, Confidence Intervals, and Significance — StatPearls, NCBI Bookshelf. https://www.ncbi.nlm.nih.gov/books/NBK557421/ (consultado 2026-11-13) · leída: statpearls-oa 2026-11-13
+- [F21] Newborn mortality — fact sheet, Organización Mundial de la Salud. https://www.who.int/news-room/fact-sheets/detail/newborn-mortality (consultado 2026-11-13) · leída: html 2026-11-13
+- [F22] Perinatal death in the Nordic countries in relation to gestational age: The impact of registration practice — Acta Obstetricia et Gynecologica Scandinavica 2024. https://pmc.ncbi.nlm.nih.gov/articles/PMC11609982/ (consultado 2026-11-13) · leída: pmc-efetch 2026-11-13

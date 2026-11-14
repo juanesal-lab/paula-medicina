@@ -12,7 +12,7 @@ BIOQ-T07	128	Alopurinol 100 mg/día, +100 mg cada 2-4 semanas; se retiró 50 mg 
 BIOQ-T07	129	Febuxostat 40 mg, subir a 80 mg si el urato no se normaliza en 2 semanas	confirmado	F22	statpearls-oa	Gout, febuxostat
 BIOQ-T07	131	Meta de urato <6 mg/dL; <5 con tofos	confirmado	F22	statpearls-oa	Gout, terapia reductora de urato
 BIOQ-T08	143	Orden cero: alcohol y fenitoína; salicilato satura >1,4 mmol/L	confirmado	F25	statpearls-oa	Pharmacokinetics, cinética de orden cero
-BIOQ-T09	155	Herencia autosómica recesiva: 25 % por embarazo (no hallado en las fuentes leídas)	sin_contrastar	F26,F27	statpearls-oa	PKU y MedlinePlus herencia (sin cifra)
+BIOQ-T09	155	Herencia autosómica recesiva: 25 % por embarazo	confirmado	F34,F26	html,statpearls-oa	Texto sobre herencia autosómica recesiva (MedlinePlus)
 BIOQ-T12	202	Perfil lipídico: CT >200, LDL >130; TG >=500 mg/dL riesgo de pancreatitis	confirmado	F7,F8	statpearls-oa	LDL Cholesterol; Hypertriglyceridemia, clasificación y riesgo
 BIOQ-C01	214	Tiamina IV 200 mg 3 veces al día; alternativa 500 mg 2-3 veces x2 días y 250 mg x3-5 días	confirmado	F14	statpearls-oa	Vitamin B1 Deficiency, tratamiento
 BIOQ-C03	232	PKU: dieta en los primeros 7-10 días; meta 120-360 µmol/L; sapropterina responde 20-55 %	confirmado	F26	statpearls-oa	Phenylketonuria, tratamiento

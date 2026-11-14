@@ -4,7 +4,7 @@ archivo: conocimiento/clinica/semiologia.md
 prefijo: SEMIO
 actualizado: 2026-11-13
 verificado: 2026-11-13
-sin_contrastar: 3
+sin_contrastar: 1
 temas: [Anamnesis estructurada, Signos vitales e interpretación, Examen cardiovascular, Síndromes pleuropulmonares, Examen abdominal y signos peritoneales, Examen neurológico y signos meníngeos, Examen osteomuscular, Cabeza y cuello, Ictericia y edema, Disnea dolor torácico y fiebre, Semiología del paciente grave, Razonamiento diagnóstico y razones de verosimilitud]
 casos: [Derrame pleural por examen físico, Dolor torácico agudo, Ictericia obstructiva con signo de Courvoisier, Hipertensión endocraneal, Abdomen agudo con signos peritoneales]
 ---
@@ -120,7 +120,7 @@ casos: [Derrame pleural por examen físico, Dolor torácico agudo, Ictericia obs
 **Lo esencial:**
 - Tiroides: inspección (se eleva con la deglución), palpación desde atrás con el paciente tragando, tamaño, consistencia, nódulos, frémito y soplo; el bocio es una masa central que se mueve al deglutir [F15].
 - Hallazgos que aumentan la sospecha de malignidad en un nódulo: tamaño mayor de 4 cm (riesgo cercano a 19 %), consistencia dura, fijación a tejidos vecinos, adenopatías cervicales y parálisis de cuerda vocal [F16].
-- Se examinan siempre las cadenas ganglionares cervicales, supraclaviculares, axilares e inguinales; características preocupantes: duros, fijos, indoloros, mayores de 1 cm y persistentes; blandos, dolorosos y móviles suelen ser reactivos [F15][F16]. ⚠ sin contrastar
+- Se examinan siempre las cadenas ganglionares cervicales, supraclaviculares, axilares e inguinales; características preocupantes: duros (como piedra), fijos a la piel o a planos profundos, indoloros y mayores de 1 cm (el ganglio normal mide menos de 1 cm); los blandos, dolorosos y móviles suelen ser reactivos [F40].
 - El ganglio supraclavicular izquierdo (de Virchow) sugiere neoplasia abdominal (gástrica, pancreática) [F15].
 **Diagnóstico:** nódulo tiroideo o bocio: TSH y ecografía; adenopatía persistente: ecografía y biopsia; sospecha de linfoma si hay síntomas B (fiebre, sudoración, pérdida de peso) [F15][F16].
 **Perlas de examen:** el tiroides que sube con la deglución se distingue de otras masas cervicales; en un paciente con hipertiroidismo, buscar frémito, exoftalmos y mixedema pretibial (enfermedad de Graves) [F15].
@@ -147,7 +147,7 @@ casos: [Derrame pleural por examen físico, Dolor torácico agudo, Ictericia obs
 - Puntuación HEART (historia, ECG, edad, factores de riesgo, troponina) estratifica el riesgo a corto plazo de eventos cardiacos adversos [F24].
 - Fiebre: temperatura de 38 °C o más; la fiebre de origen desconocido clásica es una temperatura de 38,3 °C o más, durante 3 semanas o más, sin diagnóstico tras una semana de evaluación hospitalaria; sus causas se agrupan en infecciosas, neoplásicas, inflamatorias no infecciosas y misceláneas [F25].
 **Diagnóstico:** disnea y dolor torácico: ECG, radiografía de tórax, troponina y, según sospecha, dímero D, ecocardiograma y angio-TC; fiebre: hemograma, hemocultivos, uroanálisis, radiografía y estudios epidemiológicos dirigidos [F23][F24][F25].
-**En Colombia:** toda persona con tos productiva de más de 2 semanas es "sintomático respiratorio" y debe estudiarse para tuberculosis (baciloscopia y prueba molecular) [F35]. ⚠ sin contrastar
+**En Colombia:** toda persona con tos y expectoración de más de 15 días es "sintomático respiratorio" y debe estudiarse para tuberculosis, con prueba molecular que incluye genes de resistencia a isoniacida y rifampicina; la baciloscopia, el cultivo y la radiografía de tórax son exámenes complementarios [F35].
 **En Colombia:** en un paciente febril con exposición a zonas endémicas se piensa en dengue, malaria, leptospirosis y, en brotes por ingesta de alimentos contaminados, Chagas agudo, de notificación superinmediata al INS [F36].
 **Perlas de examen:** el síncope o la hipotensión con dolor torácico agudo obliga a pensar en TEP masivo, disección o taponamiento, y no solo en SCA [F24].
 **Errores típicos:** dar de alta una disnea con dímero D negativo y alta probabilidad clínica; olvidar los fármacos como causa de fiebre; no preguntar por viajes y exposiciones [F24][F25].
@@ -261,3 +261,4 @@ casos: [Derrame pleural por examen físico, Dolor torácico agudo, Ictericia obs
 - [F37] Physiology, Mean Arterial Pressure — StatPearls, NCBI Bookshelf. https://www.ncbi.nlm.nih.gov/books/NBK538226/ (consultado 2026-11-13) · leída: statpearls-oa 2026-11-13
 - [F38] Pulsus Paradoxus — StatPearls, NCBI Bookshelf. https://www.ncbi.nlm.nih.gov/books/NBK482292/ (consultado 2026-11-13) · leída: statpearls-oa 2026-11-13
 - [F39] Oxygen Therapy — StatPearls, NCBI Bookshelf. https://www.ncbi.nlm.nih.gov/books/NBK551617/ (consultado 2026-11-13) · leída: statpearls-oa 2026-11-13
+- [F40] Peripheral Lymphadenopathy: Approach and Diagnostic Tools — Iranian Journal of Medical Sciences 2014. https://pmc.ncbi.nlm.nih.gov/articles/PMC3993046/ (consultado 2026-11-13) · leída: pmc-efetch 2026-11-13

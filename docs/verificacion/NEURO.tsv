@@ -3,39 +3,39 @@ NEURO-T01	45	Trombólisis (alteplasa o tenecteplasa) en las primeras 4,5 h	confi
 NEURO-T01	46	Alteplasa 0,9 mg/kg máx 90 mg; 10 % en 1 min, resto en 60 min	confirmado	F2	html	Tratamiento del ictus isquémico (dosis de tPA)
 NEURO-T01	47	Tenecteplasa 0,25 mg/kg máx 25 mg en bolo (contenido nuevo, solicitado por el encargo)	confirmado	F1,F2,F34	statpearls-oa,html	Tenecteplase (dosis en ictus 0,25 mg/kg, máx 25 mg); NICE NG128 1.4.1 (4,5 h)
 NEURO-T01	48	PA menor de 185/110 antes de trombolizar; vigilancia 24 h	confirmado	F2	html	Requisitos previos a tPA
-NEURO-T01	49	Meta menor de 180/105 mmHg las primeras 24 h	sin_contrastar	F2	html	No figura en el texto leído
+NEURO-T01	49	Meta menor de 180/105 mmHg las primeras 24 h	confirmado	F35	html	Manejo del ACV isquémico, tratamiento de reperfusión (presión menor de 180/105 mmHg por al menos 24 h)
 NEURO-T01	50	Trombectomía hasta 6 h y entre 6-24 h con imagen de perfusión	confirmado	F1	html	Recomendaciones 1.4.5 a 1.4.7
 NEURO-T01	51	Aspirina 300 mg diaria hasta 2 semanas	confirmado	F1	html	Recomendación 1.4.9 (MSD usa 325 mg: se indica en la discusión)
 NEURO-T01	53	GPC Colombia: 15 primeros días, LAPSS, reperfusión en menos de 4,5 h (se retiró afirmación de hipotermia no hallada)	corregido	F7	pdf	Recomendaciones de ataque cerebrovascular isquémico (sección prehospitalaria y reperfusión)
 NEURO-T01	54	NICE: 4,5 h y trombectomía hasta 24 h; MSD: 3 h con 4,5 h con criterios	corregido	F1,F2	html	Recomendaciones 1.4; Tratamiento
 NEURO-T02	70	HIC: descenso rápido si menos de 6 h y sistólica 150-220 mmHg (antes: 140 vs 160 sin fuente)	corregido	F1	html	Recomendaciones 1.5.4 y 1.5.5
 NEURO-T03	81	TC sensible en primeras 6 h; punción lumbar 12 h o más después	confirmado	F6,F5	html	NG228 diagnóstico; MSD HSA diagnóstico
-NEURO-T03	84	Nimodipino 60 mg c/4 h por 21 días	sin_contrastar	F6	html	NICE solo dice considerar nimodipino enteral
+NEURO-T03	84	Nimodipino 60 mg c/4 h por 21 días	confirmado	F36	pmc-efetch	Calcioantagonistas y vasoespasmo: nimodipino 60 mg c/4 h por 21 días
 NEURO-T03	87	CT en las primeras 6 h y punción lumbar tardía	confirmado	F6	html	NG228 diagnóstico
 NEURO-T04	97	Aspirina 300 mg inmediata en sospecha de AIT; evaluación en 24 h	confirmado	F1	html	Recomendación AIT (aspirina 300 mg inmediatamente)
 NEURO-T04	98	Endarterectomía: estenosis 50-99 % NASCET o 70-99 % ECST, derivación urgente (antes: 2 semanas)	corregido	F1	html	Recomendación de endarterectomía carotídea
 NEURO-T04	100	ABCD2 no se usa para decidir urgencia; evaluación en 24 h	confirmado	F1	html	Recomendación sobre estratificación en AIT
 NEURO-T05	108	Epilepsia: dos crisis no provocadas separadas más de 24 h	confirmado	F9	html	Definición
 NEURO-T05	114	Estado epiléptico mayor de 5 min; lorazepam 0,05-0,1 mg/kg (4 mg típica) a 2 mg/min	corregido	F9	html	Status epilepticus generalizado convulsivo (antes: 4 mg repetible una vez)
-NEURO-T06	130	Sumatriptán 50-100 mg, repetible a las 2 h	sin_contrastar	F11	html	NICE no da dosis
-NEURO-T06	132	Racimos: O2 100 % 12 L/min 15 min	sin_contrastar	F11	html	No figura en el texto leído
-NEURO-T07	144	Donepezilo 5-10 mg al día	sin_contrastar	F13	ninguna	NICE NG97 no leída
-NEURO-T09	173	Metilprednisolona 1 g/día por 3-5 días en brote	sin_contrastar	F17	ninguna	NICE NG220 no leída
+NEURO-T06	130	Sumatriptán 50-100 mg, repetible a las 2 h	corregido	F37	pmc-efetch	Tabla de triptanes: sumatriptán oral 50-100 mg, máximo 300 mg/día (antes: repetible una vez a las 2 h, no figura)
+NEURO-T06	132	Racimos: O2 100 % 12 L/min 15 min	corregido	F38	pmc-efetch	Tratamiento agudo y verapamilo: oxígeno 7-15 L/min (antes: 12 L/min por 15 min); ECG antes y tras cada aumento
+NEURO-T07	144	Donepezilo 5-10 mg al día	confirmado	F13,F39	statpearls-oa,pmc-efetch	Dosificación: 5 mg por 4-6 semanas y luego 10 mg
+NEURO-T09	173	Metilprednisolona 1 g/día por 3-5 días en brote	corregido	F17,F40	statpearls-oa,pmc-efetch	Brote agudo: 500-1000 mg por 3-5 días (antes: 1 g)
 NEURO-T10	183	SGB: nadir en menos de 4 semanas (típicamente 2)	confirmado	F18	statpearls-oa	Presentación
 NEURO-T10	185	Nadir menos de 24 h o más de 4 semanas hace dudar	confirmado	F18	statpearls-oa	Presentación
-NEURO-T10	187	Intubar con capacidad vital menor de 20 mL/kg	sin_contrastar	F18,F19	html	MSD menciona medir capacidad vital cada 6-8 h; umbral no visto
+NEURO-T10	187	Intubar con capacidad vital menor de 20 mL/kg	corregido	F42,F44	pmc-efetch,html	20 mL/kg como señal de falla inminente; MSD indica intubar con menos de 15 mL/kg (guías difieren)
 NEURO-T10	188	IGIV 2 g/kg en 2-5 días (0,4 g/kg x5 d); plasmaféresis 50 mL/kg, 2-4 sesiones (antes: 5 sesiones)	corregido	F18	statpearls-oa	Treatment
-NEURO-T10	191	Regla 20/30/40	sin_contrastar	F18,F19	statpearls-oa	No figura en lo leído
+NEURO-T10	191	Regla 20/30/40	confirmado	F41,F42	pmc-efetch	Regla 20/30/40 en monitorización respiratoria
 NEURO-T13	226	Aciclovir al sospechar; 14 días (antes: 14-21)	corregido	F23	html	Encefalitis herpética: tratamiento
-NEURO-T13	227	Aciclovir 10 mg/kg c/8 h	sin_contrastar	F23	html	No figura la dosis
+NEURO-T13	227	Aciclovir 10 mg/kg c/8 h	confirmado	F23,F45	statpearls-oa,pmc-efetch	Tratamiento de la encefalitis herpética: 10 mg/kg c/8 h por 14-21 días
 NEURO-C01	263	Trombólisis en menos de 4,5 h con PA menor de 185/110	confirmado	F1,F2	html	Recomendaciones 1.4; requisitos de tPA
 NEURO-C01	265	No bajar la PA agresivamente en ACV isquémico agudo (solo si 220/120 o más sin trombolizar)	confirmado	F2	html	Tratamiento (manejo de PA)
 NEURO-C02	271	Punción lumbar con más de 12 h de evolución	confirmado	F6	html	NG228 diagnóstico
 NEURO-C03	280	LCR con proteínas altas y pocas células tras la primera semana	confirmado	F18	statpearls-oa	Evaluación
-NEURO-C03	281	IGIV 0,4 g/kg/día x5 (equivale a 2 g/kg totales); intubación con CV menor de 20 mL/kg	sin_contrastar	F18,F19,F21	statpearls-oa	IGIV confirmado; umbral de CV no visto
-NEURO-C03	282	Nadir menor de 4 semanas; CV 20 mL/kg en el límite	sin_contrastar	F18,F19	statpearls-oa	Nadir confirmado; umbral de CV no visto
-NEURO-C04	290	Miastenia: intubar con CV menor de 20 mL/kg; IGIV 2 g/kg en 2-5 días	sin_contrastar	F22	html	MSD no da cifras para crisis miasténica
-NEURO-C04	291	CV 17 mL/kg ya indica intubación	sin_contrastar	F22	html	Umbral no figura
+NEURO-C03	281	IGIV 0,4 g/kg/día x5 (equivale a 2 g/kg totales); intubación con CV menor de 20 mL/kg	confirmado	F43,F42,F44	pmc-efetch,html	Tabla de IVIg 0,4 g/kg por 5 días; criterios de intubación
+NEURO-C03	282	Nadir menor de 4 semanas; CV 20 mL/kg en el límite	confirmado	F41,F42	pmc-efetch	Regla 20/30/40; dato clínico del caso
+NEURO-C04	290	Miastenia: intubar con CV menor de 20 mL/kg; IGIV 2 g/kg en 2-5 días	corregido	F46,F47,F22	pmc-efetch,statpearls-oa	Crisis miasténica: VC menor de 20 mL/kg; IVIg 400 mg/kg/día por 5 días (antes: 2 g/kg en 2-5 días)
+NEURO-C04	291	CV 17 mL/kg ya indica intubación	confirmado	F46	pmc-efetch	Criterios de intubación en crisis miasténica
 NEURO-C05	297	ACG: edad mayor de 50	confirmado	F32	statpearls-oa	Introducción
 NEURO-C05	298	Biopsia de arteria temporal hasta 2 semanas tras glucocorticoide	confirmado	F32	statpearls-oa	Diagnosis
 NEURO-C05	299	Prednisona 40-60 mg/día	confirmado	F32	statpearls-oa	Treatment (corticoides)

@@ -37,10 +37,10 @@ Esta sección la escribe `node docs/herramientas/generar_indice.mjs`. No la edit
 <!-- AUTO:INICIO -->
 **Disponibles (23 de 23):** Anatomía, Fisiología, Bioquímica, Farmacología, Semiología, Cardiología, Neumología, Nefrología, Gastroenterología, Endocrinología, Hematología, Reumatología, Infectología, Cirugía general, Trauma, Urgencias, Pediatría, Ginecología, Obstetricia, Neurología, Psiquiatría, Dermatología, Salud pública y epidemiología.
 
-**Datos pendientes de verificar:** 174
+**Datos pendientes de verificar:** 10
 
 ### Anatomía
-Archivo: `conocimiento/basicas/anatomia.md` · actualizado: 2026-11-13 · datos sin contrastar: 2
+Archivo: `conocimiento/basicas/anatomia.md` · actualizado: 2026-11-13 · datos sin contrastar: 1
 
 Temas:
 - [ANAT-T01] Plexo braquial y sus lesiones
@@ -88,7 +88,7 @@ Casos:
 - [FISIO-C05] Caso: Hipoxia de altura en Bogotá
 
 ### Bioquímica
-Archivo: `conocimiento/basicas/bioquimica.md` · actualizado: 2026-11-13 · datos sin contrastar: 1
+Archivo: `conocimiento/basicas/bioquimica.md` · actualizado: 2026-11-13 · datos sin contrastar: 0
 
 Temas:
 - [BIOQ-T01] Metabolismo de carbohidratos y glucogenosis
@@ -136,7 +136,7 @@ Casos:
 - [FARMA-C05] Caso: QT largo por combinación de fármacos
 
 ### Semiología
-Archivo: `conocimiento/clinica/semiologia.md` · actualizado: 2026-11-13 · datos sin contrastar: 3
+Archivo: `conocimiento/clinica/semiologia.md` · actualizado: 2026-11-13 · datos sin contrastar: 1
 
 Temas:
 - [SEMIO-T01] Anamnesis estructurada
@@ -160,7 +160,7 @@ Casos:
 - [SEMIO-C05] Caso: Abdomen agudo con signos peritoneales
 
 ### Cardiología
-Archivo: `conocimiento/interna/cardiologia.md` · actualizado: 2026-11-13 · datos sin contrastar: 8
+Archivo: `conocimiento/interna/cardiologia.md` · actualizado: 2026-11-13 · datos sin contrastar: 0
 
 Temas:
 - [CARD-T01] Hipertensión arterial
@@ -185,7 +185,7 @@ Casos:
 - [CARD-C05] Caso: Taponamiento cardiaco
 
 ### Neumología
-Archivo: `conocimiento/interna/neumologia.md` · actualizado: 2026-11-13 · datos sin contrastar: 10
+Archivo: `conocimiento/interna/neumologia.md` · actualizado: 2026-11-13 · datos sin contrastar: 1
 
 Temas:
 - [NEUMO-T01] Asma
@@ -209,7 +209,7 @@ Casos:
 - [NEUMO-C05] Caso: Derrame paraneumónico complicado
 
 ### Nefrología
-Archivo: `conocimiento/interna/nefrologia.md` · actualizado: 2026-11-13 · datos sin contrastar: 7
+Archivo: `conocimiento/interna/nefrologia.md` · actualizado: 2026-11-13 · datos sin contrastar: 0
 
 Temas:
 - [NEFRO-T01] Lesión renal aguda
@@ -232,7 +232,7 @@ Casos:
 - [NEFRO-C04] Caso: Hiponatremia sintomática
 
 ### Gastroenterología
-Archivo: `conocimiento/interna/gastroenterologia.md` · actualizado: 2026-11-13 · datos sin contrastar: 17
+Archivo: `conocimiento/interna/gastroenterologia.md` · actualizado: 2026-11-13 · datos sin contrastar: 0
 
 Temas:
 - [GASTRO-T01] Enfermedad por reflujo gastroesofágico
@@ -256,7 +256,7 @@ Casos:
 - [GASTRO-C05] Caso: Anemia ferropénica y diarrea crónica en mujer joven
 
 ### Endocrinología
-Archivo: `conocimiento/interna/endocrinologia.md` · actualizado: 2026-11-13 · datos sin contrastar: 23
+Archivo: `conocimiento/interna/endocrinologia.md` · actualizado: 2026-11-13 · datos sin contrastar: 0
 
 Temas:
 - [ENDO-T01] Diabetes mellitus tipo 2
@@ -282,7 +282,7 @@ Casos:
 - [ENDO-C05] Caso: Estado hiperosmolar en adulto mayor
 
 ### Hematología
-Archivo: `conocimiento/interna/hematologia.md` · actualizado: 2026-11-13 · datos sin contrastar: 34
+Archivo: `conocimiento/interna/hematologia.md` · actualizado: 2026-11-13 · datos sin contrastar: 0
 
 Temas:
 - [HEMATO-T01] Anemias
@@ -308,7 +308,7 @@ Casos:
 - [HEMATO-C05] Caso: Hemorragia con INR supraterapéutico
 
 ### Reumatología
-Archivo: `conocimiento/interna/reumatologia.md` · actualizado: 2026-11-13 · datos sin contrastar: 10
+Archivo: `conocimiento/interna/reumatologia.md` · actualizado: 2026-11-13 · datos sin contrastar: 0
 
 Temas:
 - [REUMA-T01] Artritis reumatoide
@@ -334,7 +334,7 @@ Casos:
 - [REUMA-C05] Caso: Poliartritis persistente tras chikungunya
 
 ### Infectología
-Archivo: `conocimiento/interna/infectologia.md` · actualizado: 2026-11-13 · datos sin contrastar: 21
+Archivo: `conocimiento/interna/infectologia.md` · actualizado: 2026-11-13 · datos sin contrastar: 2
 
 Temas:
 - [INFECTO-T01] Dengue
@@ -360,7 +360,7 @@ Casos:
 - [INFECTO-C05] Caso: Meningitis bacteriana aguda
 
 ### Cirugía general
-Archivo: `conocimiento/cirugia/cirugia-general.md` · actualizado: 2026-11-13 · datos sin contrastar: 2
+Archivo: `conocimiento/cirugia/cirugia-general.md` · actualizado: 2026-11-13 · datos sin contrastar: 0
 
 Temas:
 - [CIRUG-T01] Abordaje del abdomen agudo
@@ -439,7 +439,7 @@ Casos:
 - [URG-C05] Caso: Estado epiléptico
 
 ### Pediatría
-Archivo: `conocimiento/pediatria/pediatria.md` · actualizado: 2026-11-13 · datos sin contrastar: 12
+Archivo: `conocimiento/pediatria/pediatria.md` · actualizado: 2026-11-13 · datos sin contrastar: 4
 
 Temas:
 - [PEDIA-T01] Crecimiento y desarrollo
@@ -519,7 +519,7 @@ Casos:
 - [OBST-C05] Caso: Ruptura prematura de membranas pretérmino
 
 ### Neurología
-Archivo: `conocimiento/neurologia/neurologia.md` · actualizado: 2026-11-13 · datos sin contrastar: 13
+Archivo: `conocimiento/neurologia/neurologia.md` · actualizado: 2026-11-13 · datos sin contrastar: 0
 
 Temas:
 - [NEURO-T01] ACV isquémico
@@ -546,7 +546,7 @@ Casos:
 - [NEURO-C05] Caso: Cefalea con banderas rojas
 
 ### Psiquiatría
-Archivo: `conocimiento/psiquiatria/psiquiatria.md` · actualizado: 2026-11-13 · datos sin contrastar: 5
+Archivo: `conocimiento/psiquiatria/psiquiatria.md` · actualizado: 2026-11-13 · datos sin contrastar: 0
 
 Temas:
 - [PSIQ-T01] Depresión mayor
@@ -570,7 +570,7 @@ Casos:
 - [PSIQ-C04] Caso: Síndrome neuroléptico maligno
 
 ### Dermatología
-Archivo: `conocimiento/dermatologia/dermatologia.md` · actualizado: 2026-11-13 · datos sin contrastar: 4
+Archivo: `conocimiento/dermatologia/dermatologia.md` · actualizado: 2026-11-13 · datos sin contrastar: 0
 
 Temas:
 - [DERMA-T01] Lesiones elementales y descripción dermatológica
@@ -595,7 +595,7 @@ Casos:
 - [DERMA-C04] Caso: Escabiosis en el núcleo familiar
 
 ### Salud pública y epidemiología
-Archivo: `conocimiento/salud-publica/salud-publica.md` · actualizado: 2026-11-13 · datos sin contrastar: 1
+Archivo: `conocimiento/salud-publica/salud-publica.md` · actualizado: 2026-11-13 · datos sin contrastar: 0
 
 Temas:
 - [SALUDP-T01] Medidas de frecuencia

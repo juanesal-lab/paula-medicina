@@ -4,7 +4,7 @@ PEDIA-T02	58	El PAI es gratuito y hoy incluye 21 vacunas; la Resolución 2808 de
 PEDIA-T02	59	Recién nacido: BCG y hepatitis B (de preferencia en las primeras 12 horas). Primer año: pentavalente a los 2, 	confirmado	F31	pdf	Afiche: recién nacido, 2, 4, 6 meses y notas 1, 2 y 3
 PEDIA-T02	60	Fiebre amarilla a los 9 meses; a los 12 meses triple viral (primera dosis), varicela, hepatitis A y refuerzo d	corregido	F31	pdf	Afiche: 9, 12 y 18 meses y 5 años
 PEDIA-T02	64	Incierto: la edad de vacunación contra VPH varió entre documentos: dosis única desde octubre de 2023; en julio	corregido	F32	pdf	Antecedentes del PAI: VPH 2023 y 2024; afiche, nota 6
-PEDIA-T03	71	Lactancia materna exclusiva durante los primeros 6 meses y continuada con alimentos complementarios hasta los 	sin_contrastar	F2	html	Hoja informativa de alimentación del lactante no accesible
+PEDIA-T03	71	Lactancia exclusiva 6 meses y continuada hasta los 2 años o más	confirmado	F2	html	Recomendaciones (hoja informativa OMS)
 PEDIA-T04	82	Desnutrición aguda moderada: peso/talla entre −3 y −2 DE o perímetro braquial de 115 mm a menos de 125 mm; sev	confirmado	F42	bookshelf-oa	Definiciones de emaciación moderada y severa; lineamiento nacional
 PEDIA-T04	87	Estabilización: tratar hipoglucemia (glucosa menor de 54 mg/dL; bolo de glucosa al 10% de 5 mL/kg), hipotermia	confirmado	F29	pdf	Manejo de la hipoglucemia (menor de 54 mg/dL)
 PEDIA-T04	88	Rehidratar preferiblemente por vía oral y evitar la IV salvo choque: el lineamiento nacional usa SRO-75 (en la	corregido	F29	pdf	Hidratación en desnutrición aguda severa; recomendación B7 de la OMS
@@ -17,7 +17,7 @@ PEDIA-T05	108	En Colombia: hay GPC de EDA en menores de 5 años (MinSalud, 2013)
 PEDIA-T06	115	Infección viral aguda de la vía aérea inferior en menores de 2 años (VSR el más frecuente), con rinorrea, tos,	confirmado	F5	statpearls-oa	Introducción: edad de afectación
 PEDIA-T06	120	Las guías difieren: umbral de oxígeno: NICE (actualización 2021) usa 90% como umbral para admisión, tratamient	corregido	F6	html	Recomendación 1.2.2 y su justificación (NG9)
 PEDIA-T06	121	En Colombia: la GPC 2014 de neumonía (menores de 5 años) y bronquiolitis (menores de 2 años) recomienda oximet	confirmado	F34	pdf	Alcance de la guía de neumonía y bronquiolitis
-PEDIA-T07	128	Taquipnea según edad: 60 o más respiraciones/min en menores de 2 meses, 50 o más entre 2 y 11 meses y 40 o más	sin_contrastar	F9	html	Hoja informativa sin umbrales por edad; GPC y guía OMS 2024 tampoco los traen
+PEDIA-T07	128	Taquipnea OMS: ≥60 (<2 meses), ≥50 (2-11 meses), ≥40 (12-59 meses)	confirmado	F49	pmc-efetch	Introducción (algoritmo OMS de respiración rápida)
 PEDIA-T07	130	Manejo ambulatorio: amoxicilina oral 90 mg/kg/día en dos o tres dosis durante 5 días (la OMS 2024 indica al me	confirmado	F34	pdf	Recomendaciones de tratamiento ambulatorio con amoxicilina; guía OMS 2024
 PEDIA-T07	131	Dosis máxima por toma y por día de amoxicilina: no figura en las fuentes leídas; confírmala en el formulario a	sin_contrastar	F34	pdf	Dosis máxima no figura en GPC, StatPearls Amoxicillin ni guía OMS 2024
 PEDIA-T07	135	Gravedad con escala de Westley: hasta 2 puntos leve, 3 a 7 moderado, 8 o más severo.	confirmado	F8	statpearls-oa	Evaluation: escala de Westley
@@ -27,10 +27,10 @@ PEDIA-T07	139	En Colombia: GPC 2014 y el programa nacional de IRA/EDA; la amoxic
 PEDIA-T08	147	La espirometría se recomienda desde los 5 años.	corregido	F44	statpearls-oa	Evaluation: espirometría desde los 5 años
 PEDIA-T08	150	Salbutamol por inhalador con espaciador, 4 a 8 inhalaciones cada 20 minutos hasta 3 dosis en la primera hora (	corregido	F44	statpearls-oa	Treatment: salbutamol en la exacerbación
 PEDIA-T08	151	Corticoide sistémico precoz: la dexametasona 0,6 mg/kg al día por 2 días es una opción frecuente en urgencias.	corregido	F44	statpearls-oa	Treatment: glucocorticoides
-PEDIA-T08	152	Prednisolona 1 a 2 mg/kg/día (máximo 40 mg) durante 3 a 5 días: no se contrastó en las fuentes leídas.	sin_contrastar	F10	statpearls-oa	No figura dosis de prednisolona en las fuentes leídas
+PEDIA-T08	152	Prednisolona 1-2 mg/kg/día (máximo 40 mg) 3-5 días	confirmado	F50,F51	pmc-efetch	Manejo de la exacerbación (corticoides orales)
 PEDIA-T08	153	Ipratropio añadido en crisis moderada a grave (250 µg nebulizados si pesa menos de 20 kg y 500 µg si pesa más,	corregido	F44	statpearls-oa	Treatment: ipratropio y sulfato de magnesio
 PEDIA-T08	154	Las guías difieren: desde los 12 años, NICE/BTS/SIGN 2024 ofrece corticoide inhalado más formoterol a demanda 	confirmado	F12	html	Recomendaciones sobre antiinflamatorio a demanda y MART (NG245)
-PEDIA-T09	161	Alrededor de 20% de los niños febriles no tienen foco tras la historia y el examen; la mayoría son virales, pe	sin_contrastar	F14	pmc-efetch	Artículo sobre comparación de guías; sin cifras de frecuencia
+PEDIA-T09	161	Infección bacteriana grave en menores de 3 meses 8 % (neonatos 9-13 %; 8-12,5 % y hasta 20 % en neonatos)	corregido	F14,F53	pmc-efetch	Introducción (antes: 5-15 %; se retira 'alrededor de 20 % sin foco')
 PEDIA-T09	162	NICE: en menores de 3 meses la fiebre de 38 °C o más es de alto riesgo; entre 3 y menos de 6 meses, 39 °C o má	confirmado	F13	html	Recomendaciones sobre riesgo según temperatura (NG143)
 PEDIA-T09	163	ITU oculta: unos 3% a 4% de los varones menores de 1 año y 8% a 9% de las niñas menores de 2 años febriles.	sin_contrastar	F14	pmc-efetch	Artículo sobre comparación de guías; sin prevalencia de ITU oculta
 PEDIA-T09	165	Menor de 1 mes (28 días): la mayoría de las guías pide laboratorio (hemograma o PCR), hemocultivo, urocultivo 	corregido	F14	pmc-efetch	Resultados: recomendaciones diagnósticas por edad
@@ -39,17 +39,17 @@ PEDIA-T10	176	Compresiones torácicas si la frecuencia cardiaca persiste por deb
 PEDIA-T10	177	Epinefrina IV 0,01 a 0,03 mg/kg (0,1 a 0,3 mL/kg de la dilución 1:10.000) si la frecuencia sigue por debajo de	confirmado	F45	pmc-efetch	Epinefrina en reanimación neonatal
 PEDIA-T10	181	Errores típicos: iniciar compresiones antes de ventilar bien; usar oxígeno al 100% de entrada en el término (s	confirmado	F45	pmc-efetch	Concentración de oxígeno inicial
 PEDIA-T11	186	Fisiológica: aparece después de las primeras 24 horas, es indirecta y se resuelve sola; representa unos 75% de	confirmado	F16	statpearls-oa	Etiología: ictericia fisiológica
-PEDIA-T11	188	Ictericia prolongada: más de 14 días en el término (más de 21 en el prematuro) obliga a medir bilirrubina dire	sin_contrastar	F17	html	CG98 no trae el plazo de ictericia prolongada en el texto leído
+PEDIA-T11	188	Ictericia prolongada: más de 14 días (término) y más de 21 (prematuro) medir bilirrubina conjugada	confirmado	F17	html	Recomendación 1.7.1
 PEDIA-T11	189	Colestasis: bilirrubina directa mayor de 1 mg/dL si la total es menor de 5 mg/dL, o mayor de 20% de la total s	sin_contrastar	F16	statpearls-oa	Sin umbrales de bilirrubina directa en el texto leído
 PEDIA-T12	198	Bacteriemia en menores de 28 días; temprana si aparece en los primeros días (flora materna, estreptococo B, E.	confirmado	F18	statpearls-oa	Introducción: definición de sepsis neonatal
-PEDIA-T12	201	Manejo: ampicilina 50 mg/kg más gentamicina 4 a 5 mg/kg con intervalo ajustado a edad gestacional y posnatal; 	sin_contrastar	F18	statpearls-oa	cifra retirada por la dirección 2026-11-13 (dosis de alto riesgo pediátrica sin fuente leída)
+PEDIA-T12	201	Ampicilina 50 mg/kg c/12 h (1.ª semana) y c/8 h; gentamicina 5 y 7,5 mg/kg/día; mínimo 10 días; meningitis 3 semanas	corregido	F52,F18	bookshelf-oa,statpearls-oa	Recomendaciones de dosis del GDG para sepsis y meningitis (antes: cifras retiradas)
 PEDIA-T12	202	Tamizaje neonatal: oximetría de pulso para cardiopatía crítica (aprobar con 95% o más en ambas extremidades y 	confirmado	F26	statpearls-oa	Evaluation: criterios de tamizaje con oximetría
 PEDIA-T13	210	Convulsión generalizada en niño de 6 meses a 5 años con fiebre y sin infección del sistema nervioso ni causa m	confirmado	F19	statpearls-oa	Introducción y definición
 PEDIA-T13	214	Manejo: si dura más de 5 minutos, benzodiacepina; diazepam rectal 0,2 a 0,5 mg/kg en dosis única (máximo 20 mg	corregido	F47	statpearls-oa	Dosis de diazepam rectal y de lorazepam en estatus
-PEDIA-T13	215	Midazolam intranasal 0,2 mg/kg (máximo 10 mg): la dosis para convulsión no figura en las fuentes leídas.	sin_contrastar	F19	statpearls-oa	cifra retirada por la dirección 2026-11-13 (dosis de alto riesgo pediátrica sin fuente leída)
+PEDIA-T13	215	Midazolam intranasal 0,2 mg/kg (máx. 10 mg); bucal sin dosis contrastada	corregido	F54,F55	pmc-efetch	Métodos del ensayo y estudios prehospitalarios (antes: dosis retirada)
 PEDIA-T14	225	Manejo: antibiótico oral (cefalexina, cefixima o amoxicilina-clavulanato) en niño que tolera la vía oral; IV s	confirmado	F20	statpearls-oa	Treatment: vía de administración y duración
 PEDIA-T15	234	"Roséola (VHH-6): fiebre alta por 3 días (la ""fiebre de los 3 días"") y exantema al ceder la fiebre; la mayoría "	confirmado	F21	statpearls-oa	Introducción: fiebre de 3 días
-PEDIA-T15	237	Manejo del sarampión: vitamina A en dosis única por edad, repetida a las 24 horas: 200.000 UI desde los 12 mes	sin_contrastar	F23	html	La hoja informativa no da dosis de vitamina A por edad
+PEDIA-T15	237	Vitamina A en sarampión: 2 dosis (dx y 24 h); ensayos 200.000 UI en niños y 100.000 UI en lactantes; <6 meses sin cifra	corregido	F23,F56	html,pmc-efetch	Tratamiento del sarampión (OMS); meta-análisis (antes: 50.000 UI en menores de 6 meses sin fuente)
 PEDIA-T15	238	En Colombia: la prevención es la vacuna triple viral: primera dosis a los 12 meses y segunda a los 18 meses.	corregido	F31	pdf	Afiche: triple viral a los 12 y 18 meses
 PEDIA-T16	247	En niños de hasta 24 meses con fracturas sospechosas se realiza estudio esquelético; si es anormal o dudoso se	corregido	F24	statpearls-oa	Evaluation: estudio esquelético
 PEDIA-T17	257	Afectan 8 a 9 por 1000 nacidos vivos; cerca de 25% son críticas (cianóticas).	confirmado	F26	statpearls-oa	Epidemiología

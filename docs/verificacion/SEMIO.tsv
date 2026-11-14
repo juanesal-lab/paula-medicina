@@ -6,8 +6,8 @@ SEMIO-T02	54	Taquipnea FR >20/min (antes >28 en adulto mayor)	corregido	F2	statp
 SEMIO-T03	67	Pulso paradójico: caída sistólica inspiratoria >10 mmHg	confirmado	F3,F38	statpearls-oa	StatPearls Pulsus Paradoxus, definición
 SEMIO-T06	102	Kernig/Brudzinski: S 5 %, E 95 % adultos; niños S 27 % y 51 %	confirmado	F13	statpearls-oa	StatPearls Streptococcal Meningitis, examen físico
 SEMIO-T08	122	Nódulo tiroideo: >4 cm riesgo ~19 %; dureza, fijación, adenopatías, parálisis de cuerda	confirmado	F16	statpearls-oa	StatPearls Thyroid Nodule, examen físico
-SEMIO-T08	123	Adenopatías preocupantes: >1 cm, duras, fijas, indoloras, persistentes (no hallado el umbral de 1 cm)	sin_contrastar	F15,F16	statpearls-oa	Goiter y Thyroid Nodule no dan umbral de tamaño
+SEMIO-T08	123	Ganglios preocupantes: duros, fijos, indoloros, mayores de 1 cm; normal menor de 1 cm	confirmado	F40	pmc-efetch	Consistencia, movilidad y tamaño de los ganglios (se retira 'persistentes')
 SEMIO-T09	132	Ictericia visible en esclera con bilirrubina >3 mg/dL (antes 2-3); normal <1	corregido	F17	statpearls-oa	StatPearls Hyperbilirubinemia, presentación clínica
 SEMIO-T10	148	FOD clásica: T >=38,3 °C, >=3 semanas, 1 semana de estudio	confirmado	F25	statpearls-oa	StatPearls Fever of Unknown Origin, definición
-SEMIO-T10	150	Sintomático respiratorio: tos productiva >2 semanas (ABECÉ no define la duración)	sin_contrastar	F35	pdf	ABECÉ Tuberculosis MinSalud
+SEMIO-T10	150	Sintomático respiratorio: tos y expectoración de más de 15 días; prueba molecular con genes de resistencia	corregido	F35	pdf	Síntomas y diagnóstico de la TB (antes: más de 2 semanas; baciloscopia y prueba molecular)
 SEMIO-C02	194	Diferencia >20 mmHg entre brazos sugiere disección (no hallado)	sin_contrastar	F24,F3	statpearls-oa	Chest Pain y Aortic Dissection (sin cifra)

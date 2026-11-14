@@ -6,21 +6,21 @@ DERMA-T04	84	Isotretinoína 0,5-1 mg/kg/día	confirmado	F35	statpearls-oa	StatPe
 DERMA-T05	97	Impétigo localizado: antibiótico tópico 5-7 días	confirmado	F8	html	MSD impétigo, tratamiento
 DERMA-T05	98	Celulitis/erisipela: flucloxacilina 500 mg cada 6 h 5-7 d (NICE); 5 d si mejora (MSD); se retiró cefalexina 500 mg cada 6 h	corregido	F9,F10	html	NICE NG190 tabla de dosis; MSD celulitis, tratamiento
 DERMA-T06	113	Tinea localizada: tópico 2-3 semanas (antes 2-4)	corregido	F33	statpearls-oa	StatPearls Tinea Corporis, tratamiento tópico
-DERMA-T06	114	Tinea capitis/onicomicosis: terbinafina 6-12 semanas en uñas (no hallado en las fuentes leídas)	sin_contrastar	F33	statpearls-oa	Tinea Corporis (no cubre uñas ni cuero cabelludo)
+DERMA-T06	114	Tinea capitis y onicomicosis: antifúngico oral (terbinafina/griseofulvina; terbinafina o itraconazol en uñas); duración sin cifra	corregido	F39,F40,F41	html	Tratamiento (antes: 'siempre' sistémico y terbinafina 6-12 semanas; se retira la duración)
 DERMA-T07	129	Escabiosis: permetrina 5 %, 8-14 h, repetir a los 7 días	confirmado	F11,F12	html	MSD escabiosis, tratamiento tópico
 DERMA-T07	130	Ivermectina 200 mcg/kg, repetir a los 14 días (antes 7-14); no en embarazo ni <15 kg	corregido	F12,F38	html	OMS escabiosis; StatPearls Scabies, ivermectina (también vía statpearls-oa)
 DERMA-T07	131	Lavado: agua caliente 50-54 °C o más, secado 10 min, o bolsa sellada hasta 1 semana (antes 72 h)	corregido	F11	html	MSD escabiosis, descontaminación
-DERMA-T07	133	Pediculosis: permetrina 1 %, repetir a los 7 días (no hay fuente leída de pediculosis)	sin_contrastar	F11	html	MSD escabiosis (no trata pediculosis)
+DERMA-T07	133	Pediculosis: permetrina 1 % repetir a los 7 días; dimeticona segundo tratamiento a los 8-10 días	corregido	F43	pmc-efetch	Tablas de tratamiento (antes: dimeticona repetir a los 7 días; cita F11 era de escabiosis)
 DERMA-T07	134	Perla: repetir permetrina a los 7 días	confirmado	F11	html	MSD escabiosis
 DERMA-T08	147	Antimoniato 20 mg Sb/kg/día IM/IV, máx 15 mL/día (2023); 20 días en LC (guía 2011)	corregido	F15,F16	pdf	Lineamientos v4 2023, dosis en adultos; Guía 2011, tratamiento LC
 DERMA-T08	148	Miltefosina 1,5-2,5 mg/kg/día, máx 150 mg, 28 días; no en embarazo; anticoncepción	corregido	F15,F16,F14	pdf	Lineamientos 2023 dosis; Guía 2011 anticoncepción
-DERMA-T09	165	MDT OMS adultos: dapsona 100 mg/día, rifampicina 600 mg/mes, clofazimina 300 mg/mes+50 mg/día; mismo triple esquema PB 6 m y MB 12 m	sin_contrastar	F18,F37	html	relectura 2026-11-13 con UA honesto: la fuente responde pero la cifra no aparece en el texto
+DERMA-T09	165	MDT OMS: dapsona 100 mg/día, rifampicina 600 mg/mes, clofazimina 300 mg/mes + 50 mg/día; 6 y 12 meses	confirmado	F42,F18,F37	html,statpearls-oa	Tratamiento de la lepra (regímenes OMS)
 DERMA-T10	178	ABCDE: diámetro >6 mm; evolución	confirmado	F20,F21	html	MSD melanoma, ABCDE
 DERMA-T10	182	Márgenes melanoma: NICE 0,5 cm (0), 1 cm (I), 2 cm (II); MSD 1 cm si <0,8 mm	corregido	F22,F20	html	NICE NG14, excisión; MSD melanoma, tratamiento
 DERMA-T12	209	"Urticaria aguda <6 semanas, crónica >6 (se quitó ""menos de 24 h"" no hallado)"	confirmado	F31	html	MSD urticaria, clasificación
 DERMA-T12	210	Angioedema: se desarrolla en horas a pocos días (antes 1 a 3 días)	corregido	F32	html	MSD angioedema, cuadro clínico
 DERMA-T12	216	Adrenalina IM 0,3-0,5 mg adultos; 0,01 mg/kg niños	confirmado	F36,F32	statpearls-oa	StatPearls Anaphylaxis, tratamiento; MSD angioedema vía aérea
-DERMA-T12	218	Perla: urticaria con lesión >24 h sugiere vasculitis (no hallado)	sin_contrastar	F31,F32	html	MSD urticaria (no da la regla de 24 h por lesión)
+DERMA-T12	218	Habones que persisten más de 48 h: descartar vasculitis urticarial; angioedema sin urticaria: bradicinina	corregido	F31,F32	html	Diagnóstico de urticaria (antes: más de 24 h por lesión)
 DERMA-T13	224	SJS <10 % SC, solapamiento 10-30 %, NET >30 %	confirmado	F28,F29	html	MSD SJS/NET, clasificación por superficie
 DERMA-T13	225	Latencia 1-3 semanas (StatPearls 4 días-4 semanas, hasta 8)	confirmado	F28,F29	html	MSD SJS/NET, cuadro clínico; StatPearls latencia
 DERMA-T13	227	DRESS: latencia 2-6 semanas (antes 2-8)	corregido	F30	html	MSD reacciones a fármacos, DRESS

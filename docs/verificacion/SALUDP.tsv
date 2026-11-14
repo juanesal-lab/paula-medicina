@@ -7,7 +7,7 @@ SALUDP-T08	113	Ley Estatutaria 1751 de 2015 (16 feb.): salud derecho fundamental
 SALUDP-T08	114	Resolución 3280 de 2018: adopta rutas de promoción y mantenimiento y materno-perinatal	confirmado	F16,F17	pdf	Encabezado de la resolución; página RIAS
 SALUDP-T12	155	Muerte materna: embarazo o hasta 42 días tras la terminación	confirmado	F12	pdf	INS protocolo 550, definiciones
 SALUDP-T12	156	Meta ODS 3: RMM menor de 70 por 100 000 nacidos vivos	confirmado	F11	html	OMS mortalidad materna, ODS
-SALUDP-T12	157	Mortalidad infantil <1 año; neonatal 28 días; perinatal desde semana 22 hasta 7 días (no hay fuente leída)	sin_contrastar	F11	html	OMS mortalidad materna (no trata mortalidad infantil)
+SALUDP-T12	157	Neonatal: primeros 28 días; perinatal: mortinatos y primeros 7 días desde la semana 22 (varía entre países); infantil por 1 000 nacidos vivos sin fuente específica	corregido	F21,F22	html,pmc-efetch	Datos de mortalidad neonatal (OMS) y definición de mortalidad perinatal (antes: sin fuente leída; F11 era de mortalidad materna)
 SALUDP-T12	158	Muerte materna temprana hasta 42 días; tardía 43 días-1 año; coincidentes	confirmado	F12	pdf	INS protocolo 550, clasificación
 SALUDP-T12	160	INS protocolo mortalidad materna código 550, versión 09 (30 dic. 2024); unidad de análisis	confirmado	F12	pdf	Carátula y unidad de análisis
 SALUDP-T14	177	Resolución 8430 de 1993 (4 oct.): normas científicas, técnicas y administrativas de investigación en salud	confirmado	F18	pdf	Encabezado y título I de la resolución

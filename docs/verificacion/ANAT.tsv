@@ -4,7 +4,7 @@ ANAT-T03	75	Escalpelo-dedo-bugía: incisión vertical 4 cm, tubo con balón 6,0	
 ANAT-T03	77	Sangrado complicación más frecuente; contraindicación relativa por debajo de 5-12 años	confirmado	F8	statpearls-oa	Cricothyroidotomy, contraindicaciones y complicaciones
 ANAT-T05	100	Conducto inguinal de 4 a 6 cm (no hallado en el texto leído)	sin_contrastar	F13	statpearls-oa	Inguinal Region (sin longitud)
 ANAT-T07	127	AMS: nivel L1, ~1 cm bajo el celíaco; ileocólica rama más baja	confirmado	F18	statpearls-oa	StatPearls SMA, origen y ramas
-ANAT-T12	204	Presión de apertura normal 6-25 cm de agua (no hallado)	sin_contrastar	F32	statpearls-oa	Lumbar Puncture (sin cifra de presión)
+ANAT-T12	204	Presión de apertura normal del adulto: 100-200 mm H2O (10-20 cm)	corregido	F41	html	Tabla de anomalías del LCR, fila normal (antes: 6 a 25 cm de agua)
 ANAT-T12	205	Contraindicaciones PL: plaquetas <20 000 (ideal >50 000); heparina en 24 h	confirmado	F32	statpearls-oa	Lumbar Puncture, contraindicaciones
 ANAT-T12	211	Hemotórax: 1.500 mL en 24 h o 300-500 mL/h durante 2-4 h	corregido	F33	statpearls-oa	StatPearls Hemothorax, indicaciones de toracotomía
 ANAT-C01	218	Parálisis radial en 2-17 % de fracturas de diáfisis humeral	confirmado	F3	statpearls-oa	Humeral Shaft Fractures, examen neurovascular

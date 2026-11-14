@@ -6,7 +6,7 @@ actualizado: 2026-11-13
 temas: [Dengue, Malaria, VIH, Coinfección TB-VIH y TB extrapulmonar, Sepsis y choque séptico, Meningitis bacteriana, Infecciones de transmisión sexual en el adulto, Leishmaniasis, Enfermedad de Chagas aguda, Leptospirosis, Arbovirosis (chikungunya, zika, fiebre amarilla), Infecciones de piel y tejidos blandos, IAAS y resistencia antimicrobiana, Antibioticoterapia empírica razonada]
 casos: [Dengue con signos de alarma, Malaria por falciparum complicada, VIH avanzado con infección oportunista del SNC, Leptospirosis grave, Meningitis bacteriana aguda]
 verificado: 2026-11-13
-sin_contrastar: 21
+sin_contrastar: 2
 ---
 # Infectología
 
@@ -46,8 +46,8 @@ Nota de método: los números de cada línea están ligados a una fuente `[Fn]` 
 - Prueba: RT-PCR y antígeno NS1 durante la primera semana (la RT-PCR es positiva sobre todo en los primeros 5 días y el NS1 entre los días 4 y 7); la IgM se detecta desde el día 4. [F5]
 **Manejo:** Se decide por grupo.
 - Grupo A (sin alarma, tolera vía oral, orina): manejo ambulatorio, hidratación oral abundante, paracetamol y control diario durante el periodo de mayor riesgo (cerca de la caída de la fiebre). Evitar AINE y ácido acetilsalicílico. [F5][F23]
-- Grupo B (alarma, comorbilidad o riesgo social): hospitalizar. Hemograma basal; cristaloide isotónico, siempre reevaluando hematocrito y diuresis. [F5] Esquema de volúmenes de la OMS 2009 (5 a 7 mL/kg/h durante 1 a 2 horas, luego 3 a 5 mL/kg/h y luego 2 a 3 mL/kg/h) [F1] ⚠ sin contrastar
-- Grupo C (choque o dificultad respiratoria): reanimación protocolizada con cristaloide y reevaluación frecuente; volúmenes de la OMS 2009 (choque compensado, 5 a 10 mL/kg en 1 hora; choque hipotensivo, bolo de 10 a 20 mL/kg en 15 a 30 minutos) [F1] ⚠ sin contrastar
+- Grupo B (alarma, comorbilidad o riesgo social): hospitalizar. Hemograma basal; cristaloide isotónico, siempre reevaluando hematocrito y diuresis. [F5] Esquema de volúmenes de la OMS 2009 (5 a 7 mL/kg/h durante 1 a 2 horas, luego 3 a 5 mL/kg/h durante 2 a 4 horas y luego 2 a 3 mL/kg/h) [F1]
+- Grupo C (choque o dificultad respiratoria): reanimación protocolizada con cristaloide y reevaluación frecuente; volúmenes de la OMS 2009 (choque compensado, 5 a 10 mL/kg/h durante 1 hora; choque hipotensivo, bolo de 20 mL/kg en 15 minutos) [F1]
 - Si persiste el choque con hematocrito bajo, pensar en sangrado oculto y transfundir glóbulos rojos. [F5]
 - Si el paciente recibe demasiado líquido en la fase de recuperación aparece sobrecarga: sospéchala con edema pulmonar o derrames, y reduce o suspende los cristaloides cuando termina la fuga. [F5]
 - No se da profilaxis con plaquetas aunque estén muy bajas si no hay sangrado; la OMS 2025 lo reitera para menos de 50 000 plaquetas/µL. [F5][F26]
@@ -81,10 +81,10 @@ Nota de método: los números de cada línea están ligados a una fuente `[Fn]` 
 **Lo esencial:**
 - Diagnóstico por pruebas de cuarta generación (antígeno p24 y anticuerpos) y confirmación con una prueba diferenciadora o carga viral. En la ventana temprana, la carga viral es la que detecta. [F28]
 - Se inicia tratamiento antirretroviral (TAR) a todos, sin importar el CD4 y lo más pronto posible, incluso el mismo día. [F27]
-- Esquema de inicio preferido: dolutegravir junto con dos análogos (tenofovir y lamivudina o emtricitabina); dosis habitual de dolutegravir 50 mg al día [F28] ⚠ sin contrastar
+- Esquema de inicio preferido: dolutegravir junto con dos análogos (tenofovir y lamivudina o emtricitabina); dosis habitual de dolutegravir 50 mg al día [F28]
 - Si hay rifampicina, dolutegravir se da dos veces al día (50 mg cada 12 horas), y se mantiene así dos semanas después de la última dosis de rifampicina. [F28]
 - Profilaxis con trimetoprim-sulfametoxazol (cotrimoxazol): la OMS la indica con estadio clínico 3 o 4 o CD4 menor de 350 células/µL, y sin importar el CD4 donde son frecuentes la malaria o las infecciones bacterianas graves; previene sobre todo neumonía por Pneumocystis. [F28]
-- Dosis y umbral de CD4 de las guías de otros países (por ejemplo, 200 células/µL) ⚠ sin contrastar
+- Umbrales de CD4: la enfermedad avanzada se define con menos de 200 células/µL [F27], y el tamizaje de antígeno criptocócico se recomienda con menos de 100 células/µL [F50]
 **Diagnóstico:** Enfermedad avanzada = CD4 menor de 200 células/µL o estadio clínico 3 o 4 de la OMS. [F27] Todo paciente con VIH nuevo necesita CD4, carga viral, tamizaje de TB, sífilis, hepatitis B y C, y toxoplasma IgG. [F27]
 **Manejo:** Inicio de TAR y seguimiento de carga viral hasta la supresión. En enfermedad oportunista el TAR se adapta a la infección: en TB, lo antes posible y dentro de las 2 semanas de empezar el tratamiento antituberculoso (4 a 6 semanas si es meníngea); en criptococosis meníngea se aplaza de 4 a 6 semanas desde el inicio del antifúngico. [F27]
 **En Colombia:** Existen guías nacionales de práctica clínica para VIH en adultos, publicadas por el Ministerio de Salud con el IETS; no se pudieron leer en esta revisión, así que consulta la versión vigente y su año antes de citar. [F16]
@@ -107,9 +107,9 @@ Nota de método: los números de cada línea están ligados a una fuente `[Fn]` 
 ## [INFECTO-T05] Sepsis y choque séptico
 **Palabras clave:** Sepsis-3, SOFA, qSOFA, lactato, norepinefrina, paquete de la primera hora, cultivos, control del foco
 **Lo esencial:**
-- Sepsis-3: disfunción orgánica con riesgo vital causada por una respuesta desregulada a la infección. [F23] Se operacionaliza con un aumento de 2 puntos o más en SOFA ⚠ sin contrastar
-- Choque séptico: necesidad de vasopresor para mantener una presión arterial media de 65 mmHg o más, con lactato mayor de 2 mmol/L pese a líquidos adecuados [F23] ⚠ sin contrastar
-- qSOFA (frecuencia respiratoria de 22 o más, presión sistólica de 100 mmHg o menos, alteración mental) es una herramienta de cabecera, no un criterio de diagnóstico; SIRS fue más sensible que qSOFA. [F23] Los umbrales de qSOFA ⚠ sin contrastar
+- Sepsis-3: disfunción orgánica con riesgo vital causada por una respuesta desregulada a la infección. [F23] Se operacionaliza con un aumento de 2 puntos o más en SOFA [F40]
+- Choque séptico: necesidad de vasopresor para mantener una presión arterial media de 65 mmHg o más, con lactato mayor de 2 mmol/L pese a líquidos adecuados [F23][F40]
+- qSOFA (frecuencia respiratoria de 22 o más, presión sistólica de 100 mmHg o menos, alteración mental) es una herramienta de cabecera, no un criterio de diagnóstico [F40]; SIRS fue más sensible que qSOFA [F23]
 **Diagnóstico:** SOFA, lactato, hemocultivos antes del antibiótico y cultivos del foco sospechado, sin retrasar el tratamiento. [F23]
 **Manejo:** Paquete inicial (la versión SEP-1 descrita en StatPearls lo divide en 3 y 6 horas): [F23]
 - Medir lactato y repetirlo si estaba elevado. [F23]
@@ -132,11 +132,11 @@ Nota de método: los números de cada línea están ligados a una fuente `[Fn]` 
 **Manejo:**
 - Empírico en adulto: ceftriaxona IV (o cefotaxima) más vancomicina según la resistencia local; añadir ampicilina o amoxicilina IV si hay factores de riesgo para Listeria. [F8][F30]
 - Factores de riesgo para Listeria según la OMS 2025: edad mayor de 60 años, embarazo, inmunosupresión, trasplante, cáncer, VIH avanzado, diabetes, enfermedad renal terminal y cirrosis. [F30]
-- Dosis habituales de adulto: ceftriaxona 2 g IV cada 12 horas; ampicilina 2 g IV cada 4 horas [F31] ⚠ sin contrastar
+- Dosis habituales de adulto con factores de riesgo (mayores de 50 años): ceftriaxona 2 g IV cada 12 horas; ampicilina 2 g IV cada 4 horas [F41]
 - Dexametasona IV con la primera dosis de antibiótico, cada 6 horas y como máximo 4 días; sin retrasar el antibiótico para esperarla. [F8][F30]
-- Dosis de dexametasona de 0,15 mg/kg [F30] ⚠ sin contrastar
+- Dexametasona: el Manual MSD indica 10 mg IV cada 6 horas en adultos durante 4 días, y 0,15 mg/kg como dosis pediátrica [F42]; un texto de cuidado neurocrítico propone 0,4 mg/kg cada 12 horas por 2 días [F41]. **Las guías difieren:** la OMS no fija dosis numérica en el texto leído [F30]
 - Quimioprofilaxis de contactos cercanos de meningococo: dosis única de ceftriaxona parenteral o ciprofloxacino oral, lo antes posible y hasta 14 días después del caso. [F30]
-- Dosis de ciprofloxacino de 500 mg [F30] ⚠ sin contrastar
+- Ciprofloxacino 500 mg por vía oral en dosis única en adultos [F42]
 **En Colombia:** Meningitis y enfermedad meningocócica son de notificación obligatoria; la vacunación contra neumococo y Hib hace parte del PAI. [F16]
 **Las guías difieren:** La imagen previa a la punción: NICE la reserva para criterios clínicos [F8], mientras StatPearls recoge que IDSA y ESCMID la favorecen en ciertos grupos [F31]. El umbral de edad para cubrir Listeria es mayor de 60 años en la OMS 2025 [F30] y mayor de 50 años en StatPearls [F31].
 **Incierto:** NICE indica dar dexametasona aunque se retrase si han pasado menos de 12 horas desde el inicio del antibiótico, y consultar con infectología si pasaron más de 12 horas. [F8]
@@ -166,9 +166,9 @@ Nota de método: los números de cada línea están ligados a una fuente `[Fn]` 
 - El vector es el flebótomo (Lutzomyia). [F11]
 **Diagnóstico:** Visualización del amastigote en frotis o biopsia de borde de lesión; cultivo y PCR como apoyo. [F11]
 **Manejo:** Antimoniales pentavalentes (antimoniato de meglumina) por 10 a 20 días en cutánea; en mucosa, antimoniato de meglumina IM o IV durante 30 días según StatPearls. Miltefosina oral durante 28 días es alternativa. La infiltración intralesional de antimoniales semanal hasta 3 semanas sirve para lesiones pequeñas. [F11]
-- Dosis del antimoniato (20 mg de antimonio por kg al día) y de miltefosina (2,5 mg/kg/día; contraindicada en embarazo) [F11] ⚠ sin contrastar
+- Antimoniato de meglumina 20 mg de antimonio por kg al día durante 20 días y miltefosina 2,5 mg/kg/día (máximo 150 mg) durante 28 días [F44]; la miltefosina está contraindicada en el embarazo y la lactancia [F43]
 **En Colombia:** La leishmaniasis es de notificación obligatoria; el Ministerio de Salud tiene lineamientos de manejo con antimoniato como primera línea. [F16]
-**Perlas de examen:** Lesión cutánea indolora en zona rural selvática = sospecha de leishmaniasis. Monitorea ECG, función renal y pancreática con antimoniales. ⚠ sin contrastar
+**Perlas de examen:** Lesión cutánea indolora en zona rural selvática = sospecha de leishmaniasis. Monitorea ECG, amilasa y enzimas hepáticas con antimoniales [F43].
 **Errores típicos:** Tratar como infección bacteriana sin biopsia; ignorar el riesgo de mucosa. [F11]
 
 ## [INFECTO-T09] Enfermedad de Chagas aguda
@@ -190,7 +190,7 @@ Nota de método: los números de cada línea están ligados a una fuente `[Fn]` 
 - La lesión renal suele ser no oligúrica con hipopotasemia; la bilirrubina sube con transaminasas poco elevadas. [F13]
 **Diagnóstico:** PCR en fase temprana, MAT (microaglutinación) con pares de sueros, y cultivo. [F17]
 **Manejo:** Leve: muchos expertos se abstienen de dar antibiótico y manejan con líquidos y analgesia; en ambulatorios se usan doxiciclina, amoxicilina o ampicilina. Grave: penicilina G intravenosa, cefalosporina de tercera generación o eritromicina, con soporte (diálisis, ventilación). [F13]
-- Dosis y duración habituales (doxiciclina 100 mg cada 12 horas durante 5 a 7 días; penicilina G 1,5 millones UI IV cada 6 horas o ceftriaxona 1 g IV al día durante 7 días) [F13] ⚠ sin contrastar
+- Dosis y duración habituales (doxiciclina 100 mg cada 12 horas durante 5 a 7 días; penicilina G 1,5 millones UI IV cada 6 horas o ceftriaxona 1 g IV al día durante 7 días) [F13][F45]
 **En Colombia:** Evento de notificación obligatoria; brotes después de inundaciones. [F17]
 **Perlas de examen:** Fiebre, ictericia, falla renal y plaquetas bajas tras contacto con agua estancada. [F13]
 **Errores típicos:** Confundir con dengue o hepatitis viral; olvidar la hemorragia pulmonar. [F13]
@@ -212,7 +212,7 @@ Nota de método: los números de cada línea están ligados a una fuente `[Fn]` 
 **Lo esencial:**
 - Infección no purulenta (celulitis, erisipela): estreptococo; purulenta (absceso, forúnculo): S. aureus, y SARM comunitario. [F9]
 - Fascitis necrosante: dolor desproporcionado al examen, crepitación, ampollas hemorrágicas, toxicidad sistémica; urgencia quirúrgica. [F9]
-**Diagnóstico:** Clínico; el absceso se confirma con ecografía. Para necrosante, la clínica manda y el LRINEC de 6 o más apoya pero no excluye ⚠ sin contrastar
+**Diagnóstico:** Clínico; el absceso se confirma con ecografía. Para necrosante, la clínica manda y el LRINEC de 6 o más apoya pero no excluye (sensibilidad cercana a 68 % con corte de 6) [F47]
 **Manejo:** Celulitis: cefalexina o penicilina; absceso: drenaje, y antibiótico (trimetoprim-sulfametoxazol o doxiciclina) si hay signos sistémicos. [F9] Necrosante: desbridamiento quirúrgico inmediato y terapia empírica amplia con piperacilina-tazobactam o un carbapenem, más vancomicina y clindamicina. [F34]
 **Perlas de examen:** En absceso, drenar es el tratamiento. [F9]
 **Errores típicos:** Esperar imágenes en sospecha de necrosante; cubrir solo estreptococo en absceso. [F9]
@@ -243,7 +243,7 @@ Nota de método: los números de cada línea están ligados a una fuente `[Fn]` 
 **Presentación:** Mujer de 28 años de Villavicencio, con fiebre de 5 días, que hoy está afebril, con dolor abdominal intenso, vómito 4 veces, mareo, TA 100/70 mmHg, FC 104 lpm, hematocrito 46% (basal 38%), plaquetas 62 000/µL.
 **Diagnóstico diferencial:** Dengue con signos de alarma (fase crítica); leptospirosis; malaria; apendicitis; hepatitis viral; sepsis abdominal.
 **Estudios:** Hemograma seriado, albúmina, transaminasas, ecografía (derrame pleural, ascitis, engrosamiento de la vesícula), NS1 o PCR. [F5]
-**Manejo:** Hospitalizar como grupo B, cristaloide isotónico con reevaluación de hematocrito y diuresis; si hay choque, pasar al protocolo del grupo C; analgesia con paracetamol y sin AINE [F5][F26]; inicio habitual de 5 a 7 mL/kg/h durante 1 a 2 horas, esquema OMS 2009 [F1] ⚠ sin contrastar
+**Manejo:** Hospitalizar como grupo B, cristaloide isotónico con reevaluación de hematocrito y diuresis; si hay choque, pasar al protocolo del grupo C; analgesia con paracetamol y sin AINE [F5][F26]; inicio habitual de 5 a 7 mL/kg/h durante 1 a 2 horas, esquema OMS 2009 [F1]
 **Perlas:** La caída de la fiebre no es mejoría. Hematocrito en ascenso con plaquetas en descenso marca la fuga. [F5]
 **Errores típicos:** Alta por "ya no tiene fiebre"; AINE; bolos masivos sin reevaluar. [F5]
 **Fuente:** [F5][F26]
@@ -261,8 +261,8 @@ Nota de método: los números de cada línea están ligados a una fuente `[Fn]` 
 **Presentación:** Hombre de 38 años, con VIH sin tratamiento, con cefalea de 3 semanas, fiebre, confusión, T 38,3 °C, rigidez leve de nuca, CD4 de 32 células/µL.
 **Diagnóstico diferencial:** Meningitis criptocócica; toxoplasmosis cerebral; TB meníngea; neurosífilis; linfoma primario del SNC; leucoencefalopatía multifocal progresiva.
 **Estudios:** Antígeno criptocócico en suero, imagen cerebral antes de la punción, punción lumbar con presión de apertura, tinta china, cultivo, antígeno, Xpert, VDRL, IgG de toxoplasma. [F27]
-**Manejo:** Si es criptococo, la OMS 2022 y 2025 prefieren inducción con anfotericina liposomal en dosis única alta de 10 mg/kg más flucitosina durante 14 días (100 mg/kg/día en cuatro dosis) y fluconazol (1200 mg al día en adultos); si no hay anfotericina liposomal, 7 días de anfotericina desoxicolato 1 mg/kg/día con flucitosina y luego 7 días de fluconazol. Punciones evacuadoras para presión elevada, y TAR aplazado 4 a 6 semanas. [F27] Si hay lesiones con efecto de masa y toxoplasma positivo, tratar empíricamente toxoplasmosis (pirimetamina más sulfadiacina) ⚠ sin contrastar
-**Perlas:** Con CD4 menor de 100 células/µL, el antígeno criptocócico precede a la meningitis ⚠ sin contrastar
+**Manejo:** Si es criptococo, la OMS 2022 y 2025 prefieren inducción con anfotericina liposomal en dosis única alta de 10 mg/kg más flucitosina durante 14 días (100 mg/kg/día en cuatro dosis) y fluconazol (1200 mg al día en adultos); si no hay anfotericina liposomal, 7 días de anfotericina desoxicolato 1 mg/kg/día con flucitosina y luego 7 días de fluconazol. Punciones evacuadoras para presión elevada, y TAR aplazado 4 a 6 semanas [F27][F50]. Si hay lesiones con efecto de masa, la toxoplasmosis cerebral es la causa más frecuente en el VIH avanzado sin cotrimoxazol [F28]; se trata con pirimetamina más sulfadiacina y leucovorina [F48]
+**Perlas:** Con CD4 menor de 100 células/µL, el antígeno criptocócico precede a la meningitis [F50]
 **Errores típicos:** Iniciar TAR de inmediato en criptococosis; punción lumbar sin imagen cuando hay lesión de masa. [F27]
 **Fuente:** [F27]
 
@@ -270,7 +270,7 @@ Nota de método: los números de cada línea están ligados a una fuente `[Fn]` 
 **Presentación:** Hombre de 42 años, agricultor de Urabá, con fiebre de 7 días, mialgia de pantorrillas, ictericia, tos con hemoptisis; TA 90/60 mmHg, bilirrubina total 12 mg/dL, creatinina 3,1 mg/dL, K 3,0 mEq/L, plaquetas 70 000/µL.
 **Diagnóstico diferencial:** Leptospirosis grave (Weil); malaria; dengue grave; hepatitis viral; hantavirus; sepsis.
 **Estudios:** PCR y MAT, función renal, electrolitos, gases, radiografía de tórax, hemograma, CPK. [F17]
-**Manejo:** Penicilina G cristalina IV o ceftriaxona IV; soporte ventilatorio y diálisis si se requiere; reponer potasio. [F13] Dosis habituales: penicilina G 1,5 millones UI IV cada 6 horas o ceftriaxona 1 g IV al día durante 7 días ⚠ sin contrastar
+**Manejo:** Penicilina G cristalina IV o ceftriaxona IV; soporte ventilatorio y diálisis si se requiere; reponer potasio. [F13] Dosis habituales: penicilina G 1,5 millones UI IV cada 6 horas o ceftriaxona 1 g IV al día durante 7 días [F45][F46]
 **Perlas:** Hipopotasemia y lesión renal no oligúrica son pistas. La hemorragia pulmonar mata. [F13]
 **Errores típicos:** Diagnosticar hepatitis y esperar; no vigilar potasio. [F13]
 **Fuente:** [F13][F17]
@@ -279,13 +279,13 @@ Nota de método: los números de cada línea están ligados a una fuente `[Fn]` 
 **Presentación:** Mujer de 55 años con fiebre de 18 horas, cefalea, vómito y somnolencia; T 39,5 °C, TA 110/70 mmHg, FC 115 lpm, rigidez de nuca, sin focalización, sin papiledema.
 **Diagnóstico diferencial:** Meningitis bacteriana; meningitis viral; encefalitis herpética; hemorragia subaracnoidea; meningitis tuberculosa; sepsis.
 **Estudios:** Hemocultivos, punción lumbar sin imagen previa si no hay criterios de riesgo (con imagen si los hay), lactato y hemograma; LCR con citoquímico, Gram y cultivo. [F8]
-**Manejo:** Ceftriaxona IV, vancomicina, y ampicilina IV por la edad (más de 50 años según StatPearls; la OMS usa más de 60 años); dexametasona IV cada 6 horas con la primera dosis. [F8][F30][F31] Dosis: ceftriaxona 2 g IV cada 12 horas, ampicilina 2 g IV cada 4 horas, dexametasona 0,15 mg/kg ⚠ sin contrastar
+**Manejo:** Ceftriaxona IV, vancomicina, y ampicilina IV por la edad (más de 50 años según StatPearls; la OMS usa más de 60 años); dexametasona IV cada 6 horas con la primera dosis. [F8][F30][F31] Dosis: ceftriaxona 2 g IV cada 12 horas, ampicilina 2 g IV cada 4 horas [F41]; dexametasona 10 mg IV cada 6 horas en adultos según el Manual MSD, que da 0,15 mg/kg solo en niños [F42]
 **Perlas:** En la edad de riesgo (más de 60 años en la OMS) se cubre Listeria. [F8][F30]
 **Errores típicos:** Esperar TAC y LCR antes de dar el primer antibiótico. [F8]
 **Fuente:** [F8]
 
 ## Fuentes
-- [F1] Dengue: guías para el diagnóstico, tratamiento, prevención y control (nueva edición 2009) — OMS/TDR, 2009. https://www.who.int/publications/i/item/9789241547871 (consultado 2026-11-13) · no leída
+- [F1] Dengue: guías para el diagnóstico, tratamiento, prevención y control (nueva edición 2009) — OMS/TDR, 2009. https://www.paho.org/sites/default/files/2022-08/2009-cde-dengue-guidelines-diagnosis-treatment-prevention-control.pdf (consultado 2026-11-13) · leída: pdf 2026-11-13
 - [F4] Malaria — StatPearls, NCBI Bookshelf. https://www.ncbi.nlm.nih.gov/books/NBK551711/ (consultado 2026-11-13) · leída: statpearls-oa 2026-11-13
 - [F5] Dengue fever — StatPearls, NCBI Bookshelf. https://www.ncbi.nlm.nih.gov/books/NBK430732/ (consultado 2026-11-13) · leída: statpearls-oa 2026-11-13
 - [F6] Septic Shock — StatPearls, NCBI Bookshelf. https://www.ncbi.nlm.nih.gov/books/NBK430939/ (consultado 2026-11-13) · leída: statpearls-oa 2026-11-13
@@ -319,3 +319,13 @@ Nota de método: los números de cada línea están ligados a una fuente `[Fn]` 
 - [F37] Community-acquired pneumonia — StatPearls, NCBI Bookshelf. https://www.ncbi.nlm.nih.gov/books/NBK430749/ (consultado 2026-11-13) · leída: statpearls-oa 2026-11-13
 - [F38] Complicated urinary tract infections — StatPearls, NCBI Bookshelf. https://www.ncbi.nlm.nih.gov/books/NBK436013/ (consultado 2026-11-13) · leída: statpearls-oa 2026-11-13
 - [F39] ABECÉ Tuberculosis — Ministerio de Salud y Protección Social, Programa Nacional de Prevención y Control de la TB. https://www.minsalud.gov.co/sites/rid/Lists/BibliotecaDigital/RIDE/VS/PP/ET/abece-tuberculosis-msps.pdf (consultado 2026-11-13) · leída: pdf 2026-11-13
+- [F40] The Third International Consensus Definitions for Sepsis and Septic Shock (Sepsis-3) — JAMA, 2016. https://pmc.ncbi.nlm.nih.gov/articles/PMC4968574/ (consultado 2026-11-13) · leída: pmc-efetch 2026-11-13
+- [F41] Central Nervous System Infections — Textbook of Neurointensive Care, 2013. https://pmc.ncbi.nlm.nih.gov/articles/PMC7122753/ (consultado 2026-11-13) · leída: pmc-efetch 2026-11-13
+- [F42] Meningitis bacteriana aguda — Manual MSD, versión para profesionales. https://www.msdmanuals.com/es/professional/trastornos-neurol%C3%B3gicos/meningitis/meningitis-bacteriana-aguda (consultado 2026-11-13) · leída: html 2026-11-13
+- [F43] Leishmaniasis — Manual MSD, versión para profesionales. https://www.msdmanuals.com/es/professional/enfermedades-infecciosas/protozoos-extraintestinales/leishmaniasis (consultado 2026-11-13) · leída: html 2026-11-13
+- [F44] Interventions for American Cutaneous and Mucocutaneous Leishmaniasis: A Systematic Review Update — PLoS One, 2013. https://pmc.ncbi.nlm.nih.gov/articles/PMC3639260/ (consultado 2026-11-13) · leída: pmc-efetch 2026-11-13
+- [F45] Leptospirosis in the Tropics and in Travelers — Curr Infect Dis Rep. https://pmc.ncbi.nlm.nih.gov/articles/PMC2270396/ (consultado 2026-11-13) · leída: pmc-efetch 2026-11-13
+- [F46] Leptospirosis — Manual MSD, versión para profesionales. https://www.msdmanuals.com/es/professional/enfermedades-infecciosas/espiroquetas/leptospirosis (consultado 2026-11-13) · leída: html 2026-11-13
+- [F47] 2018 WSES/SIS-E consensus conference: recommendations for the management of skin and soft-tissue infections — World J Emerg Surg, 2018. https://pmc.ncbi.nlm.nih.gov/articles/PMC6295010/ (consultado 2026-11-13) · leída: pmc-efetch 2026-11-13
+- [F48] Toxoplasmosis — Manual MSD, versión para profesionales. https://www.msdmanuals.com/es/professional/enfermedades-infecciosas/protozoos-extraintestinales/toxoplasmosis (consultado 2026-11-13) · leída: html 2026-11-13
+- [F50] Guidelines for diagnosing, preventing and managing cryptococcal disease among adults, adolescents and children living with HIV — OMS, 2022. https://www.ncbi.nlm.nih.gov/books/NBK581832/ (consultado 2026-11-13) · leída: bookshelf-oa 2026-11-13

@@ -4,7 +4,7 @@ archivo: conocimiento/dermatologia/dermatologia.md
 prefijo: DERMA
 actualizado: 2026-11-13
 verificado: 2026-11-13
-sin_contrastar: 4
+sin_contrastar: 0
 temas: [Lesiones elementales y descripción dermatológica, Dermatitis atópica y de contacto, Psoriasis, Acné, Infecciones bacterianas de la piel, Micosis superficiales, Escabiosis y pediculosis, Leishmaniasis cutánea, Lepra, Melanoma, Carcinoma basocelular y espinocelular, Urticaria y angioedema, SJS-NET y DRESS, Reacciones cutáneas a medicamentos]
 casos: [Úlcera por leishmaniasis cutánea, SJS por medicamento, Melanoma acral, Escabiosis en el núcleo familiar]
 ---
@@ -111,7 +111,7 @@ casos: [Úlcera por leishmaniasis cutánea, SJS por medicamento, Melanoma acral,
 **Diagnóstico:** examen directo con hidróxido de potasio (hifas), cultivo, luz de Wood (algunos Microsporum fluorescen) y biopsia en casos atípicos [F33].
 **Manejo:**
 - Lesiones localizadas: antifúngico tópico (terbinafina, clotrimazol, ketoconazol) por 2 a 3 semanas, hasta la resolución clínica [F33].
-- Tinea capitis y onicomicosis siempre requieren tratamiento sistémico (terbinafina o griseofulvina en niños; en uñas, terbinafina por 6 a 12 semanas) porque el tópico no penetra el pelo ni la uña [F33]. ⚠ sin contrastar
+- Tinea capitis y onicomicosis se tratan casi siempre con antifúngicos orales: en la tinea capitis la terbinafina es de primera línea en niños con *Trichophyton* y la griseofulvina se prefiere con *Microsporum*, porque el tópico no penetra el pelo [F39][F41]; en la onicomicosis, terbinafina o itraconazol por vía oral, y las lacas tópicas quedan para enfermedad leve con pocas uñas [F40]. La duración del tratamiento oral no se contrastó; consúltala en el formulario.
 - Evitar el corticoide tópico solo ("tinea incógnita"), que modifica el aspecto y favorece el avance [F33].
 **Incierto:** las pautas de duración y de dosis varían según el hongo, la zona y las guías locales; confirmar en el texto vigente antes de aplicar [F33].
 **Perlas de examen:** pelo y uña = tratamiento oral; pitiriasis versicolor: signo de la "espagueti y albóndigas" en KOH [F33].
@@ -130,7 +130,7 @@ casos: [Úlcera por leishmaniasis cutánea, SJS por medicamento, Melanoma acral,
 - Ivermectina oral 200 mcg/kg, con una segunda dosis a los 14 días [F38]; no se usa en embarazo ni en niños de menos de 15 kg [F12].
 - Tratar al mismo tiempo a todos los convivientes y contactos íntimos, haya o no síntomas; lavar ropa y sábanas con agua caliente (50 a 54 °C o más) y secar con calor alto 10 minutos, o aislarlas en bolsa sellada hasta 1 semana [F11].
 - El prurito puede persistir semanas tras el tratamiento (no implica fracaso); sarna costrosa: ivermectina repetida más escabicida tópico [F11].
-- Pediculosis: permetrina al 1 % o dimeticona, repetir a los 7 días, y retirar liendres con peine fino [F11]. ⚠ sin contrastar
+- Pediculosis: permetrina al 1 % (repetir a los 7 días; aceptable desde los 2 meses de edad) o dimeticona (segundo tratamiento a los 8 a 10 días; no se recomienda en menores de 2 años), y peinado con peine fino [F43].
 **Perlas de examen:** prurito nocturno con convivientes afectados es escabiosis hasta demostrar lo contrario; la permetrina se repite siempre a los 7 días; tratar el núcleo familiar completo [F11][F12].
 **Errores típicos:** tratar solo al paciente índice; aplicar la permetrina de forma incompleta (olvidar pliegues y uñas); pensar que el prurito residual es fracaso [F11][F12].
 
@@ -162,7 +162,7 @@ casos: [Úlcera por leishmaniasis cutánea, SJS por medicamento, Melanoma acral,
 - Reacciones: tipo 1 (de reversión, con inflamación de lesiones y neuritis aguda) y tipo 2 (eritema nodoso leproso, con nódulos dolorosos, fiebre y compromiso sistémico) [F18].
 **Diagnóstico:** clínico (lesión cutánea con pérdida de sensibilidad, engrosamiento nervioso) con baciloscopia de linfa y biopsia cuando sea posible [F18][F19].
 **Manejo:**
-- Poliquimioterapia OMS en adultos: dapsona 100 mg al día, rifampicina 600 mg una vez al mes y clofazimina 300 mg mensual más 50 mg al día [F37]; el mismo esquema de tres fármacos se usa en paucibacilar (6 meses) y multibacilar (12 meses) [F18]. ⚠ sin contrastar
+- Poliquimioterapia OMS en adultos: dapsona 100 mg al día, rifampicina 600 mg una vez al mes y clofazimina 300 mg mensual más 50 mg al día [F37][F42]; el mismo esquema de tres fármacos se usa en paucibacilar (6 meses) y multibacilar (12 meses) [F18][F42].
 - Duración: 6 meses en paucibacilar y 12 meses en multibacilar [F18].
 - Reacciones: prednisona para neuritis y reacción tipo 1; talidomida (con anticoncepción estricta) o prednisona para el eritema nodoso leproso; tratar sin suspender la poliquimioterapia [F18].
 - Examinar y vigilar a los convivientes; prevención de discapacidad con cuidado de manos, pies y ojos [F18][F19].
@@ -215,7 +215,7 @@ casos: [Úlcera por leishmaniasis cutánea, SJS por medicamento, Melanoma acral,
 - Antihistamínico anti-H1 de segunda generación (cetirizina, loratadina, fexofenadina), que puede aumentarse hasta cuatro veces la dosis estándar en urticaria crónica; omalizumab si persiste [F31].
 - Anafilaxia o angioedema con compromiso de la vía aérea: adrenalina intramuscular 0,3 a 0,5 mg en adultos (0,01 mg/kg en niños) en el muslo, repetible, además de soporte de vía aérea [F32][F36].
 - Angioedema por IECA: suspender el fármaco y asegurar la vía aérea; hereditario: C1 inhibidor concentrado o icatibant [F32].
-**Perlas de examen:** angioedema sin habones ni prurito: pensar en bradicinina (IECA, hereditario); la urticaria que dura más de 24 h por lesión sugiere vasculitis urticarial [F31][F32]. ⚠ sin contrastar
+**Perlas de examen:** angioedema sin habones ni prurito: pensar en bradicinina (IECA, hereditario) [F32]; los habones que persisten más de 48 horas, o dejan hiperpigmentación o úlceras, obligan a descartar vasculitis urticarial con biopsia [F31].
 **Errores típicos:** esperar que la adrenalina o los antihistamínicos controlen un angioedema por bradicinina; seguir dando IECA tras angioedema; solicitar paneles amplios de alergia en urticaria crónica sin indicación [F31][F32].
 
 ## [DERMA-T13] SJS-NET y DRESS
@@ -321,3 +321,8 @@ casos: [Úlcera por leishmaniasis cutánea, SJS por medicamento, Melanoma acral,
 - [F36] Anaphylaxis — StatPearls, NCBI Bookshelf. https://www.ncbi.nlm.nih.gov/books/NBK482124/ (consultado 2026-11-13) · leída: statpearls-oa 2026-11-13
 - [F37] Leprosy — StatPearls, NCBI Bookshelf. https://www.ncbi.nlm.nih.gov/books/NBK559307/ (consultado 2026-11-13) · leída: statpearls-oa 2026-11-13
 - [F38] Scabies — StatPearls, NCBI Bookshelf. https://www.ncbi.nlm.nih.gov/books/NBK544306/ (consultado 2026-11-13) · leída: statpearls-oa 2026-11-13
+- [F39] Dermatophytoses (Overview) — MSD Manual Professional Edition. https://www.msdmanuals.com/professional/dermatologic-disorders/fungal-skin-infections/dermatophytoses (consultado 2026-11-13) · leída: html 2026-11-13
+- [F40] Onychomycosis — MSD Manual Professional Edition. https://www.msdmanuals.com/professional/dermatologic-disorders/nail-disorders/onychomycosis (consultado 2026-11-13) · leída: html 2026-11-13
+- [F41] Tinea Capitis (Scalp Ringworm) — MSD Manual Professional Edition. https://www.msdmanuals.com/professional/dermatologic-disorders/fungal-skin-infections/tinea-capitis-scalp-ringworm (consultado 2026-11-13) · leída: html 2026-11-13
+- [F42] Leprosy — MSD Manual Professional Edition. https://www.msdmanuals.com/professional/infectious-diseases/mycobacteria/leprosy (consultado 2026-11-13) · leída: html 2026-11-13
+- [F43] Head lice infestations: A clinical update — Paediatrics & Child Health 2018. https://pmc.ncbi.nlm.nih.gov/articles/PMC5814977/ (consultado 2026-11-13) · leída: pmc-efetch 2026-11-13

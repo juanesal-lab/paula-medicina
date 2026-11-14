@@ -4,7 +4,7 @@ archivo: conocimiento/cirugia/cirugia-general.md
 prefijo: CIRUG
 actualizado: 2026-11-13
 verificado: 2026-11-13
-sin_contrastar: 2
+sin_contrastar: 0
 temas: [Abordaje del abdomen agudo, Apendicitis aguda, Colecistitis aguda, Colangitis aguda, Obstrucción intestinal, Hernias de la pared abdominal, Diverticulitis, Isquemia mesentérica aguda, Perforación de víscera hueca, Evaluación perioperatoria, Líquidos y electrolitos en el paciente quirúrgico, Infección del sitio operatorio, Patología anorrectal, Cuidado de heridas y cicatrización]
 casos: [Apendicitis aguda, Colangitis aguda, Obstrucción intestinal por bridas, Isquemia mesentérica aguda, Perforación de úlcera péptica]
 ---
@@ -63,7 +63,7 @@ Nota de método: los números de cada línea van ligados a una fuente `[Fn]` le�
 **Lo esencial:**
 - Casi siempre por un cálculo que obstruye el conducto cístico; dolor en hipocondrio derecho persistente por más de 6 horas, fiebre, Murphy. [F2]
 - Las guías de Tokio definen los criterios diagnósticos y el grado de gravedad y orientan entre cirugía y drenaje (texto de las guías de Tokio no leído; solo la mención del capítulo). [F2]
-- Grados de Tokio 2018: I (leve), II (moderado, con leucocitosis mayor de 18 000 células/µL, masa palpable, evolución de más de 72 horas o inflamación local marcada) y III (con disfunción orgánica). [F2] ⚠ sin contrastar
+- Grados de Tokio 2018: I (leve), II (moderado, con leucocitosis mayor de 18 000 células/µL, masa dolorosa palpable en el hipocondrio derecho, evolución de más de 72 horas o signos de inflamación local marcada) y III (grave, con disfunción cardiovascular, neurológica, respiratoria, hepática o hematológica) [F21].
 **Diagnóstico:** La ecografía es la imagen preferida (engrosamiento de la pared, líquido perivesicular, cálculos); la TAC y la gammagrafía HIDA complementan los casos dudosos. [F2]
 **Manejo:** Líquidos y antibiótico de amplio espectro contra gramnegativos y anaerobios; colecistectomía laparoscópica temprana durante la hospitalización inicial en el paciente operable (la colecistectomía en las primeras 72 horas de síntomas mostró morbilidad de 6,6% y mortalidad de 1,1% a 30 días). En el paciente de alto riesgo, drenaje percutáneo, definitivo o como puente a la colecistectomía electiva entre 4 y 8 semanas después. [F2]
 **Perlas de examen:** Colecistitis alitiásica en pacientes críticos o con ayuno prolongado; gangrena y perforación en diabéticos. [F2]
@@ -75,7 +75,7 @@ Nota de método: los números de cada línea van ligados a una fuente `[Fn]` le�
 - Infección del árbol biliar con obstrucción: cálculos, estenosis, tumor. [F3]
 - Charcot: fiebre, ictericia y dolor en hipocondrio derecho; Reynolds añade hipotensión y alteración mental. [F3]
 - Criterios de Tokio: dos de los tres elementos de Charcot más inflamación sistémica (leucocitos y PCR), pruebas hepáticas anormales e imagen con dilatación biliar o causa identificable; el Charcot tiene alta especificidad y baja sensibilidad, y los criterios de Tokio superan al Charcot. [F3]
-- Grado III de Tokio 2018 (con disfunción de órgano): hipotensión que requiere vasopresor, alteración de conciencia, creatinina mayor de 2 mg/dL, INR mayor de 1,5, plaquetas menores de 100 000/µL, relación PaO2/FiO2 menor de 300. [F3] ⚠ sin contrastar
+- Gravedad de la colangitis según Tokio 2018: el grado III corresponde a disfunción de órgano (hipotensión que requiere vasopresor, alteración de conciencia, deterioro respiratorio, renal, hepático o de la coagulación); los umbrales numéricos de cada sistema no se contrastaron con texto leído y se consultan en las guías de Tokio. [F3]
 **Diagnóstico:** Hemograma, perfil hepático (bilirrubina, fosfatasa alcalina, GGT), PCR, coagulación y hemocultivos; la ecografía abdominal es la primera imagen. [F3]
 **Manejo:** Reanimación, antibiótico IV temprano con buena concentración biliar (fluoroquinolonas, penicilinas de espectro extendido, carbapenémicos o aminoglucósidos) y drenaje biliar. En casos leves la mayoría responde al tratamiento médico (80 a 90%); quien no responde necesita descompresión inmediata, y en el grave con sepsis el drenaje es inmediato o emergente. La CPRE es la primera opción (eficaz en 94 a 98%); alternativas: drenaje percutáneo transhepático, drenaje guiado por ecoendoscopia o cirugía, reservada para quien se deteriora pese a lo anterior. [F3]
 **Perlas de examen:** Reynolds = colangitis grave, drenaje urgente. [F3]
@@ -251,3 +251,4 @@ Nota de método: los números de cada línea van ligados a una fuente `[Fn]` le�
 - [F18] Surgical site infections: prevention and treatment (NG125) — NICE. https://www.nice.org.uk/guidance/ng125 (consultado 2026-11-13) · leída: html 2026-11-13
 - [F19] Enoxaparin — StatPearls, NCBI Bookshelf. https://www.ncbi.nlm.nih.gov/books/NBK539865/ (consultado 2026-11-13) · leída: statpearls-oa 2026-11-13
 - [F20] Resolución 5596 de 2015, criterios técnicos del sistema de selección y clasificación de pacientes en los servicios de urgencias (triage) — Ministerio de Salud y Protección Social de Colombia, 2015. https://www.minsalud.gov.co/sites/rid/Lists/BibliotecaDigital/RIDE/DE/DIJ/resolucion-5596-de-2015.pdf (consultado 2026-11-13) · leída: pdf 2026-11-13
+- [F21] Should the severity of acute cholecystitis (Tokyo 2018 guideline) affect the decision of early or delayed cholecystectomy? — Ulusal Travma ve Acil Cerrahi Dergisi 2022. https://pmc.ncbi.nlm.nih.gov/articles/PMC10315959/ (consultado 2026-11-13) · leída: pmc-efetch 2026-11-13

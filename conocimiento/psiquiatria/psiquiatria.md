@@ -4,7 +4,7 @@ archivo: conocimiento/psiquiatria/psiquiatria.md
 prefijo: PSIQ
 actualizado: 2026-11-13
 verificado: 2026-11-13
-sin_contrastar: 5
+sin_contrastar: 0
 temas: [Depresión mayor, Trastorno bipolar, Esquizofrenia y primer episodio psicótico, Trastornos de ansiedad (TAG y pánico), Trastorno de estrés postraumático, Evaluación del riesgo suicida y ruta en Colombia, Consumo de sustancias y abstinencia alcohólica, Delirium, Trastornos de la conducta alimentaria, TDAH, Trastornos de personalidad, Efectos adversos graves de psicofármacos, Agitación psicomotora]
 casos: [Intento suicida en urgencias, Abstinencia alcohólica complicada, Primer episodio psicótico, Síndrome neuroléptico maligno]
 ---
@@ -147,7 +147,7 @@ casos: [Intento suicida en urgencias, Abstinencia alcohólica complicada, Primer
 **Manejo:**
 - Tratar la causa (infección, hipoxia, hipoglucemia, abstinencia, retiro de fármacos deliriogénicos como anticolinérgicos, benzodiacepinas y opioides en exceso) [F24][F23].
 - Medidas no farmacológicas multicomponente: orientación, sueño, gafas y audífonos, movilización, hidratación, evitar contenciones [F23].
-- Antipsicótico (haloperidol 0,5 a 1 mg) solo si hay angustia o riesgo para el paciente y las medidas fallan, a la dosis mínima y por el menor tiempo [F23][F24]. ⚠ sin contrastar
+- Antipsicótico (haloperidol; en mayores de 60 años la dosis inicial es de 0,5 a 1,5 mg, con máximo de 5 mg al día [F43]) solo si hay angustia o riesgo para el paciente y las medidas fallan, a la dosis mínima y por el menor tiempo [F23][F24].
 - En abstinencia de alcohol o de benzodiacepinas, las benzodiacepinas son el tratamiento [F24].
 **Perlas de examen:** el delirium es una urgencia médica, no un diagnóstico psiquiátrico primario; las benzodiacepinas lo empeoran salvo en abstinencia; el delirium hipoactivo se confunde con depresión [F24].
 **Errores típicos:** sedar sin buscar la causa; usar benzodiacepinas en adultos mayores; confundir demencia con delirium superpuesto [F23][F24].
@@ -203,7 +203,7 @@ casos: [Intento suicida en urgencias, Abstinencia alcohólica complicada, Primer
 - Toxicidad por litio: ventana terapéutica estrecha; temblor grueso, vómito, diarrea, ataxia, disartria, confusión, convulsiones; factores: deshidratación, enfermedad renal, AINE, IECA y diuréticos tiazídicos [F33].
 **Diagnóstico:** SNM y serotoninérgico son clínicos; se diferencian por el fármaco desencadenante, la velocidad de inicio (horas frente a días) y los reflejos (aumentados en serotoninérgico, normales o disminuidos con rigidez en SNM) [F31][F32]. En litio, litemia y función renal; la toxicidad clínica suele aparecer con niveles por encima de 1,5 mmol/L [F33].
 **Manejo:**
-- SNM: suspender el antipsicótico, medidas de soporte y enfriamiento, hidratación intensiva, benzodiacepinas; en casos moderados a graves, dantroleno (1 a 2,5 mg/kg intravenoso) o bromocriptina (2,5 mg por vía oral o sonda cada 8 h) [F30][F31]. ⚠ sin contrastar
+- SNM: suspender el antipsicótico, medidas de soporte y enfriamiento, hidratación intensiva, benzodiacepinas; en casos moderados a graves, dantroleno (1 a 2,5 mg/kg intravenoso, repetible hasta un máximo de 10 mg/kg al día) o bromocriptina (2,5 mg por vía oral o sonda cada 6 a 8 h, hasta un máximo de 40 mg al día) [F42].
 - Serotoninérgico: suspender los fármacos, benzodiacepinas, enfriamiento; ciproheptadina (12 mg de carga y luego 2 mg cada 2 h si persisten los síntomas) en casos moderados; intubar y paralizar si la temperatura es muy alta [F32]; la dosis de ciproheptadina viene de StatPearls, que señala evidencia no concluyente de su eficacia [F38].
 - Litio: suspender, hidratación con solución salina, y hemodiálisis recomendada si hay deterioro de la conciencia, convulsiones o arritmias graves (con cualquier litemia) o falla renal con litio mayor de 4,0 mmol/L, y sugerida si el litio supera 5,0 mmol/L, hay confusión importante o se prevé que tardará más de 36 horas en bajar de 1,0 mmol/L [F33].
 **Perlas de examen:** el clonus y la hiperreflexia orientan a serotoninérgico, la rigidez con arreflexia a SNM; el litio y la diabetes insípida nefrogénica: poliuria; el litio y el embarazo: Ebstein [F31][F32][F33].
@@ -216,8 +216,8 @@ casos: [Intento suicida en urgencias, Abstinencia alcohólica complicada, Primer
 - Descartar siempre la causa orgánica (glucemia, saturación, signos vitales) antes de atribuir la agitación a un trastorno psiquiátrico [F34].
 **Manejo:**
 - Primero medidas no farmacológicas: ambiente tranquilo y seguro, comunicación respetuosa y desescalamiento verbal, ofrecer medicación oral al paciente colaborador [F34].
-- Tranquilización rápida: lorazepam intramuscular 2 mg, o haloperidol 5 mg intramuscular con un anticolinérgico o con prometazina para reducir la distonía aguda [F34]. ⚠ sin contrastar
-- Olanzapina 10 mg intramuscular es una alternativa, pero no se combina con benzodiacepinas parenterales por el riesgo de depresión respiratoria [F34]. ⚠ sin contrastar
+- Tranquilización rápida: lorazepam 0,05 mg/kg por vía intramuscular o intravenosa lenta (en un ensayo se usaron 2 mg junto con haloperidol 5 mg), o haloperidol de 5 a 10 mg intramuscular con prometazina 25 mg, que reduce la distonía aguda [F43]; los fabricantes desaconsejan combinar haloperidol con otros fármacos que alarguen el QTc [F43].
+- Olanzapina 10 mg intramuscular (o menos) es una alternativa, pero no se combina con benzodiacepinas parenterales por el riesgo de depresión respiratoria [F43].
 - Monitorizar signos vitales y saturación tras la sedación; la contención física es el último recurso, breve y con vigilancia constante [F34].
 **Perlas de examen:** en delirium por alcohol, benzodiacepinas; en delirium de otras causas, evitar sedación pesada y tratar la causa; el haloperidol se evita en Parkinson y en demencia por cuerpos de Lewy [F34][F24].
 **Errores típicos:** sedar sin descartar hipoglucemia o hipoxia; combinar olanzapina intramuscular con lorazepam intramuscular; contener sin monitoreo [F34].
@@ -253,7 +253,7 @@ casos: [Intento suicida en urgencias, Abstinencia alcohólica complicada, Primer
 **Presentación:** hombre de 31 años con esquizofrenia, hospitalizado por una reagudización, al cuarto día de haloperidol 10 mg diarios intramuscular y tras una dosis de decanoato; está rígido, sudoroso, confuso y con fiebre. T 40,1 °C, FC 130 lpm, PA 170/105 mmHg con labilidad, FR 26 por minuto; rigidez generalizada en tubo de plomo, reflejos normales, sin clonus; CK 8 400 U/L, leucocitos 16 000/mm3, creatinina 1,6 mg/dL.
 **Diagnóstico diferencial:** síndrome neuroléptico maligno (antipsicótico potente reciente, fiebre alta, rigidez, disautonomía y CK muy elevada); síndrome serotoninérgico (hiperreflexia y clonus, inicio en horas, sin antecedente de fármaco serotoninérgico); catatonia maligna (puede coexistir; signos catatónicos previos); golpe de calor (sin factor ambiental); infección del SNC o sepsis (rigidez de nuca, líquido cefalorraquídeo); hipertermia maligna (exposición a anestésicos).
 **Estudios:** CK seriada, mioglobinuria, creatinina, electrolitos con calcio, fósforo y potasio, gasometría, hemocultivos, cultivo de orina, punción lumbar si hay sospecha de infección del SNC, hierro sérico (suele bajar), ECG y TC de cráneo si hay signos focales.
-**Manejo:** suspender el haloperidol y todo antagonista dopaminérgico, trasladar a UCI, enfriamiento activo, hidratación intensiva para proteger el riñón de la rabdomiólisis y benzodiacepinas para la rigidez y la agitación [F30][F31]. Si no mejora o es grave: dantroleno 1 a 2,5 mg/kg intravenoso y/o bromocriptina 2,5 mg por sonda cada 8 h [F30][F31]. Prevención de trombosis, monitoreo hemodinámico, y reintroducir el antipsicótico solo tras la resolución y con un fármaco de menor potencia, tras un intervalo prudente y con vigilancia estrecha [F30]. ⚠ sin contrastar
+**Manejo:** suspender el haloperidol y todo antagonista dopaminérgico, trasladar a UCI, enfriamiento activo, hidratación intensiva para proteger el riñón de la rabdomiólisis y benzodiacepinas para la rigidez y la agitación [F30][F31]. Si no mejora o es grave: dantroleno 1 a 2,5 mg/kg intravenoso (máximo de 10 mg/kg al día) y/o bromocriptina 2,5 mg por sonda cada 6 a 8 h (máximo de 40 mg al día) [F42]. Prevención de trombosis, monitoreo hemodinámico, y reintroducir el antipsicótico solo tras la resolución y con un fármaco de menor potencia, tras un intervalo prudente y con vigilancia estrecha [F30].
 **Perlas:** los factores de riesgo son deshidratación, agitación, dosis altas de antipsicótico potente, aumento rápido de dosis y depot; el retiro brusco de levodopa produce un cuadro similar.
 **Errores típicos:** aumentar el antipsicótico por la "agitación"; confundirlo con infección y retrasar la suspensión del fármaco; olvidar la hidratación y el riesgo renal.
 **Fuente:** [F30][F31][F32]
@@ -300,3 +300,5 @@ casos: [Intento suicida en urgencias, Abstinencia alcohólica complicada, Primer
 - [F39] Lithium — StatPearls, NCBI Bookshelf. https://www.ncbi.nlm.nih.gov/books/NBK519062/ (consultado 2026-11-13) · leída: statpearls-oa 2026-11-13
 - [F40] Bulimia Nervosa — StatPearls, NCBI Bookshelf. https://www.ncbi.nlm.nih.gov/books/NBK562178/ (consultado 2026-11-13) · leída: statpearls-oa 2026-11-13
 - [F41] Attention Deficit Hyperactivity Disorder — StatPearls, NCBI Bookshelf. https://www.ncbi.nlm.nih.gov/books/NBK441838/ (consultado 2026-11-13) · leída: statpearls-oa 2026-11-13
+- [F42] Emergent Treatment of Neuroleptic Malignant Syndrome Induced by Antipsychotic Monotherapy Using Dantrolene — Clinical Practice and Cases in Emergency Medicine 2019. https://pmc.ncbi.nlm.nih.gov/articles/PMC6366389/ (consultado 2026-11-13) · leída: pmc-efetch 2026-11-13
+- [F43] The Use of Rapid Tranquilization in Aggressive Behavior — Deutsches Ärzteblatt International 2019. https://pmc.ncbi.nlm.nih.gov/articles/PMC6712906/ (consultado 2026-11-13) · leída: pmc-efetch 2026-11-13

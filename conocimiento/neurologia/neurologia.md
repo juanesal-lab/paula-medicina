@@ -4,7 +4,7 @@ archivo: conocimiento/neurologia/neurologia.md
 prefijo: NEURO
 actualizado: 2026-11-13
 verificado: 2026-11-13
-sin_contrastar: 13
+sin_contrastar: 0
 temas: [ACV isquémico, Hemorragia intracerebral, Hemorragia subaracnoidea, Ataque isquémico transitorio, Epilepsia y estado epiléptico, Cefaleas primarias y banderas rojas, Demencias, Enfermedad de Parkinson, Esclerosis múltiple, Síndrome de Guillain-Barré, Miastenia gravis, Neuropatías periféricas, Encefalitis, Síndromes medulares, Coma y muerte encefálica]
 casos: [ACV isquémico en ventana, Hemorragia subaracnoidea, Síndrome de Guillain-Barré, Crisis miasténica, Cefalea con banderas rojas]
 ---
@@ -46,7 +46,7 @@ casos: [ACV isquémico en ventana, Hemorragia subaracnoidea, Síndrome de Guilla
 - Alteplasa 0,9 mg/kg (máximo 90 mg), el 10 % en bolo durante 1 minuto y el resto en infusión de 60 minutos [F2].
 - Tenecteplasa: bolo único de 0,25 mg/kg (máximo 25 mg), misma ventana de 4,5 h [F1][F2][F34]
 - Antes de trombolizar, la presión arterial debe estar por debajo de 185/110 mmHg [F2]; se vigilan los signos vitales durante 24 h tras el tratamiento y no se usan antitrombóticos en ese lapso [F2].
-- Meta de presión por debajo de 180/105 mmHg durante las primeras 24 h tras la trombólisis [F2] ⚠ sin contrastar
+- Meta de presión por debajo de 180/105 mmHg durante al menos 24 h tras la trombólisis [F35]
 - Trombectomía mecánica en oclusión de gran vaso de la circulación anterior: hasta 6 h desde el inicio, y entre 6 y 24 h si la imagen de perfusión o la RM muestran tejido salvable (criterios tipo DAWN/DEFUSE-3) [F1].
 - Si no se trombolizó y no hay hemorragia, aspirina 300 mg una vez al día durante 2 semanas, luego antiagregación a largo plazo [F1].
 - Cuidado general: cabecera según tolerancia, normoglucemia, evitar hipertermia, prueba de deglución antes de dar vía oral, profilaxis de TVP con compresión neumática intermitente [F1].
@@ -81,7 +81,7 @@ casos: [ACV isquémico en ventana, Hemorragia subaracnoidea, Síndrome de Guilla
 **Diagnóstico:** TC simple urgente; es muy sensible en las primeras 6 h con equipo moderno y lectura experta, y la sensibilidad cae con el paso de los días [F6]. Si la TC es normal y la sospecha persiste, punción lumbar al menos 12 h después del inicio buscando xantocromía, o angio-TC según el contexto [F6][F5]. Luego, angiografía (angio-TC o digital) para localizar el aneurisma [F6].
 **Manejo:**
 - Referir a centro de neurocirugía y neurorradiología; el aneurisma roto se asegura por vía endovascular (embolización con espirales) o clipaje quirúrgico, y NICE prefiere la vía endovascular cuando es técnicamente factible [F6].
-- Nimodipino enteral para reducir la isquemia tardía; esquema habitual de 60 mg cada 4 h durante 21 días [F6] ⚠ sin contrastar
+- Nimodipino enteral para reducir la isquemia tardía; esquema habitual de 60 mg cada 4 h durante 21 días [F36]
 - Evitar hipotensión y mantener euvolemia; vigilar sodio y tratar la hiponatremia con solución salina o fludrocortisona, no con restricción de líquidos [F5].
 - Hidrocefalia: derivación ventricular externa; tratamiento del vasoespasmo sintomático con hipertensión inducida y angioplastia si falla [F5].
 **Perlas de examen:** la "peor cefalea de la vida" se descarta con TC en las primeras 6 h y, si es negativa, con punción lumbar tardía; Hunt-Hess y la escala de la WFNS gradúan clínica y Fisher la cantidad de sangre en TC [F5][F6].
@@ -127,9 +127,9 @@ casos: [ACV isquémico en ventana, Hemorragia subaracnoidea, Síndrome de Guilla
 **Diagnóstico:** clínico; la neuroimagen no se pide de rutina en una cefalea primaria típica y exploración normal [F11]. Banderas rojas que obligan a estudio: inicio súbito en trueno, inicio en edad avanzada, fiebre y rigidez de nuca, déficit neurológico focal o papiledema, cefalea progresiva, desencadenada por Valsalva o postural, inmunosupresión o cáncer, embarazo o posparto, traumatismo reciente [F11][F12].
 **Manejo:**
 - Crisis de migraña: AINE o paracetamol más antiemético; triptán oral (solo o combinado con AINE o paracetamol) si no responde, con contraindicación en cardiopatía isquémica y ACV [F11].
-- Sumatriptán 50 a 100 mg por vía oral, repetible una vez a las 2 h [F11] ⚠ sin contrastar
+- Sumatriptán 50 a 100 mg por vía oral, con máximo de 300 mg al día [F37]
 - Profilaxis si hay crisis frecuentes o incapacitantes: propranolol, topiramato o amitriptilina (otros: candesartán, anticuerpos anti-CGRP según disponibilidad) [F11].
-- Racimos: oxígeno al 100 % a 12 L/min por 15 min, sumatriptán subcutáneo y verapamilo como profilaxis con monitoreo de ECG [F11] ⚠ sin contrastar
+- Racimos: oxígeno al 100 % por máscara sin reinhalación a 7 a 15 L/min (respuesta a los 12 a 15 min en promedio), sumatriptán subcutáneo y verapamilo como profilaxis con electrocardiograma antes de iniciar y tras cada aumento de dosis [F38]
 **Perlas de examen:** una cefalea nueva en adulto mayor con claudicación mandibular obliga a descartar arteritis de células gigantes con VSG/PCR y corticoide inmediato antes de la biopsia; la cefalea tensional no necesita estudios [F32][F11].
 **Errores típicos:** pedir TC a toda cefalea típica; dar triptanes en el aura prolongada o hemiplejía; olvidar la cefalea por abuso de analgésicos cuando el dolor es casi diario [F11].
 
@@ -141,7 +141,7 @@ casos: [ACV isquémico en ventana, Hemorragia subaracnoidea, Síndrome de Guilla
 - La demencia afecta a decenas de millones de personas en el mundo y es una de las principales causas de dependencia en el adulto mayor [F30].
 **Diagnóstico:** historia con informante, pruebas cognitivas breves (MMSE, MoCA), laboratorio básico (TSH, B12, hemograma, glucosa, calcio) y neuroimagen estructural para excluir causas tratables [F13][F14]. Descartar depresión y delirium antes de diagnosticar [F13].
 **Manejo:**
-- Alzheimer leve a moderado: inhibidores de la colinesterasa (donepezilo 5 a 10 mg al día, rivastigmina, galantamina) y memantina en moderada a grave [F13] ⚠ sin contrastar
+- Alzheimer leve a moderado: inhibidores de la colinesterasa (donepezilo 5 mg al día durante 4 a 6 semanas y luego 10 mg al día, rivastigmina, galantamina) y memantina en moderada a grave [F13][F39]
 - En demencia por cuerpos de Lewy o con enfermedad de Parkinson: rivastigmina; evitar antipsicóticos típicos por riesgo de reacción grave [F13].
 - Síntomas conductuales: primero medidas no farmacológicas; los antipsicóticos solo si hay riesgo o sufrimiento severo, a la dosis mínima y por tiempo breve por el aumento de mortalidad [F13].
 **En Colombia:** la GPC para el diagnóstico y tratamiento del trastorno neurocognitivo mayor (demencia) de MinSalud-IETS orienta la evaluación y el manejo en el país [F14].
@@ -170,7 +170,7 @@ casos: [ACV isquémico en ventana, Hemorragia subaracnoidea, Síndrome de Guilla
 - Presentaciones típicas: neuritis óptica (dolor con movimientos oculares y pérdida de visión), mielitis parcial, oftalmoplejía internuclear, síntomas sensitivos; fenómeno de Uhthoff (empeora con el calor) y signo de Lhermitte [F17].
 **Diagnóstico:** criterios de McDonald (clínica más RM con lesiones periventriculares, yuxtacorticales, infratentoriales o medulares que demuestran diseminación espacial y temporal); líquido cefalorraquídeo con bandas oligoclonales apoya el diagnóstico [F17].
 **Manejo:**
-- Brote agudo: metilprednisolona en pulso intravenoso (1 g al día durante 3 a 5 días) para acortar el brote [F17] ⚠ sin contrastar
+- Brote agudo: metilprednisolona en pulso intravenoso (500 a 1000 mg al día durante 3 a 5 días) para acortar el brote [F17][F40]
 - Terapias modificadoras de la enfermedad (interferón beta, acetato de glatirámero, fumarato de dimetilo, teriflunomida, anticuerpos anti-CD20, natalizumab) reducen la frecuencia de brotes; la elección depende de actividad y riesgo (natalizumab con riesgo de leucoencefalopatía multifocal progresiva por JC virus) [F17].
 - Rehabilitación y manejo sintomático de espasticidad, fatiga, vejiga neurógena [F17].
 **Perlas de examen:** neuritis óptica en una mujer joven con RM cerebral con lesiones: alto riesgo de esclerosis múltiple; los corticoides aceleran la recuperación pero no mejoran el desenlace final [F17].
@@ -184,11 +184,11 @@ casos: [ACV isquémico en ventana, Hemorragia subaracnoidea, Síndrome de Guilla
 - Variante de Miller Fisher: oftalmoplejía, ataxia y arreflexia con anticuerpos anti-GQ1b [F19].
 **Diagnóstico:** clínico apoyado en líquido cefalorraquídeo (disociación albuminocitológica: proteínas altas con células normales, que puede tardar la primera semana en aparecer) y electromiografía con conducción nerviosa (desmielinización o daño axonal) [F18][F19]. Un nadir en menos de 24 h o progresión más allá de 4 semanas hace dudar del diagnóstico [F18].
 **Manejo:**
-- Hospitalización con vigilancia respiratoria y autonómica; medir capacidad vital forzada y fuerza inspiratoria; intubar si la capacidad vital cae por debajo de 20 mL/kg o hay compromiso bulbar [F18][F19] ⚠ sin contrastar
+- Hospitalización con vigilancia respiratoria y autonómica; medir capacidad vital forzada y fuerza inspiratoria; intubar si la capacidad vital cae por debajo de 20 mL/kg o hay compromiso bulbar (señal de falla inminente) [F42]; el Manual MSD sitúa la intubación por debajo de 15 mL/kg [F44]
 - Inmunoglobulina intravenosa 2 g/kg totales en 2 a 5 días (por ejemplo 0,4 g/kg al día durante 5 días), o plasmaféresis de 50 mL/kg por sesión (2 a 4 sesiones según gravedad); los corticoides no son beneficiosos [F18].
 - Profilaxis de trombosis, manejo del dolor neuropático y rehabilitación temprana [F18].
 **En Colombia:** el INS vigila el síndrome como parte de la parálisis flácida aguda (evento 610), con notificación obligatoria, y MinSalud publicó lineamientos de detección y atención clínica integral del síndrome de Guillain-Barré asociados a Zika [F21][F20].
-**Perlas de examen:** el diagnóstico es clínico, el LCR normal en la primera semana no lo descarta; el predictor de falla respiratoria es la regla de los "20/30/40" (capacidad vital menor de 20 mL/kg, presión inspiratoria máxima menor de 30 cmH2O, presión espiratoria máxima menor de 40 cmH2O) [F18][F19] ⚠ sin contrastar
+**Perlas de examen:** el diagnóstico es clínico, el LCR normal en la primera semana no lo descarta; el predictor de falla respiratoria es la regla de los "20/30/40" (capacidad vital menor de 20 mL/kg, presión inspiratoria máxima menor de 30 cmH2O, presión espiratoria máxima menor de 40 cmH2O) [F41][F42]
 **Errores típicos:** dar corticoides; esperar la gasometría para intubar (la hipercapnia es tardía); olvidar la vigilancia autonómica; combinar inmunoglobulina con plasmaféresis [F18][F19].
 
 ## [NEURO-T11] Miastenia gravis
@@ -224,7 +224,7 @@ casos: [ACV isquémico en ventana, Hemorragia subaracnoidea, Síndrome de Guilla
 **Diagnóstico:** TC antes de punción lumbar si hay signos de hipertensión intracraneal o déficit focal; LCR con pleocitosis linfocítica, proteínas elevadas y glucosa normal, y PCR para VHS; RM con hiperintensidad temporal medial; EEG con actividad periódica [F23].
 **Manejo:**
 - Aciclovir intravenoso iniciado ante la sospecha, sin esperar la confirmación, y mantenido por lo general 14 días o hasta excluir los virus herpes [F23].
-- Dosis habitual de 10 mg/kg cada 8 h [F23] ⚠ sin contrastar
+- Dosis habitual de 10 mg/kg cada 8 h, durante 14 a 21 días en la encefalitis herpética [F23][F45]
 - Cobertura simultánea de meningitis bacteriana si el cuadro no permite descartarla; control de crisis y de la presión intracraneal [F23].
 - Sospechar encefalitis autoinmune si la PCR viral es negativa y hay psicosis, discinesias o crisis refractarias: inmunoterapia (corticoides, inmunoglobulina, plasmaféresis) y búsqueda de tumor [F23].
 **Perlas de examen:** aciclovir ante la sospecha, aunque el LCR no esté disponible; la alteración de conducta o del lenguaje con fiebre apunta a lóbulo temporal [F23].
@@ -278,8 +278,8 @@ casos: [ACV isquémico en ventana, Hemorragia subaracnoidea, Síndrome de Guilla
 **Presentación:** hombre de 34 años de Montería, con diarrea hace 2 semanas, que consulta por debilidad progresiva de las piernas durante 4 días y parestesias en los pies; ahora le cuesta subir escaleras y siente falta de aire al hablar. FC 112 lpm, PA 148/90 mmHg, SatO2 95 %, fuerza de piernas 3/5, de brazos 4/5, arreflexia generalizada, sensibilidad conservada. Capacidad vital forzada 1,6 L (peso 80 kg).
 **Diagnóstico diferencial:** Guillain-Barré (debilidad ascendente simétrica con arreflexia tras diarrea); mielitis transversa (hay nivel sensitivo y esfínteres, reflejos inicialmente abolidos); miastenia gravis (reflejos conservados, fluctuación); polirradiculitis por enfermedad de Lyme o VIH (curso más lento); hipokalemia o parálisis periódica (reflejos reducidos pero sin arreflexia con parestesias, potasio bajo); intoxicación (botulismo, arsénico).
 **Estudios:** punción lumbar (proteínas elevadas con pocas células tras la primera semana); electromiografía con conducción nerviosa (desmielinización); electrolitos, creatinina, CK; monitorización de la capacidad vital y de la presión inspiratoria máxima cada 4 a 6 h; ECG continuo. [F18][F19]
-**Manejo:** ingreso a unidad de cuidado intermedio o intensivo por capacidad vital en descenso y disautonomía; inmunoglobulina intravenosa 0,4 g/kg al día durante 5 días [F18][F19]. Intubación electiva si la capacidad vital cae por debajo de 20 mL/kg o aparece compromiso bulbar o fatiga [F18]. Notificar al SIVIGILA como parálisis flácida aguda y manejar profilaxis de trombosis y dolor [F21] ⚠ sin contrastar
-**Perlas:** el calendario típico es un nadir en menos de 4 semanas y recuperación lenta; el antecedente de diarrea por Campylobacter es clásico. La capacidad vital de este paciente es 20 mL/kg, es decir, en el límite. [F18][F19] ⚠ sin contrastar
+**Manejo:** ingreso a unidad de cuidado intermedio o intensivo por capacidad vital en descenso y disautonomía; inmunoglobulina intravenosa 0,4 g/kg al día durante 5 días [F43]. Intubación electiva si la capacidad vital cae por debajo de 20 mL/kg o aparece compromiso bulbar o fatiga [F42][F44]. Notificar al SIVIGILA como parálisis flácida aguda y manejar profilaxis de trombosis y dolor [F21]
+**Perlas:** el calendario típico es un nadir en menos de 4 semanas y recuperación lenta; el antecedente de diarrea por Campylobacter es clásico. La capacidad vital de este paciente es 20 mL/kg, es decir, en el límite. [F41][F42]
 **Errores típicos:** esperar la insuficiencia respiratoria evidente o la gasometría para intubar; dar corticoides; no vigilar la disautonomía.
 **Fuente:** [F18][F19][F21]
 
@@ -287,8 +287,8 @@ casos: [ACV isquémico en ventana, Hemorragia subaracnoidea, Síndrome de Guilla
 **Presentación:** mujer de 41 años, de Bogotá, con miastenia gravis conocida con anticuerpos positivos en tratamiento con piridostigmina y prednisona, que acude con 3 días de tos, fiebre y empeoramiento de la disfagia, la voz nasal y la debilidad del cuello; refiere falta de aire al acostarse. FR 28 por minuto, FC 118 lpm, T 38,4 °C, SatO2 91 %; ptosis bilateral, no puede contar hasta 20 en una respiración, capacidad vital forzada 1,0 L (peso 60 kg).
 **Diagnóstico diferencial:** crisis miasténica desencadenada por infección respiratoria; crisis colinérgica por exceso de piridostigmina (miosis, sialorrea, fasciculaciones, diarrea); Guillain-Barré (reflejos abolidos, sin ptosis fluctuante); neumonía por aspiración que se superpone; embolia pulmonar (disnea y taquicardia, sin debilidad bulbar).
 **Estudios:** capacidad vital y presión inspiratoria máxima seriadas; gasometría; radiografía de tórax y cultivos; electrolitos (incluidos magnesio y fósforo); revisar fármacos recientes (antibióticos de riesgo); TC de tórax si no se ha descartado timoma.
-**Manejo:** UCI con vigilancia de la vía aérea; intubación si la capacidad vital desciende por debajo de 20 mL/kg o hay falla bulbar [F22]. Suspender temporalmente la piridostigmina si hay duda de crisis colinérgica y tratar la infección con antibióticos seguros para miastenia [F22]. Terapia inmunológica rápida con inmunoglobulina intravenosa (2 g/kg repartidos en 2 a 5 días) o plasmaféresis [F22] ⚠ sin contrastar
-**Perlas:** la infección es el desencadenante más común de una crisis; la capacidad vital en este caso (alrededor de 17 mL/kg) ya indica intubación. [F22] ⚠ sin contrastar
+**Manejo:** UCI con vigilancia de la vía aérea; intubación si la capacidad vital desciende por debajo de 20 mL/kg o hay falla bulbar [F46]. Suspender temporalmente la piridostigmina si hay duda de crisis colinérgica y tratar la infección con antibióticos seguros para miastenia [F22]. Terapia inmunológica rápida con inmunoglobulina intravenosa (400 mg/kg al día durante 5 días, 2 g/kg en total) [F47] o plasmaféresis [F22]
+**Perlas:** la infección es el desencadenante más común de una crisis; la capacidad vital en este caso (alrededor de 17 mL/kg) ya indica intubación. [F46]
 **Errores típicos:** dar aminoglucósidos o fluoroquinolonas; sedar sin asegurar la vía aérea; confundir crisis colinérgica con miasténica y aumentar el anticolinesterásico.
 **Fuente:** [F22]
 
@@ -336,3 +336,16 @@ casos: [ACV isquémico en ventana, Hemorragia subaracnoidea, Síndrome de Guilla
 - [F32] Giant Cell Arteritis (Temporal Arteritis) — StatPearls, NCBI Bookshelf. https://www.ncbi.nlm.nih.gov/books/NBK459376/ (consultado 2026-11-13) · leída: statpearls-oa 2026-11-13
 - [F33] Evidence-Based Guideline: Treatment of Convulsive Status Epilepticus in Children and Adults — American Epilepsy Society, Epilepsy Curr 2016. https://pmc.ncbi.nlm.nih.gov/articles/PMC4749120/ (consultado 2026-11-13) · leída: pmc-efetch 2026-11-13
 - [F34] Tenecteplase — StatPearls, NCBI Bookshelf. https://www.ncbi.nlm.nih.gov/books/NBK592420/ (consultado 2026-11-13) · leída: statpearls-oa 2026-11-13
+- [F35] Accidente cerebrovascular isquémico — Manual MSD, versión para profesionales. https://www.msdmanuals.com/es/professional/trastornos-neurol%C3%B3gicos/accidente-cerebrovascular/accidente-cerebrovascular-isqu%C3%A9mico (consultado 2026-11-13) · leída: html 2026-11-13
+- [F36] Pharmacologic Options for Prevention and Management of Cerebral Vasospasm in Aneurysmal Subarachnoid Hemorrhage — Hosp Pharm, 2013. https://pmc.ncbi.nlm.nih.gov/articles/PMC7210716/ (consultado 2026-11-13) · leída: pmc-efetch 2026-11-13
+- [F37] Migraine management — Aust Prescr, 2020. https://pmc.ncbi.nlm.nih.gov/articles/PMC7572189/ (consultado 2026-11-13) · leída: pmc-efetch 2026-11-13
+- [F38] Cluster headache: an update on clinical features, epidemiology, pathophysiology, diagnosis, and treatment — Front Pain Res, 2024. https://pmc.ncbi.nlm.nih.gov/articles/PMC10957682/ (consultado 2026-11-13) · leída: pmc-efetch 2026-11-13
+- [F39] Donepezil Beyond Alzheimer's Disease? A Narrative Review of Therapeutic Potentials of Donepezil in Different Diseases — Iran J Pharm Res, 2022. https://pmc.ncbi.nlm.nih.gov/articles/PMC10024338/ (consultado 2026-11-13) · leída: pmc-efetch 2026-11-13
+- [F40] Optimizing therapeutics in the management of patients with multiple sclerosis: a review of drug efficacy, dosing, and mechanisms of action — Biologics, 2013. https://pmc.ncbi.nlm.nih.gov/articles/PMC3854923/ (consultado 2026-11-13) · leída: pmc-efetch 2026-11-13
+- [F41] Diagnosis and management of Guillain–Barré syndrome in ten steps — Nat Rev Neurol, 2019. https://pmc.ncbi.nlm.nih.gov/articles/PMC6821638/ (consultado 2026-11-13) · leída: pmc-efetch 2026-11-13
+- [F42] Respiratory Involvement in Guillain–Barre Syndrome: The Uncharted Road to Recovery — J Neurosci Rural Pract, 2017. https://pmc.ncbi.nlm.nih.gov/articles/PMC5488546/ (consultado 2026-11-13) · leída: pmc-efetch 2026-11-13
+- [F43] Intensive Care and Treatment of Severe Guillain–Barré Syndrome — Front Pharmacol, 2021. https://pmc.ncbi.nlm.nih.gov/articles/PMC8113987/ (consultado 2026-11-13) · leída: pmc-efetch 2026-11-13
+- [F44] Síndrome de Guillain-Barré — Manual MSD, versión para profesionales. https://www.msdmanuals.com/es/professional/trastornos-neurol%C3%B3gicos/sistema-nervioso-perif%C3%A9rico-y-trastornos-de-la-unidad-motora/s%C3%ADndrome-de-guillain-barr%C3%A9 (consultado 2026-11-13) · leída: html 2026-11-13
+- [F45] Herpesvirus-Associated Encephalitis: an Update — Curr Trop Med Rep, 2022. https://pmc.ncbi.nlm.nih.gov/articles/PMC9510386/ (consultado 2026-11-13) · leída: pmc-efetch 2026-11-13
+- [F46] SOP myasthenic crisis — Neurol Res Pract, 2019. https://pmc.ncbi.nlm.nih.gov/articles/PMC7650067/ (consultado 2026-11-13) · leída: pmc-efetch 2026-11-13
+- [F47] Myasthenic Crisis — Neurohospitalist, 2011. https://pmc.ncbi.nlm.nih.gov/articles/PMC3726100/ (consultado 2026-11-13) · leída: pmc-efetch 2026-11-13

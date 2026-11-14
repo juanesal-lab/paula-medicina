@@ -14,16 +14,16 @@ PSIQ-T06	120	SIVIGILA 356: notificación súper inmediata (5-9 años o intentos 
 PSIQ-T07	127	Abstinencia alcohólica: cronología (6 h; alucinosis 12-24 h; convulsiones 6-48 h; DT 48-72 h o 3-8 días)	corregido	F19,F22	html	MSD alcohol, abstinencia; StatPearls Alcohol Withdrawal, complicaciones (también vía statpearls-oa)
 PSIQ-T07	133	Diazepam 5-10 mg IV/oral cada hora; lorazepam 1-2 mg	corregido	F19,F22	html	MSD alcohol, tratamiento de la abstinencia; StatPearls tratamiento (también vía statpearls-oa)
 PSIQ-T07	134	Tiamina 100 mg IV (MSD); dosis altas IV/IM (StatPearls, NICE); parenteral mínimo 5 días	corregido	F19,F20,F22	html	MSD alcohol; NICE CG100 Wernicke; StatPearls tratamiento (también vía statpearls-oa)
-PSIQ-T08	150	Haloperidol 0,5-1 mg en delirium (NICE da solo dosis mínima y una semana o menos; dosis exacta no hallada)	sin_contrastar	F23,F24	html	NICE CG103 manejo; MSD delirium
+PSIQ-T08	150	Haloperidol en delirio de adultos mayores: 0,5-1,5 mg, máximo 5 mg/día	corregido	F43,F23,F24	pmc-efetch	Tabla 1 de dosis (antes: 0,5 a 1 mg)
 PSIQ-T09	166	Bulimia: fluoxetina 60 mg/día; evitar bupropión	confirmado	F25,F40	statpearls-oa	StatPearls Bulimia Nervosa, tratamiento farmacológico
 PSIQ-T10	173	TDAH: inicio antes de los 12 años, al menos dos contextos	confirmado	F27,F41	statpearls-oa	StatPearls ADHD, criterios; NICE NG87, diagnóstico (también vía html)
 PSIQ-T12	204	Litio tóxico clínicamente por encima de 1,5 mmol/L	confirmado	F33	statpearls-oa	Lithium Toxicity, evaluación
-PSIQ-T12	206	SNM: dantroleno 1-2,5 mg/kg IV; bromocriptina 2,5 mg cada 8 h (dosis no halladas en las fuentes leídas)	sin_contrastar	F30,F31	statpearls-oa	NMS, tratamiento (sin dosis)
+PSIQ-T12	206	SNM: dantroleno 1-2,5 mg/kg IV (máx. 10 mg/kg/día); bromocriptina 2,5 mg cada 6-8 h (máx. 40 mg/día)	corregido	F42	pmc-efetch	Tabla de tratamiento médico (antes: bromocriptina cada 8 h sin máximos)
 PSIQ-T12	207	Ciproheptadina 12 mg y luego 2 mg cada 2 h	confirmado	F38	statpearls-oa	StatPearls Serotonin Syndrome, tratamiento
-PSIQ-T13	219	Tranquilización rápida: lorazepam IM 2 mg; haloperidol IM 5 mg (NG10 no da dosis)	sin_contrastar	F34	html	NICE NG10, tranquilización rápida
-PSIQ-T13	220	Olanzapina IM 10 mg y contraindicación con benzodiacepinas parenterales (no hallado en NG10)	sin_contrastar	F34	html	NICE NG10
+PSIQ-T13	219	Tranquilización rápida: lorazepam 0,05 mg/kg; haloperidol 5-10 mg IM con prometazina 25 mg	corregido	F43	pmc-efetch	Tabla 1 de dosis y texto sobre haloperidol más prometazina (antes: lorazepam 2 mg IM; haloperidol 5 mg)
+PSIQ-T13	220	Olanzapina IM 10 mg o menos; no con benzodiacepinas parenterales	confirmado	F43	pmc-efetch	Sección de olanzapina
 PSIQ-C02	236	DD de abstinencia: delirio a los 3 días de la última ingesta (3-8 días)	confirmado	F19,F22	statpearls-oa	Alcohol Withdrawal, complicaciones
 PSIQ-C02	238	Caso: diazepam 5-10 mg IV o lorazepam 1-2 mg IV cada 10 min; duplicar; fenobarbital 120-240 mg IV cada 20 min; tiamina	corregido	F19,F20,F22	html	MSD alcohol, delirium tremens (también vía statpearls-oa)
 PSIQ-C02	239	Delirium a las 48-72 h (MSD) o 3-8 días (StatPearls)	corregido	F19,F22	html	MSD y StatPearls, cronología (también vía statpearls-oa)
 PSIQ-C03	247	Primer episodio: evaluar respuesta a las 4-6 semanas; mantener 1 a 2 años	confirmado	F7	html	NICE CG178
-PSIQ-C04	256	Caso SNM: dantroleno 1-2,5 mg/kg IV; bromocriptina 2,5 mg cada 8 h	sin_contrastar	F30,F31	statpearls-oa	NMS, tratamiento (sin dosis)
+PSIQ-C04	256	SNM caso: dantroleno 1-2,5 mg/kg (máx. 10 mg/kg/día); bromocriptina 2,5 mg cada 6-8 h (máx. 40 mg/día)	corregido	F42,F30,F31	pmc-efetch,statpearls-oa,html	Tabla de tratamiento médico

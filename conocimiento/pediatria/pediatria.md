@@ -4,7 +4,7 @@ archivo: conocimiento/pediatria/pediatria.md
 prefijo: PEDIA
 actualizado: 2026-11-13
 verificado: 2026-11-13
-sin_contrastar: 12
+sin_contrastar: 4
 temas: [Crecimiento y desarrollo, PAI de Colombia, Lactancia y alimentación complementaria, Desnutrición aguda, EDA y deshidratación, Bronquiolitis, Neumonía y crup, Asma pediátrica, Fiebre sin foco en el lactante, Reanimación neonatal, Ictericia neonatal, Sepsis neonatal y tamizaje, Convulsión febril, ITU pediátrica, Exantemas de la infancia, Maltrato infantil, Cardiopatías congénitas básicas]
 casos: [Bronquiolitis en lactante, Deshidratación por EDA, Ictericia neonatal temprana, Desnutrición aguda severa, Crup moderado]
 ---
@@ -68,7 +68,7 @@ Aviso de uso: material de estudio. Las dosis pediátricas se dan por kg con máx
 ## [PEDIA-T03] Lactancia y alimentación complementaria
 **Palabras clave:** lactancia exclusiva, alimentación complementaria, hierro, destete, contraindicaciones
 **Lo esencial:**
-- Lactancia materna exclusiva durante los primeros 6 meses y continuada con alimentos complementarios hasta los 2 años o más. [F2] ⚠ sin contrastar
+- Lactancia materna exclusiva durante los primeros 6 meses y continuada con alimentos complementarios hasta los 2 años o más. [F2]
 - La alimentación complementaria inicia a los 6 meses, con alimentos ricos en hierro y diversidad creciente. [F2]
 - Evitar biberón y leches no maternas innecesarias; el agente más potente contra la mortalidad infantil temprana es amamantar de inmediato en la primera hora. [F2]
 - Contraindicaciones reales son pocas: galactosemia clásica del lactante y, en Colombia, VIH materno (sustituto de leche materna). [F33]
@@ -125,7 +125,7 @@ Aviso de uso: material de estudio. Las dosis pediátricas se dan por kg con máx
 ## [PEDIA-T07] Neumonía y crup
 **Palabras clave:** taquipnea OMS, amoxicilina, derrame paraneumónico, estridor, tos perruna, escala de Westley, dexametasona, epinefrina nebulizada
 **Lo esencial (neumonía):**
-- Taquipnea según edad: 60 o más respiraciones/min en menores de 2 meses, 50 o más entre 2 y 11 meses y 40 o más entre 1 y 5 años. [F9] ⚠ sin contrastar
+- Taquipnea según edad (algoritmo de la OMS): 60 o más respiraciones/min en menores de 2 meses, 50 o más entre 2 y 11 meses y 40 o más entre 12 y 59 meses. [F49]
 - Tiraje subcostal, SpO2 baja o incapacidad para beber son signos de gravedad y de hospitalización. [F9] [F34]
 - Manejo ambulatorio: amoxicilina oral 90 mg/kg/día en dos o tres dosis durante 5 días (la OMS 2024 indica al menos 80 mg/kg/día en dos dosis por 5 días). [F34] [F43]
 - Dosis máxima por toma y por día de amoxicilina: no figura en las fuentes leídas; confírmala en el formulario antes de prescribir. [F34] ⚠ sin contrastar
@@ -149,7 +149,7 @@ Aviso de uso: material de estudio. Las dosis pediátricas se dan por kg con máx
 **Manejo de la exacerbación:**
 - Salbutamol por inhalador con espaciador, 4 a 8 inhalaciones cada 20 minutos hasta 3 dosis en la primera hora (por peso: 4 si pesa 5 a 10 kg, 6 si 10 a 20 kg y 8 si más de 20 kg); nebulizado 0,15 mg/kg (mínimo 2,5 mg, máximo 5 mg). [F44]
 - Corticoide sistémico precoz: la dexametasona 0,6 mg/kg al día por 2 días es una opción frecuente en urgencias. [F44]
-- Prednisolona 1 a 2 mg/kg/día (máximo 40 mg) durante 3 a 5 días: no se contrastó en las fuentes leídas. [F10] ⚠ sin contrastar
+- Prednisolona 1 a 2 mg/kg/día (máximo 40 mg) durante 3 a 5 días. [F50] [F51]
 - Ipratropio añadido en crisis moderada a grave (250 µg nebulizados si pesa menos de 20 kg y 500 µg si pesa más, cada 20 minutos hasta 3 dosis) y sulfato de magnesio IV 25 a 75 mg/kg (máximo 2 g) en 20 minutos en crisis grave o refractaria desde los 4 años; estatus asmático va a UCI. [F44] [F10]
 **Las guías difieren:** desde los 12 años, NICE/BTS/SIGN 2024 ofrece corticoide inhalado más formoterol a demanda o como terapia de mantenimiento y rescate; el abordaje por escalones en menores varía entre documentos. [F12]
 **Perlas de examen:** el silencio auscultatorio en crisis es signo de gravedad extrema; la mala adherencia es causa mayor de crisis. [F11]
@@ -158,7 +158,7 @@ Aviso de uso: material de estudio. Las dosis pediátricas se dan por kg con máx
 ## [PEDIA-T09] Fiebre sin foco en el lactante
 **Palabras clave:** infección bacteriana invasiva, Rochester, PECARN, procalcitonina, punción lumbar
 **Lo esencial:**
-- Alrededor de 20% de los niños febriles no tienen foco tras la historia y el examen; la mayoría son virales, pero en menores de 3 meses entre 5% y 15% tienen infección bacteriana grave. [F14] ⚠ sin contrastar
+- Entre los niños febriles, una parte no tiene foco tras la historia y el examen; la mayoría tiene infecciones virales autolimitadas y una minoría infección bacteriana grave, sobre todo urinaria [F53]. En menores de 3 meses la infección bacteriana grave ronda 8 %, y en neonatos 9 % a 13 % [F14]; otra revisión da de 8 % a 12,5 % en lactantes febriles y hasta 20 % en neonatos [F53].
 - NICE: en menores de 3 meses la fiebre de 38 °C o más es de alto riesgo; entre 3 y menos de 6 meses, 39 °C o más es de riesgo intermedio. [F13]
 - ITU oculta: unos 3% a 4% de los varones menores de 1 año y 8% a 9% de las niñas menores de 2 años febriles. [F14] ⚠ sin contrastar
 **Manejo:**
@@ -185,7 +185,7 @@ Aviso de uso: material de estudio. Las dosis pediátricas se dan por kg con máx
 **Lo esencial:**
 - Fisiológica: aparece después de las primeras 24 horas, es indirecta y se resuelve sola; representa unos 75% de los casos de hiperbilirrubinemia. [F16]
 - Patológica: aparición antes de 24 horas, ascenso rápido, hemólisis (ABO, Rh, G6PD), sepsis o hipotiroidismo. [F16] [F17]
-- Ictericia prolongada: más de 14 días en el término (más de 21 en el prematuro) obliga a medir bilirrubina directa. [F17] ⚠ sin contrastar
+- Ictericia prolongada: más de 14 días en el término (más de 21 en el prematuro) obliga a medir bilirrubina directa. [F17]
 - Colestasis: bilirrubina directa mayor de 1 mg/dL si la total es menor de 5 mg/dL, o mayor de 20% de la total si esta es mayor; descartar atresia de vías biliares. [F16] ⚠ sin contrastar
 **Diagnóstico:** medir bilirrubina de forma objetiva (no por inspección visual) y compararla con nomogramas por horas de vida y edad gestacional. [F16] [F17]
 **Manejo:** fototerapia según el umbral por horas y factores de riesgo; exanguinotransfusión ante riesgo de encefalopatía o falla de fototerapia. [F17]
@@ -198,7 +198,7 @@ Aviso de uso: material de estudio. Las dosis pediátricas se dan por kg con máx
 - Bacteriemia en menores de 28 días; temprana si aparece en los primeros días (flora materna, estreptococo B, E. coli) y tardía después (nosocomial, estafilococo, gramnegativos). [F18]
 - Signos inespecíficos: inestabilidad térmica, rechazo de la vía oral, letargia, apneas, dificultad respiratoria. [F18]
 - Estudios: hemocultivo antes del antibiótico, PCR y punción lumbar si se puede. [F18]
-**Manejo:** ampicilina más gentamicina, con dosis por kg e intervalo ajustados a edad gestacional y posnatal (cifras retiradas: no se pudieron contrastar con una fuente leída; usar la guía neonatal vigente o el formulario de la unidad); duración típica de 10 días en bacteriemia y 14 a 21 en meningitis. [F18] ⚠ sin contrastar
+**Manejo:** ampicilina 50 mg/kg IM/IV cada 12 horas la primera semana de vida y cada 8 horas después, más gentamicina IM/IV de 5 mg/kg una vez al día la primera semana y de 7,5 mg/kg una vez al día después, durante al menos 10 días en la sepsis (esquema de la OMS para lactantes de 0 a 59 días) [F52]; en meningitis, al menos 3 semanas, con ampicilina, cefotaxima o ceftriaxona más gentamicina [F52]. La OMS reconoce pocos datos sobre la dosis y no la ajusta por edad gestacional; en prematuros usar la guía neonatal vigente o el formulario de la unidad. [F18]
 **Tamizaje neonatal:** oximetría de pulso para cardiopatía crítica (aprobar con 95% o más en ambas extremidades y diferencia de 3% o menos), hipotiroidismo y audición. [F26] [F37]
 **En Colombia:** el tamizaje y la atención del recién nacido se rigen por la ruta materno perinatal y la GPC del recién nacido sano; verifica en el anexo técnico el tamizaje vigente. [F38] [F37]
 **Perlas de examen:** el factor de riesgo materno más importante es la colonización por estreptococo B sin profilaxis; el recién nacido sintomático se trata sin esperar.
@@ -212,7 +212,7 @@ Aviso de uso: material de estudio. Las dosis pediátricas se dan por kg con máx
 - Recurrencia cercana a un tercio; sube con edad temprana, historia familiar, fiebre baja y poco tiempo entre fiebre y convulsión. [F19]
 **Diagnóstico:** clínico; no se hace punción lumbar en una convulsión simple si el niño vuelve a su estado basal y no hay signos meníngeos; considerarla en menores de 12 meses con vacunación incompleta o ya antibiotizados. [F19]
 **Manejo:** si dura más de 5 minutos, benzodiacepina; diazepam rectal 0,2 a 0,5 mg/kg en dosis única (máximo 20 mg) o lorazepam IV 0,1 mg/kg (máximo 4 mg). [F47] [F48] [F19]
-- Midazolam intranasal o bucal es una alternativa sin acceso venoso; la dosis se retiró porque no figura en las fuentes leídas (consultar la guía vigente). [F19] ⚠ sin contrastar
+- Midazolam intranasal (0,2 mg/kg, con máximo de 10 mg en los estudios) es una alternativa sin acceso venoso y fue tan eficaz como el diazepam intravenoso en convulsiones febriles [F54][F55]; la dosis por vía bucal no se contrastó. [F19]
 **Perlas de examen:** los antipiréticos mejoran el confort pero no previenen la recurrencia; no se indica EEG ni neuroimagen en la simple. [F19]
 **Errores típicos:** iniciar anticonvulsivante crónico; pedir TAC de rutina.
 
@@ -234,7 +234,7 @@ Aviso de uso: material de estudio. Las dosis pediátricas se dan por kg con máx
 - Roséola (VHH-6): fiebre alta por 3 días (la "fiebre de los 3 días") y exantema al ceder la fiebre; la mayoría son menores de 2 años. [F21]
 - Eritema infeccioso (parvovirus B19): mejillas "abofeteadas" y exantema reticulado; edad escolar. [F22]
 - Diferenciales que se deben considerar: rubéola, escarlatina, enteroviral y Kawasaki en el niño con fiebre persistente. [F22]
-**Manejo del sarampión:** vitamina A en dosis única por edad, repetida a las 24 horas: 200.000 UI desde los 12 meses, 100.000 UI entre 6 y 11 meses y 50.000 UI en menores de 6 meses. [F23] ⚠ sin contrastar
+**Manejo del sarampión:** vitamina A en dos dosis, al diagnóstico y 24 horas después, en todo caso sospechoso menor de 5 años [F23]; en los ensayos se usaron 200.000 UI en niños y 100.000 UI en lactantes [F56]; para menores de 6 meses consulta la dosis en la guía vigente.
 **En Colombia:** la prevención es la vacuna triple viral: primera dosis a los 12 meses y segunda a los 18 meses. [F31]
 **Perlas de examen:** la roséola es la causa clásica de convulsión febril con exantema posterior.
 **Errores típicos:** usar antibiótico en un exantema viral; no aislar al caso de sarampión.
@@ -309,7 +309,7 @@ Aviso de uso: material de estudio. Las dosis pediátricas se dan por kg con máx
 
 ## Fuentes
 - [F1] Child growth standards — Organización Mundial de la Salud. https://www.who.int/tools/child-growth-standards (consultado 2026-11-13) · no leída
-- [F2] Infant and young child feeding — Organización Mundial de la Salud, hoja informativa. https://www.who.int/news-room/fact-sheets/detail/infant-and-young-child-feeding (consultado 2026-11-13) · no leída
+- [F2] Infant and young child feeding — Organización Mundial de la Salud, hoja informativa. https://www.who.int/news-room/fact-sheets/detail/infant-and-young-child-feeding (consultado 2026-11-13) · leída: html 2026-11-13
 - [F3] Malnutrition — Organización Mundial de la Salud, hoja informativa. https://www.who.int/news-room/fact-sheets/detail/malnutrition (consultado 2026-11-13) · no leída
 - [F4] Diarrhoeal disease — Organización Mundial de la Salud, hoja informativa. https://www.who.int/news-room/fact-sheets/detail/diarrhoeal-disease (consultado 2026-11-13) · leída: html 2026-11-13
 - [F5] Pediatric Bronchiolitis — StatPearls (registro PubMed). https://pubmed.ncbi.nlm.nih.gov/30137791/ (consultado 2026-11-13) · leída: statpearls-oa 2026-11-13
@@ -356,3 +356,11 @@ Aviso de uso: material de estudio. Las dosis pediátricas se dan por kg con máx
 - [F46] Alprostadil — StatPearls. https://www.ncbi.nlm.nih.gov/books/NBK542217/ (consultado 2026-11-13) · leída: statpearls-oa 2026-11-13
 - [F47] Diazepam — StatPearls. https://www.ncbi.nlm.nih.gov/books/NBK537022/ (consultado 2026-11-13) · leída: statpearls-oa 2026-11-13
 - [F48] Lorazepam — StatPearls. https://www.ncbi.nlm.nih.gov/books/NBK532890/ (consultado 2026-11-13) · leída: statpearls-oa 2026-11-13
+- [F49] Effects of high altitude on respiratory rate and oxygen saturation reference values in healthy infants and children younger than 2 years in four countries: a cross-sectional study — Lancet Global Health 2020. https://pmc.ncbi.nlm.nih.gov/articles/PMC7034060/ (consultado 2026-11-13) · leída: pmc-efetch 2026-11-13
+- [F50] Clinical standards for the diagnosis and management of asthma in low- and middle-income countries — International Journal of Tuberculosis and Lung Disease 2023. https://pmc.ncbi.nlm.nih.gov/articles/PMC10443788/ (consultado 2026-11-13) · leída: pmc-efetch 2026-11-13
+- [F51] State of art of oral corticosteroids in children with acute asthma and wheezing — Italian Journal of Pediatrics 2026. https://pmc.ncbi.nlm.nih.gov/articles/PMC12865963/ (consultado 2026-11-13) · leída: pmc-efetch 2026-11-13
+- [F52] WHO recommendations for management of serious bacterial infections in infants aged 0-59 days — Organización Mundial de la Salud, 2024. https://www.ncbi.nlm.nih.gov/books/NBK610597/ (consultado 2026-11-13) · leída: bookshelf-oa 2026-11-13
+- [F53] Fever in Children: Pearls and Pitfalls — Children (Basel) 2017. https://pmc.ncbi.nlm.nih.gov/articles/PMC5615271/ (consultado 2026-11-13) · leída: pmc-efetch 2026-11-13
+- [F54] Comparison of intranasal midazolam with intravenous diazepam for treating febrile seizures in children: prospective randomised study — BMJ 2000. https://pmc.ncbi.nlm.nih.gov/articles/PMC27427/ (consultado 2026-11-13) · leída: pmc-efetch 2026-11-13
+- [F55] Prehospital Care for the Adult and Pediatric Seizure Patient: Current Evidence-based Recommendations — Western Journal of Emergency Medicine 2017. https://pmc.ncbi.nlm.nih.gov/articles/PMC5391892/ (consultado 2026-11-13) · leída: pmc-efetch 2026-11-13
+- [F56] Effectiveness of measles vaccination and vitamin A treatment — International Journal of Epidemiology 2010. https://pmc.ncbi.nlm.nih.gov/articles/PMC2845860/ (consultado 2026-11-13) · leída: pmc-efetch 2026-11-13

@@ -2,9 +2,9 @@ id_seccion	linea	dato	estado	fuente	via	ubicacion_en_fuente
 CIRUG-T01	44	Triage II <=30 min (dolor extremo)	confirmado	F20	pdf	Art. 5
 CIRUG-T02	52	Alvarado modificado 9 puntos (antes 10 con 37,3 °C y desviación): 2+2 y 1 cada uno	corregido	F1	statpearls-oa	Diagnosis / scoring systems
 CIRUG-T02	53	Alvarado >=7 asociado a apendicitis	confirmado	F1	statpearls-oa	Evaluation
-CIRUG-T03	66	Grado II: leucocitos >18 000, 72 h, masa; no aparecen en el capítulo leído; guías de Tokio no legibles	sin_contrastar	F2	statpearls-oa	Tokyo Guidelines (no leídas)
+CIRUG-T03	66	Grados de Tokio 2018: grado II con leucocitos >18 000, masa dolorosa, >72 h o inflamación local; grado III con disfunción de órganos	confirmado	F21	pmc-efetch	Introducción (estadificación de Tokio 2018)
 CIRUG-T03	68	Colecistectomía en 72 h: morbilidad 6,6%, mortalidad 1,1%; drenaje puente 4-8 semanas (antes sin cifras sustentadas)	corregido	F2	statpearls-oa	Treatment / Management
-CIRUG-T04	78	Grado III: creatinina >2, INR >1,5, plaquetas <100 000, PaO2/FiO2 <300; no aparecen en el capítulo leído	sin_contrastar	F3	statpearls-oa	Tokyo Guidelines (no leídas)
+CIRUG-T04	78	Grado III de colangitis: umbrales numéricos retirados (no contrastados)	corregido	F3	statpearls-oa	Se conservan solo las categorías de disfunción de órgano; se retiran creatinina >2, INR >1,5, plaquetas <100 000 y PaO2/FiO2 <300
 CIRUG-T04	80	Respuesta 80-90% en leves; CPRE 94-98% (antes drenaje urgente por grados II/III sin sustento)	corregido	F3	statpearls-oa	Treatment / Prognosis
 CIRUG-T07	111	Ambulatorio 94-97%; colonoscopia 6-8 semanas (antes 'sin antibiótico en seleccionados', sin sustento)	corregido	F6	statpearls-oa	Treatment / Evaluation
 CIRUG-T08	120	Sensibilidad 96-100%, especificidad 89-94%; protocolo bifásico (antes 'trifásica')	corregido	F5	statpearls-oa	Evaluation

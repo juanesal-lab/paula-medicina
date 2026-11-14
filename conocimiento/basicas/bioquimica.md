@@ -4,7 +4,7 @@ archivo: conocimiento/basicas/bioquimica.md
 prefijo: BIOQ
 actualizado: 2026-11-13
 verificado: 2026-11-13
-sin_contrastar: 1
+sin_contrastar: 0
 temas: [Metabolismo de carbohidratos y glucogenosis, Lipoproteínas y dislipidemias, Cetogénesis y ayuno, Ciclo de la urea e hiperamonemia, Vitaminas B1 B12 folato D K y C, Síntesis del hemo y porfirias, Metabolismo de purinas, Enzimas y cinética, Herencia y genética molecular básica, Errores innatos del metabolismo y tamizaje neonatal, Metabolismo del alcohol, Interpretación bioquímica del laboratorio clínico]
 casos: [Encefalopatía de Wernicke en paciente con alcoholismo, Hemólisis por déficit de G6PD tras fármaco oxidante, Fenilcetonuria en tamizaje neonatal, Hipertrigliceridemia severa con pancreatitis, Crisis aguda de porfiria intermitente]
 ---
@@ -152,7 +152,7 @@ Los casos son de correlación básico-clínica: la etiqueta Manejo explica qué 
 ## [BIOQ-T09] Herencia y genética molecular básica
 **Palabras clave:** autosómica recesiva, dominante, ligada al X, herencia mitocondrial, heteroplasmia, penetrancia, imprinting, anticipación, Hardy-Weinberg
 **Lo esencial:**
-- Autosómica recesiva: dos portadores tienen 25% de probabilidad de un hijo afectado en cada embarazo (por ejemplo, fenilcetonuria) [F26]. ⚠ sin contrastar
+- Autosómica recesiva: dos portadores tienen 25% de probabilidad de un hijo afectado en cada embarazo (por ejemplo, fenilcetonuria) [F26][F34].
 - Ligada al X recesiva: los varones se afectan más y las mujeres heterocigotas pueden mostrar expresión variable por lyonización (ejemplos: G6PD, OTC, Lesch-Nyhan) [F24][F11][F23].
 - Autosómica dominante: un solo alelo basta; puede haber penetrancia reducida (porfiria aguda intermitente) [F21].
 - Herencia mitocondrial: el ADN mitocondrial se transmite casi siempre por la madre; la gravedad depende de la proporción de mitocondrias mutadas (heteroplasmia) y del umbral del tejido; afecta sobre todo a tejidos de alta demanda como músculo, cerebro y retina [F27].
@@ -287,3 +287,4 @@ Los casos son de correlación básico-clínica: la etiqueta Manejo explica qué 
 - [F31] Liver Function Tests — StatPearls. https://www.ncbi.nlm.nih.gov/books/NBK482489/ (consultado 2026-11-13) · no leída
 - [F32] Anion Gap and Non-Anion Gap Metabolic Acidosis — StatPearls. https://www.ncbi.nlm.nih.gov/books/NBK448090/ (consultado 2026-11-13) · no leída
 - [F33] Acute Pancreatitis — StatPearls. https://www.ncbi.nlm.nih.gov/books/NBK482468/ (consultado 2026-11-13) · leída: statpearls-oa 2026-11-13
+- [F34] Autosomal recessive — MedlinePlus Medical Encyclopedia. https://medlineplus.gov/ency/article/002052.htm (consultado 2026-11-13) · leída: html 2026-11-13

@@ -4,7 +4,7 @@ archivo: conocimiento/basicas/anatomia.md
 prefijo: ANAT
 actualizado: 2026-11-13
 verificado: 2026-11-13
-sin_contrastar: 2
+sin_contrastar: 1
 temas: [Plexo braquial y sus lesiones, Nervios y compartimientos del miembro inferior, Cuello: triángulos, vía aérea y tiroides, Mediastino y anatomía coronaria, Pared abdominal y conducto inguinal, Peritoneo y retroperitoneo, Irrigación del tubo digestivo y anastomosis portosistémicas, Pelvis y periné femenino y masculino, Pares craneales, Polígono de Willis y territorios vasculares cerebrales, Médula espinal vías y síndromes medulares, Anatomía de superficie para procedimientos]
 casos: [Fractura de la diáfisis humeral con mano caída, ACV de la arteria cerebral media, Hernia inguinal indirecta, Síndrome de Pancoast con Horner, Lesión del nervio peroneo común por yeso]
 ---
@@ -201,7 +201,7 @@ Nota de uso: el modelo 3D de la app solo trae anatomía masculina; la pelvis y e
 **Palabras clave:** punción lumbar, línea de Tuffier, toracostomía, triángulo de seguridad, acceso venoso central, yugular interna, subclavia, femoral
 **Lo esencial:**
 - Punción lumbar: se usa el espacio L3-L4 o L4-L5; la línea que une las crestas ilíacas cae en L4. Capas atravesadas en orden: piel, subcutáneo, supraespinoso, interespinoso, ligamento amarillo, espacio epidural, duramadre, aracnoides y espacio subaracnoideo [F32].
-- Posición: decúbito lateral con la columna flexionada, o sentada; la presión de apertura normal va de 6 a 25 cm de agua según la fuente [F32]. ⚠ sin contrastar
+- Posición: decúbito lateral con la columna flexionada, o sentada; la presión de apertura normal en el adulto es de 100 a 200 mm de agua (10 a 20 cm) [F41].
 - Contraindican la punción: infección en el sitio, masa con hipertensión intracraneal, plaquetas por debajo de 20.000 por mm3 (idealmente más de 50.000), heparina en las últimas 24 h o coagulopatía [F32].
 - Cefalea pospunción: menos con agujas atraumáticas de punta de lápiz y de menor calibre; reinsertar el estilete antes de retirar también la reduce [F32].
 - Toracostomía: cuarto o quinto espacio intercostal entre la línea axilar anterior y la media, dirigiendo el tubo hacia atrás; se pasa sobre el borde superior de la costilla para evitar el paquete neurovascular, que corre bajo el borde inferior [F33].
@@ -298,3 +298,4 @@ Nota de uso: el modelo 3D de la app solo trae anatomía masculina; la pelvis y e
 - [F38] Anatomy, Abdomen and Pelvis, Pelvis — StatPearls. https://www.ncbi.nlm.nih.gov/books/NBK482258/ (consultado 2026-11-13) · no leída
 - [F39] Central Cord Syndrome — StatPearls. https://www.ncbi.nlm.nih.gov/books/NBK441932/ (consultado 2026-11-13) · no leída
 - [F40] Thoracic Trauma — StatPearls, NCBI Bookshelf. https://www.ncbi.nlm.nih.gov/books/NBK482194/ (consultado 2026-11-13) · leída: statpearls-oa 2026-11-13
+- [F41] Lumbar Puncture — MSD Manual Professional Edition. https://www.msdmanuals.com/professional/neurologic-disorders/neurologic-tests-and-procedures/lumbar-puncture (consultado 2026-11-13) · leída: html 2026-11-13

@@ -6,7 +6,7 @@ actualizado: 2026-11-13
 temas: [Asma, EPOC, Neumonía adquirida en la comunidad, Tuberculosis pulmonar, Tromboembolismo pulmonar, Derrame pleural, Neumotórax, Nódulo pulmonar y cáncer de pulmón, Enfermedad pulmonar intersticial, Apnea obstructiva del sueño, Gases arteriales e insuficiencia respiratoria, Síndrome de dificultad respiratoria aguda]
 casos: [Crisis asmática grave, Exacerbación de EPOC con acidosis respiratoria, Tuberculosis pulmonar con baciloscopia positiva, Tromboembolismo pulmonar, Derrame paraneumónico complicado]
 verificado: 2026-11-13
-sin_contrastar: 10
+sin_contrastar: 1
 ---
 # Neumología
 
@@ -39,7 +39,7 @@ sin_contrastar: 10
 **Diagnóstico:** una relación VEF1/CVF baja que mejora 12 % y 200 mL o más tras el broncodilatador respalda el diagnóstico; el flujo pico de la mitad o menos del mejor valor personal o del predicho define exacerbación grave [F1][F3].
 **Manejo:**
 - Exacerbación grave: oxígeno para saturación de 93-95 %, SABA inhalado (salbutamol 4-10 inhalaciones con aerocámara cada 20 minutos durante 3 dosis, o 2,5 mg nebulizado cada 20 minutos durante 3 dosis), bromuro de ipratropio en las primeras dosis, y corticoide sistémico precoz (prednisolona 40-50 mg cada mañana por vía oral durante 5-7 días) [F3][F2].
-- Dosis habitual de ipratropio nebulizado de 0,5 mg [F2] ⚠ sin contrastar
+- Ipratropio nebulizado junto con el SABA: el esquema mejor estudiado (en niños) usa 3 dosis de 250 mcg o 2 dosis de 500 mcg (0,5 mg) durante 60 a 90 minutos [F41].
 - Falta de respuesta: sulfato de magnesio 2 g intravenoso en infusión de 20 minutos [F2]; el magnesio nebulizado tiene evidencia conflictiva y a lo sumo un beneficio pequeño [F1].
 - Insuficiencia ventilatoria inminente: ventilación no invasiva de prueba con bajo umbral para intubar; no se prescriben antibióticos de rutina, solo ante evidencia de infección bacteriana [F3].
 - Mantenimiento: ICS dosis bajas-medias más LABA, ajustados por control; revisar técnica del inhalador, adherencia y desencadenantes [F3].
@@ -71,12 +71,12 @@ sin_contrastar: 10
 - Infección del parénquima adquirida fuera del hospital; el agente más frecuente es *Streptococcus pneumoniae*, seguido de virus, *Haemophilus influenzae* y atípicos (*Mycoplasma*, *Legionella*) [F8].
 - Cuadro: fiebre, tos, expectoración, dolor pleurítico y disnea; examen con crepitantes, soplo tubárico o matidez y radiografía con consolidación [F8].
 - CURB-65 suma un punto por: confusión, urea de 20 mg/dL o más, frecuencia respiratoria de 30/min o más, presión sistólica menor de 90 o diastólica menor de 60 mmHg, y edad de 65 años o más [F8].
-- Un puntaje de 2 o más sugiere hospitalización [F8]; el umbral de 3 o más para valorar UCI [F8] ⚠ sin contrastar
+- Un puntaje de 2 o más sugiere hospitalización [F35][F36]; con 3 a 5 puntos se debe hospitalizar, y para decidir UCI se aplican los criterios de neumonía grave (un criterio mayor o tres menores) [F36].
 **Diagnóstico:** radiografía de tórax; hemocultivos y esputo en hospitalizados; antígenos urinarios (neumococo, *Legionella*) en gravedad; procalcitonina como apoyo, no como regla [F8].
 **Manejo:**
 - Ambulatorio sin comorbilidad: monoterapia con amoxicilina, doxiciclina o un macrólido; con comorbilidad: amoxicilina-clavulanato más macrólido o doxiciclina, o una fluoroquinolona respiratoria [F8].
-- Dosis habituales de adulto: amoxicilina 1 g cada 8 horas o doxiciclina 100 mg cada 12 horas [F8] ⚠ sin contrastar
-- Hospitalizado no grave: betalactámico (cefotaxima, ceftriaxona, ampicilina-sulbactam o ertapenem) más macrólido, o fluoroquinolona respiratoria sola [F8]; ceftriaxona 1-2 g IV al día [F8] ⚠ sin contrastar
+- Dosis habituales de adulto: amoxicilina 1 g cada 8 horas [F35][F37] o doxiciclina 100 mg cada 12 horas [F36].
+- Hospitalizado no grave: betalactámico (cefotaxima, ceftriaxona, ampicilina-sulbactam o ertapenem) más macrólido, o fluoroquinolona respiratoria sola [F8]; ceftriaxona 1-2 g IV cada 24 horas [F36] (2 g al día en los esquemas con macrólido de hospitalización [F37]).
 - La duración es de 5 a 7 días si hay respuesta clínica favorable (sin fiebre durante más de 48 a 72 horas y sin necesidad de oxígeno) y se prolonga si la respuesta es lenta [F8].
 **En Colombia:** no se verificó una GPC nacional de NAC del adulto; la GPC de MinSalud/IETS de neumonía y bronquiolitis aplica a menores de 5 años (ver pediatría) [F9]. ⚠ sin contrastar
 **Perlas de examen:** la neumonía de lóbulo superior con esputo "en jalea de grosella" sugiere *Klebsiella*; la neumonía con diarrea e hiponatremia, *Legionella* [F8].
@@ -124,7 +124,7 @@ sin_contrastar: 10
 - Examen: matidez a la percusión, abolición de vibraciones y murmullo vesicular disminuido en la base (ver Semiología) [F15].
 **Diagnóstico:** radiografía (borramiento del seno costofrénico con unos 200 mL o más) y ecografía; toracocentesis diagnóstica salvo que haya claro cuadro de insuficiencia cardiaca bilateral y simétrica [F15][F18]. Criterios de Light (exudado si se cumple al menos uno): relación proteína pleural/sérica mayor de 0,5, relación LDH pleural/sérica mayor de 0,6 o LDH pleural mayor de dos tercios del límite superior normal sérico [F16].
 **Manejo:** tratar la causa; toracocentesis evacuadora para el alivio sintomático (con límite de volumen por episodio para evitar edema de reexpansión); drenaje con tubo torácico en derrame paraneumónico complicado o empiema y pleurodesis o catéter tunelizado en derrame maligno recurrente [F15][F17].
-**Las guías difieren:** los criterios de Light pueden clasificar como exudado algunos trasudados cardiacos tratados con diurético; en ese caso se interpreta con la clínica y otros marcadores (la frecuencia del 25 % al 30 %) [F15] ⚠ sin contrastar
+**Las guías difieren:** los criterios de Light pueden clasificar como exudado algunos trasudados cardiacos, sobre todo si hubo diurético antes de la toracocentesis (alrededor de 28 %, pues 72 % de los derrames cardiacos se clasifican como trasudado); en ese caso se interpreta con la clínica y con otros marcadores, como un gradiente de albúmina entre suero y líquido pleural mayor de 1,2 g/dL [F42].
 **En Colombia:** el derrame linfocitario con ADA elevado es de alta sospecha de TB pleural en un país con carga endémica de TB [F13][F15].
 **Perlas de examen:** líquido con pH menor de 7,20 y glucosa baja indica derrame paraneumónico complicado que requiere drenaje [F17]. Un hidrotórax hepático se maneja con tratamiento de la cirrosis, no con toracocentesis repetida.
 **Errores típicos:** punzar sin ecografía; extraer grandes volúmenes de una sola vez; no pedir citología ni ADA ante exudado linfocitario; olvidar que el derrame bilateral sugiere trasudado [F15].
@@ -173,7 +173,7 @@ sin_contrastar: 10
 **Lo esencial:**
 - Colapso repetido de la vía aérea superior durante el sueño con desaturación y microdespertares; los síntomas son ronquidos, apneas presenciadas, somnolencia diurna, cefalea matutina y nicturia [F25].
 - Se asocia a obesidad, HTA resistente, fibrilación auricular, insuficiencia cardiaca y accidentes de tráfico [F25].
-**Diagnóstico:** polisomnografía en laboratorio (estándar); poligrafía domiciliaria aceptable en probabilidad alta. El índice apnea-hipopnea (IAH) define gravedad: leve 5-14, moderada 15-29 y grave 30 o más eventos por hora [F25] ⚠ sin contrastar
+**Diagnóstico:** polisomnografía en laboratorio (estándar); poligrafía domiciliaria aceptable en probabilidad alta. El índice apnea-hipopnea (IAH) define gravedad: leve 5-14, moderada 15-29 y grave 30 o más eventos por hora [F25][F43].
 **Manejo:** pérdida de peso, evitar alcohol y sedantes, decúbito lateral; CPAP como primera línea en moderada-grave y en leve con síntomas; dispositivos de avance mandibular y cirugía como alternativas [F25].
 **Perlas de examen:** el síndrome de hipoventilación-obesidad se sospecha con bicarbonato sérico alto y PaCO2 diurna elevada [F25].
 **Errores típicos:** formular benzodiacepinas a un paciente con AOS no tratada; asumir que la ausencia de obesidad excluye el diagnóstico [F25].
@@ -185,7 +185,7 @@ sin_contrastar: 10
 - Insuficiencia respiratoria tipo I (hipoxémica): PaO2 menor de 60 mmHg con PaCO2 normal o baja (neumonía, SDRA, TEP, edema pulmonar); tipo II (hipercápnica): PaCO2 mayor de 45 mmHg con pH menor de 7,35 por falla de la bomba ventilatoria (EPOC, neuromuscular, sedantes) [F29].
 - Gradiente alvéolo-arterial normal: aproximadamente (edad + 10) / 4; está aumentado en trastornos V/Q, cortocircuito y barrera de difusión, y es normal en hipoventilación pura [F27].
 - Hipoxemia que no mejora con oxígeno suplementario sugiere cortocircuito [F29].
-**Diagnóstico:** secuencia: pH (acidemia o alcalemia), CO2 y bicarbonato para el trastorno primario, compensación esperada (compensación esperada en acidosis respiratoria aguda: el bicarbonato sube aproximadamente 1 mEq/L por cada 10 mmHg de aumento de PaCO2) y gradiente A-a [F26][F27] ⚠ sin contrastar
+**Diagnóstico:** secuencia: pH (acidemia o alcalemia), CO2 y bicarbonato para el trastorno primario, compensación esperada (en la acidosis respiratoria aguda el bicarbonato sube 1 mEq/L por cada 10 mmHg de aumento de la PCO2, y en la crónica unos 3,5 mEq/L) y gradiente A-a [F26][F27][F44].
 **Manejo:** oxígeno de bajo flujo, cánula de alto flujo, ventilación no invasiva o intubación según causa y gravedad; en hipercapnia, titular el oxígeno [F29].
 **Perlas de examen:** la PaCO2 normal en un paciente con crisis asmática o EPOC taquipneico puede ser signo de fatiga inminente [F29].
 **Errores típicos:** usar la saturación y no los gases en un paciente con hipercapnia; olvidar la corrección por temperatura y por altura (Bogotá y ciudades altas tienen valores normales distintos) [F26].
@@ -194,10 +194,10 @@ sin_contrastar: 10
 **Palabras clave:** Berlín, PaO2/FiO2, PEEP, ventilación protectora, decúbito prono, bloqueo neuromuscular, ECMO
 **Lo esencial:**
 - Edema pulmonar no cardiogénico por daño alveolar difuso (sepsis, neumonía, aspiración, pancreatitis, trauma, transfusión) [F28].
-- Definición de Berlín: inicio dentro de los 7 días de un insulto, opacidades bilaterales en la radiografía o TC no explicadas por falla cardiaca, y PaO2/FiO2 menor de 300 mmHg [F28]; el requisito de PEEP de al menos 5 cmH2O [F28] ⚠ sin contrastar
+- Definición de Berlín: inicio dentro de los 7 días de un insulto, opacidades bilaterales en la radiografía o TC no explicadas por falla cardiaca, y PaO2/FiO2 menor de 300 mmHg [F28]; requiere PEEP de al menos 5 cmH2O [F38].
 - Gravedad por PaO2/FiO2: leve más de 200 hasta 300, moderada más de 100 hasta 200 y grave de 100 o menos [F28].
 **Diagnóstico:** clínica, imagen y gases; ecocardiograma para excluir origen cardiogénico [F28].
-**Manejo:** ventilación protectora con volumen corriente de 4 a 8 mL/kg de peso ideal y presión meseta menor de 30 cmH2O; PEEP según la tabla del protocolo; decúbito prono; estrategia conservadora de líquidos; bloqueo neuromuscular precoz en casos graves seleccionados (en las primeras 48 horas); ECMO en hipoxemia refractaria [F28]. El volumen de 6 mL/kg y la duración del prono de 12-16 horas diarias con PaO2/FiO2 menor de 150 mmHg [F28] ⚠ sin contrastar
+**Manejo:** ventilación protectora con volumen corriente de 4 a 8 mL/kg de peso ideal (el ensayo ARDSNet usó 6 mL/kg) y presión meseta menor de 30 cmH2O [F39][F40]; PEEP según la tabla del protocolo; decúbito prono durante al menos 16 horas al día cuando la PaO2/FiO2 es menor de 150 mmHg [F39][F40]; estrategia conservadora de líquidos; bloqueo neuromuscular precoz en casos graves seleccionados (en las primeras 48 horas); ECMO en hipoxemia refractaria [F28].
 **Perlas de examen:** la ventilación con volúmenes altos aumenta la lesión (barotrauma, volutrauma); el decúbito prono reduce la mortalidad en SDRA moderado-grave [F28].
 **Errores típicos:** restringir la PEEP sin razón; ignorar la presión meseta; hidratar de forma agresiva tras estabilizar el shock [F28].
 
@@ -281,3 +281,13 @@ sin_contrastar: 10
 - [F32] Rivaroxaban — StatPearls, NCBI Bookshelf. https://www.ncbi.nlm.nih.gov/books/NBK557502/ (consultado 2026-11-13) · leída: statpearls-oa 2026-11-13
 - [F33] Apixaban — StatPearls, NCBI Bookshelf. https://www.ncbi.nlm.nih.gov/books/NBK507910/ (consultado 2026-11-13) · leída: statpearls-oa 2026-11-13
 - [F34] Alteplase — StatPearls, NCBI Bookshelf. https://www.ncbi.nlm.nih.gov/books/NBK499977/ (consultado 2026-11-13) · leída: statpearls-oa 2026-11-13
+- [F35] Infectious Diseases Society of America/American Thoracic Society Consensus Guidelines on the Management of Community-Acquired Pneumonia in Adults — Clinical Infectious Diseases 2007. https://pmc.ncbi.nlm.nih.gov/articles/PMC7107997/ (consultado 2026-11-13) · leída: pmc-efetch 2026-11-13
+- [F36] Diagnosis and treatment of community-acquired pneumonia in adults: 2016 clinical practice guidelines by the Chinese Thoracic Society — Clinical Respiratory Journal 2018. https://pmc.ncbi.nlm.nih.gov/articles/PMC7162259/ (consultado 2026-11-13) · leída: pmc-efetch 2026-11-13
+- [F37] Ten Issues for Updating in Community-Acquired Pneumonia: An Expert Review — Journal of Clinical Medicine 2023. https://pmc.ncbi.nlm.nih.gov/articles/PMC10649000/ (consultado 2026-11-13) · leída: pmc-efetch 2026-11-13
+- [F38] Usefulness and limitations of the acute respiratory distress syndrome definitions in non-intubated patients: a narrative review — Frontiers in Medicine 2023. https://pmc.ncbi.nlm.nih.gov/articles/PMC9995400/ (consultado 2026-11-13) · leída: pmc-efetch 2026-11-13
+- [F39] Management of ARDS: What Works and What Does Not — American Journal of the Medical Sciences 2020. https://pmc.ncbi.nlm.nih.gov/articles/PMC7997862/ (consultado 2026-11-13) · leída: pmc-efetch 2026-11-13
+- [F40] Acute respiratory distress syndrome — Nature Reviews Disease Primers 2019. https://pmc.ncbi.nlm.nih.gov/articles/PMC6709677/ (consultado 2026-11-13) · leída: pmc-efetch 2026-11-13
+- [F41] Combined inhaled anticholinergics and short-acting beta2-agonists for initial treatment of acute asthma in children — Cochrane Database of Systematic Reviews 2013. https://pmc.ncbi.nlm.nih.gov/articles/PMC12047668/ (consultado 2026-11-13) · leída: pmc-efetch 2026-11-13
+- [F42] Cardiac related pleural effusions: a narrative review — Journal of Thoracic Disease 2024. https://pmc.ncbi.nlm.nih.gov/articles/PMC10944777/ (consultado 2026-11-13) · leída: pmc-efetch 2026-11-13
+- [F43] Validation of the STOP-Bang Questionnaire as a Screening Tool for Obstructive Sleep Apnea among Different Populations: A Systematic Review and Meta-Analysis — PLoS One 2015. https://pmc.ncbi.nlm.nih.gov/articles/PMC4678295/ (consultado 2026-11-13) · leída: pmc-efetch 2026-11-13
+- [F44] Acid-Base Disorders in the Critically Ill Patient — Clinical Journal of the American Society of Nephrology 2023. https://pmc.ncbi.nlm.nih.gov/articles/PMC10101555/ (consultado 2026-11-13) · leída: pmc-efetch 2026-11-13
