@@ -1,0 +1,31 @@
+id_seccion	linea	dato	estado	fuente	via	ubicacion_en_fuente
+TRAUMA-T01	42	Triage I reanimación; II <=30 min	confirmado	F20	pdf	Art. 5 categorías del triage
+TRAUMA-T03	59	Clases I-IV: 15%, 15-30%, 30-40%, >40%	confirmado	F7	statpearls-oa	Classification of hemorrhage
+TRAUMA-T03	65	TXA: 1 g + 1 g en 8 h o 2 g única, <=2 g total, <3 h (antes pasado 3 h 'puede ser nocivo', sin sustento)	corregido	F18	pdf	Prehospital hemostatic adjuncts / TXA
+TRAUMA-T03	66	PAS 80-90 o PAM 40-60; contraindicada en TCE/trauma raquimedular (PAM >80)	corregido	F19	statpearls-oa	Permissive hypotension / contraindications
+TRAUMA-T04	75	Toracotomía: 1500 mL/24 h o 300-500 mL/h por 2-4 h (antes >1500 inicial o >200 mL/h)	corregido	F10	statpearls-oa	Management / surgical indications
+TRAUMA-T04	78	Aguja >8 cm, 2.º EIC LMC o 5.º EIC LAA (antes tubo en 5.º EIC sin respaldo)	corregido	F8+F9	statpearls-oa	Management / needle decompression
+TRAUMA-T06	95	GCS moderado 9-12, grave 3-8; leve 14-15 (StatPearls) vs 13-15 (ACS) (antes leve 13-15 sin fuente)	corregido	F13	statpearls-oa	Introduction (StatPearls TBI); ACS TBI imaging section
+TRAUMA-T06	95	GCS moderado 9-12, grave 3-8; leve 14-15 (StatPearls) vs 13-15 (ACS) (antes leve 13-15 sin fuente)	corregido	F21	pdf	Introduction (StatPearls TBI); ACS TBI imaging section
+TRAUMA-T06	99	TAC en 1 h si GCS <=12, <15 a las 2 h; 8 h con anticoagulante 'considerar' (antes: obligatoria)	corregido	F3	html	1.5 Criteria for CT head scan; 1.5.13
+TRAUMA-T06	100	SpO2 >=94%, PaO2 80-100, PaCO2 35-45, PAS >=110, manitol 0,25-1 g/kg; TXA 2 g NICE (antes SpO2 <90%, PAS <100)	corregido	F21	pdf	relectura 2026-11-13 con UA honesto: la cifra se sostiene en la fuente StatPearls de la misma fila o línea; la página web citada no la contiene
+TRAUMA-T06	100	SpO2 >=94%, PaO2 80-100, PaCO2 35-45, PAS >=110, manitol 0,25-1 g/kg; TXA 2 g NICE (antes SpO2 <90%, PAS <100)	corregido	F13	statpearls-oa	Table 4 goal-directed parameters; osmotic agents; 1.3.17
+TRAUMA-T06	100	SpO2 >=94%, PaO2 80-100, PaCO2 35-45, PAS >=110, manitol 0,25-1 g/kg; TXA 2 g NICE (antes SpO2 <90%, PAS <100)	corregido	F3	html	Table 4 goal-directed parameters; osmotic agents; 1.3.17
+TRAUMA-T07	111	PAM 85-90 mmHg por 7 días como decisión individual	corregido	F17	statpearls-oa	Hemodynamic management of SCI
+TRAUMA-T07	111	PAM 85-90 mmHg por 7 días como decisión individual	corregido	F29	pdf	Hemodynamic management of SCI
+TRAUMA-T09	128	9/9/18/18/18 (se quitó periné 1%: no aparece)	corregido	F14	statpearls-oa	Calculating TBSA
+TRAUMA-T09	129	O2 100% en CO; hidroxocobalamina; estridor=intubar (antes 'cianuro considerar' sin fuente)	corregido	F25	statpearls-oa	Evaluation / treatment
+TRAUMA-T09	130	Parkland 4 mL/kg/% (3 niños), mitad en 8 h; diuresis 0,5-1 mL/kg/h (antes 0,5)	corregido	F14+F15	statpearls-oa	Formula; urine output targets
+TRAUMA-T09	133	Brooke modificada 2 mL/kg/%	confirmado	F14+F15	statpearls-oa	Introduction / formulas
+TRAUMA-T09	134	Triage II <=30 min	confirmado	F20	pdf	Art. 5, art. 4 parágrafo
+TRAUMA-T10	141	Gustilo I <1 cm, II >1 cm, III >10 cm (antes II de 1 a 10 cm)	corregido	F6	statpearls-oa	Classification
+TRAUMA-T10	144	0% infección con antibiótico en 66 min vs 17%	confirmado	F6	statpearls-oa	Management / antibiotics
+TRAUMA-T11	152	PIC >30 mmHg o delta <=30 mmHg indica fasciotomía (antes delta <30)	corregido	F16	statpearls-oa	Evaluation
+TRAUMA-T12	164	Triage a la llegada, reevaluación, verificación de derechos posterior	confirmado	F20	pdf	Art. 6 parágrafo, art. 6.5
+TRAUMA-T13	171	Pulso +15-20 lpm; PA baja 15-20 mmHg; cuña de 15 grados (antes >20 semanas)	corregido	F23	statpearls-oa	Initial assessment
+TRAUMA-T13	172	Mortalidad materna con fractura pélvica hasta 9%	confirmado	F23	statpearls-oa	Epidemiology / injuries
+TRAUMA-T13	174	Anti-D en toda Rh negativa; Kleihauer 5 mL; bolo 20 mL/kg niño (antes sangre 10 mL/kg sin respaldo)	corregido	F23+F24	statpearls-oa	Pregnancy trauma; fluid resuscitation in children
+TRAUMA-C02	191	TXA 1 g + 1 g en 8 h en caso	corregido	F22+F19	statpearls-oa	Prehospital hemostatic adjuncts / TXA
+TRAUMA-C02	191	TXA 1 g + 1 g en 8 h en caso	corregido	F18	pdf	Prehospital hemostatic adjuncts / TXA
+TRAUMA-C04	209	Parkland y diuresis 0,5-1 mL/kg/h	corregido	F14+F15+F25	statpearls-oa	Formula; urine output targets
+TRAUMA-C04	210	4 x 80 x 45 = 14 400 mL; mitad en 8 h	confirmado	F14	statpearls-oa	Formula

@@ -1,0 +1,49 @@
+id_seccion	linea	dato	estado	fuente	via	ubicacion_en_fuente
+OBST-T01	41	Suplementación con ácido fólico: 400 µg al día (0,4 mg) desde la consulta preconcepcional y hasta la semana 12	corregido	F15	pdf	Sección 1, pregunta 24 (suplementos nutricionales)
+OBST-T01	43	En Colombia: la Resolución 3280 de 2018 adopta la ruta integral materno perinatal y programa como mínimo 10 co	confirmado	F1	pdf	Anexo técnico, 4.3.5 Frecuencia del control prenatal
+OBST-T02	53	La beta-hCG en orina suele ser positiva unos 10 días después de la falta menstrual; por ecografía transvaginal	corregido	F5	statpearls-oa	Evaluation: pruebas de embarazo y ecografía
+OBST-T03	61	Preeclampsia: presión de 140/90 mmHg o más después de las 20 semanas con proteinuria o con disfunción de órgan	confirmado	F7	statpearls-oa	Evaluation / criterios diagnósticos
+OBST-T03	62	Criterios de severidad: presión de 160/110 mmHg o más, trombocitopenia, elevación de transaminasas, creatinina	confirmado	F7	statpearls-oa	Evaluation / criterios de severidad
+OBST-T03	64	Prevención: aspirina en dosis baja en mujeres de alto riesgo (NICE: 75 a 150 mg al día desde la semana 12; OMS	corregido	F8	html	Recomendaciones 1.1 sobre aspirina (NG133); OMS aspirina y calcio en Bookshelf
+OBST-T03	67	Toxicidad: pérdida de reflejos osteotendinosos, depresión respiratoria y oliguria; antídoto gluconato de calci	corregido	F10	statpearls-oa	Treatment: monitoreo y toxicidad del magnesio
+OBST-T03	68	Hipertensión grave (160/110 mmHg o más), tratamiento urgente con uno de estos: labetalol 10 a 20 mg IV y luego	corregido	F10	statpearls-oa	Treatment: control de la presión arterial (labetalol, hidralazina, nifedipino)
+OBST-T03	69	Momento del parto: preeclampsia sin severidad a las 37 semanas; con severidad, desde las 34 semanas o antes si	confirmado	F7	statpearls-oa	Treatment: manejo anteparto y momento del parto
+OBST-T03	70	Las guías difieren: aspirina, NICE 75 a 150 mg al día desde la semana 12 y OMS 75 mg al día iniciada antes de 	corregido	F15	pdf	Sección 2, pregunta 11 (tratamiento anticonvulsivante); NG133 1.10; StatPearls Eclampsia
+OBST-T04	78	Definición clásica: pérdida mayor de 500 mL en parto vaginal o de 1000 mL en cesárea (la definición actual exi	corregido	F12	statpearls-oa	Introducción y clasificación de la hemorragia posparto
+OBST-T04	80	Manejo activo del alumbramiento: oxitocina 10 UI IM tras el nacimiento, tracción controlada del cordón y masaj	confirmado	F13	statpearls-oa	Dosificación de oxitocina en hemorragia posparto (profiláctica)
+OBST-T04	83	Uterotónicos: oxitocina 10 UI IV o IM como primera línea y luego infusión (GPC colombiana: 5 UI IV lenta más 3	corregido	F12	statpearls-oa	Treatment: uterotónicos; Misoprostol StatPearls; GPC sección 6
+OBST-T04	84	Ácido tranexámico 1 g IV en 10 minutos, dentro de las 3 horas siguientes al parto, con una segunda dosis de 1 	corregido	F40	bookshelf-oa	Recomendación sobre ácido tranexámico y régimen de dosis
+OBST-T04	86	En Colombia: la GPC 2013 indica activar el protocolo de Código Rojo obstétrico ante toda hemorragia posparto c	corregido	F15	pdf	Sección 6, pregunta 7 (protocolo de código rojo)
+OBST-T04	87	Las guías difieren: la GPC colombiana 2013 no recomienda el carboprost y deja el ácido tranexámico de 1 g IV c	corregido	F15	pdf	Sección 6, preguntas 9 (carboprost y ácido tranexámico)
+OBST-T05	95	Ectópico: la trompa es el sitio más frecuente (cerca de 97%), sobre todo en la ampolla (alrededor de 70%); fac	corregido	F6	statpearls-oa	Introducción: sitios de implantación del ectópico
+OBST-T05	99	Ectópico estable sin latido y con masa pequeña: metotrexato 50 mg/m² IM en dosis única, con control de beta-hC	confirmado	F41	pmc-efetch	Métodos: protocolo de metotrexato en dosis única
+OBST-T06	112	Previa: no hacer tacto vaginal; reposo y vigilancia; cesárea programada, habitualmente entre las 36 y 37 seman	confirmado	F19	statpearls-oa	Treatment: momento del parto
+OBST-T07	122	Prueba de tolerancia con 75 g y tres tomas: ayuno 92 mg/dL, 1 hora 180 mg/dL y 2 horas 153 mg/dL; basta un val	confirmado	F22	pdf	Diagnóstico: prueba de 75 g, umbrales
+OBST-T07	123	Riesgos: macrosomía, distocia de hombros, preeclampsia, hipoglucemia neonatal, y diabetes tipo 2 posterior en 	confirmado	F21	statpearls-oa	Complicaciones y riesgo posterior de diabetes
+OBST-T07	124	Manejo: dieta y ejercicio con automonitoreo; si no se alcanzan metas (ayuno menor de 95 mg/dL, 1 hora menor de	confirmado	F22	pdf	Metas de manejo glucémico
+OBST-T07	125	Control posparto: prueba de 75 g entre las 4 y 12 semanas del parto.	confirmado	F21	statpearls-oa	Evaluation: seguimiento posparto
+OBST-T07	126	Las guías difieren: esquema de dos pasos (50 g y luego 100 g) frente a un paso con 75 g; Colombia adoptó el es	confirmado	F21	statpearls-oa	Evaluation: tamizaje de uno y dos pasos
+OBST-T07	128	Perlas de examen: un solo valor alterado en la prueba de 75 g diagnostica diabetes gestacional con el criterio	confirmado	F22	pdf	Diagnóstico: criterio de un valor alterado
+OBST-T08	134	Parto antes de las 37 semanas; las causas incluyen infección, sobredistensión, incompetencia cervical y antece	confirmado	F23	statpearls-oa	Introducción: definición
+OBST-T08	137	Corticoides antenatales entre las 24 y 34 semanas (OMS): betametasona 12 mg IM cada 24 horas por 2 dosis, o de	corregido	F42	bookshelf-oa	Recomendación de corticoides antenatales (24 a 34 semanas); StatPearls Preterm Labor
+OBST-T08	138	Tocólisis solo por 48 horas para dar tiempo a corticoides o traslado: nifedipino 20 mg VO y luego 10 mg cada 6	corregido	F23	statpearls-oa	Treatment: tocolíticos, régimen de nifedipino
+OBST-T08	139	Sulfato de magnesio para neuroprotección fetal si el parto es inminente antes de las 32 semanas.	corregido	F15	pdf	Sección 3, pregunta 15 (neuroprotección con magnesio)
+OBST-T08	142	Las guías difieren: NICE ofrece corticoides entre las semanas 24+0 y 33+6 y solo los considera entre 34+0 y 35	corregido	F24	html	Recomendaciones 1.8 a 1.10 de NG25 y recomendación OMS de corticoides
+OBST-T09	149	RPMP: ruptura antes de las 37 semanas y antes del inicio del trabajo de parto; en al menos 50% el parto ocurre	confirmado	F26	statpearls-oa	Prognosis: latencia de la RPMP
+OBST-T09	152	Antibióticos de latencia (por ejemplo, ampicilina más eritromicina durante 48 horas y luego amoxicilina y erit	confirmado	F26	statpearls-oa	Treatment: antibióticos de latencia
+OBST-T09	153	Considerar terminar el embarazo desde la semana 34 (GPC 2013); con corioamnionitis, abruptio o compromiso feta	corregido	F15	pdf	Sección 3, pregunta 13 (manejo de la RPM según edad gestacional)
+OBST-T09	155	Las guías difieren: antibióticos de latencia, StatPearls usa ampicilina más eritromicina durante 48 horas y lu	corregido	F26	statpearls-oa	Treatment: antibióticos de latencia; NG25 1.4
+OBST-T10	162	Primera etapa: latente y activa; la fase activa se define desde 6 cm de dilatación según ACOG.	confirmado	F27	statpearls-oa	Fases del trabajo de parto
+OBST-T10	165	Las guías difieren: NICE define el trabajo de parto establecido desde 4 cm de dilatación con contracciones reg	confirmado	F29	html	Definiciones de trabajo de parto (NG235 1.8)
+OBST-T10	168	Errores típicos: diagnosticar detención antes de los 6 cm; omitir el manejo activo del tercer periodo.	confirmado	F28	statpearls-oa	Detención de la fase activa
+OBST-T11	173	Sin diagnóstico y tratamiento tempranos, hasta 40% de los embarazos con sífilis terminan en mortinato y alrede	corregido	F30	statpearls-oa	Epidemiología y presentación clínica
+OBST-T12	189	La vía del parto depende de la carga viral medida 2 a 4 semanas antes del parto.	confirmado	F33	pdf	Prevención de la transmisión materno infantil
+OBST-T12	190	Al recién nacido de bajo riesgo se le da zidovudina oral, 4 mg/kg por dosis cada 12 horas durante 4 semanas, y	corregido	F35	pdf	Recomendaciones 1 a 3, neonatos de bajo riesgo; vía clínica 2024 sobre lactancia
+OBST-T13	204	Manejo: clindamicina 900 mg IV cada 8 horas más gentamicina 5 mg/kg IV cada 24 horas hasta mejoría; cultivos, 	confirmado	F37	statpearls-oa	Treatment: esquema parenteral de clindamicina y gentamicina
+OBST-T14	212	Prevención: inmunoglobulina anti-D entre las semanas 26 y 28 y en las 72 horas tras el parto de un recién naci	corregido	F18	statpearls-oa	Administración y dosis de RhIG
+OBST-T14	215	En Colombia: la Resolución 3280 indica anti-D a toda mujer Rh negativa con pareja Rh positivo o no determinado	corregido	F1	pdf	Procedimientos de interrupción voluntaria del embarazo: inmunoglobulina anti-D
+OBST-T14	217	Errores típicos: olvidar la profilaxis entre las semanas 26 y 28; dar la inmunoglobulina después de 72 horas s	corregido	F18	statpearls-oa	Administración: omisión posparto
+OBST-C01	223	Manejo: hospitalizar y estabilizar; sulfato de magnesio (carga de 4 g IV según NICE y la GPC colombiana, o de 	corregido	F10	statpearls-oa	Treatment: magnesio y antihipertensivos; NG133; GPC
+OBST-C01	224	Perlas: con criterios de severidad no se espera a las 37 semanas; el magnesio se mantiene hasta 24 horas despu	confirmado	F8	html	Momento del parto (NG133 1.5)
+OBST-C02	232	Manejo: activar Código Rojo; masaje uterino, dos accesos venosos, cristaloides y hemoderivados; oxitocina 10 U	corregido	F12	statpearls-oa	Treatment: uterotónicos y ácido tranexámico; GPC 2013
+OBST-C05	259	Manejo: hospitalizar; betametasona 12 mg IM por 2 dosis; antibióticos de latencia (ampicilina y eritromicina p	confirmado	F15	pdf	Sección 3, preguntas 13 y 15; StatPearls PPROM

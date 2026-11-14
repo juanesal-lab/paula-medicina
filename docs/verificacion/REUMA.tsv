@@ -1,0 +1,32 @@
+id_seccion	linea	dato	estado	fuente	via	ubicacion_en_fuente
+REUMA-T01	41	ACR/EULAR 2010: 6 o más de 10 puntos; duración 6 semanas o más	confirmado	F1	statpearls-oa	Diagnosis (criterios 2010)
+REUMA-T01	42	Metotrexato 10-15 mg/semana, +5 mg/mes hasta 20-25	corregido	F1	statpearls-oa	Treatment (antes: 7,5-15 mg al inicio)
+REUMA-T01	43	Ácido fólico semanal tras el metotrexato (≥24 h); suspender metotrexato 3 meses antes de la concepción	corregido	F29,F30	pmc-efetch	Discusión (ensayo de ácido fólico); resultados de guías (preconcepción) — antes: 5 mg semanales en día distinto, sin fuente
+REUMA-T02	56	EULAR/ACR 2019: ANA 1:80; 10 puntos; pesos 6, 10, 8, 4, 6, 4; biopsia con proteinuria mayor de 0,5 g	confirmado	F27,F5	pmc-efetch,statpearls-oa	Tablas de criterios y pesos; Lupus nephritis (biopsia)
+REUMA-T02	57	Nefritis III/IV: MMF 2-3 g/día o ciclofosfamida 500 mg c/2 sem x6 con 3 días de glucocorticoide IV	confirmado	F5	statpearls-oa	Treatment (EULAR 2019); se retiraron dosis de HCQ y pulsos
+REUMA-T02	58	HCQ hasta 5 mg/kg de peso real, tamizaje retiniano; metilprednisolona IV total 500-2500 mg en nefritis lúpica; actividad en 6-12 meses previos	corregido	F31,F32,F33	pmc-efetch	Introducción (guías AAO 2016); sección de guías EULAR/ERA-EDTA 2019; Tabla 2 de riesgos preconcepcionales — antes: metilprednisolona 500-1000 mg x3 días y remisión sostenida de 6 meses
+REUMA-T03	65	Urato mayor de 6,8 mg/dL (saturación)	confirmado	F6	statpearls-oa	Pathophysiology
+REUMA-T03	71	Colchicina 1,2 mg y 0,6 mg a la hora, luego 0,6 mg c/12 h; prednisona 30-40 mg; alopurinol 100 mg, meta menor de 6; profilaxis 3-6 meses	corregido	F6	statpearls-oa	Treatment (antes: prednisona por 5 días)
+REUMA-T04	83	Artritis séptica: 3-4 semanas totales; se retiró ceftriaxona 2 g	corregido	F9	statpearls-oa	Treatment
+REUMA-T05	91	Dolor lumbar inflamatorio: edad de inicio menor de 40 años, duración de 3 meses o más	confirmado	F10,F35	pmc-efetch	Diagnóstico (historia de dolor lumbar inflamatorio) y Figura de clasificación
+REUMA-T06	103	ACG en mayores de 50 años	confirmado	F12	statpearls-oa	Introducción
+REUMA-T06	104	Takayasu: la mayoría entre 40 y 50 años (antes: menor de 40)	corregido	F15	statpearls-oa	Epidemiología
+REUMA-T06	106	Biopsia de arteria temporal dentro de 2 semanas de glucocorticoide	corregido	F12	statpearls-oa	Diagnosis (se quitó VSG mayor de 50)
+REUMA-T06	107	ACG prednisona 40-60 mg/día; se retiraron dosis de pulsos y de Takayasu	corregido	F12,F15	statpearls-oa	Treatment
+REUMA-T08	129	Sydney: menos de 10 semanas, 10 semanas o más, 34 semanas, 12 semanas de separación	confirmado	F18	statpearls-oa	Diagnosis (criterios)
+REUMA-T08	131	INR 2-3 en trombosis; AAS 75-100 mg en profilaxis primaria de alto riesgo y embarazo	confirmado	F37,F36	pmc-efetch	Warfarina y anticoagulantes (F37); profilaxis primaria y embarazo (F36)
+REUMA-T08	132	Repetir anticuerpos a las 12 semanas	confirmado	F18	statpearls-oa	Diagnosis
+REUMA-T09	138	PMR: mayores de 50 años; rigidez matutina mayor de 45 min	confirmado	F13	statpearls-oa	Clinical presentation
+REUMA-T09	142	Prednisona 12,5-25 mg; a 10 mg en 4-8 semanas; luego 1 mg cada 4 semanas	corregido	F13	statpearls-oa	Treatment (antes: 12 meses y respuesta en 1-3 días)
+REUMA-T13	186	Fases chikungunya: virémica 5-10 días, subaguda 6-21 días, crónica desde 3 meses	corregido	F28	pmc-efetch	Introducción clínica — antes: aguda/subaguda/crónica con cortes no contrastados
+REUMA-T13	189	RT-PCR primeros 5 días; IgM desde el día 7 hasta 2-3 meses	corregido	F28	pmc-efetch	Tabla 1 de diagnóstico — antes: RT-PCR 5 a 7 días e IgM desde el día 5
+REUMA-T14	205	Amitriptilina 5-10 mg (20-30 eficaz); duloxetina 20-30 hasta 60 mg; pregabalina 25-50 y 300-450 mg	corregido	F26	statpearls-oa	Treatment (antes: amitriptilina 10-25, duloxetina 30-60, pregabalina 150-450)
+REUMA-C01	213	Caso gota: colchicina 1,2 y 0,6 mg; alopurinol 100 mg; meta menor de 6	confirmado	F6	statpearls-oa	Treatment
+REUMA-C02	222	Caso LES: MMF 2-3 g; ciclofosfamida 500 mg x6; 10 o más puntos	confirmado	F5,F27	statpearls-oa,pmc-efetch	Treatment; criterios 2019
+REUMA-C02	223	HCQ hasta 5 mg/kg; metilprednisolona IV total 500-2500 mg en nefritis proliferativa	corregido	F31,F32	pmc-efetch	Guías AAO 2016; EULAR/ERA-EDTA 2019 — antes: 500-1000 mg por pulso
+REUMA-C03	232	Caso ACG: prednisona 40-60 mg; biopsia en 2 semanas	confirmado	F12	statpearls-oa	Treatment, Diagnosis
+REUMA-C03	233	Metilprednisolona 500-1000 mg IV al día durante 3-5 días en isquemia craneal	corregido	F34	pmc-efetch	Tabla de manifestaciones y tratamientos de ACG — antes: 3 días; duración de reducción 12 meses o más retirada (no figura)
+REUMA-C04	241	ACR/EULAR 2010: puntaje 6 o más	confirmado	F1	statpearls-oa	Diagnosis
+REUMA-C04	242	Metotrexato 15 mg semanales hasta 20-25 mg	confirmado	F1	statpearls-oa	Treatment
+REUMA-C04	243	Ácido fólico semanal; actividad mensual si alta/moderada; ajustar al menos cada 3 meses	corregido	F29,F38	pmc-efetch	Recomendación 2 y 3 del T2T 2014 — antes: ácido fólico 5 mg, evaluación cada 4 semanas, escalar a los 3 meses
+REUMA-C05	253	Metotrexato 15 mg semanal o HCQ más sulfasalazina en artritis crónica por chikungunya	confirmado	F28	pmc-efetch	Manejo de la artritis crónica (estudio de Reunión; esquemas combinados)

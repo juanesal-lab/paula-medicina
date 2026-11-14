@@ -1,0 +1,22 @@
+id_seccion	linea	dato	estado	fuente	via	ubicacion_en_fuente
+GINE-T01	39	Los métodos con estrógeno (píldora, parche, anillo) se evitan en migraña con aura, antecedente de trombosis, t	confirmado	F1	bookshelf-oa	Anexos de criterios para anticonceptivos combinados: migraña, tabaquismo, lactancia, trombosis
+GINE-T01	40	Los DIU y el implante son de acción prolongada y reversibles; las tasas de fallo informadas son de alrededor d	corregido	F2	statpearls-oa	Introducción: tasas de fallo del DIU
+GINE-T02	52	En mujeres en edad reproductiva se inicia con prueba de embarazo, hemograma y ecografía; a partir de los 45 añ	corregido	F7	statpearls-oa	Evaluation: biopsia endometrial a partir de los 45 años
+GINE-T03	62	Colombia: ADN-VPH de alto riesgo en mujeres de 30 a 65 años, repetida cada 5 años si es negativa; entre 25 y 2	confirmado	F10	html	Esquemas de tamización por edad; Resolución 3280, 9.2 y 9.3
+GINE-T03	66	En Colombia: la GPC de lesiones precancerosas del cuello uterino (2014, Minsalud/Instituto Nacional de Cancero	corregido	F14	pdf	Recomendaciones 1.3 a 1.5 y 4.4 de la GPC
+GINE-T04	75	La gran mayoría de los tamizajes resulta BI-RADS 1 o 2 (alrededor de 5 a 9% requiere más estudio); BI-RADS 3 s	corregido	F15	statpearls-oa	Clinical Significance y categorías del informe
+GINE-T04	77	En Colombia: mamografía bilateral cada 2 años entre 50 y 69 años; examen clínico anual desde los 40 años por u	confirmado	F18	pdf	Recomendaciones de tamización 1 a 6; lineamiento 2025
+GINE-T05	84	Candidiasis: prurito y flujo blanco grumoso con pH normal de 4 a 4,5; hasta 75% de las mujeres tiene al menos 	confirmado	F20	statpearls-oa	Epidemiología y diagnóstico de candidiasis vulvovaginal
+GINE-T06	96	Infección ascendente del tracto genital superior, causada por Neisseria gonorrhoeae, Chlamydia trachomatis y f	confirmado	F23	statpearls-oa	Etiología y fisiopatología
+GINE-T06	100	Manejo: esquema ambulatorio internacional: ceftriaxona 500 mg IM una vez más doxiciclina 100 mg VO cada 12 hor	corregido	F23	statpearls-oa	Treatment/Management: esquema ambulatorio y criterios de hospitalización
+GINE-T06	101	Las guías difieren: la GPC colombiana de ITS (2013) indica, en forma ambulatoria, ceftriaxona 500 mg IM en dos	corregido	F22	pdf	Recomendaciones 119 a 124 (EPI)
+GINE-T07	110	Morfología poliquística según Rotterdam 2003: 12 o más folículos de 2 a 9 mm o volumen ovárico mayor de 10 mL 	corregido	F25	pmc-efetch	Introducción: criterios de Rotterdam y guía 2018
+GINE-T08	120	Tejido endometrial fuera del útero; afecta a cerca de 10% de las mujeres en edad reproductiva en el mundo.	corregido	F28	statpearls-oa	Introduction/Epidemiology
+GINE-T09	130	Primaria: ausencia de menarquia a los 15 años o a los 3 años de la telarquia; secundaria: ausencia de menstrua	confirmado	F30	statpearls-oa	Introduction: definiciones
+GINE-T10	143	Candidatas: menores de 60 años o dentro de los 10 años de la menopausia; el riesgo de trombosis y accidente ce	confirmado	F33	statpearls-oa	Treatment: hipótesis de oportunidad y estrógeno transdérmico
+GINE-T11	152	Hasta 20% de las mujeres tienen al menos una masa pélvica en su vida; la ecografía es la modalidad de elección	confirmado	F36	statpearls-oa	Introduction: frecuencia de masas pélvicas
+GINE-T11	153	Torsión: dolor súbito, náuseas; factor mayor es una masa de 5 cm o más; es urgencia quirúrgica, no mortal pero	confirmado	F37	statpearls-oa	Etiology: factor de riesgo masa de 5 cm
+GINE-T12	162	Se define infertilidad por 12 meses de relaciones sin protección sin embarazo; se adelanta el estudio a los 6 	confirmado	F39	statpearls-oa	Introduction: definición de infertilidad
+GINE-T12	169	Errores típicos: estudiar solo a la mujer; esperar un año completo en mayores de 35 años.	confirmado	F39	statpearls-oa	Introduction: definición de infertilidad
+GINE-T13	176	La Resolución 051 de 2023 adopta la regulación única de la atención y la define como esencial y urgente, con p	confirmado	F41	pdf	Artículo 9 del plazo máximo para el servicio
+GINE-C01	187	Perlas: edad de 45 años o más, sumada a obesidad, obliga a muestrear el endometrio.	confirmado	F7	statpearls-oa	Evaluation: biopsia endometrial por edad

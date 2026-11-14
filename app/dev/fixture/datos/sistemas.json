@@ -1,0 +1,41 @@
+{
+ "version": 1,
+ "sistemas": [
+  {
+   "id": "oseo",
+   "nombre": "Sistema óseo",
+   "color": "#E8DCC4",
+   "glb": "modelos/oseo.glb",
+   "bytes": 18044,
+   "tris": 1144,
+   "estructuras": 14,
+   "visible_inicio": true,
+   "orden": 1,
+   "opcional": false
+  },
+  {
+   "id": "muscular",
+   "nombre": "Sistema muscular",
+   "color": "#B5523B",
+   "glb": "modelos/muscular.glb",
+   "bytes": 16112,
+   "tris": 1600,
+   "estructuras": 14,
+   "visible_inicio": false,
+   "orden": 2,
+   "opcional": false
+  },
+  {
+   "id": "nervioso",
+   "nombre": "Sistema nervioso",
+   "color": "#E8C547",
+   "glb": "modelos/nervioso.glb",
+   "bytes": 9904,
+   "tris": 840,
+   "estructuras": 6,
+   "visible_inicio": false,
+   "orden": 3,
+   "opcional": false
+  }
+ ]
+}

@@ -1,0 +1,222 @@
+{
+ "version": 1,
+ "sistema": "oseo",
+ "fichas": {
+  "ta2:9001": {
+   "clave": "ta2:9001",
+   "ta2": "9001",
+   "nombre_es": "Cráneo",
+   "nombre_la": "Cranium",
+   "tipo": "hueso",
+   "resumen": "Conjunto óseo de la cabeza (dato de prueba).",
+   "funcion": "Protege el encéfalo y sostiene los órganos de los sentidos.",
+   "irrigacion": "Ramas de las arterias meníngeas y temporal superficial.",
+   "drenaje_venoso": null,
+   "inervacion": null,
+   "drenaje_linfatico": null,
+   "musculo": null,
+   "relaciones": null,
+   "relevancia_clinica": [
+    "Las fracturas de la base del cráneo pueden lesionar pares craneales.",
+    "El pterion es una zona delgada sobre la arteria meníngea media."
+   ],
+   "perla": "Pterion: cuatro huesos confluyen en un punto frágil.",
+   "fuentes": [
+    {
+     "titulo": "Anatomy and Physiology 2e — OpenStax (dato de prueba)",
+     "url": "https://openstax.org/books/anatomy-and-physiology-2e"
+    }
+   ],
+   "revisado": "2026-11-13"
+  },
+  "ta2:9002": {
+   "clave": "ta2:9002",
+   "ta2": "9002",
+   "nombre_es": "Mandíbula",
+   "nombre_la": "Mandibula",
+   "tipo": "hueso",
+   "resumen": "Único hueso móvil de la cara (dato de prueba).",
+   "funcion": "Permite la masticación y aloja las piezas dentales inferiores.",
+   "irrigacion": null,
+   "drenaje_venoso": null,
+   "inervacion": "Nervio alveolar inferior (rama de V3).",
+   "drenaje_linfatico": null,
+   "musculo": null,
+   "relaciones": null,
+   "relevancia_clinica": [
+    "Las fracturas suelen ser dobles por su forma de arco."
+   ],
+   "perla": null,
+   "fuentes": [
+    {
+     "titulo": "Anatomy and Physiology 2e — OpenStax (dato de prueba)",
+     "url": "https://openstax.org/books/anatomy-and-physiology-2e"
+    }
+   ],
+   "revisado": "2026-11-13"
+  },
+  "ta2:9003": {
+   "clave": "ta2:9003",
+   "ta2": "9003",
+   "nombre_es": "Columna vertebral",
+   "nombre_la": "Columna vertebralis",
+   "tipo": "hueso",
+   "resumen": "Eje óseo del tronco (dato de prueba).",
+   "funcion": "Sostiene el tronco y protege la médula espinal.",
+   "irrigacion": null,
+   "drenaje_venoso": null,
+   "inervacion": null,
+   "drenaje_linfatico": null,
+   "musculo": null,
+   "relaciones": null,
+   "relevancia_clinica": [
+    "La estenosis del canal puede comprimir raíces nerviosas."
+   ],
+   "perla": "Cuenta 7 cervicales, 12 torácicas y 5 lumbares.",
+   "fuentes": [
+    {
+     "titulo": "Anatomy and Physiology 2e — OpenStax (dato de prueba)",
+     "url": "https://openstax.org/books/anatomy-and-physiology-2e"
+    }
+   ],
+   "revisado": "2026-11-13"
+  },
+  "ta2:9004": {
+   "clave": "ta2:9004",
+   "ta2": "9004",
+   "nombre_es": "Esternón",
+   "nombre_la": "Sternum",
+   "tipo": "hueso",
+   "resumen": "Hueso plano de la pared torácica anterior (dato de prueba).",
+   "funcion": "Une las costillas y protege el mediastino.",
+   "irrigacion": null,
+   "drenaje_venoso": null,
+   "inervacion": null,
+   "drenaje_linfatico": null,
+   "musculo": null,
+   "relaciones": null,
+   "relevancia_clinica": [
+    "Es sitio de punción de médula ósea y de esternotomía."
+   ],
+   "perla": null,
+   "fuentes": [
+    {
+     "titulo": "Anatomy and Physiology 2e — OpenStax (dato de prueba)",
+     "url": "https://openstax.org/books/anatomy-and-physiology-2e"
+    }
+   ],
+   "revisado": "2026-11-13"
+  },
+  "ta2:9007": {
+   "clave": "ta2:9007",
+   "ta2": "9007",
+   "nombre_es": "Húmero",
+   "nombre_la": "Humerus",
+   "tipo": "hueso",
+   "resumen": "Hueso del brazo (dato de prueba).",
+   "funcion": "Soporta el brazo y articula hombro y codo.",
+   "irrigacion": "Arterias circunflejas y braquial profunda.",
+   "drenaje_venoso": null,
+   "inervacion": "Nervio radial en el surco espiral.",
+   "drenaje_linfatico": null,
+   "musculo": null,
+   "relaciones": null,
+   "relevancia_clinica": [
+    "La fractura de diáfisis media puede lesionar el nervio radial."
+   ],
+   "perla": "Nervio radial = surco espiral del húmero.",
+   "fuentes": [
+    {
+     "titulo": "Anatomy and Physiology 2e — OpenStax (dato de prueba)",
+     "url": "https://openstax.org/books/anatomy-and-physiology-2e"
+    }
+   ],
+   "revisado": "2026-11-13"
+  },
+  "ta2:9008": {
+   "clave": "ta2:9008",
+   "ta2": "9008",
+   "nombre_es": "Fémur",
+   "nombre_la": "Femur",
+   "tipo": "hueso",
+   "resumen": "Hueso más largo y fuerte del cuerpo (dato de prueba).",
+   "funcion": "Transmite el peso del tronco a la pierna.",
+   "irrigacion": "Arterias circunflejas femorales y perforantes.",
+   "drenaje_venoso": null,
+   "inervacion": null,
+   "drenaje_linfatico": null,
+   "musculo": null,
+   "relaciones": null,
+   "relevancia_clinica": [
+    "La fractura de cuello femoral compromete la irrigación de la cabeza."
+   ],
+   "perla": null,
+   "fuentes": [
+    {
+     "titulo": "Anatomy and Physiology 2e — OpenStax (dato de prueba)",
+     "url": "https://openstax.org/books/anatomy-and-physiology-2e"
+    }
+   ],
+   "revisado": "2026-11-13",
+   "accidentes": [
+    {
+     "nombre": "Trocánter mayor",
+     "nombre_la": "Trochanter major",
+     "nota": "Inserción de los glúteos medio y menor (dato de prueba)."
+    },
+    {
+     "nombre": "Línea áspera",
+     "nombre_la": null,
+     "nota": "Inserción de los aductores (dato de prueba)."
+    }
+   ],
+   "articulaciones": [
+    {
+     "con": "Coxal",
+     "tipo": "sinovial esferoidea",
+     "nombre": "Articulación de la cadera"
+    }
+   ],
+   "inserciones": [
+    {
+     "musculo": "Glúteo medio",
+     "tipo": "insercion",
+     "donde": "Trocánter mayor"
+    },
+    {
+     "musculo": "Vasto lateral",
+     "tipo": "origen",
+     "donde": "Línea áspera"
+    }
+   ],
+   "osificacion": "Epífisis distal presente hacia el nacimiento (dato de prueba).",
+   "contrastado": false
+  },
+  "ta2:9009": {
+   "clave": "ta2:9009",
+   "ta2": "9009",
+   "nombre_es": "Tibia",
+   "nombre_la": "Tibia",
+   "tipo": "hueso",
+   "resumen": "Hueso medial de la pierna (dato de prueba).",
+   "funcion": "Soporta el peso del cuerpo.",
+   "irrigacion": null,
+   "drenaje_venoso": null,
+   "inervacion": null,
+   "drenaje_linfatico": null,
+   "musculo": null,
+   "relaciones": null,
+   "relevancia_clinica": [
+    "Su cara anteromedial es subcutánea, por lo que las fracturas son a menudo abiertas."
+   ],
+   "perla": null,
+   "fuentes": [
+    {
+     "titulo": "Anatomy and Physiology 2e — OpenStax (dato de prueba)",
+     "url": "https://openstax.org/books/anatomy-and-physiology-2e"
+    }
+   ],
+   "revisado": "2026-11-13"
+  }
+ }
+}

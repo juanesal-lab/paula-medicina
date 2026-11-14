@@ -1,0 +1,13 @@
+id_seccion	linea	dato	estado	fuente	via	ubicacion_en_fuente
+SALUDP-T02	53	RR=1 sin diferencia; RRR grande con RAR pequeña; IC 95 % que incluye 1 no significativo	confirmado	F3,F20	pmc-efetch	Relative risk, odds ratio y NNT; StatPearls intervalos de confianza
+SALUDP-T06	92	Potencia = 1 menos beta; se quitó "80 % o más" (no hallado en las fuentes leídas)	corregido	F19	statpearls-oa	StatPearls errores tipo I/II y potencia
+SALUDP-T06	93	IC 95 %: contiene el valor verdadero en 95 de 100 repeticiones; umbral 0,05	confirmado	F20,F3	statpearls-oa	StatPearls intervalos de confianza
+SALUDP-T08	112	Ley 100 de 1993 (23 dic.) crea el sistema de seguridad social integral; regímenes contributivo y subsidiado, EPS, IPS	confirmado	F14	pdf	Texto de la ley, encabezado y título sobre el sistema de salud
+SALUDP-T08	113	Ley Estatutaria 1751 de 2015 (16 feb.): salud derecho fundamental autónomo; principios; exclusiones explícitas	confirmado	F15	pdf	Texto de la ley, artículos 2, 6 y 15
+SALUDP-T08	114	Resolución 3280 de 2018: adopta rutas de promoción y mantenimiento y materno-perinatal	confirmado	F16,F17	pdf	Encabezado de la resolución; página RIAS
+SALUDP-T12	155	Muerte materna: embarazo o hasta 42 días tras la terminación	confirmado	F12	pdf	INS protocolo 550, definiciones
+SALUDP-T12	156	Meta ODS 3: RMM menor de 70 por 100 000 nacidos vivos	confirmado	F11	html	OMS mortalidad materna, ODS
+SALUDP-T12	157	Mortalidad infantil <1 año; neonatal 28 días; perinatal desde semana 22 hasta 7 días (no hay fuente leída)	sin_contrastar	F11	html	OMS mortalidad materna (no trata mortalidad infantil)
+SALUDP-T12	158	Muerte materna temprana hasta 42 días; tardía 43 días-1 año; coincidentes	confirmado	F12	pdf	INS protocolo 550, clasificación
+SALUDP-T12	160	INS protocolo mortalidad materna código 550, versión 09 (30 dic. 2024); unidad de análisis	confirmado	F12	pdf	Carátula y unidad de análisis
+SALUDP-T14	177	Resolución 8430 de 1993 (4 oct.): normas científicas, técnicas y administrativas de investigación en salud	confirmado	F18	pdf	Encabezado y título I de la resolución

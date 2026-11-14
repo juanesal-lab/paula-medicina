@@ -1,0 +1,23 @@
+id_seccion	linea	dato	estado	fuente	via	ubicacion_en_fuente
+FARMA-T01	41	Estado estable/eliminación 4-5 vidas medias (94-97%)	confirmado	F1	statpearls-oa	Pharmacokinetics / half-life
+FARMA-T01	43	Salicilato se satura sobre 1,4 mmol/L	confirmado	F1	statpearls-oa	Pharmacokinetics / zero-order
+FARMA-T05	101	Dosis máxima 3 g/día	confirmado	F10	statpearls-oa	Dosing
+FARMA-T06	114	Inicio 24-72 h, pico 5-7 días	confirmado	F13	statpearls-oa	Pharmacokinetics
+FARMA-T06	115	INR 2-3 (TEV, FA), 2,5-3,5 prótesis mitral mecánica; INR >5 más sangrado	confirmado	F13	statpearls-oa	Administration / target INR
+FARMA-T09	165	Toxicidad con litemia >1,5 mmol/L	confirmado	F22	statpearls-oa	Epidemiology / toxicity
+FARMA-T09	170	Hemodiálisis si Li >5,0, confusión o >36 h para <1,0 mmol/L (antes >4,0 con falla renal)	corregido	F22	statpearls-oa	Management (criterios EXTRIP)
+FARMA-T10	180	CYP2C9: -37% heterocigoto, -70% homocigoto	confirmado	F13	statpearls-oa	Pharmacogenomics
+FARMA-T11	192	Volumen +1,5 L; TFG +50%	confirmado	F26	statpearls-oa	Maternal changes / renal and blood volume
+FARMA-T12	211	Naloxona 0,4 mg; 0,04-0,1 mg si dependencia; 0,1-0,4 mg	confirmado	F12	statpearls-oa	Adult dosage
+FARMA-T12	212	Vida media 30-80 min; vigilar 6-12 h	confirmado	F12	statpearls-oa	Monitoring
+FARMA-T12	213	Flumazenil 0,2 + 0,3 + 0,5 mg máx 3 mg; contraindicaciones corregidas (antes dependencia crónica y epilepsia sin sustento)	corregido	F27	statpearls-oa	Adult dosage; contraindications
+FARMA-C01	224	Síntomas con >50% de inhibición de AChE	confirmado	F28	statpearls-oa	Diagnosis
+FARMA-C01	225	Atropina 2-5 mg, duplicar c/3-5 min; pralidoxima >=30 mg/kg en 30 min y >=8 mg/kg/h; UCI >=48 h	confirmado	F28	statpearls-oa	Treatment; pralidoxime; admission
+FARMA-C02	234	Línea de tratamiento 150 µg/mL a las 4 h	confirmado	F10	statpearls-oa	Rumack-Matthew nomogram
+FARMA-C02	235	NAC 21 h 150/50/100 mg/kg, oral 140+70 c/4 h; conjugación 89% (antes 90%); criterio de suspensión y King's College corregidos	corregido	F10	statpearls-oa	Treatment; N-acetylcysteine; prognosis
+FARMA-C02	237	Fases 0-24 h, 24-72 h, 72-96 h; dosis tóxica >150 mg/kg o 12 g	confirmado	F10	statpearls-oa	Clinical course; toxic dose
+FARMA-C03	244	Hunter: sensibilidad 84%, especificidad 97%	confirmado	F23	statpearls-oa	Diagnosis
+FARMA-C03	245	Ciproheptadina 12 mg + 2 mg c/2 h; T >=41,1 °C intubar	confirmado	F23	statpearls-oa	Treatment
+FARMA-C04	253	K >5,0-5,5; cambios ECG por rangos (antes umbral de 6,5 como intervención agresiva, sin sustento)	corregido	F19	statpearls-oa	Etiology / ECG changes
+FARMA-C04	254	Insulina 10 U + 50 mL D50; furosemida 40 mg IV c/12 h; cloruro de calcio 3 veces calcio elemental	confirmado	F17+F16+F9	no leída	Treatment
+FARMA-C04	254	Insulina 10 U + 50 mL D50; furosemida 40 mg IV c/12 h; cloruro de calcio 3 veces calcio elemental	confirmado	F19	statpearls-oa	Treatment

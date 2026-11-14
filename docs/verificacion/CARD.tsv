@@ -1,0 +1,36 @@
+id_seccion	linea	dato	estado	fuente	via	ubicacion_en_fuente
+CARD-T01	41	Emergencia hipertensiva: descenso máximo 25 % en la primera hora, luego menos de 160/120 en 2-6 h; disección sistólica menos de 120 mmHg	corregido	F3	statpearls-oa	Treatment / Management (descenso escalonado; texto decía presión arterial media)
+CARD-T01	42	GPC Colombia HTA: tercera edición 2025, HTA desde 130/80 con MAPA o AMPA	corregido	F2	pdf	Recomendación 13 y antecedentes (antes decía 2013/2017 y 'parece')
+CARD-T01	43	Umbral 140/90 (europeas) vs 130/80 (EE. UU. y GPC 2025); metas 130/80 y menos de 140/90	corregido	F1,F2	statpearls-oa	Definición y metas por guía; GPC 1.1 Antecedentes
+CARD-T02	55	STEMI ≥1 mm en dos derivaciones contiguas; V2-V3 con criterios por sexo y edad (cifras de V2-V3 retiradas por no verlas)	corregido	F4	statpearls-oa	Evaluation / ECG
+CARD-T02	57	Aspirina 162-325 mg; ticagrelor 180 mg; clopidogrel 300-600 mg; solo clopidogrel con fibrinólisis	confirmado	F4,F6	statpearls-oa,pdf	Treatment (ACS); GPC SCA tabla de antiagregantes
+CARD-T02	59	Atorvastatina 80 mg o rosuvastatina 20-40 mg; DAPT al menos 12 meses	corregido	F4,F6	statpearls-oa,pdf	Treatment (estatinas y DAPT); antes decía atorvastatina 40-80 mg
+CARD-T03	70	FEVI reducida ≤40 %, levemente reducida 41-49 %, preservada ≥50 %	confirmado	F7	statpearls-oa	Classification
+CARD-T03	75	Espironolactona (K ≤5,0; TFGe ≥30) e ISGLT2 dapagliflozina/empagliflozina 10 mg/día	corregido	F36,F9,F7	pmc-efetch,pdf,statpearls-oa	Tabla de dosis y sección MRA en ERC (antes: K menor de 5,0 y TFGe mayor de 30; ISGLT2 sin fuente)
+CARD-T03	76	Titulación cada 1-2 semanas según tolerancia	corregido	F7	statpearls-oa	Management (antes: cada 2 semanas; se retiró afirmación ISGLT2 en ICFEp)
+CARD-T03	78	CDI FEVI ≤35 % NYHA II-III (≤30 % en clase I), supervivencia mayor de 1 año; CRT QRS ≥150 ms con BRI	corregido	F7	statpearls-oa	Device therapy (antes: tras 3 meses, no confirmado)
+CARD-T04	89	Componentes de CHA2DS2-VASc (edad 75+ y 65-74); ESC 2024 usa CHA2DS2-VA	confirmado	F11,F10	statpearls-oa	Risk stratification
+CARD-T04	94	Meta de frecuencia en reposo menor de 110 lpm (control indulgente)	confirmado	F37	pmc-efetch	Introducción (RACE II; meta cambió de <80 a <100-110)
+CARD-T04	96	Cardioversión: 48 h o duración desconocida; 3 semanas antes y 4 después	confirmado	F10	statpearls-oa	Cardioversion
+CARD-T05	109	EA grave: Vmax ≥4 m/s, gradiente medio ≥40 mmHg, AVA ≤1,0 cm²	confirmado	F38	pmc-efetch	Definiciones de estenosis grave (tabla/ecocardiografía)
+CARD-T06	118	EM reumática se manifiesta 10-20 años después de fiebre reumática	corregido	F13	statpearls-oa	Presentación (antes: 20-40 años y 10-15 años)
+CARD-T06	121	EM grave: área ≤1,5 cm²	confirmado	F13	statpearls-oa	Evaluation / estadios
+CARD-T06	123	Penicilina benzatínica 1,2 millones UI cada 4 semanas (>30 kg), 600 000 UI (<30 kg); cada 3 semanas en mayor riesgo	corregido	F39,F15	pmc-efetch,statpearls-oa	Antecedentes y estudios incluidos (antes: dosis no figuraba)
+CARD-T08	144	Chagas: cerca de 30 % llega a fase crónica sintomática	corregido	F17	statpearls-oa	Overview (antes: 20-30 % a cardiopatía)
+CARD-T09	157	Taponamiento agudo con 100-150 mL	confirmado	F21	statpearls-oa	Pathophysiology
+CARD-T09	158	Pulso paradójico: caída sistólica mayor de 10 mmHg	confirmado	F20	statpearls-oa	Evaluation
+CARD-T09	160	Ibuprofeno 600 mg c/8 h; aspirina 325-650 mg c/8 h; colchicina 0,6 mg c/12 h (0,5 mg/día si menos de 70 kg), 3 meses	corregido	F19	statpearls-oa	Treatment (antes: ibuprofeno 600-800, aspirina 750-1000, colchicina 0,5 c/12 h)
+CARD-T10	169	GPC Colombia: estatina alta intensidad si ASCVD, LDL mayor de 190, DM2 mayor de 40 años con LDL mayor de 70	corregido	F23	pdf	Recomendación 1 (antes: 190 o más y diabetes sin más)
+CARD-T10	170	Alta intensidad: atorvastatina 40-80 mg, rosuvastatina 20-40 mg	confirmado	F22	statpearls-oa	Treatment (estatinas)
+CARD-T10	173	Framingham x0,75; LDL mayor de 190; DM2 mayor de 40 con LDL mayor de 70; riesgo mayor de 10 %	confirmado	F23	pdf	Recomendación 1 y nota 5
+CARD-T10	175	TG mayor de 500 mg/dL: riesgo de pancreatitis; riesgo mayor sobre 880-1000 mg/dL	corregido	F40,F41	pmc-efetch	Objetivos del manejo de hipertrigliceridemia; resumen y definición de HTG-AP (antes: solo 500 mg/dL)
+CARD-T11	185	Hipotensión ortostática: caída sostenida ≥20 sistólica o ≥10 diastólica en 3 minutos	confirmado	F42,F24	pmc-efetch,statpearls-oa	Introducción (definición)
+CARD-T12	198	Hiperkalemia: insulina 10 UI + 50 mL D50 y salbutamol dosis alta confirmados; gluconato calcio 10 mL 10 % en 2-3 min no visto	corregido	F26,F33	statpearls-oa	Calcium Gluconate, Administration (hiperpotasemia); insulina y salbutamol en Hyperkalemia
+CARD-T13	206	Taquicardia QRS ancho: QRS mayor de 120 ms y mayor de 100 lpm	confirmado	F30	statpearls-oa	Definición
+CARD-T13	208	Aleteo: frecuencia auricular 240-300/min; 2:1 ventricular ~150	corregido	F43	pmc-efetch	Discusión (antes: unos 300 por minuto)
+CARD-T13	211	Adenosina 6 mg y 12 mg	confirmado	F29,F34	statpearls-oa	Adenosine: Administration (SVT)
+CARD-T13	212	Atropina 1 mg hasta 3 mg	confirmado	F32,F35	statpearls-oa	Atropine: Dosing (bradycardia)
+CARD-C01	221	STEMI inferior: 90/120 min, aspirina 162-325 mg, fibrinólisis 30 min; bolo de 250-500 mL retirado	corregido	F4,F6	statpearls-oa	Treatment; RV infarction
+CARD-C01	223	Nitratos contraindicados con PAS menor de 90 mmHg e infarto de VD	confirmado	F4	statpearls-oa	Treatment (ACS)
+CARD-C02	230	CHA2DS2-VASc 3 (mujer, 65-74, HTA); INR 2-3; 3 semanas de anticoagulación	confirmado	F10,F11	statpearls-oa	Risk stratification; Cardioversion
+CARD-C03	239	IC aguda: O2 si SatO2 <90 %; diurético IV ≥ dosis oral, respuesta a 2 h, duplicar; vasodilatador si PAS >110; CDI FEVI ≤35 % con TMO ≥3 meses	corregido	F44,F45,F7,F9	pmc-efetch,statpearls-oa,pdf	Secciones oxígeno, diuréticos, vasodilatadores; indicaciones de CDI (antes: nitroglicerina si TA elevada; controles a la semana, sin fuente)

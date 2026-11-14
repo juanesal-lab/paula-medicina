@@ -1,0 +1,16 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "paula-anatomia",
+      "runtimeExecutable": "python3",
+      "runtimeArgs": [
+        "servidor.py",
+        "8765",
+        "--directory",
+        "app"
+      ],
+      "port": 8765
+    }
+  ]
+}

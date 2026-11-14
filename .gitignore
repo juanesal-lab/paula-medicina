@@ -1,0 +1,16 @@
+pipeline-3d/crudo/
+pipeline-3d/intermedio/
+pipeline-3d/node_modules/
+app/dev/node_modules/
+.DS_Store
+
+# Documentos internos de trabajo (contienen rutas de la máquina de desarrollo)
+docs/encargos/
+__pycache__/
+*.pyc
+
+# Muestras de texturas en revisión
+revision/
+
+# Entrega en bruto de texturas (la app usa la copia limpia en app/texturas/)
+texturas-paula/

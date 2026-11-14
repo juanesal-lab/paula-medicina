@@ -1,0 +1,184 @@
+<!doctype html>
+<html lang="es">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <meta name="color-scheme" content="dark light">
+  <meta name="description" content="Atlas de anatomía humana en 3D para estudiar por sistemas, capas y cortes.">
+  <meta name="theme-color" content="#14161A">
+  <title>Anatomía de Paula</title>
+  <link rel="preload" href="fonts/Fraunces.woff2" as="font" type="font/woff2" crossorigin>
+  <link rel="preload" href="fonts/Inter.woff2" as="font" type="font/woff2" crossorigin>
+  <link rel="stylesheet" href="css/estilos.css">
+  <script type="importmap">
+  {
+    "imports": {
+      "three": "./vendor/three/three.module.js",
+      "three/addons/": "./vendor/three/addons/"
+    }
+  }
+  </script>
+</head>
+<body>
+  <a class="saltar" href="#visor">Saltar al visor 3D</a>
+
+  <div id="app" class="app">
+    <header class="barra">
+      <button id="btn-sistemas" type="button" class="icon-btn" aria-label="Mostrar u ocultar el panel de sistemas" aria-controls="panel-sistemas" aria-expanded="true">
+        <span data-icono="sistemas"></span>
+      </button>
+      <h1 class="titulo">Anatomía <span aria-hidden="true">·</span> <em>de Paula</em></h1>
+
+      <div class="busqueda" role="search">
+        <label for="q" class="sr">Buscar estructura por nombre en español, latín o inglés</label>
+        <span class="busqueda-icono" data-icono="buscar"></span>
+        <input id="q" type="text" inputmode="search" enterkeyhint="search" role="combobox" aria-expanded="false" aria-controls="resultados" aria-autocomplete="list" autocomplete="off" autocapitalize="off" spellcheck="false" placeholder="Buscar: fémur, deltoides, encéfalo…">
+        <kbd class="atajo" aria-hidden="true">/</kbd>
+        <ul id="resultados" class="resultados" role="listbox" aria-label="Resultados de la búsqueda" hidden></ul>
+      </div>
+
+      <button id="btn-explorador" type="button" class="btn-barra" aria-controls="panel-sistemas" aria-expanded="false" aria-keyshortcuts="E" title="Explorador de estructuras (E)">
+        <span data-icono="arbol"></span><span class="btn-barra-texto">Explorador</span>
+      </button>
+      <button id="btn-creditos" type="button" class="icon-btn" aria-label="Créditos y licencias" aria-haspopup="dialog">
+        <span data-icono="info"></span>
+      </button>
+    </header>
+
+    <aside id="panel-sistemas" class="panel panel-izq" aria-label="Sistemas, separación, profundidad, corte y explorador">
+      <div class="pestanas" role="tablist" aria-label="Contenido del panel">
+        <button id="tab-vista" type="button" role="tab" aria-selected="true" aria-controls="pestana-vista">Vista</button>
+        <button id="tab-explorador" type="button" role="tab" aria-selected="false" aria-controls="pestana-explorador" tabindex="-1">Explorador</button>
+      </div>
+
+      <div id="pestana-vista" role="tabpanel" aria-labelledby="tab-vista">
+      <section class="grupo">
+        <h2 class="grupo-titulo">Sistemas</h2>
+        <ul id="lista-sistemas" class="lista-sistemas"></ul>
+      </section>
+
+      <section class="grupo" aria-labelledby="t-separar">
+        <h2 class="grupo-titulo" id="t-separar">Separar</h2>
+        <div class="campo-separar">
+          <label for="rng-separar" class="sr">Separación de las piezas, de 0 a 100 por ciento</label>
+          <input id="rng-separar" type="range" min="0" max="100" step="1" value="0">
+          <output id="txt-separar" class="valor-separar" for="rng-separar">0 %</output>
+          <button id="btn-separar-reiniciar" type="button" class="btn btn-icono" disabled aria-label="Juntar todo: separación a 0 %" title="Juntar todo"><span data-icono="restaurar"></span></button>
+        </div>
+        <div class="segmentos" role="radiogroup" aria-label="Qué se separa">
+          <button type="button" role="radio" aria-checked="true" data-alcance="visible">Todo lo visible</button>
+          <button type="button" role="radio" aria-checked="false" data-alcance="sistema">Un sistema</button>
+          <button type="button" role="radio" aria-checked="false" data-alcance="region">Región de la pieza</button>
+        </div>
+        <label for="sel-sep-sistema" class="sr">Sistema que se separa</label>
+        <select id="sel-sep-sistema" class="selector" hidden></select>
+        <label class="casilla">
+          <input id="chk-sep-atenuar" type="checkbox" checked>
+          <span>Atenuar lo que no se separa</span>
+        </label>
+        <p id="txt-sep-alcance" class="ayuda" aria-live="polite"></p>
+      </section>
+
+      <section class="grupo" aria-labelledby="t-profundidad">
+        <h2 class="grupo-titulo" id="t-profundidad">Profundidad</h2>
+        <div class="campo">
+          <label for="rng-profundidad" class="sr">Nivel de profundidad de 0 a 5</label>
+          <input id="rng-profundidad" type="range" min="0" max="5" step="1" value="0" aria-describedby="txt-profundidad">
+          <div class="escala" aria-hidden="true"><span>0</span><span>1</span><span>2</span><span>3</span><span>4</span><span>5</span></div>
+        </div>
+        <p id="txt-profundidad" class="ayuda"></p>
+      </section>
+
+      <section class="grupo" aria-labelledby="t-corte">
+        <h2 class="grupo-titulo" id="t-corte">Plano de corte</h2>
+        <div class="fila-botones">
+          <button id="btn-corte" type="button" class="btn" aria-pressed="false"><span data-icono="corte"></span><span id="txt-btn-corte">Activar corte</span></button>
+          <button id="btn-invertir" type="button" class="btn" disabled><span data-icono="invertir"></span><span>Invertir</span></button>
+        </div>
+        <div class="segmentos" role="radiogroup" aria-label="Eje del corte">
+          <button type="button" role="radio" aria-checked="true" data-eje="sagital">Sagital</button>
+          <button type="button" role="radio" aria-checked="false" data-eje="coronal">Coronal</button>
+          <button type="button" role="radio" aria-checked="false" data-eje="transversal">Transversal</button>
+        </div>
+        <div class="campo">
+          <label for="rng-corte" class="sr">Posición del plano de corte</label>
+          <input id="rng-corte" type="range" min="0" max="1" step="0.001" value="0.5" disabled>
+        </div>
+      </section>
+
+      <section class="grupo" id="grupo-aspecto" aria-labelledby="t-aspecto">
+        <h2 class="grupo-titulo" id="t-aspecto">Aspecto</h2>
+        <div class="segmentos" role="radiogroup" aria-label="Aspecto de las estructuras">
+          <button type="button" role="radio" aria-checked="false" data-aspecto="realista">Realista</button>
+          <button type="button" role="radio" aria-checked="true" data-aspecto="esquematico">Esquemático</button>
+        </div>
+        <p id="txt-aspecto" class="ayuda" aria-live="polite"></p>
+        <label class="casilla" id="lbl-fascias">
+          <input id="chk-fascias" type="checkbox" checked aria-describedby="txt-fascias">
+          <span>Mostrar fascias de revestimiento</span>
+        </label>
+        <p id="txt-fascias" class="ayuda" aria-live="polite"></p>
+      </section>
+
+      <section class="grupo" aria-labelledby="t-diseccion">
+        <h2 class="grupo-titulo" id="t-diseccion">Disección</h2>
+        <label class="casilla">
+          <input id="chk-contexto" type="checkbox" checked>
+          <span>Al aislar, dejar el resto como contexto translúcido</span>
+        </label>
+        <p class="ayuda">Selecciona una estructura para ocultarla, aislarla o volverla transparente.</p>
+      </section>
+      </div>
+
+      <div id="pestana-explorador" class="pestana-exp" role="tabpanel" aria-labelledby="tab-explorador" hidden>
+        <div class="exp-cab">
+          <label for="q-explorador" class="sr">Filtrar estructuras por nombre en español, latín o inglés</label>
+          <input id="q-explorador" type="search" class="exp-filtro" placeholder="Filtrar: fémur, arteria, deltoides…" autocomplete="off" autocapitalize="off" spellcheck="false">
+          <button id="btn-restablecer-vista" type="button" class="btn"><span data-icono="restaurar"></span><span>Restablecer vista</span></button>
+        </div>
+        <p id="txt-exp-total" class="ayuda exp-total" aria-live="polite"></p>
+        <div id="arbol-explorador" class="exp-arbol" aria-describedby="ayuda-exp"></div>
+        <p id="exp-vacio" class="ayuda exp-vacio" hidden>Ninguna estructura coincide con el filtro.</p>
+        <p id="ayuda-exp" class="ayuda exp-ayuda">Teclado: ↑ ↓ moverse · → ← abrir o cerrar · Enter elegir · V ver solo · S separar · O mostrar u ocultar · D / I lado.</p>
+      </div>
+    </aside>
+
+    <main id="visor" class="visor" tabindex="-1" aria-label="Visor 3D">
+      <div id="carga" class="carga" role="status" aria-live="polite" hidden></div>
+      <div id="mensaje" class="mensaje" role="alert" hidden></div>
+      <div id="debug" class="debug" hidden></div>
+      <div class="barra-vistas" role="toolbar" aria-label="Vistas rápidas y deshacer">
+        <div class="vistas" role="group" aria-label="Vistas rápidas">
+          <button type="button" class="btn-vista" data-vista="anterior">Anterior</button>
+          <button type="button" class="btn-vista" data-vista="posterior">Posterior</button>
+          <button type="button" class="btn-vista" data-vista="derecha">Derecha</button>
+          <button type="button" class="btn-vista" data-vista="izquierda">Izquierda</button>
+          <button type="button" class="btn-vista" data-vista="superior">Superior</button>
+        </div>
+        <div class="vistas" role="radiogroup" aria-label="Qué hace el arrastre">
+          <button id="btn-modo-girar" type="button" class="btn-vista btn-modo" role="radio" aria-checked="true" data-modo="girar" aria-keyshortcuts="M" title="Girar: arrastra para girar el cuerpo (tecla M cambia de modo)"><span data-icono="girar"></span><span>Girar</span></button>
+          <button id="btn-modo-mover" type="button" class="btn-vista btn-modo" role="radio" aria-checked="false" data-modo="mover" aria-keyshortcuts="M" title="Mover: arrastra para desplazar la vista hacia arriba, abajo o los lados (tecla M cambia de modo)"><span data-icono="mover"></span><span>Mover</span></button>
+        </div>
+        <div class="vistas" role="group" aria-label="Historial de disección">
+          <button id="btn-deshacer" type="button" class="btn-vista" disabled aria-label="Deshacer la última acción de disección"><span data-icono="deshacer"></span><span>Deshacer</span></button>
+          <button id="btn-restaurar" type="button" class="btn-vista" disabled aria-label="Restaurar todo lo oculto, aislado o transparente"><span data-icono="restaurar"></span><span>Restaurar</span></button>
+        </div>
+      </div>
+    </main>
+
+    <aside id="ficha" class="panel panel-der" data-estado="cerrada" aria-label="Ficha de la estructura"></aside>
+
+    <footer class="pie">
+      <p>Modelo masculino adulto (Z-Anatomy/BodyParts3D). Material de estudio.</p>
+      <a href="ATRIBUCIONES.md">Atribuciones</a>
+    </footer>
+    <div id="telon" class="telon" hidden></div>
+  </div>
+
+  <div id="avisos" class="avisos" role="status" aria-live="polite"></div>
+  <dialog id="dlg-creditos" class="dialogo" aria-labelledby="t-creditos"></dialog>
+
+  <noscript><p class="mensaje" style="position:fixed;inset:20% 10% auto;">Esta aplicación necesita JavaScript para mostrar el modelo 3D.</p></noscript>
+  <script type="module" src="js/main.js"></script>
+</body>
+</html>

@@ -1,0 +1,109 @@
+{
+  "version": 1,
+  "comentario": "Asignación estructura -> tejido (aspecto realista). Las reglas se evalúan EN ORDEN y gana la primera que coincide. Cada regla puede filtrar por sistema, subsistema (texto exacto o lista) y por expresiones regulares sin distinguir mayúsculas ni tildes sobre nombre (nombre_es), nombre_la y nombre_en. Si ninguna coincide se usa el tejido por defecto del sistema; un sistema con valor null se queda con el color plano. 'escala_m' es el lado real, en metros del modelo, que ocupa una repetición de la textura. 'rugosidad' multiplica el mapa de rugosidad. 'normal' es la intensidad del mapa de normales. 'brillo' (opcional, 1 por defecto) multiplica el albedo del tejido para equilibrar la luminancia entre tejidos (ver app/dev/calcular-luz.mjs). El bloque 'pelicula' lista, con las mismas reglas de filtro, las estructuras que en aspecto realista se dibujan como una película translúcida (fascias de revestimiento que envuelven grupos musculares) en vez de superficie opaca.",
+  "por_defecto": {
+    "oseo": "hueso",
+    "piel": "piel",
+    "articular": "fascia",
+    "muscular": "musculo",
+    "cardiovascular": "arteria",
+    "nervioso": "nervio",
+    "linfatico": "linfatico",
+    "digestivo": "estomago",
+    "respiratorio": "pulmon",
+    "urinario": "rinon",
+    "reproductor": "glandula",
+    "endocrino": "glandula",
+    "inserciones": null
+  },
+  "reglas": [
+    { "id": "sin-textura-inserciones", "tejido": null, "sistema": "inserciones" },
+
+    { "id": "diente", "tejido": "diente", "subsistema": "dientes" },
+    { "id": "diente-nombre", "tejido": "diente", "nombre": "^(diente|incisivo|canino|premolar|molar|esmalte)", "nombre_la": "^(dens|dentes|dentis)\\b" },
+
+    { "id": "grasa", "tejido": "grasa", "nombre": "(grasa|adipos|cojinete|almohadilla)", "nombre_la": "(adipos|corpus adiposum|pinguedo)" },
+    { "id": "corazon-valvas", "tejido": "fascia", "sistema": "cardiovascular", "subsistema": "corazon", "nombre": "(valvula|valva|cuerda tendinosa|anillo fibroso|septo)", "nombre_la": "(valvula|valva|chordae|anulus|septum)" },
+    { "id": "corazon", "tejido": "miocardio", "sistema": "cardiovascular", "subsistema": "corazon" },
+    { "id": "vena-por-nombre", "tejido": "vena", "sistema": "cardiovascular", "nombre": "(^|\\s)(vena|venas|seno venoso|seno (sagital|transverso|sigmoideo|recto|cavernoso|petroso)|plexo venoso|vv?\\.|v\\.)", "nombre_la": "(^|\\s)(vena|venae|sinus (sagittalis|transversus|sigmoideus|rectus|cavernosus)|plexus venosus|vv?\\.)" },
+    { "id": "venas", "tejido": "vena", "sistema": "cardiovascular", "subsistema": "venas" },
+    { "id": "arterias", "tejido": "arteria", "sistema": "cardiovascular", "subsistema": "arterias" },
+
+    { "id": "cartilago", "tejido": "cartilago", "nombre": "(cartilag|menisco|rodete|disco intervertebral|disco articular|fibrocartilag|sinfisis)", "nombre_la": "(cartilag|meniscus|labrum|discus (intervertebralis|articularis)|symphysis)" },
+    { "id": "cartilagos-oseo", "tejido": "cartilago", "sistema": "oseo", "subsistema": "cartilagos" },
+
+    { "id": "dura-meninges", "tejido": "fascia", "sistema": "nervioso", "nombre": "(dura|duramadre|hoz del|tienda del|meninge|aracnoides|piamadre|falx|tentorio)", "nombre_la": "(dura mater|falx|tentorium|arachnoidea|pia mater|meninx)" },
+    { "id": "cerebelo", "tejido": "cerebelo", "sistema": "nervioso", "nombre": "^(?!(tracto|fasciculo)).*(cerebel|vermis|floculo|folio|folia)", "nombre_la": "^(?!(tractus|fasciculus)).*(cerebell|vermis|flocculus)" },
+    { "id": "medula-espinal", "tejido": "medula", "sistema": "nervioso", "nombre": "(medula (espinal|oblongada)|cono medular|cola de caballo|puente|mesencefalo|tronco (del )?encefal|pedunculo|piramide|oliva|cuerpo calloso|capsula interna|corona radiada|comisura|fasciculo|tracto|columna (dorsal|anterior|lateral)|sustancia blanca|funiculo|lemnisco)", "nombre_la": "(medulla (spinalis|oblongata)|conus medullaris|cauda equina|pons|mesencephalon|truncus encephali|corpus callosum|capsula interna|fasciculus|tractus|funiculus)" },
+    { "id": "nervios-snp", "tejido": "nervio", "sistema": "nervioso", "subsistema": "snp" },
+    { "id": "ojo", "tejido": "ojo", "sistema": "nervioso", "subsistema": "sentidos", "nombre": "(globo ocular|vitreo|zonular|esclera|cornea|iris|retina|coroides|cristalino|cuerpo ciliar|humor|camara (anterior|posterior)|segmento (anterior|posterior)|conjuntiva|nervio optico)", "nombre_la": "(bulbus oculi|sclera|cornea|iris|retina|choroidea|lens|corpus ciliare)" },
+    { "id": "glandula-lagrimal", "tejido": "glandula", "sistema": "nervioso", "subsistema": "sentidos", "nombre": "glandula" },
+    { "id": "sentidos-oido", "tejido": "cartilago", "sistema": "nervioso", "subsistema": "sentidos", "nombre": "(pabellon|oreja|helix|antihelix|trago|antitrago|lobulo de la oreja|cartilag|concha)" },
+    { "id": "sentidos-resto", "tejido": "fascia", "sistema": "nervioso", "subsistema": "sentidos", "nombre": "(ligamento|membrana|vaina|tendon|saco|conducto|canaliculo|ampulla|ampolla|timpan)" },
+    { "id": "snc-ganglios-basales", "tejido": "cerebro", "sistema": "nervioso", "subsistema": "snc" },
+
+    { "id": "vainas-bolsas", "tejido": "fascia", "sistema": "muscular", "subsistema": "vainas-bolsas" },
+    { "id": "aponeurosis-tendon", "tejido": "tendon", "nombre": "(^|\\s)(tendon|tendones|aponeurosis|tracto iliotibial|ligamento nucal|fascia toracolumbar|vaina del recto|linea alba|rafe|tendinea|tendinoso|centro tendinoso|tendineo)", "nombre_la": "(^|\\s)(tendo|tendines|tendinum|aponeurosis|tractus iliotibialis|raphe|linea alba|centrum tendineum|intersectio tendinea)" },
+    { "id": "fascia", "tejido": "fascia", "nombre": "^(fascia|retinaculo|septo|membrana|capsula|ligamento|lig\\.|vaina|ligamentos|banda|bandas|polea|poleas|cintilla|tracto|lamina|cinturon)", "nombre_la": "^(fascia|retinaculum|septum|membrana|capsula|ligamentum|ligamenta|vagina|trochlea|lamina)\\b" },
+    { "id": "fascias-muscular", "tejido": "fascia", "sistema": "muscular", "subsistema": "fascias" },
+    { "id": "ligamentos-articular", "tejido": "fascia", "sistema": "articular" },
+
+    { "id": "higado", "tejido": "higado", "nombre": "(higado|hepatic|vesicula biliar|lobulo hepatico|segmento .* higado)", "nombre_la": "(^|\\s)(hepar|vesica biliaris|vesica fellea)" },
+    { "id": "bazo", "tejido": "bazo", "nombre": "(bazo)", "nombre_la": "(^|\\s)lien\\b" },
+    { "id": "rinon", "tejido": "rinon", "nombre": "(rinon|pelvis renal|capsula renal|corteza renal|medula renal|piramide renal|calice)", "nombre_la": "(^|\\s)(ren|pelvis renalis|cortex renalis|calyx)" },
+    { "id": "pulmon", "tejido": "pulmon", "nombre": "(pulmon|pleura|lobulo (superior|medio|inferior)|segmento broncopulmonar|(^|\\s)alveolo|bronquiolo)", "nombre_la": "(pulmo|pleura|lobus (superior|medius|inferior)|alveolus|alveoli)" },
+    { "id": "traquea-laringe", "tejido": "cartilago", "sistema": "respiratorio", "nombre": "(traquea|laringe|epiglotis|cricoides|tiroides|aritenoides|anillo traqueal)", "nombre_la": "(trachea|larynx|epiglottis|cartilago)" },
+    { "id": "mucosa-nasal", "tejido": "mucosa", "sistema": "respiratorio", "nombre": "(mucos|cavidad nasal|cornete|seno)", "nombre_la": "(mucos|concha nasalis|sinus)" },
+    { "id": "mucosa-urinaria", "tejido": "mucosa", "sistema": "urinario", "nombre": "(ureter|uretra|vejiga|trigono)", "nombre_la": "(ureter|urethra|vesica urinaria)" },
+
+
+    { "id": "linfatico-bazo", "tejido": "bazo", "sistema": "linfatico", "nombre": "bazo" },
+
+    { "id": "glandulas-digestivas", "tejido": "glandula", "sistema": "digestivo", "nombre": "(glandula|pancreas|parotid|sublingual|submandibular|conducto (pancreatico|parotideo|submandibular|biliar|cistico|hepatico|coledoco)|via biliar)", "nombre_la": "(glandula|pancreas|ductus (pancreaticus|parotideus|submandibularis|choledochus|cysticus|hepaticus))" },
+    { "id": "mucosa-digestiva", "tejido": "mucosa", "sistema": "digestivo", "nombre": "(mucos|lengua|paladar|uvula|faringe|vellosidad|pliegue|cripta|papila)", "nombre_la": "(mucos|lingua|palatum|uvula|pharynx|villus|plica|papilla)" },
+    { "id": "tubo-digestivo", "tejido": "estomago", "sistema": "digestivo", "nombre": "(estomago|intestino|colon|esofago|duodeno|yeyuno|ileon|ciego|apendice|recto|ano|anal|peritone|mesenterio|epiplon|omento|sigmoid|pilor|cardias|fundus)", "nombre_la": "(gaster|intestin|colon|oesophagus|esophagus|duodenum|jejunum|ileum|caecum|appendix|rectum|anus|peritone|mesenter|omentum)" },
+
+    { "id": "linfatico-nodulos", "tejido": "linfatico", "nombre": "(ganglio linfatico|nodo linfatico|nodulo linfatico|linfonodo|(^|\\s)tonsila|(^|\\s)timo(\\s|$)|conducto toracico|vaso linfatico|tronco linfatico)", "nombre_la": "(nodus lymphaticus|nodi lymphatici|(^|\\s)tonsilla|(^|\\s)thymus|ductus thoracicus|vas lymphaticum|truncus lymphaticus)" },
+    { "id": "linfatico-sistema", "tejido": "linfatico", "sistema": "linfatico" },
+    { "id": "glandula-general", "tejido": "glandula", "nombre": "(glandula|tiroides|paratiroid|hipofisis|adenohipofisis|neurohipofisis|pineal|prostata|testiculo|epididimo|ovario|(^|\\s)utero|glandula seminal|pancreas)", "nombre_la": "(glandula|thyroidea|parathyroidea|hypophysis|glandula pinealis|prostata|testis|epididymis|ovarium|uterus)" },
+    { "id": "reproductor-erectil", "tejido": "fascia", "sistema": "reproductor", "nombre": "(cuerpo (cavernoso|esponjoso)|conducto deferente|conducto eyaculador|cordon espermatico)", "nombre_la": "(corpus (cavernosum|spongiosum)|ductus (deferens|ejaculatorius)|funiculus spermaticus)" },
+    { "id": "reproductor-glande", "tejido": "mucosa", "sistema": "reproductor", "nombre": "(glande|prepucio|mucosa)", "nombre_la": "(glans|preputium)" },
+
+    { "id": "nervio-nombre", "tejido": "nervio", "nombre": "(^|\\s)(nervio|nervios|ganglio|plexo (braquial|lumbar|sacro|cervical)|raiz (anterior|posterior|nerviosa)|ramo)", "nombre_la": "(^|\\s)(nervus|nervi|ganglion|plexus (brachialis|lumbalis|sacralis|cervicalis)|radix|ramus)" },
+    { "id": "musculos", "tejido": "musculo", "sistema": "muscular", "subsistema": "musculos" }
+  ],
+  "pelicula": {
+    "comentario": "Fascias de revestimiento (las que envuelven grupos musculares: Fascia lata, crural, braquial, antebraquial, pectoral, deltoidea...). En realista se dibujan como película fina (opacidad 'opacidad', sin escribir profundidad, después de los músculos) para no tapar lo que envuelven. Retináculos, septos, aponeurosis, vainas y tendones NO están aquí: son superficie visible real y siguen opacos. Las reglas usan los mismos filtros que 'reglas' (sistema, subsistema, nombre, nombre_la, nombre_en).",
+    "opacidad": 0.15,
+    "opacidad_resaltada": 0.4,
+    "reglas": [
+      { "id": "fascia-revestimiento", "sistema": "muscular", "subsistema": "fascias", "nombre": "^(fascia|lamina superficial de la fascia)" }
+    ]
+  },
+  "tejidos": {
+    "musculo":   { "nombre": "Músculo esquelético", "escala_m": 0.09, "rugosidad": 1.0, "normal": 1.0, "variacion": 0.14, "brillo": 1.1 },
+    "tendon":    { "nombre": "Tendón y aponeurosis", "escala_m": 0.04, "rugosidad": 1.0, "normal": 0.9, "variacion": 0.10 },
+    "fascia":    { "nombre": "Fascia y ligamento", "escala_m": 0.08, "rugosidad": 1.0, "normal": 0.8, "variacion": 0.10 },
+    "hueso":     { "nombre": "Hueso", "escala_m": 0.05, "rugosidad": 1.0, "normal": 1.0, "variacion": 0.12, "brillo": 0.92 },
+    "cartilago": { "nombre": "Cartílago", "escala_m": 0.05, "rugosidad": 1.0, "normal": 0.6, "variacion": 0.08 },
+    "grasa":     { "nombre": "Tejido adiposo", "escala_m": 0.06, "rugosidad": 1.0, "normal": 0.8, "variacion": 0.10 },
+    "piel":      { "nombre": "Piel", "escala_m": 0.05, "rugosidad": 1.0, "normal": 0.8, "variacion": 0.10 },
+    "nervio":    { "nombre": "Nervio", "escala_m": 0.02, "rugosidad": 1.0, "normal": 0.9, "variacion": 0.08 },
+    "arteria":   { "nombre": "Arteria", "escala_m": 0.02, "rugosidad": 1.0, "normal": 0.9, "variacion": 0.08 },
+    "vena":      { "nombre": "Vena", "escala_m": 0.02, "rugosidad": 1.0, "normal": 0.9, "variacion": 0.08 },
+    "linfatico": { "nombre": "Tejido linfático", "escala_m": 0.025, "rugosidad": 1.0, "normal": 0.8, "variacion": 0.08 },
+    "miocardio": { "nombre": "Miocardio", "escala_m": 0.10, "rugosidad": 1.0, "normal": 1.0, "variacion": 0.12 },
+    "pulmon":    { "nombre": "Pulmón", "escala_m": 0.12, "rugosidad": 1.0, "normal": 1.0, "variacion": 0.12 },
+    "higado":    { "nombre": "Hígado", "escala_m": 0.06, "rugosidad": 1.0, "normal": 0.8, "variacion": 0.12 },
+    "rinon":     { "nombre": "Riñón", "escala_m": 0.06, "rugosidad": 1.0, "normal": 0.8, "variacion": 0.10 },
+    "bazo":      { "nombre": "Bazo", "escala_m": 0.06, "rugosidad": 1.0, "normal": 0.8, "variacion": 0.10 },
+    "estomago":  { "nombre": "Estómago e intestino", "escala_m": 0.10, "rugosidad": 1.0, "normal": 0.8, "variacion": 0.10 },
+    "mucosa":    { "nombre": "Mucosa", "escala_m": 0.08, "rugosidad": 1.0, "normal": 1.0, "variacion": 0.10 },
+    "glandula":  { "nombre": "Glándula", "escala_m": 0.08, "rugosidad": 1.0, "normal": 0.9, "variacion": 0.10 },
+    "cerebro":   { "nombre": "Cerebro", "escala_m": 0.045, "rugosidad": 1.0, "normal": 0.9, "variacion": 0.10 },
+    "cerebelo":  { "nombre": "Cerebelo", "escala_m": 0.05, "rugosidad": 1.0, "normal": 0.9, "variacion": 0.10 },
+    "medula":    { "nombre": "Médula y sustancia blanca", "escala_m": 0.05, "rugosidad": 1.0, "normal": 0.8, "variacion": 0.08 },
+    "ojo":       { "nombre": "Ojo", "escala_m": 0.03, "rugosidad": 1.0, "normal": 0.6, "variacion": 0.06 },
+    "diente":    { "nombre": "Diente", "escala_m": 0.02, "rugosidad": 1.0, "normal": 0.6, "variacion": 0.05 }
+  }
+}

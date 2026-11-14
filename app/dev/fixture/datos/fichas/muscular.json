@@ -1,0 +1,152 @@
+{
+ "version": 1,
+ "sistema": "muscular",
+ "fichas": {
+  "ta2:9012": {
+   "clave": "ta2:9012",
+   "ta2": "9012",
+   "nombre_es": "Bíceps braquial",
+   "nombre_la": "Musculus biceps brachii",
+   "tipo": "musculo",
+   "resumen": "Músculo anterior del brazo (dato de prueba).",
+   "funcion": "Flexiona el codo y supina el antebrazo.",
+   "irrigacion": "Arteria braquial.",
+   "drenaje_venoso": null,
+   "inervacion": "Nervio musculocutáneo (C5–C6).",
+   "drenaje_linfatico": null,
+   "musculo": {
+    "origen": "Cabeza larga: tubérculo supraglenoideo. Cabeza corta: apófisis coracoides.",
+    "insercion": "Tuberosidad del radio y aponeurosis bicipital.",
+    "accion": "Flexión del codo y supinación del antebrazo."
+   },
+   "relaciones": null,
+   "relevancia_clinica": [
+    "La rotura de la cabeza larga produce el signo de Popeye."
+   ],
+   "perla": "Supina con el codo flexionado: el \"sacacorchos\".",
+   "fuentes": [
+    {
+     "titulo": "Anatomy and Physiology 2e — OpenStax (dato de prueba)",
+     "url": "https://openstax.org/books/anatomy-and-physiology-2e"
+    }
+   ],
+   "revisado": "2026-11-13"
+  },
+  "ta2:9011": {
+   "clave": "ta2:9011",
+   "ta2": "9011",
+   "nombre_es": "Deltoides",
+   "nombre_la": "Musculus deltoideus",
+   "tipo": "musculo",
+   "resumen": "Músculo que da el contorno redondeado del hombro (dato de prueba).",
+   "funcion": "Abduce el brazo.",
+   "irrigacion": null,
+   "drenaje_venoso": null,
+   "inervacion": "Nervio axilar (C5–C6).",
+   "drenaje_linfatico": null,
+   "musculo": {
+    "origen": "Tercio lateral de la clavícula, acromion y espina de la escápula.",
+    "insercion": "Tuberosidad deltoidea del húmero.",
+    "accion": "Abducción del brazo; fibras anteriores flexionan, posteriores extienden."
+   },
+   "relaciones": null,
+   "relevancia_clinica": [
+    "Sitio frecuente de inyección intramuscular; se evita el nervio axilar."
+   ],
+   "perla": null,
+   "fuentes": [
+    {
+     "titulo": "Anatomy and Physiology 2e — OpenStax (dato de prueba)",
+     "url": "https://openstax.org/books/anatomy-and-physiology-2e"
+    }
+   ],
+   "revisado": "2026-11-13"
+  },
+  "ta2:9010": {
+   "clave": "ta2:9010",
+   "ta2": "9010",
+   "nombre_es": "Pectoral mayor",
+   "nombre_la": "Musculus pectoralis major",
+   "tipo": "musculo",
+   "resumen": "Músculo grande de la pared torácica anterior (dato de prueba).",
+   "funcion": "Aduce y rota medialmente el brazo.",
+   "irrigacion": null,
+   "drenaje_venoso": null,
+   "inervacion": "Nervios pectorales medial y lateral.",
+   "drenaje_linfatico": null,
+   "musculo": {
+    "origen": "Clavícula, esternón y cartílagos costales.",
+    "insercion": "Labio lateral del surco intertubercular.",
+    "accion": "Aducción y rotación medial del brazo."
+   },
+   "relaciones": null,
+   "relevancia_clinica": [],
+   "perla": null,
+   "fuentes": [
+    {
+     "titulo": "Anatomy and Physiology 2e — OpenStax (dato de prueba)",
+     "url": "https://openstax.org/books/anatomy-and-physiology-2e"
+    }
+   ],
+   "revisado": "2026-11-13"
+  },
+  "ta2:9013": {
+   "clave": "ta2:9013",
+   "ta2": "9013",
+   "nombre_es": "Recto del abdomen",
+   "nombre_la": "Musculus rectus abdominis",
+   "tipo": "musculo",
+   "resumen": "Músculo en cinta de la pared abdominal anterior (dato de prueba).",
+   "funcion": "Flexiona el tronco y comprime el abdomen.",
+   "irrigacion": null,
+   "drenaje_venoso": null,
+   "inervacion": "Nervios intercostales T7–T12.",
+   "drenaje_linfatico": null,
+   "musculo": {
+    "origen": "Sínfisis y cresta del pubis.",
+    "insercion": "Apófisis xifoides y cartílagos costales 5–7.",
+    "accion": "Flexión del tronco."
+   },
+   "relaciones": null,
+   "relevancia_clinica": [
+    "La diástasis de los rectos es frecuente tras el embarazo."
+   ],
+   "perla": null,
+   "fuentes": [
+    {
+     "titulo": "Anatomy and Physiology 2e — OpenStax (dato de prueba)",
+     "url": "https://openstax.org/books/anatomy-and-physiology-2e"
+    }
+   ],
+   "revisado": "2026-11-13"
+  },
+  "ta2:9014": {
+   "clave": "ta2:9014",
+   "ta2": "9014",
+   "nombre_es": "Cuádriceps femoral",
+   "nombre_la": "Musculus quadriceps femoris",
+   "tipo": "musculo",
+   "resumen": "Grupo extensor del muslo (dato de prueba).",
+   "funcion": "Extiende la rodilla.",
+   "irrigacion": null,
+   "drenaje_venoso": null,
+   "inervacion": "Nervio femoral (L2–L4).",
+   "drenaje_linfatico": null,
+   "musculo": {
+    "origen": "Espina ilíaca anteroinferior y diáfisis femoral.",
+    "insercion": "Tuberosidad tibial por el ligamento patelar.",
+    "accion": "Extensión de la rodilla."
+   },
+   "relaciones": null,
+   "relevancia_clinica": [],
+   "perla": "El reflejo rotuliano evalúa L3–L4.",
+   "fuentes": [
+    {
+     "titulo": "Anatomy and Physiology 2e — OpenStax (dato de prueba)",
+     "url": "https://openstax.org/books/anatomy-and-physiology-2e"
+    }
+   ],
+   "revisado": "2026-11-13"
+  }
+ }
+}

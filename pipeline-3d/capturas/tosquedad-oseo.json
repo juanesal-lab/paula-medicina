@@ -1,0 +1,409 @@
+{
+ "metodo": "arista media = sqrt(4*area/(sqrt(3)*tris)) sobre la malla original soldada",
+ "resumen": [
+  {
+   "subsistema": "miembro-inferior",
+   "huesos": 64,
+   "tris_total": 54756,
+   "arista_mediana_mm": 2.56,
+   "arista_max_mm": 7.65,
+   "tris_mediano": 532
+  },
+  {
+   "subsistema": "dientes",
+   "huesos": 28,
+   "tris_total": 46860,
+   "arista_mediana_mm": 0.91,
+   "arista_max_mm": 0.94,
+   "tris_mediano": 1470
+  },
+  {
+   "subsistema": "columna-vertebral",
+   "huesos": 26,
+   "tris_total": 72927,
+   "arista_mediana_mm": 2.87,
+   "arista_max_mm": 3.72,
+   "tris_mediano": 2336
+  },
+  {
+   "subsistema": "craneo",
+   "huesos": 37,
+   "tris_total": 142999,
+   "arista_mediana_mm": 1.76,
+   "arista_max_mm": 3.56,
+   "tris_mediano": 1460
+  },
+  {
+   "subsistema": "cartilagos",
+   "huesos": 11,
+   "tris_total": 15942,
+   "arista_mediana_mm": 1.38,
+   "arista_max_mm": 3.33,
+   "tris_mediano": 347
+  },
+  {
+   "subsistema": "torax-oseo",
+   "huesos": 47,
+   "tris_total": 274707,
+   "arista_mediana_mm": 1.74,
+   "arista_max_mm": 2.66,
+   "tris_mediano": 5364
+  },
+  {
+   "subsistema": "miembro-superior",
+   "huesos": 64,
+   "tris_total": 93686,
+   "arista_mediana_mm": 2.39,
+   "arista_max_mm": 6.21,
+   "tris_mediano": 472
+  }
+ ],
+ "mas_toscos": [
+  {
+   "id": "tibia_d",
+   "nombre": "Tibia",
+   "sistema": "oseo",
+   "subsistema": "miembro-inferior",
+   "lado": "derecho",
+   "tris": 1670,
+   "area_cm2": 423.3,
+   "arista_media_mm": 7.65,
+   "tamano_cm": 37.3
+  },
+  {
+   "id": "tibia_i",
+   "nombre": "Tibia",
+   "sistema": "oseo",
+   "subsistema": "miembro-inferior",
+   "lado": "izquierdo",
+   "tris": 1670,
+   "area_cm2": 423.3,
+   "arista_media_mm": 7.65,
+   "tamano_cm": 37.3
+  },
+  {
+   "id": "radius_i",
+   "nombre": "Radio",
+   "sistema": "oseo",
+   "subsistema": "miembro-superior",
+   "lado": "izquierdo",
+   "tris": 784,
+   "area_cm2": 130.8,
+   "arista_media_mm": 6.21,
+   "tamano_cm": 25.4
+  },
+  {
+   "id": "radius_d",
+   "nombre": "Radio",
+   "sistema": "oseo",
+   "subsistema": "miembro-superior",
+   "lado": "derecho",
+   "tris": 784,
+   "area_cm2": 130.8,
+   "arista_media_mm": 6.21,
+   "tamano_cm": 25.4
+  },
+  {
+   "id": "femur_i",
+   "nombre": "Fémur",
+   "sistema": "oseo",
+   "subsistema": "miembro-inferior",
+   "lado": "izquierdo",
+   "tris": 3794,
+   "area_cm2": 632,
+   "arista_media_mm": 6.2,
+   "tamano_cm": 47.6
+  },
+  {
+   "id": "femur_d",
+   "nombre": "Fémur",
+   "sistema": "oseo",
+   "subsistema": "miembro-inferior",
+   "lado": "derecho",
+   "tris": 3794,
+   "area_cm2": 632,
+   "arista_media_mm": 6.2,
+   "tamano_cm": 47.6
+  },
+  {
+   "id": "hip_bone_d",
+   "nombre": "Hueso coxal",
+   "sistema": "oseo",
+   "subsistema": "miembro-inferior",
+   "lado": "derecho",
+   "tris": 3788,
+   "area_cm2": 567.5,
+   "arista_media_mm": 5.88,
+   "tamano_cm": 29
+  },
+  {
+   "id": "hip_bone_i",
+   "nombre": "Hueso coxal",
+   "sistema": "oseo",
+   "subsistema": "miembro-inferior",
+   "lado": "izquierdo",
+   "tris": 3788,
+   "area_cm2": 567.5,
+   "arista_media_mm": 5.88,
+   "tamano_cm": 29
+  },
+  {
+   "id": "ulna_i",
+   "nombre": "Cúbito",
+   "sistema": "oseo",
+   "subsistema": "miembro-superior",
+   "lado": "izquierdo",
+   "tris": 904,
+   "area_cm2": 129.8,
+   "arista_media_mm": 5.76,
+   "tamano_cm": 27.4
+  },
+  {
+   "id": "ulna_d",
+   "nombre": "Cúbito",
+   "sistema": "oseo",
+   "subsistema": "miembro-superior",
+   "lado": "derecho",
+   "tris": 904,
+   "area_cm2": 129.8,
+   "arista_media_mm": 5.76,
+   "tamano_cm": 27.4
+  },
+  {
+   "id": "fibula_i",
+   "nombre": "Peroné",
+   "sistema": "oseo",
+   "subsistema": "miembro-inferior",
+   "lado": "izquierdo",
+   "tris": 1264,
+   "area_cm2": 174.2,
+   "arista_media_mm": 5.64,
+   "tamano_cm": 36.6
+  },
+  {
+   "id": "fibula_d",
+   "nombre": "Peroné",
+   "sistema": "oseo",
+   "subsistema": "miembro-inferior",
+   "lado": "derecho",
+   "tris": 1264,
+   "area_cm2": 174.2,
+   "arista_media_mm": 5.64,
+   "tamano_cm": 36.6
+  },
+  {
+   "id": "patella_i",
+   "nombre": "Rótula",
+   "sistema": "oseo",
+   "subsistema": "miembro-inferior",
+   "lado": "izquierdo",
+   "tris": 276,
+   "area_cm2": 34.1,
+   "arista_media_mm": 5.34,
+   "tamano_cm": 6.4
+  },
+  {
+   "id": "patella_d",
+   "nombre": "Rótula",
+   "sistema": "oseo",
+   "subsistema": "miembro-inferior",
+   "lado": "derecho",
+   "tris": 276,
+   "area_cm2": 34.1,
+   "arista_media_mm": 5.34,
+   "tamano_cm": 6.4
+  },
+  {
+   "id": "humerus_d",
+   "nombre": "Húmero",
+   "sistema": "oseo",
+   "subsistema": "miembro-superior",
+   "lado": "derecho",
+   "tris": 4280,
+   "area_cm2": 302.7,
+   "arista_media_mm": 4.04,
+   "tamano_cm": 33.8
+  }
+ ],
+ "menos_triangulos": [
+  {
+   "id": "distal_phalanx_of_fourth_finger_of_hand_i",
+   "nombre": "Falange distal del dedo anular",
+   "sistema": "oseo",
+   "subsistema": "miembro-superior",
+   "lado": "izquierdo",
+   "tris": 134,
+   "area_cm2": 2.7,
+   "arista_media_mm": 2.15,
+   "tamano_cm": 2.1
+  },
+  {
+   "id": "distal_phalanx_of_fourth_finger_of_hand_d",
+   "nombre": "Falange distal del dedo anular",
+   "sistema": "oseo",
+   "subsistema": "miembro-superior",
+   "lado": "derecho",
+   "tris": 134,
+   "area_cm2": 2.7,
+   "arista_media_mm": 2.15,
+   "tamano_cm": 2.1
+  },
+  {
+   "id": "corniculate_cartilage_d",
+   "nombre": "Cartílago corniculado",
+   "sistema": "oseo",
+   "subsistema": "cartilagos",
+   "lado": "derecho",
+   "tris": 136,
+   "area_cm2": 0.1,
+   "arista_media_mm": 0.32,
+   "tamano_cm": 0.3
+  },
+  {
+   "id": "corniculate_cartilage_i",
+   "nombre": "Cartílago corniculado",
+   "sistema": "oseo",
+   "subsistema": "cartilagos",
+   "lado": "izquierdo",
+   "tris": 136,
+   "area_cm2": 0.1,
+   "arista_media_mm": 0.32,
+   "tamano_cm": 0.3
+  },
+  {
+   "id": "triquetrum_bone_d",
+   "nombre": "Piramidal",
+   "sistema": "oseo",
+   "subsistema": "miembro-superior",
+   "lado": "derecho",
+   "tris": 176,
+   "area_cm2": 6,
+   "arista_media_mm": 2.8,
+   "tamano_cm": 2.4
+  },
+  {
+   "id": "triquetrum_bone_i",
+   "nombre": "Piramidal",
+   "sistema": "oseo",
+   "subsistema": "miembro-superior",
+   "lado": "izquierdo",
+   "tris": 176,
+   "area_cm2": 6,
+   "arista_media_mm": 2.8,
+   "tamano_cm": 2.4
+  },
+  {
+   "id": "distal_phalanx_of_fifth_finger_of_hand_i",
+   "nombre": "Falange distal del dedo meñique",
+   "sistema": "oseo",
+   "subsistema": "miembro-superior",
+   "lado": "izquierdo",
+   "tris": 192,
+   "area_cm2": 2.7,
+   "arista_media_mm": 1.8,
+   "tamano_cm": 2.2
+  },
+  {
+   "id": "distal_phalanx_of_third_finger_of_hand_i",
+   "nombre": "Falange distal del dedo medio",
+   "sistema": "oseo",
+   "subsistema": "miembro-superior",
+   "lado": "izquierdo",
+   "tris": 192,
+   "area_cm2": 3.8,
+   "arista_media_mm": 2.13,
+   "tamano_cm": 2.5
+  },
+  {
+   "id": "distal_phalanx_of_fifth_finger_of_hand_d",
+   "nombre": "Falange distal del dedo meñique",
+   "sistema": "oseo",
+   "subsistema": "miembro-superior",
+   "lado": "derecho",
+   "tris": 192,
+   "area_cm2": 2.7,
+   "arista_media_mm": 1.8,
+   "tamano_cm": 2.2
+  },
+  {
+   "id": "distal_phalanx_of_third_finger_of_hand_d",
+   "nombre": "Falange distal del dedo medio",
+   "sistema": "oseo",
+   "subsistema": "miembro-superior",
+   "lado": "derecho",
+   "tris": 192,
+   "area_cm2": 3.8,
+   "arista_media_mm": 2.13,
+   "tamano_cm": 2.5
+  },
+  {
+   "id": "middle_phalanx_of_fifth_finger_of_foot_d",
+   "nombre": "Falange media del quinto dedo del pie",
+   "sistema": "oseo",
+   "subsistema": "miembro-inferior",
+   "lado": "derecho",
+   "tris": 216,
+   "area_cm2": 1.8,
+   "arista_media_mm": 1.41,
+   "tamano_cm": 1.3
+  },
+  {
+   "id": "middle_phalanx_of_fifth_finger_of_foot_i",
+   "nombre": "Falange media del quinto dedo del pie",
+   "sistema": "oseo",
+   "subsistema": "miembro-inferior",
+   "lado": "izquierdo",
+   "tris": 216,
+   "area_cm2": 1.8,
+   "arista_media_mm": 1.41,
+   "tamano_cm": 1.3
+  },
+  {
+   "id": "distal_phalanx_of_first_finger_of_hand_i",
+   "nombre": "Falange distal del pulgar",
+   "sistema": "oseo",
+   "subsistema": "miembro-superior",
+   "lado": "izquierdo",
+   "tris": 222,
+   "area_cm2": 6.2,
+   "arista_media_mm": 2.54,
+   "tamano_cm": 3.3
+  },
+  {
+   "id": "distal_phalanx_of_first_finger_of_hand_d",
+   "nombre": "Falange distal del pulgar",
+   "sistema": "oseo",
+   "subsistema": "miembro-superior",
+   "lado": "derecho",
+   "tris": 222,
+   "area_cm2": 6.2,
+   "arista_media_mm": 2.54,
+   "tamano_cm": 3.3
+  },
+  {
+   "id": "distal_phalanx_of_second_finger_of_foot_d",
+   "nombre": "Falange distal del segundo dedo del pie",
+   "sistema": "oseo",
+   "subsistema": "miembro-inferior",
+   "lado": "derecho",
+   "tris": 236,
+   "area_cm2": 3,
+   "arista_media_mm": 1.7,
+   "tamano_cm": 1.9
+  }
+ ],
+ "otros_sistemas": {
+  "articular": {
+   "arista_mediana_mm": 2.38
+  },
+  "muscular": {
+   "arista_mediana_mm": 2.54
+  },
+  "nervioso": {
+   "arista_mediana_mm": 0.87
+  },
+  "cardiovascular": {
+   "arista_mediana_mm": 1.13
+  }
+ }
+}

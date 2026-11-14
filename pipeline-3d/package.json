@@ -1,0 +1,27 @@
+{
+  "name": "paula-pipeline-3d",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Z-Anatomy FBX -> GLB livianos por sistema + catalogo JSON",
+  "scripts": {
+    "descargar": "node descargar.mjs",
+    "inventario": "node inventario.mjs",
+    "clasificar": "node clasificar.mjs",
+    "convertir": "node convertir.mjs",
+    "catalogo": "node catalogo.mjs",
+    "verificar": "node verificar.mjs",
+    "capturas": "node capturas-finales.mjs",
+    "todo": "PAULA_STAGE=1 npm run descargar && PAULA_STAGE=1 npm run inventario && PAULA_STAGE=1 npm run clasificar && PAULA_STAGE=1 npm run convertir && PAULA_STAGE=1 npm run catalogo && PAULA_STAGE=1 npm run tosquedad && PAULA_STAGE=1 npm run informe && PAULA_STAGE=1 npm run verificar && PAULA_STAGE=1 npm run capturas && npm run publicar",
+    "informe": "node informe.mjs",
+    "publicar": "node publicar.mjs",
+    "tosquedad": "node tosquedad.mjs"
+  },
+  "dependencies": {
+    "three": "0.170.0",
+    "@gltf-transform/core": "4.4.1",
+    "@gltf-transform/functions": "4.4.1",
+    "@gltf-transform/extensions": "4.4.1",
+    "meshoptimizer": "0.25.0"
+  }
+}

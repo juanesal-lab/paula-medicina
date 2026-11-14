@@ -1,0 +1,43 @@
+id_seccion	linea	dato	estado	fuente	via	ubicacion_en_fuente
+GASTRO-T01	40	Prueba terapéutica con IBP 8 semanas; clasificación de Los Ángeles	confirmado	F1	statpearls-oa	Evaluation / Diagnosis
+GASTRO-T01	41	pH-metría: exposición ácida mayor de 6 % confirma, menor de 4 % descarta	corregido	F34	pmc-efetch	Lyon 2.0, apartado pH-metría: 6 % confirma; menos de 4 % descarta solo con condiciones (todos los días, sin asociación síntoma-reflujo)
+GASTRO-T01	42	Omeprazol 20 mg una vez al día, 30-60 min antes de comer, 8 semanas	confirmado	F1	statpearls-oa	Treatment (tabla de dosis de IBP)
+GASTRO-T02	56	Suspender IBP 2 semanas y antibióticos 4 semanas antes de pruebas	corregido	F36,F37,F39	pmc-efetch,html	Irish consensus (diagnóstico): IBP 2 semanas, antibiótico/bismuto 4 semanas; Houston enunciados 23-24 (4 semanas); MSD (1 semana IBP): guías difieren
+GASTRO-T02	57	Cuádruple con bismuto 14 días; triple solo con baja resistencia (antes: menos de 15 %)	corregido	F2	statpearls-oa	Treatment (el umbral 15 % no figura)
+GASTRO-T02	58	Tetraciclina 500 mg c/6 h, metronidazol 500 mg c/8 h; control de erradicación a 4 semanas	corregido	F36,F38,F39	pmc-efetch,html	Esquemas cuádruples con bismuto (tablas); MSD lista metronidazol 250 mg c/6 h; erradicación a 4 semanas en MSD
+GASTRO-T03	69	Transfusión restrictiva: menor de 7 g/dL (8 g/dL con enfermedad cardiovascular); se quitó meta 7-9	corregido	F4	statpearls-oa	Management (transfusión)
+GASTRO-T03	72	Glasgow-Blatchford 0-1 manejo ambulatorio; endoscopia en 24 h	corregido	F4	statpearls-oa	Risk stratification (antes: solo 0)
+GASTRO-T03	73	IBP bolo 80 mg y 8 mg/h por 72 h; eritromicina 250 mg 20-120 min antes	corregido	F4,F5	statpearls-oa	Management (antes: 30-120 min)
+GASTRO-T03	74	Terlipresina 2 mg c/4 h luego 1 mg; octreótido 50 mcg + 50 mcg/h; 2-5 días; ceftriaxona 1 g/24 h hasta 7 días; carvedilol 6,25 mg	confirmado	F4,F5	statpearls-oa	Management / Variceal bleeding
+GASTRO-T03	75	Ligadura en 12 h; TIPS temprano en 72 h con criterios Child-Pugh	corregido	F35	pmc-efetch	Baveno VII, sección 6 (recomendaciones 6.17 y 6.27): endoscopia en 12 h; TIPS en 72 h; ligadura no figura como plazo de 12 h
+GASTRO-T03	78	Transfusión liberal con umbral de 9 g/dL empeora desenlaces	confirmado	F4	statpearls-oa	Management (transfusión)
+GASTRO-T05	98	Atlanta: falla orgánica menor de 48 h o mayor de 48 h	confirmado	F7	statpearls-oa	Severity classification
+GASTRO-T05	100	Dx: 2 de 3, lipasa mayor de 3x, TG mayor de 1000, BISAP; TAC a las 48-72 h si no mejora	corregido	F7	statpearls-oa	Diagnosis (antes: TAC no antes de 72 h)
+GASTRO-T05	101	Ringer: 10 mL/kg si hipovolemia y 1,5 mL/kg/h; nutrición 24-48 h; CPRE solo con colangitis	corregido	F7	statpearls-oa	Management (WATERFALL; antes: 24-72 h y CPRE en 24 h)
+GASTRO-T05	103	ALT; PCR elevada a 48 h (se quitó 150 mg/L)	corregido	F7	statpearls-oa	Prognosis (150 mg/L no figura)
+GASTRO-T06	114	Hepatitis B aguda grave: bilirrubina mayor de 10, INR mayor de 1,6, encefalopatía; vacuna en 24 h; SVR12 y más de 95 %	corregido	F10,F11,F12,F13	statpearls-oa,html	relectura 2026-11-13 con UA honesto: la cifra se sostiene en la fuente StatPearls de la misma fila o línea; la página web citada no la contiene
+GASTRO-T06	115	Entecavir 0,5 mg; tenofovir 300/25 mg; HBIG en 12 h; SOF/VEL 12 sem; GLE/PIB 8 sem	corregido	F47,F48	pmc-efetch	AASLD 2018 HBV (tabla de fármacos; HBIG al nacer) y AASLD-IDSA HCV (recomendaciones por genotipo); HBIG: dentro de 12 h solo explícito en bajo peso
+GASTRO-T07	124	HVPG normal 1-5 mmHg; significativa mayor de 10	confirmado	F5	statpearls-oa	Diagnosis (HVPG)
+GASTRO-T07	127	Child-Pugh A 5-6, B 7-9, C 10-15	confirmado	F40	html	Tabla Interpretación de Child-Turcotte-Pugh
+GASTRO-T07	128	SAAG mayor de 1,1; PMN mayor de 250; SHR ≥0,3 mg/dL en 48 h con albúmina 1 g/kg (máx 100 g) 2 días	corregido	F17,F18	statpearls-oa	Diagnosis (antes: SAAG ≥1,1 y PMN ≥250)
+GASTRO-T07	129	Na 2 g, espironolactona/furosemida, paracentesis y albúmina, cefotaxima, albúmina PBE, norfloxacino, rifaximina 550 mg	corregido	F40,F41,F42,F43,F44,F45,F46,F49	html,pmc-efetch	MSD ascitis/PBE/EP/cirrosis; JAMA 2023 (rangos de diuréticos, rifaximina); Cureus 2026 HRS (albúmina 1 g/kg y 20-40 g/d; terlipresina); EASL vía revisión PBE; antes: 100:40, albúmina HRS máx 100 g, día 3 sin matiz
+GASTRO-T08	142	Truelove y Witts: 6 o más deposiciones, FC 90, T 37,8, Hb 10,5, VSG 30	confirmado	F51	pmc-efetch	Tabla 1 criterios de Truelove y Witts (añadida PCR mayor de 30 mg/L)
+GASTRO-T08	143	Vigilancia colonoscópica cada 1-2 años	confirmado	F20	statpearls-oa	Monitoring
+GASTRO-T08	144	Inicio de vigilancia a 8 años de enfermedad extensa	confirmado	F50	html	Vigilancia colonoscópica: más de 8 años; CEP desde el diagnóstico
+GASTRO-T08	145	Metilprednisolona 60 mg/día; reevaluar a 3 días	confirmado	F51	pmc-efetch	Manejo inicial (metilprednisolona 60 mg 3-5 d) y evaluación a los 3 días (índice de Oxford)
+GASTRO-T09	152	Crónica 4 semanas o más confirmada; aguda menos de 14 d y persistente 14-30 d no vistas	corregido	F23,F53,F24	statpearls-oa,pmc-efetch,html	BSG definición de crónica; nota OMS: persistente 14 días o más (antes: 14 a 30 días)
+GASTRO-T09	157	Esteatorrea mayor de 7 g/24 h; calprotectina menor de 50 mcg/g	confirmado	F54,F53	html,pmc-efetch	MSD malabsorción (7 g/día); BSG calprotectina 50 mcg/g como punto de decisión
+GASTRO-T09	159	C. difficile: fidaxomicina 200 mg c/12 h, vancomicina 125 mg c/6 h por 10 días	confirmado	F55,F56	pmc-efetch	Tratamiento de ICD no fulminante: fidaxomicina 200 mg c/12 h 10 d; vancomicina 125 mg c/6 h
+GASTRO-T10	172	Rifaximina 550 mg c/8 h por 14 días en SII-D	confirmado	F57	pmc-efetch	Sección de rifaximina en SII-D
+GASTRO-T11	187	CCR: inicio a 45 años (USPSTF); FIT cada 1-2 años (antes: FIT anual)	corregido	F27	statpearls-oa	Screening
+GASTRO-T11	188	Límite 75 años; colonoscopia cada 10 años	confirmado	F58	pmc-efetch	Recomendaciones USPSTF (tabla 3); colonoscopia cada 10 años
+GASTRO-T11	189	Inicio 45 vs 50 años	corregido	F27,F58,F59	statpearls-oa,pmc-efetch	ECAC5: FIT bienal 50-74 años (antes: solo se mencionaba 50 años sin contrastar)
+GASTRO-C01	208	Endoscopia en 24 h (antes 12 h) con ligadura	corregido	F4	statpearls-oa	Management
+GASTRO-C01	209	Transfusión umbral 7 g/dL; terlipresina; octreótido; ceftriaxona 1 g/24 h hasta 7 días	confirmado	F4,F5	statpearls-oa	Management
+GASTRO-C01	210	Mortalidad hospitalaria 0 % Child A a 32 % Child C (antes: mortalidad a 6 semanas)	corregido	F5	statpearls-oa	Prognosis
+GASTRO-C01	211	Umbral restrictivo de 7 g/dL (antes: Hb mayor de 9)	confirmado	F4	statpearls-oa	Management (transfusión)
+GASTRO-C02	217	TAC con contraste si falta mejoría a las 48-72 h	corregido	F7	statpearls-oa	Imaging
+GASTRO-C02	218	Ringer 10 mL/kg y 1,5 mL/kg/h; dieta a 24-48 h	corregido	F7	statpearls-oa	Management
+GASTRO-C02	219	ALT mayor de 150 U/L; valor predictivo mayor de 85 %	confirmado	F7	statpearls-oa	Etiología biliar
+GASTRO-C03	227	PBE: PMN mayor de 250; antibiótico empírico (dosis retiradas del texto)	corregido	F18	statpearls-oa	Diagnosis
+GASTRO-C03	228	Cefotaxima 2 g c/8 h 5 días; albúmina 1,5 y 1 g/kg; descenso PMN 25 %; norfloxacino 400 mg	corregido	F45,F42,F46	pmc-efetch,html	EASL vía revisión: cefotaxima 2 g c/8 o c/12 h, 25 % a las 48 h; MSD albúmina; norfloxacino 400 mg/d (antes: solo c/8 h)

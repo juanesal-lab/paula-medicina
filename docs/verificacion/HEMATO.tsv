@@ -1,0 +1,47 @@
+id_seccion	linea	dato	estado	fuente	via	ubicacion_en_fuente
+HEMATO-T01	42	Diagnóstico: Ferropenia absoluta: ferritina menor de 30 ng/mL o saturación de transferrina menor de 20 %. Índi	sin_contrastar	F1	-	no contrastado con texto leído
+HEMATO-T01	43	Manejo: Hierro oral diario o en días alternos (sin diferencia clínica de hemoglobina; los días alternos mejora	sin_contrastar	F1	-	no contrastado con texto leído
+HEMATO-T01	44	Hierro intravenoso si hay intolerancia, malabsorción, enfermedad renal crónica o insuficiencia cardiaca. Busca	sin_contrastar	F1	-	no contrastado con texto leído
+HEMATO-T01	45	Nunca dar folato solo con déficit de B12 sin tratarla, porque empeora el daño neurológico. Hemólisis autoinmun	sin_contrastar	F3	-	no contrastado con texto leído
+HEMATO-T02	58	Manejo: Crisis dolorosa: analgesia con opioide pronta, reevaluación frecuente y líquidos sin exceso (la meta d	sin_contrastar	F6	-	no contrastado con texto leído
+HEMATO-T02	59	Síndrome torácico agudo: oxígeno, antibiótico (cefalosporina más macrólido), espirometría incentiva, analgesia	corregido	F41	statpearls-oa	Sickle Cell Anemia: tratamiento y hidroxiurea
+HEMATO-T02	62	Errores típicos: Retrasar la analgesia por sospecha de adicción; dar hierro a quien tiene talasemia con ferrit	sin_contrastar	F6	-	no contrastado con texto leído
+HEMATO-T03	71	HIT: anticuerpos contra el complejo factor plaquetario 4-heparina; la trombocitopenia se asocia paradójicament	sin_contrastar	F13	-	no contrastado con texto leído
+HEMATO-T03	72	Diagnóstico: PTI: frotis para descartar seudotrombocitopenia y esquistocitos, más pruebas de VIH, VHC y H. pyl	sin_contrastar	F10	-	no contrastado con texto leído
+HEMATO-T03	73	Manejo: PTI: tratar si hay sangrado (el umbral de plaquetas de 30 ×10^9/L y la prednisona de 1 mg/kg al día); 	sin_contrastar	F8	-	no contrastado con texto leído
+HEMATO-T04	82	Gravedad según actividad del factor VIII: grave menor de 1 %; los rangos moderado (1 a 5 %) y leve (5 a 40 %) 	sin_contrastar	F11	-	no contrastado con texto leído
+HEMATO-T04	85	Manejo: Hemofilia: reposición de factor VIII o profilaxis con emicizumab (la elevación de 2 % por unidad/kg y 	sin_contrastar	F11	-	no contrastado con texto leído
+HEMATO-T04	86	Hemofilia leve y von Willebrand tipo 1: desmopresina 0,3 mcg/kg intravenosa (máximo 20 mcg, en 15 a 30 minutos	confirmado	F11	statpearls-oa	Hemophilia A: desmopresina 0,3 mcg/kg
+HEMATO-T05	97	Diagnóstico: Puntaje de Wells para TVP: 2 o más puntos es probable y 0 a 1 improbable. Con probabilidad baja, 	sin_contrastar	F14	-	no contrastado con texto leído
+HEMATO-T05	98	Manejo: Anticoagulación inmediata si la sospecha es alta y el estudio demora. DOAC (apixaban o rivaroxaban) co	sin_contrastar	-	-	no contrastado con texto leído
+HEMATO-T06	105	Warfarina: inhibe los factores dependientes de vitamina K (II, VII, IX y X) y las proteínas C y S; al inicio h	sin_contrastar	F17	-	no contrastado con texto leído
+HEMATO-T06	109	Manejo (dosis habituales en adulto): Heparina no fraccionada en infusión con meta de TTPa de 1,5 a 2,2 veces e	corregido	F37	statpearls-oa	Heparin/Anticoagulation Therapy: aPTT; Enoxaparin, Rivaroxaban y Apixaban: dosis de TEV
+HEMATO-T06	110	Reversión de warfarina: sin sangrado no se da vitamina K salvo INR mayor de 10 o evidencia de sangrado, y no s	corregido	F38	statpearls-oa	Warfarin Toxicity: manejo del INR; Vitamin K; Prothrombin Complex Concentrate: dosis por INR
+HEMATO-T06	111	Reversión de DOAC: idarucizumab 5 g intravenoso para dabigatrán; andexanet alfa o concentrado de complejo de p	sin_contrastar	F18	-	no contrastado con texto leído
+HEMATO-T07	121	LMA: 20 % o más de blastos (StatPearls lo describe en sangre periférica con inmunofenotipo; en médula ósea con	corregido	F19	statpearls-oa	Acute Myeloid Leukemia: criterio de blastos y régimen 7+3
+HEMATO-T07	126	Manejo: Estabilizar: transfusiones, hidratación, profilaxis de lisis tumoral e infección. LMA: inducción con c	confirmado	F19	statpearls-oa	Acute Myeloid Leukemia: Treatment (7+3)
+HEMATO-T07	127	En Colombia: La guía del Ministerio de Salud y Protección Social (2017) cubre detección, tratamiento y seguimi	sin_contrastar	F21	-	no contrastado con texto leído
+HEMATO-T09	153	En Colombia: La guía del Ministerio de Salud y Protección Social sobre linfomas Hodgkin y no Hodgkin en mayore	sin_contrastar	F21	-	no contrastado con texto leído
+HEMATO-T10	163	Diagnóstico: Mieloma: plasmocitos clonales de 10 % o más en la médula (o plasmocitoma comprobado) más al menos	sin_contrastar	F24	-	no contrastado con texto leído
+HEMATO-T10	165	Perlas de examen: Hipercalcemia, anemia y falla renal en mayor de 60 años con dolor lumbar: mieloma. Rouleaux 	sin_contrastar	F24	-	no contrastado con texto leído
+HEMATO-T11	171	Definición: fiebre única oral de 38,3 °C o más, o de 38,0 °C o más durante al menos 1 hora, con neutropenia; e	sin_contrastar	F26	-	no contrastado con texto leído
+HEMATO-T11	176	Manejo: Antibiótico empírico antipseudomonal en la primera hora tras el triaje: piperacilina-tazobactam 4,5 g 	sin_contrastar	F26	-	no contrastado con texto leído
+HEMATO-T12	183	Estrategia restrictiva: umbral general de 7 g/dL; las guías citadas por StatPearls usan 7,5 g/dL en enfermedad	corregido	F34	statpearls-oa	Blood Transfusion: umbrales de hemoglobina
+HEMATO-T12	184	Plaquetas: profilaxis con recuento menor de 10 ×10^9/L; con sangrado o procedimiento invasivo, menor de 50 ×10	sin_contrastar	F28	-	no contrastado con texto leído
+HEMATO-T12	185	Plasma fresco en coagulopatía con sangrado o INR mayor de 1,5 antes de procedimientos; crioprecipitado si fibr	sin_contrastar	F28	-	no contrastado con texto leído
+HEMATO-T12	188	Perlas de examen: TRALI: edema pulmonar no cardiogénico de inicio rápido (dentro de 6 h); TACO: congestión con	sin_contrastar	F29	-	no contrastado con texto leído
+HEMATO-T13	196	Diagnóstico: Criterios de Cairo-Bishop: laboratorio (en las 24 horas de 3 días antes a 7 días después del trat	sin_contrastar	F31	-	no contrastado con texto leído
+HEMATO-T13	197	Manejo: Prevención: hidratación de unos 3 a 3,5 L/m2 al día (4 a 5 L/día) para una diuresis alta. Rasburicasa 	sin_contrastar	F31	-	no contrastado con texto leído
+HEMATO-T13	198	Hiperpotasemia: gluconato de calcio, insulina con dextrosa, salbutamol y diálisis si es refractaria. Las guías	sin_contrastar	-	-	no contrastado con texto leído
+HEMATO-T14	205	Policitemia vera: aumento de masa eritrocitaria con mutación JAK2 V617F en más de 95 % de los casos, EPO baja,	sin_contrastar	F32	-	no contrastado con texto leído
+HEMATO-T14	209	Diagnóstico: Policitemia vera: hemoglobina mayor de 16,5 g/dL en hombres o de 16 g/dL en mujeres (o hematocrit	corregido	F32	statpearls-oa	Polycythemia Vera: criterios mayores
+HEMATO-T14	210	Manejo: Flebotomías con meta de hematocrito menor de 45 % y aspirina en dosis baja (la dosis de 81 a 100 mg al	sin_contrastar	F32	-	no contrastado con texto leído
+HEMATO-T14	213	Errores típicos: Pedir flebotomía sin descartar causas secundarias; no dar aspirina; usar hematocrito de 50 % 	confirmado	F32	statpearls-oa	Polycythemia Vera: meta de hematocrito
+HEMATO-C01	219	Manejo: Hierro oral diario o en días alternos y control de hemoglobina a las 2 a 4 semanas Hierro intravenoso 	sin_contrastar	F1	-	no contrastado con texto leído
+HEMATO-C01	220	Perlas: La ferropenia en un varón siempre exige descartar pérdida digestiva. La trombocitosis reactiva acompañ	sin_contrastar	F1	-	no contrastado con texto leído
+HEMATO-C02	227	Estudios: Frotis de sangre periférica urgente, LDH, haptoglobina, bilirrubina, Coombs, TP, TTPa, fibrinógeno, 	confirmado	F9	statpearls-oa	Thrombotic Thrombocytopenic Purpura: ADAMTS13 menor de 10 %
+HEMATO-C02	228	Manejo: Ingreso a unidad de alta complejidad; recambio plasmático diario iniciado en pocas horas, más predniso	sin_contrastar	F9	-	no contrastado con texto leído
+HEMATO-C03	237	Manejo: Tratar como sepsis: piperacilina-tazobactam 4,5 g intravenoso cada 6 a 8 h (o cefepime o meropenem) de	corregido	F26	statpearls-oa	Febrile Neutropenia: tratamiento empírico
+HEMATO-C04	246	Manejo: Traslado a centro con hematología. Iniciar ATRA de inmediato ante cualquier sospecha de leucemia promi	sin_contrastar	F19	-	no contrastado con texto leído
+HEMATO-C04	247	En Colombia: La guía del Ministerio de Salud y Protección Social (2017) sobre leucemias linfoblástica y mieloi	sin_contrastar	F21	-	no contrastado con texto leído
+HEMATO-C05	256	Manejo: Suspender la warfarina. Reversión urgente por sangrado mayor: vitamina K 10 mg intravenosa más concent	corregido	F40	statpearls-oa	Warfarin Toxicity y Prothrombin Complex Concentrate: reversión

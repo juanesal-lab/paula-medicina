@@ -1,0 +1,48 @@
+id_seccion	linea	dato	estado	fuente	via	ubicacion_en_fuente
+URG-T01	43	Compresiones 100-120/min, >=5 cm, 30:2 (se quitó el tope de 6 cm: no aparece en la fuente)	corregido	F1	statpearls-oa	Basic life support / chest compressions
+URG-T01	46	Adrenalina 1 mg IV cada 3-5 min	confirmado	F1	statpearls-oa	Shockable and nonshockable rhythms
+URG-T01	47	Amiodarona 300 mg IV o lidocaína 1-1,5 mg/kg (se quitó 150 mg de segunda dosis: no aparece)	corregido	F1	statpearls-oa	Shockable rhythms
+URG-T01	48	EtCO2 <10 mmHg persistente = RCP ineficaz; alza sostenida = ROSC	corregido	F1	statpearls-oa	Monitoring during CPR / capnography
+URG-T01	49	SpO2 92-98%, PaCO2 35-45 mmHg, PAM >65 o PAS >90	corregido	F1	statpearls-oa	relectura 2026-11-13 con UA honesto: la cifra se sostiene en la fuente StatPearls de la misma fila o línea; la página web citada no la contiene
+URG-T01	49	SpO2 92-98%, PaCO2 35-45 mmHg, PAM >65 o PAS >90	corregido	F10	html	Post-cardiac arrest care
+URG-T01	50	TTM 32-36 °C en guías previas; TTM2 sin beneficio de 33 °C vs 36-37,5 °C	corregido	F1	statpearls-oa	Post-cardiac arrest care / temperature
+URG-T02	62	Etomidato 0,15-0,3, ketamina 2, propofol 0,5-2 mg/kg (antes ketamina 1-2 y etomidato 0,3)	corregido	F29	statpearls-oa	Induction / paralysis with induction
+URG-T02	63	Succinilcolina 1,5 mg/kg, rocuronio 1 mg/kg (antes rocuronio 1-1,2 y succinilcolina 1-1,5)	corregido	F29	statpearls-oa	Paralysis with induction; contraindications
+URG-T03	74	Adrenalina IM 0,3-0,5 mg (1:1000), repetir cada 5-10 min (antes 5-15 min)	corregido	F4	statpearls-oa	Treatment / Epinephrine
+URG-T03	75	Bolo de cristaloide 10-20 mL/kg (1-2 L) en hipotensión	corregido	F4	statpearls-oa	Treatment / IV fluid resuscitation
+URG-T03	77	Bifásica hasta 20%, recurrencia a las 8-11 h	corregido	F4	statpearls-oa	Evaluation / prognosis (biphasic)
+URG-T04	88	Lorazepam 0,1 mg/kg (máx 4 mg/dosis), midazolam IM 10 mg, diazepam 0,15 mg/kg (máx 10 mg) (antes diazepam 0,15-0,2)	corregido	F5	statpearls-oa	Treatment (StatPearls); dosis de ensayos en la guía AES
+URG-T04	88	Lorazepam 0,1 mg/kg (máx 4 mg/dosis), midazolam IM 10 mg, diazepam 0,15 mg/kg (máx 10 mg) (antes diazepam 0,15-0,2)	corregido	F21	pmc-efetch	Treatment (StatPearls); dosis de ensayos en la guía AES
+URG-T04	89	Levetiracetam 40-60 mg/kg máx 4500 mg; fosfenitoína 20 mg PE/kg; valproato 30 mg/kg (antes 60 mg/kg, máx 1500 y 40 mg/kg máx 3000)	corregido	F5	statpearls-oa	Treatment
+URG-T05	99	Glasgow 3-15; <=8 intubar en trauma	confirmado	F6+F3	statpearls-oa	Components and scoring; Indications
+URG-T06	112	PAM objetivo 65 mmHg	confirmado	F19	pmc-efetch	Hemodynamic targets / MAP
+URG-T06	112	PAM objetivo 65 mmHg	confirmado	F7	statpearls-oa	Hemodynamic targets / MAP
+URG-T06	114	Vasopresina fija 0,03 U/min; se añade con norepinefrina 0,25-0,5 mcg/kg/min (antes 0,03 U/min se confundía con umbral de norepinefrina)	corregido	F19	pmc-efetch	Vasoactive agents, recs 37-38
+URG-T06	115	Dobutamina 2,5-20 mcg/kg/min (antes 2-20); norepinefrina si PAS <70	corregido	F20+F27	statpearls-oa	Adult dosages; medical management
+URG-T08	135	ICP primaria si <=12 h y <=120 min desde el momento de la fibrinólisis posible; AAS 300 mg (antes 120 min desde el primer contacto)	corregido	F10	html	1.1 STEMI early management
+URG-T08	135	ICP primaria si <=12 h y <=120 min desde el momento de la fibrinólisis posible; AAS 300 mg (antes 120 min desde el primer contacto)	corregido	F26	statpearls-oa	1.1 STEMI early management
+URG-T08	136	Se declara que los intervalos de los algoritmos hs-troponina no se contrastaron (no hay cifra en la línea)	confirmado	F26	statpearls-oa	Evaluation
+URG-T09	147	Fisostigmina 1-4 mg IV en casos graves (antes 0,5-2 mg)	corregido	F11+F12	statpearls-oa	Toxicity
+URG-T10	161	Atropina 2-5 mg IV, duplicar cada 3-5 min (antes 1-2 mg, cada 5 min, FC >80/PAS >80 que no aparecen)	corregido	F13	statpearls-oa	Treatment / atropine
+URG-T10	162	Pralidoxima 30 mg/kg en 30 min y luego 8 mg/kg/h	confirmado	F13+F14	statpearls-oa	Treatment / pralidoxime
+URG-T11	180	Suero polivalente: 2 viales de 10 mL; Bothrops y Crotalus	confirmado	F24	html	Suero antiofídico polivalente
+URG-T13	199	Umbral típico >180/120 mmHg con daño de órgano blanco	confirmado	F32	statpearls-oa	Pearls / definitions
+URG-T13	203	Descenso máx 25% en 1 h, <160/120 en 2-6 h, 130-140 en 24-48 h	confirmado	F32	statpearls-oa	Management
+URG-T13	204	Nicardipino 5 mg/h +2,5/5 min máx 15; labetalol 0,3-1 mg/kg c/10 min máx 20 mg	confirmado	F32	statpearls-oa	Table: IV medications for hypertensive emergency
+URG-T13	205	Disección PAS<=120 en 1 h; ACV 220/120; HIC 220/140; feocromocitoma <140	confirmado	F32	statpearls-oa	Major exceptions to gradual reduction
+URG-T14	212	PaO2 <60; PaCO2 >45 mmHg	confirmado	F33	statpearls-oa	Pathophysiology; ABG
+URG-T14	215	PaO2 60 mmHg, SaO2 ~90%, FiO2 mínima 90-94%	confirmado	F33	statpearls-oa	Treatment / correction of hypoxemia
+URG-T14	219	RENOVATE: HFNO no inferior a VNI a 7 días	confirmado	F34	statpearls-oa	Indications
+URG-T15	226	23% de los agitados con delirium	confirmado	F35	statpearls-oa	Epidemiology
+URG-T16	239	Dosis letal ~1 g/kg	confirmado	F36	statpearls-oa	Toxicokinetics
+URG-T16	242	Tratar si metanol >20-25 mg/dL; considerar desde 32 mg/dL si acidosis leve	confirmado	F36	statpearls-oa	Treatment indications
+URG-T16	244	Fomepizol 15 mg/kg, luego 10 mg/kg c/12 h; 15 tras 4 dosis	confirmado	F36	statpearls-oa	Treatment
+URG-T16	245	Etanol 10% IV 8 mL/kg y 1-2 mL/kg/h; meta 80-120 mg/dL	confirmado	F36	statpearls-oa	Treatment
+URG-T16	248	835 casos Sivigila 2020-2023 (0,5%); metanol por bebida adulterada = alerta superinmediata	confirmado	F15	pmc-efetch	Sivigila table; manual de referencia glosario
+URG-T16	248	835 casos Sivigila 2020-2023 (0,5%); metanol por bebida adulterada = alerta superinmediata	confirmado	F39+F40	pdf	Sivigila table; manual de referencia glosario
+URG-T17	260	Naloxona 0,04-0,1 mg IV (dependiente), 0,4 mg, 1-2 mg si apnea, 2 mg IN/IM	confirmado	F38	statpearls-oa	Adult dosage
+URG-C01	272	Caso: adrenalina 1 mg c/3-5 min, amiodarona 300 mg (antes RCP 2 min y adrenalina tras segunda descarga)	corregido	F1	statpearls-oa	Shockable rhythms
+URG-C01	272	Caso: adrenalina 1 mg c/3-5 min, amiodarona 300 mg (antes RCP 2 min y adrenalina tras segunda descarga)	corregido	F10	html	Shockable rhythms
+URG-C03	290	Caso: adrenalina 0,5 mg IM c/5-10 min (antes 5 min); bolo 1-2 L	corregido	F4	statpearls-oa	Treatment / Epinephrine
+URG-C05	308	Caso: lorazepam 0,1 mg/kg máx 4 mg; levetiracetam 40-60 mg/kg máx 4500; fosfenitoína 20 PE/kg (antes 60 mg/kg)	corregido	F5	statpearls-oa	Treatment
+URG-C05	308	Caso: lorazepam 0,1 mg/kg máx 4 mg; levetiracetam 40-60 mg/kg máx 4500; fosfenitoína 20 PE/kg (antes 60 mg/kg)	corregido	F21	pmc-efetch	Treatment

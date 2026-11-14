@@ -1,0 +1,214 @@
+{
+ "????????": {
+  "es": "Vena cardíaca sin identificar (nombre ilegible en el modelo)",
+  "la": null
+ },
+ "?x": {
+  "es": "Arteria craneal sin identificar (nombre ilegible en el modelo)",
+  "la": null
+ },
+ "Anterior_occipital_sulcus*": {
+  "es": "Surco occipital anterior",
+  "la": null
+ },
+ "Anterior_temporal_branch": {
+  "es": "Rama temporal anterior",
+  "la": null
+ },
+ "Artery_of_central_sulcus": {
+  "es": "Arteria del surco central",
+  "la": null
+ },
+ "Artery_of_precentral_sulcus": {
+  "es": "Arteria del surco precentral",
+  "la": null
+ },
+ "Branch_to_angular_gyrus": {
+  "es": "Rama para el giro angular",
+  "la": null
+ },
+ "Cingulate_gyrus_(Posteroventral_part*)": {
+  "es": "Giro del cíngulo (parte posteroventral)",
+  "la": null
+ },
+ "Cingulate_gyrus_and_sulcus_(Middle_anterior_part)": {
+  "es": "Giro y surco del cíngulo (parte media anterior)",
+  "la": null
+ },
+ "Cingulate_gyrus_and_sulcus_(Middle_posterior_part)": {
+  "es": "Giro y surco del cíngulo (parte media posterior)",
+  "la": null
+ },
+ "Cingulate_gyrus_and_sulcus_(Posterior_dorsal_part)": {
+  "es": "Giro y surco del cíngulo (parte posterior dorsal)",
+  "la": null
+ },
+ "Cingulate_sulcus_(Marginal_part*)": {
+  "es": "Surco del cíngulo (parte marginal)",
+  "la": null
+ },
+ "Coracobrachial_bursa": {
+  "es": "Bolsa del coracobraquial",
+  "la": null
+ },
+ "Cruciform_part_of_fibrous_sheath_of_digit_of_hand": {
+  "es": "Parte cruciforme de la vaina fibrosa de los dedos de la mano",
+  "la": null
+ },
+ "Distal_lateral_striate_branches": {
+  "es": "Ramas estriadas laterales distales",
+  "la": null
+ },
+ "Frenula_capsulae": {
+  "es": "Frenillos capsulares de la articulación de la cadera",
+  "la": null
+ },
+ "Inferior_occipital_gyrus_and_sulcus*": {
+  "es": "Giro y surco occipital inferior",
+  "la": null
+ },
+ "Inferior_vein_of_left_ventricle_(Posterior_'')": {
+  "es": "Vena posterior del ventrículo izquierdo",
+  "la": null
+ },
+ "Insula_(Subcentral_gyrus_and_ant_and_post_sulci*)": {
+  "es": "Ínsula (giro subcentral y surcos anterior y posterior)",
+  "la": null
+ },
+ "Middle_cerebral_artery_(M3_segment)": {
+  "es": "Arteria cerebral media (segmento M3)",
+  "la": null
+ },
+ "Lat_Fis-ant-Horizont": {
+  "es": "Rama anterior horizontal del surco lateral",
+  "la": null
+ },
+ "Lat_Fis-ant-Vertical": {
+  "es": "Rama anterior ascendente del surco lateral",
+  "la": null
+ },
+ "Lat_Fis-post": {
+  "es": "Rama posterior del surco lateral",
+  "la": null
+ },
+ "Lateral_frontobasal_artery": {
+  "es": "Arteria frontobasal lateral",
+  "la": null
+ },
+ "Lateral_occipital_gyrus_(Middle_occipital_gyrus*)": {
+  "es": "Giro occipital lateral (giro occipital medio)",
+  "la": null
+ },
+ "Lunate_sulcus": {
+  "es": "Surco semilunar",
+  "la": null
+ },
+ "Medial_occipitotemporal_gyrus_(Parahippocampal*)": {
+  "es": "Giro occipitotemporal medial (giro parahipocampal)",
+  "la": null
+ },
+ "Middle_genicular_artery": {
+  "es": "Arteria genicular media",
+  "la": null
+ },
+ "Node_of_arch_of_azygos_vein": {
+  "es": "Ganglio linfático del arco de la vena ácigos",
+  "la": null
+ },
+ "Node_of_ligamentum_arteriosum": {
+  "es": "Ganglio linfático del ligamento arterioso",
+  "la": null
+ },
+ "Occipitotemporal_sulcus_(Lateral_part*)": {
+  "es": "Surco occipitotemporal (parte lateral)",
+  "la": null
+ },
+ "Orbital_gyri_(Frontomarginal_gyrus_and_sulcus*)": {
+  "es": "Giros orbitarios (giro y surco frontomarginal)",
+  "la": null
+ },
+ "Orbital_sulci_(H-shaped_orbital_sulci*)": {
+  "es": "Surcos orbitarios (surco orbitario en H)",
+  "la": null
+ },
+ "Orbital_sulci_(Lateral_Orbital_sulcus*)": {
+  "es": "Surcos orbitarios (surco orbitario lateral)",
+  "la": null
+ },
+ "Paracentral_gyrus_and_sulcus*": {
+  "es": "Giro y surco paracentral",
+  "la": null
+ },
+ "Posterior_parietal_artery": {
+  "es": "Arteria parietal posterior",
+  "la": null
+ },
+ "Posterior_temporal_branch": {
+  "es": "Rama temporal posterior",
+  "la": null
+ },
+ "Precentral_sulcus_(Superior_part)*": {
+  "es": "Surco precentral (parte superior)",
+  "la": null
+ },
+ "Precentral_sulcus_(inferior_part)*": {
+  "es": "Surco precentral (parte inferior)",
+  "la": null
+ },
+ "Prefrontal_artery": {
+  "es": "Arteria prefrontal",
+  "la": null
+ },
+ "Proximal_lateral_striate_branches": {
+  "es": "Ramas estriadas laterales proximales",
+  "la": null
+ },
+ "Straight_gyrus_(Gyrus_rectus)": {
+  "es": "Giro recto",
+  "la": null
+ },
+ "Subcutaneous_acromial_bursa": {
+  "es": "Bolsa subcutánea acromial",
+  "la": null
+ },
+ "Subfacial_prepatellar_bursa": {
+  "es": "Bolsa prepatelar subfascial",
+  "la": null
+ },
+ "Sulcus_interm_prim-Jensen": {
+  "es": "Surco intermedio primario de Jensen",
+  "la": null
+ },
+ "Superior_temporal_gyrus_(Lateral_part)": {
+  "es": "Giro temporal superior (parte lateral)",
+  "la": null
+ },
+ "Temporo-occipital_branch": {
+  "es": "Rama temporooccipital",
+  "la": null
+ },
+ "Tendon_sheath_-_abd_pollicis_longus_-_ext_pollicis_brevis": {
+  "es": "Vaina tendinosa de los músculos abductor largo y extensor corto del pulgar",
+  "la": null
+ },
+ "Tendon_sheath_of_extensor_digiti_minimi_manus": {
+  "es": "Vaina tendinosa del extensor del dedo meñique",
+  "la": null
+ },
+ "Tendon_sheath_of_extensors_carpi_radialis": {
+  "es": "Vaina tendinosa de los extensores radiales del carpo",
+  "la": null
+ },
+ "Tendon_sheath_of_tibialis_anterior": {
+  "es": "Vaina tendinosa del tibial anterior",
+  "la": null
+ },
+ "Trochanteric_bursa_of_gluteus_medius_muscle": {
+  "es": "Bolsa trocantérica del glúteo medio",
+  "la": null
+ },
+ "_Posterior_transverse_collateral_sulcus": {
+  "es": "Surco colateral transverso posterior",
+  "la": null
+ }
+}

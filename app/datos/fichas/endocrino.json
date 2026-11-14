@@ -1,0 +1,255 @@
+{
+ "version": 1,
+ "sistema": "endocrino",
+ "fichas": {
+  "ta2:3863": {
+   "clave": "ta2:3863",
+   "ta2": "3863",
+   "nombre_es": "Glándula tiroides",
+   "nombre_la": "Glandula thyreoidea",
+   "tipo": "organo",
+   "resumen": "Glándula en forma de mariposa en la región anterior del cuello, con dos lóbulos unidos por un istmo.",
+   "funcion": "Produce hormonas tiroideas (T3 y T4) y calcitonina.",
+   "irrigacion": "Arterias tiroideas superior e inferior.",
+   "drenaje_venoso": "Venas tiroideas superior, media e inferior.",
+   "inervacion": "Ganglios simpáticos cervicales y vago.",
+   "drenaje_linfatico": "Ganglios pretraqueales y cervicales profundos.",
+   "musculo": null,
+   "relaciones": null,
+   "relevancia_clinica": [
+    "La tiroidectomía puede lesionar el nervio laríngeo recurrente (disfonía) y el laríngeo externo superior (pérdida de agudos).",
+    "El hipotiroidismo por tiroiditis de Hashimoto es frecuente en mujeres.",
+    "El nódulo tiroideo se estudia con ecografía y punción aspirativa."
+   ],
+   "perla": "Recurrente cerca de la arteria tiroidea inferior; laríngeo externo, de la superior.",
+   "fuentes": [
+    {
+     "titulo": "StatPearls: Anatomy, Head and Neck, Thyroid",
+     "url": "https://www.ncbi.nlm.nih.gov/books/NBK470452/"
+    },
+    {
+     "titulo": "OpenStax Anatomy & Physiology 2e — Panorama del sistema endocrino",
+     "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/17-1-an-overview-of-the-endocrine-system"
+    }
+   ],
+   "revisado": "2026-11-13",
+   "contrastado": false,
+   "contraste": {
+    "fuente": "StatPearls: Anatomy, Head and Neck, Thyroid (NBK470452)",
+    "url": "https://www.ncbi.nlm.nih.gov/books/NBK470452/",
+    "campos": {
+     "inervacion": "parcial",
+     "irrigacion": "sin_terminos"
+    },
+    "metodo": "automatico+revision",
+    "fecha": "2026-11-13"
+   }
+  },
+  "ta2:3871": {
+   "clave": "ta2:3871",
+   "ta2": "3871",
+   "nombre_es": "Glándula paratiroidea superior",
+   "nombre_la": "Glandula parathyreoidea superior",
+   "tipo": "organo",
+   "resumen": "Glándula paratiroides superior, una de las cuatro pequeñas glándulas en la cara posterior de la tiroides.",
+   "funcion": "Secreta hormona paratiroidea, que eleva el calcio sanguíneo.",
+   "irrigacion": "Arteria tiroidea inferior.",
+   "drenaje_venoso": "Venas tiroideas.",
+   "inervacion": "Simpático cervical.",
+   "drenaje_linfatico": "Ganglios paratraqueales.",
+   "musculo": null,
+   "relaciones": null,
+   "relevancia_clinica": [
+    "El hiperparatiroidismo primario causa hipercalcemia, litiasis renal y dolor óseo.",
+    "La hipocalcemia posquirúrgica tras tiroidectomía por daño a las glándulas produce tetania.",
+    "El adenoma es la causa más frecuente de hiperparatiroidismo."
+   ],
+   "perla": "Hipercalcemia: «piedras, huesos, quejidos y gemidos».",
+   "fuentes": [
+    {
+     "titulo": "StatPearls: Anatomy, Head and Neck, Parathyroid",
+     "url": "https://www.ncbi.nlm.nih.gov/books/NBK537203/"
+    },
+    {
+     "titulo": "OpenStax Anatomy & Physiology 2e — Panorama del sistema endocrino",
+     "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/17-1-an-overview-of-the-endocrine-system"
+    }
+   ],
+   "revisado": "2026-11-13",
+   "contrastado": false
+  },
+  "ta2:3872": {
+   "clave": "ta2:3872",
+   "ta2": "3872",
+   "nombre_es": "Glándula paratiroidea inferior",
+   "nombre_la": "Glandula parathyreoidea inferior",
+   "tipo": "organo",
+   "resumen": "Glándula paratiroides inferior, más variable en su posición y a veces ectópica en el mediastino o el timo.",
+   "funcion": "Secreta hormona paratiroidea, que eleva el calcio sanguíneo.",
+   "irrigacion": "Arteria tiroidea inferior.",
+   "drenaje_venoso": "Venas tiroideas.",
+   "inervacion": "Simpático cervical.",
+   "drenaje_linfatico": "Ganglios paratraqueales.",
+   "musculo": null,
+   "relaciones": null,
+   "relevancia_clinica": [
+    "El hiperparatiroidismo primario causa hipercalcemia, litiasis renal y dolor óseo.",
+    "La hipocalcemia posquirúrgica tras tiroidectomía por daño a las glándulas produce tetania.",
+    "El adenoma es la causa más frecuente de hiperparatiroidismo."
+   ],
+   "perla": "Hipercalcemia: «piedras, huesos, quejidos y gemidos».",
+   "fuentes": [
+    {
+     "titulo": "StatPearls: Anatomy, Head and Neck, Parathyroid",
+     "url": "https://www.ncbi.nlm.nih.gov/books/NBK537203/"
+    },
+    {
+     "titulo": "OpenStax Anatomy & Physiology 2e — Panorama del sistema endocrino",
+     "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/17-1-an-overview-of-the-endocrine-system"
+    }
+   ],
+   "revisado": "2026-11-13",
+   "contrastado": false
+  },
+  "ta2:3874": {
+   "clave": "ta2:3874",
+   "ta2": "3874",
+   "nombre_es": "Glándula suprarrenal",
+   "nombre_la": "Glandula suprarenalis",
+   "tipo": "organo",
+   "resumen": "Glándula suprarrenal, en el polo superior de cada riñón, con corteza y médula.",
+   "funcion": "Produce cortisol, aldosterona y andrógenos (corteza) y catecolaminas (médula).",
+   "irrigacion": "Arterias suprarrenales superior, media e inferior.",
+   "drenaje_venoso": "Vena suprarrenal derecha a la cava; izquierda a la renal.",
+   "inervacion": "Fibras preganglionares simpáticas directas a la médula (esplácnicos).",
+   "drenaje_linfatico": "Ganglios aórticos laterales.",
+   "musculo": null,
+   "relaciones": null,
+   "relevancia_clinica": [
+    "El feocromocitoma causa hipertensión paroxística, sudoración y cefalea.",
+    "El síndrome de Cushing por adenoma suprarrenal o ACTH.",
+    "La insuficiencia suprarrenal aguda por hemorragia (Waterhouse-Friderichsen) en la sepsis meningocócica."
+   ],
+   "perla": "Feocromocitoma: regla de los 10 y alfabloqueo antes del betabloqueo.",
+   "fuentes": [
+    {
+     "titulo": "StatPearls: Anatomy, Abdomen and Pelvis: Adrenal Glands (Suprarenal Glands)",
+     "url": "https://www.ncbi.nlm.nih.gov/books/NBK482264/"
+    }
+   ],
+   "revisado": "2026-11-13",
+   "contrastado": false,
+   "contraste": {
+    "fuente": "StatPearls: Anatomy, Abdomen and Pelvis: Adrenal Glands (Suprarenal Glands) (NBK482264)",
+    "url": "https://www.ncbi.nlm.nih.gov/books/NBK482264/",
+    "campos": {
+     "inervacion": "sin_terminos",
+     "irrigacion": "sin_terminos"
+    },
+    "metodo": "automatico+revision",
+    "fecha": "2026-11-13"
+   }
+  },
+  "ta2:3855": {
+   "clave": "ta2:3855",
+   "ta2": "3855",
+   "nombre_es": "Adenohipófisis",
+   "nombre_la": "Adenohypophysis",
+   "tipo": "organo",
+   "resumen": "Adenohipófisis, lóbulo anterior de la hipófisis.",
+   "funcion": "Secreta GH, prolactina, ACTH, TSH, FSH y LH.",
+   "irrigacion": "Arterias hipofisarias superiores por el sistema portal hipotálamo-hipofisario.",
+   "drenaje_venoso": "Venas hipofisarias hacia los senos cavernosos.",
+   "inervacion": "Controlada por hormonas hipotalámicas.",
+   "drenaje_linfatico": null,
+   "musculo": null,
+   "relaciones": null,
+   "relevancia_clinica": [
+    "El prolactinoma es el adenoma hipofisario más frecuente y se trata con cabergolina.",
+    "La compresión del quiasma produce hemianopsia bitemporal.",
+    "El síndrome de Sheehan es el infarto hipofisario posparto."
+   ],
+   "perla": "Prolactinoma: galactorrea, amenorrea e hipogonadismo; cabergolina.",
+   "fuentes": [
+    {
+     "titulo": "StatPearls: Anatomy, Head and Neck, Pituitary Gland",
+     "url": "https://www.ncbi.nlm.nih.gov/books/NBK551529/"
+    }
+   ],
+   "revisado": "2026-11-13",
+   "contrastado": false
+  },
+  "ta2:3859": {
+   "clave": "ta2:3859",
+   "ta2": "3859",
+   "nombre_es": "Neurohipófisis",
+   "nombre_la": "Neurohypophysis",
+   "tipo": "organo",
+   "resumen": "Neurohipófisis, lóbulo posterior de la hipófisis.",
+   "funcion": "Almacena y libera oxitocina y ADH sintetizadas en el hipotálamo.",
+   "irrigacion": "Arterias hipofisarias inferiores.",
+   "drenaje_venoso": "Venas hipofisarias hacia los senos cavernosos.",
+   "inervacion": "Controlada por hormonas hipotalámicas.",
+   "drenaje_linfatico": null,
+   "musculo": null,
+   "relaciones": null,
+   "relevancia_clinica": [
+    "La diabetes insípida central se debe a falta de ADH.",
+    "El SIADH retiene agua y causa hiponatremia.",
+    "La lesión del tallo hipofisario puede producir déficit de ADH."
+   ],
+   "perla": "ADH y oxitocina: sintetizadas en el hipotálamo, liberadas por la neurohipófisis.",
+   "fuentes": [
+    {
+     "titulo": "StatPearls: Anatomy, Head and Neck, Pituitary Gland",
+     "url": "https://www.ncbi.nlm.nih.gov/books/NBK551529/"
+    },
+    {
+     "titulo": "StatPearls: Anatomy, Neurohypophysis",
+     "url": "https://www.ncbi.nlm.nih.gov/books/NBK560733/"
+    }
+   ],
+   "revisado": "2026-11-13",
+   "contrastado": false,
+   "contraste": {
+    "fuente": "StatPearls: Anatomy, Neurohypophysis (NBK560733)",
+    "url": "https://www.ncbi.nlm.nih.gov/books/NBK560733/",
+    "campos": {
+     "inervacion": "sin_terminos",
+     "irrigacion": "sin_terminos"
+    },
+    "metodo": "automatico+revision",
+    "fecha": "2026-11-13"
+   }
+  },
+  "ta2:3862": {
+   "clave": "ta2:3862",
+   "ta2": "3862",
+   "nombre_es": "Glándula pineal",
+   "nombre_la": "Glandula pinealis",
+   "tipo": "organo",
+   "resumen": "Glándula pineal, pequeña estructura epitalámica en el techo del tercer ventrículo.",
+   "funcion": "Secreta melatonina y regula el ritmo circadiano.",
+   "irrigacion": "Arteria coroidea posterior medial.",
+   "drenaje_venoso": "Vena cerebral interna.",
+   "inervacion": "Inervación simpática del ganglio cervical superior.",
+   "drenaje_linfatico": null,
+   "musculo": null,
+   "relaciones": null,
+   "relevancia_clinica": [
+    "Sus tumores (germinomas, pineocitoma) comprimen el techo del mesencéfalo y causan síndrome de Parinaud.",
+    "La calcificación pineal es hallazgo normal en adultos y sirve de referencia radiológica.",
+    "Puede causar hidrocefalia por compresión del acueducto."
+   ],
+   "perla": "Parinaud: parálisis de la mirada vertical por tumor pineal.",
+   "fuentes": [
+    {
+     "titulo": "OpenStax Anatomy & Physiology 2e — La glándula pineal",
+     "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/17-7-the-pineal-gland"
+    }
+   ],
+   "revisado": "2026-11-13",
+   "contrastado": false
+  }
+ }
+}

@@ -1,0 +1,22 @@
+id_seccion	linea	dato	estado	fuente	via	ubicacion_en_fuente
+BIOQ-T01	44	GSD hepáticas: beta-hidroxibutirato >2,5 mmol/L	confirmado	F1	statpearls-oa	Glycogen Storage Disease, evaluación diagnóstica
+BIOQ-T02	56	HF: LDL ~300 mg/dL heterocigota, hasta 1000 homocigota	confirmado	F7	statpearls-oa	Biochemistry LDL Cholesterol, receptor LDL
+BIOQ-T02	57	Colesterol total >200 y LDL >130 mg/dL anormales	confirmado	F7	statpearls-oa	LDL Cholesterol, panel de ayuno
+BIOQ-T05	101	Escorbuto: síntomas a las 4-12 semanas de ingesta insuficiente	confirmado	F18	statpearls-oa	Vitamin C Deficiency, presentación
+BIOQ-T05	103	Vitamina C plasmática <0,2 mg/dL sugiere escorbuto	confirmado	F18	statpearls-oa	Vitamin C Deficiency, evaluación
+BIOQ-T05	104	B12 IM 1000 mcg semanal x4 y luego mensual; vitamina C 500-1000 mg/día adultos; vitamina K1 oral 1-2 mg (5-10 mg), IV 10-20 mg lento	confirmado	F15,F18,F17	statpearls-oa	Vitamin B12 Deficiency, tratamiento; Vitamin C, dosis; Vitamin K, dosis
+BIOQ-T06	116	PBG urinario normal 0-4 mg/L, muestra al azar protegida de la luz	confirmado	F21	statpearls-oa	Acute Intermittent Porphyria, evaluación
+BIOQ-T06	117	Hemina 3-4 mg/kg/día x 4 días; dextrosa 10 % en salina	confirmado	F21	statpearls-oa	AIP, tratamiento
+BIOQ-T07	125	Urato >6,8 mg/dL favorece depósito	confirmado	F22	statpearls-oa	Gout, fisiopatología (saturación)
+BIOQ-T07	128	Alopurinol 100 mg/día, +100 mg cada 2-4 semanas; se retiró 50 mg en ERC estadio 3 (no hallado)	corregido	F22	statpearls-oa	Gout, inhibidores de xantina oxidasa
+BIOQ-T07	129	Febuxostat 40 mg, subir a 80 mg si el urato no se normaliza en 2 semanas	confirmado	F22	statpearls-oa	Gout, febuxostat
+BIOQ-T07	131	Meta de urato <6 mg/dL; <5 con tofos	confirmado	F22	statpearls-oa	Gout, terapia reductora de urato
+BIOQ-T08	143	Orden cero: alcohol y fenitoína; salicilato satura >1,4 mmol/L	confirmado	F25	statpearls-oa	Pharmacokinetics, cinética de orden cero
+BIOQ-T09	155	Herencia autosómica recesiva: 25 % por embarazo (no hallado en las fuentes leídas)	sin_contrastar	F26,F27	statpearls-oa	PKU y MedlinePlus herencia (sin cifra)
+BIOQ-T12	202	Perfil lipídico: CT >200, LDL >130; TG >=500 mg/dL riesgo de pancreatitis	confirmado	F7,F8	statpearls-oa	LDL Cholesterol; Hypertriglyceridemia, clasificación y riesgo
+BIOQ-C01	214	Tiamina IV 200 mg 3 veces al día; alternativa 500 mg 2-3 veces x2 días y 250 mg x3-5 días	confirmado	F14	statpearls-oa	Vitamin B1 Deficiency, tratamiento
+BIOQ-C03	232	PKU: dieta en los primeros 7-10 días; meta 120-360 µmol/L; sapropterina responde 20-55 %	confirmado	F26	statpearls-oa	Phenylketonuria, tratamiento
+BIOQ-C04	241	Pancreatitis: 2 de 3 criterios, lipasa/amilasa >=3x; TG >1000 mg/dL causa probable	confirmado	F33	statpearls-oa	Acute Pancreatitis, diagnóstico y etiología
+BIOQ-C04	242	HTG: riesgo >500 y marcado >1500-2000 mg/dL; Ringer 1,5 mL/kg/h tras bolo de 10 mL/kg; insulina 1 U/h	confirmado	F8,F33	statpearls-oa	Hypertriglyceridemia; Acute Pancreatitis, fluidos (WATERFALL)
+BIOQ-C05	250	PBG urinario >4 mg/L en el ataque	confirmado	F21	statpearls-oa	AIP, evaluación
+BIOQ-C05	251	Hemina 3-4 mg/kg/día por 4 días; dextrosa 10 %	confirmado	F21	statpearls-oa	AIP, tratamiento

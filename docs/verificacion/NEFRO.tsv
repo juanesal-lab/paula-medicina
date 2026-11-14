@@ -1,0 +1,39 @@
+id_seccion	linea	dato	estado	fuente	via	ubicacion_en_fuente
+NEFRO-T01	37	KDIGO LRA: ≥0,3 mg/dL en 48 h, 1,5 veces en 7 días, diuresis menor de 0,5 mL/kg/h por 6 h; estadios 1-3; FENa menor de 1 %, BUN/creatinina mayor de 20	corregido	F1,F2	pdf,statpearls-oa	KDIGO AKI Tabla de estadios; Prerrenal (FENa y razón BUN/Cr); se quitó FENa mayor de 2 % y FEurea
+NEFRO-T01	38	FEurea menor de 35 % prerrenal, mayor de 50 % intrínseca	sin_contrastar	F2	statpearls-oa	Prerenal: el texto leído no da los cortes de FEurea
+NEFRO-T02	46	ERC: 3 meses o más; TFG menor de 60	confirmado	F5	pdf	Definición y criterios (Tabla 2)
+NEFRO-T02	47	Categorías G1-G5 y A1-A3 (30 y 300 mg/g)	confirmado	F5	pdf	Clasificación CGA (Tablas)
+NEFRO-T02	51	ISGLT2 con TFGe 20 o más; IECA/ARA II con albuminuria	confirmado	F5	pdf	Capítulo 3 (ISGLT2: eGFR ≥20)
+NEFRO-T02	52	Meta sistólica menor de 120 mmHg estandarizada	confirmado	F5	pdf	Recomendación 3.2 (presión arterial)
+NEFRO-T02	54	Derivación: TFG menor de 30; ACR 300 mg/g o más	corregido	F5	pdf	Figura de derivación a nefrología (se reformuló albuminuria persistente significativa)
+NEFRO-T02	56	KDIGO 2024: SBP menor de 120; muchos solo llegan a menos de 130 (antes: otras guías 130/80, no visto)	corregido	F5	pdf	Práctica 3.4 y texto de meta de presión
+NEFRO-T02	58	No suspender IECA si creatinina sube menos de 30 %	confirmado	F5	pdf	Práctica 3.6.4
+NEFRO-T03	63	Proteinuria 3 g/día o más y albúmina menor de 3,0 g/dL	corregido	F7	statpearls-oa	Evaluation (antes: 3,5 g/día)
+NEFRO-T04	78	Latencia 1-3 semanas (faringitis) y 3-6 (piodermitis)	sin_contrastar	F9,F8	ninguna	F9 (Streptococcus pyogenes, Bookshelf) no está en el corpus legible; StatPearls no da latencias
+NEFRO-T04	81	C3 bajo se normaliza en 6-8 semanas	corregido	F8	statpearls-oa	Evaluation (antes: 8-12 semanas)
+NEFRO-T04	84	Complemento normaliza en 6-8 semanas (dato clásico)	corregido	F8	statpearls-oa	Evaluation (antes: menos de 12 semanas)
+NEFRO-T05	90	Hiponatremia: sodio menor de 135	confirmado	F10	statpearls-oa	Introducción
+NEFRO-T05	93	SIADH: osmolalidad urinaria mayor de 100; sodio urinario mayor de 40	corregido	F10	statpearls-oa	Evaluation (antes: sodio urinario mayor de 30)
+NEFRO-T05	94	Hipernatremia: sodio mayor de 145	confirmado	F11	statpearls-oa	Introducción
+NEFRO-T05	97	Salina 3 %: bolos de 100 mL en 10 min; meta 4-6 mEq/L	corregido	F10	statpearls-oa	Treatment (antes: 100-150 mL y hasta 3 veces)
+NEFRO-T05	98	Límite de corrección 10 mEq/L en 24 h (europea); tradicional 10-12; EE. UU. sin tope	corregido	F10	statpearls-oa	Treatment (antes: 8 mEq/L en pacientes de riesgo)
+NEFRO-T05	100	Hipernatremia: bajar no más de 10-12 mEq/L en 24 h; déficit de agua libre	confirmado	F11	statpearls-oa	Treatment
+NEFRO-T05	102	Errores: salina 3 % en asintomático	confirmado	F10	statpearls-oa	Treatment (hiponatremia crónica asintomática)
+NEFRO-T06	107	Hiperkalemia: más de 5,0-5,5; correlación ECG por nivel	corregido	F12	statpearls-oa	ECG por nivel de potasio (antes: clasificación leve/moderada/grave sin fuente)
+NEFRO-T06	110	Hipokalemia: menor de 3,5; leve 3,0-3,5; moderada 2,5-3,0; grave menor de 2,5	confirmado	F13	statpearls-oa	Classification
+NEFRO-T06	113	Gluconato de calcio 10-20 mL al 10 % en 2-3 min	corregido	F12,F24	statpearls-oa	Calcium Gluconate, Administration (hiperpotasemia)
+NEFRO-T06	114	Insulina 10 UI + 25 g dextrosa confirmada; salbutamol 10-20 mg no visto	sin_contrastar	F12	statpearls-oa	Management (salbutamol: solo dosis mayor que la broncodilatadora)
+NEFRO-T06	115	Furosemida 40 mg IV cada 12 h	corregido	F12	statpearls-oa	Management (antes: 40-80 mg)
+NEFRO-T06	116	KCl oral 60-80 mmol/día; grave 40 mmol cada 3-4 h por 3 dosis	corregido	F13	statpearls-oa	Treatment (antes: 10-20 mEq/h, no visto)
+NEFRO-T07	124	Brecha aniónica normal 8-12; corrección 2,5 por g/dL de albúmina	sin_contrastar	F14,F15	statpearls-oa	Corrección de albúmina visto; rango normal no figura
+NEFRO-T07	125	Winter: 1,5 x HCO3 + 8 ± 2	confirmado	F14	statpearls-oa	Compensación respiratoria
+NEFRO-T08	141	Pielonefritis: fluoroquinolona 7 días (14 en varones); dosis de cipro/ceftriaxona/ertapenem no vistas	sin_contrastar	F16	statpearls-oa	Treatment (parcial; dosis ausentes)
+NEFRO-T09	149	Cálculos: ácido úrico 8-10 %	corregido	F17	statpearls-oa	Epidemiología por tipo (antes: 10 % y radiolúcido, no visto)
+NEFRO-T11	173	Falla renal: TFG menor de 15	confirmado	F19	statpearls-oa	Introducción
+NEFRO-T12	186	Nefropatía por contraste: 0,5 mg/dL o 25 % en 48-72 h	confirmado	F23	statpearls-oa	Definición
+NEFRO-C01	196	Caso hiperkalemia: manejo con calcio, insulina, salbutamol, furosemida	sin_contrastar	F12,F19	statpearls-oa	Dosis de calcio y salbutamol no vistas; furosemida corregida a 40 mg IV
+NEFRO-C02	204	FENa menor de 1 %; BUN/creatinina mayor de 20	confirmado	F2	statpearls-oa	Diagnostic evaluation
+NEFRO-C02	206	FEurea menor de 35 % más fiable con diurético	sin_contrastar	F2	statpearls-oa	Corte no figura
+NEFRO-C04	223	Salina 3 % 100 mL en 10 min; 4-6 mEq/L; límite 10 mEq/L	corregido	F10	statpearls-oa	Treatment (antes: 100-150 mL; límite 8)
+NEFRO-C04	224	Objetivo 4-6 mEq/L en hiponatremia grave	confirmado	F10	statpearls-oa	Treatment
+NEFRO-C04	225	Límite 10 mEq/L en 24 h (antes 8)	corregido	F10	statpearls-oa	Treatment

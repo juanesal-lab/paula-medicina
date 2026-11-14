@@ -1,0 +1,20 @@
+id_seccion	linea	dato	estado	fuente	via	ubicacion_en_fuente
+FISIO-T04	85	Clases de hemorragia: I hasta 15 %, II 15-30 % (100-120), III 30-40 % (>120), IV >40 % con pulso de presión <25 mmHg	confirmado	F9	statpearls-oa	StatPearls Hemorrhagic Shock, clasificación
+FISIO-T06	110	Curva de disociación: tramo empinado por debajo de PaO2 60 mmHg	confirmado	F13,F49	statpearls-oa	Oxyhemoglobin Dissociation Curve; Oxygen Therapy
+FISIO-T07	123	TFG ~120 mL/min (se quitó 180 L/día no hallado)	corregido	F16	statpearls-oa	Physiology, Glomerular Filtration Rate
+FISIO-T08	138	Gasometría: pH 7,35-7,45; PaCO2 35-45; HCO3 22-26	confirmado	F22,F19	statpearls-oa	ABG Analysis; Physiology Acid Base Balance
+FISIO-T08	140	Brecha aniónica ~12; >14-15 indica brecha elevada	confirmado	F20,F27	statpearls-oa	Adult DKA, criterios; Anion Gap
+FISIO-T11	183	Fases de secreción gástrica: cefálica 30 %, gástrica 60 %, intestinal 10 % (no hallado)	sin_contrastar	F29,F30	statpearls-oa	Physiology Stomach y Gastrin (sin porcentajes)
+FISIO-T12	194	Embarazo: plasma +45-55 %, masa eritrocitaria +20-30 % (antes 1,5 L y 30 %)	corregido	F32	statpearls-oa	StatPearls Physiology Pregnancy, sangre
+FISIO-T12	195	Gasto cardiaco +~40 %; presión arterial más baja hacia la semana 24 (antes 20-24)	corregido	F31,F32	statpearls-oa	Maternal Changes; Pregnancy, cardiovascular
+FISIO-T12	197	Volumen corriente y ventilación por minuto +30-40 % (antes 30-50)	corregido	F32	statpearls-oa	Physiology Pregnancy, respiratorio
+FISIO-T12	198	Embarazo: PaCO2 ~30 mmHg, HCO3 ~20 mEq/L	confirmado	F31	statpearls-oa	Maternal Changes, respiratorio
+FISIO-T12	199	TFG +~50 % en embarazo	confirmado	F31	statpearls-oa	Maternal Changes, renal
+FISIO-T12	204	Error típico: PaCO2 40 mmHg no es normal en la gestante (PaCO2 ~30)	confirmado	F31	statpearls-oa	Maternal Changes, respiratorio
+FISIO-C01	209	SIADH: Na <135, osmolaridad plasmática <275, urinaria >100, Na urinario >40	confirmado	F26	statpearls-oa	StatPearls SIADH, criterios diagnósticos
+FISIO-C01	210	SIADH: agua <1 L/día (antes 800 mL); salina 3 % 100 mL; corrección máx 10 mEq/L/24 h (recientes) vs 10-12 (tradicional) (antes 8)	corregido	F26,F50	statpearls-oa	SIADH, tratamiento; Hyponatremia, corrección
+FISIO-C02	218	CAD: glucemia >250, pH <7,3, HCO3 <15, cetonas	confirmado	F27	statpearls-oa	Adult DKA, criterios
+FISIO-C02	219	CAD: líquidos 15-20 mL/kg; insulina si K >=3,5; reponer K si <5,2; insulina 0,1 U/kg/h; dextrosa a 200-250 mg/dL	confirmado	F27	statpearls-oa	Adult DKA, tratamiento
+FISIO-C03	228	Embolia pulmonar: oxígeno si saturación <90 %	confirmado	F33	statpearls-oa	Acute Pulmonary Embolism, tratamiento de soporte
+FISIO-C04	237	Choque hemorrágico: clase III 30-40 %, FC >120	confirmado	F9	statpearls-oa	Hemorrhagic Shock, clasificación
+FISIO-C05	245	Hipoxemia en altura: PaO2 <60 o saturación <90 %, desde 2000-3000 m	confirmado	F34	statpearls-oa	StatPearls High-Altitude Oxygenation

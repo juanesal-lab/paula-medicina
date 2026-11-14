@@ -1,0 +1,54 @@
+id_seccion	linea	dato	estado	fuente	via	ubicacion_en_fuente
+INFECTO-T01	45	Dengue grave: fuga plasmática con choque o dificultad respiratoria, sangrado grave, o compromiso orgánico (AST	confirmado	F5	statpearls-oa	Dengue Fever: Evaluation (definición de dengue grave)
+INFECTO-T01	46	Prueba: RT-PCR y antígeno NS1 durante la primera semana (la RT-PCR es positiva sobre todo en los primeros 5 dí	corregido	F5	statpearls-oa	Dengue Fever: Evaluation (pruebas de laboratorio)
+INFECTO-T01	49	Grupo B (alarma, comorbilidad o riesgo social): hospitalizar. Hemograma basal; cristaloide isotónico, siempre 	sin_contrastar	F5	-	no contrastado con texto leído
+INFECTO-T01	50	Grupo C (choque o dificultad respiratoria): reanimación protocolizada con cristaloide y reevaluación frecuente	sin_contrastar	F5	-	no contrastado con texto leído
+INFECTO-T02	65	Criterios de malaria grave (OMS): alteración de conciencia, convulsiones repetidas, anemia grave, acidosis, hi	confirmado	F24	bookshelf-oa	WHO malaria 2022: definición de malaria grave (tabla de criterios)
+INFECTO-T02	67	No complicada por P. falciparum: terapia combinada con derivados de artemisinina (artemeter-lumefantrina dos v	confirmado	F24	bookshelf-oa	WHO malaria 2022: artemeter-lumefantrina, régimen de dosificación
+INFECTO-T02	68	Gametocitocida: desde 2012 la OMS aconseja añadir a la terapia combinada primaquina en una sola toma de 0,25 m	corregido	F24	bookshelf-oa	WHO malaria 2022: reducción de la transmisibilidad (primaquina 0,25 mg/kg)
+INFECTO-T02	69	No complicada por P. vivax sensible a cloroquina: cloroquina en tres días (10 mg/kg base el día 1, 10 mg/kg el	corregido	F24	bookshelf-oa	WHO malaria 2022: tratamiento de P. vivax sensible a cloroquina
+INFECTO-T02	70	Más primaquina durante 14 días para eliminar hipnozoítos (0,25 a 0,5 mg/kg/día según la OMS; la guía colombian	corregido	F24	bookshelf-oa	WHO malaria 2022: primaquina para prevenir recaídas; GPC Colombia 2022 sección de P. vivax
+INFECTO-T02	71	Según el estado de G6PD: sin deficiencia, ciclo de 14 días; con deficiencia, considerar primaquina 0,75 mg/kg 	confirmado	F24	bookshelf-oa	WHO malaria 2022: recomendación de G6PD y deficiencia
+INFECTO-T02	72	Grave: artesunato intravenoso o intramuscular 2,4 mg/kg por dosis (3 mg/kg si pesa menos de 20 kg) a las 0, 12	confirmado	F24	bookshelf-oa	WHO malaria 2022: malaria grave, artesunato parenteral; esquema 0-12-24 h en Severe Malaria (statpearls)
+INFECTO-T02	74	En Colombia: La guía de práctica clínica de malaria del Ministerio de Salud (GPC 67-2022, septiembre de 2022) 	corregido	F25	pdf	GPC 67-2022: recomendaciones de primaquina
+INFECTO-T02	75	Las guías difieren: En vivax, la OMS 2022 y la guía colombiana 2022 dan primaquina por peso durante 14 días (0	corregido	F24	bookshelf-oa	WHO malaria 2022 y Malaria (statpearls): tratamiento de P. vivax
+INFECTO-T02	77	Errores típicos: Parar el estudio con una sola gota gruesa negativa; olvidar la glucemia; dar primaquina sin p	corregido	F24	bookshelf-oa	WHO malaria 2022: reducción de la transmisibilidad
+INFECTO-T03	84	Esquema de inicio preferido: dolutegravir junto con dos análogos (tenofovir y lamivudina o emtricitabina); dos	sin_contrastar	-	-	no contrastado con texto leído
+INFECTO-T03	85	Si hay rifampicina, dolutegravir se da dos veces al día (50 mg cada 12 horas), y se mantiene así dos semanas d	confirmado	F28	bookshelf-oa	WHO consolidated HIV 2021: interacciones con rifampicina (anexo de dosis)
+INFECTO-T03	87	Dosis y umbral de CD4 de las guías de otros países (por ejemplo, 200 células/µL) ⚠ sin contrastar	sin_contrastar	F28	-	no contrastado con texto leído
+INFECTO-T03	89	Manejo: Inicio de TAR y seguimiento de carga viral hasta la supresión. En enfermedad oportunista el TAR se ada	corregido	F27	bookshelf-oa	WHO advanced HIV 2025: coinfección TB y criptococosis, momento del TAR
+INFECTO-T04	100	Corticoide: en TB meníngea la OMS recomienda dexametasona o prednisolona con reducción gradual durante 6 a 8 s	corregido	F29	bookshelf-oa	WHO TB módulo 4 2025: corticoides adyuvantes
+INFECTO-T04	102	Manejo: Inicia el tratamiento antituberculoso y luego el TAR lo antes posible, dentro de las 2 semanas siguien	corregido	F27	bookshelf-oa	WHO advanced HIV 2025: TAR en personas con TB
+INFECTO-T05	110	Sepsis-3: disfunción orgánica con riesgo vital causada por una respuesta desregulada a la infección. Se operac	sin_contrastar	F23	-	no contrastado con texto leído
+INFECTO-T05	111	Choque séptico: necesidad de vasopresor para mantener una presión arterial media de 65 mmHg o más, con lactato	sin_contrastar	F23	-	no contrastado con texto leído
+INFECTO-T05	112	qSOFA (frecuencia respiratoria de 22 o más, presión sistólica de 100 mmHg o menos, alteración mental) es una h	sin_contrastar	F23	-	no contrastado con texto leído
+INFECTO-T05	117	Cristaloide, 30 mL/kg, en las primeras 3 horas cuando hay hipotensión o lactato de 4 mmol/L o más.	confirmado	F23	statpearls-oa	Bacterial Sepsis: Treatment (paquete de 3 horas)
+INFECTO-T05	118	Vasopresor si hay hipotensión durante o después de los líquidos, con meta de presión media de 65 mmHg o más; l	confirmado	F23	statpearls-oa	Bacterial Sepsis: Treatment (paquete de 6 horas)
+INFECTO-T05	119	Hidrocortisona 200 mg al día si el vasopresor persiste (dosis de corticoide en choque refractario).	confirmado	F23	statpearls-oa	Bacterial Sepsis: Treatment (esteroide a dosis baja)
+INFECTO-T06	134	Factores de riesgo para Listeria según la OMS 2025: edad mayor de 60 años, embarazo, inmunosupresión, trasplan	corregido	F30	bookshelf-oa	WHO meningitis 2025: tratamiento empírico, factores de riesgo para Listeria
+INFECTO-T06	135	Dosis habituales de adulto: ceftriaxona 2 g IV cada 12 horas; ampicilina 2 g IV cada 4 horas ⚠ sin contrastar	sin_contrastar	-	-	no contrastado con texto leído
+INFECTO-T06	136	Dexametasona IV con la primera dosis de antibiótico, cada 6 horas y como máximo 4 días; sin retrasar el antibi	confirmado	F30	bookshelf-oa	WHO meningitis 2025: corticoides adyuvantes
+INFECTO-T06	137	Dosis de dexametasona de 0,15 mg/kg ⚠ sin contrastar	sin_contrastar	-	-	no contrastado con texto leído
+INFECTO-T06	138	Quimioprofilaxis de contactos cercanos de meningococo: dosis única de ceftriaxona parenteral o ciprofloxacino 	confirmado	F30	bookshelf-oa	WHO meningitis 2025: profilaxis de contactos
+INFECTO-T06	139	Dosis de ciprofloxacino de 500 mg ⚠ sin contrastar	sin_contrastar	-	-	no contrastado con texto leído
+INFECTO-T06	141	Las guías difieren: La imagen previa a la punción: NICE la reserva para criterios clínicos, mientras StatPearl	corregido	F8	html	NICE NG240: neuroimagen antes de la punción lumbar; Meningitis (statpearls) sección de diagnóstico
+INFECTO-T07	153	Sífilis latente tardía o de duración desconocida: 2,4 millones de unidades IM por semana durante 3 semanas con	confirmado	F35	bookshelf-oa	WHO ITS 2024: sífilis tardía
+INFECTO-T07	154	Neurosífilis: penicilina G cristalina acuosa 3 a 4 millones de unidades IV cada 4 horas (o 24 millones al día 	corregido	F32	statpearls-oa	Neurosyphilis: Treatment
+INFECTO-T07	155	Gonorrea no complicada: ceftriaxona IM en dosis única; la OMS 2024 indica 1 g.	corregido	F35	bookshelf-oa	WHO ITS 2024: tratamiento de gonorrea
+INFECTO-T07	156	Clamidia: doxiciclina 100 mg VO cada 12 horas durante 7 días.	confirmado	F35	bookshelf-oa	WHO ITS 2024: tratamiento de clamidia
+INFECTO-T07	158	Las guías difieren: Para la gonorrea no complicada, la OMS 2024 indica ceftriaxona 1 g IM en dosis única, Stat	corregido	F35	bookshelf-oa	WHO ITS 2024 y Gonorrhea (statpearls): tratamiento
+INFECTO-T08	168	Manejo: Antimoniales pentavalentes (antimoniato de meglumina) por 10 a 20 días en cutánea; en mucosa, antimoni	corregido	F11	statpearls-oa	Leishmaniasis: Treatment (cutánea y mucocutánea)
+INFECTO-T08	169	Dosis del antimoniato (20 mg de antimonio por kg al día) y de miltefosina (2,5 mg/kg/día; contraindicada en em	sin_contrastar	-	-	no contrastado con texto leído
+INFECTO-T08	171	Perlas de examen: Lesión cutánea indolora en zona rural selvática = sospecha de leishmaniasis. Monitorea ECG, 	sin_contrastar	F11	-	no contrastado con texto leído
+INFECTO-T09	180	Manejo: Benznidazol 5 a 10 mg/kg/día en dos tomas cada 12 horas durante 30 a 60 días; alternativa nifurtimox 8	corregido	F12	statpearls-oa	Chagas Disease: Treatment
+INFECTO-T10	193	Dosis y duración habituales (doxiciclina 100 mg cada 12 horas durante 5 a 7 días; penicilina G 1,5 millones UI	sin_contrastar	-	-	no contrastado con texto leído
+INFECTO-T12	215	Diagnóstico: Clínico; el absceso se confirma con ecografía. Para necrosante, la clínica manda y el LRINEC de 6	sin_contrastar	F34	-	no contrastado con texto leído
+INFECTO-T14	235	Neumonía comunitaria con hospitalización: ceftriaxona 1 a 2 g IV al día más azitromicina 500 mg al día ⚠ sin c	sin_contrastar	-	-	no contrastado con texto leído
+INFECTO-T14	236	ITU complicada: ceftriaxona 1 g IV al día, ajustar con urocultivo ⚠ sin contrastar	sin_contrastar	-	-	no contrastado con texto leído
+INFECTO-C01	246	Manejo: Hospitalizar como grupo B, cristaloide isotónico con reevaluación de hematocrito y diuresis; si hay ch	sin_contrastar	-	-	no contrastado con texto leído
+INFECTO-C02	255	Manejo: Artesunato IV 2,4 mg/kg a las 0, 12 y 24 horas y luego cada 24 horas; corregir hipoglucemia; transfusi	confirmado	F4	statpearls-oa	Severe Malaria: Treatment
+INFECTO-C03	264	Manejo: Si es criptococo, la OMS 2022 y 2025 prefieren inducción con anfotericina liposomal en dosis única alt	sin_contrastar	-	-	no contrastado con texto leído
+INFECTO-C03	265	Perlas: Con CD4 menor de 100 células/µL, el antígeno criptocócico precede a la meningitis ⚠ sin contrastar	sin_contrastar	F27	-	no contrastado con texto leído
+INFECTO-C04	273	Manejo: Penicilina G cristalina IV o ceftriaxona IV; soporte ventilatorio y diálisis si se requiere; reponer p	sin_contrastar	-	-	no contrastado con texto leído
+INFECTO-C05	282	Manejo: Ceftriaxona IV, vancomicina, y ampicilina IV por la edad (más de 50 años según StatPearls; la OMS usa 	sin_contrastar	-	-	no contrastado con texto leído
+INFECTO-C05	283	Perlas: En la edad de riesgo (más de 60 años en la OMS) se cubre Listeria.	corregido	F30	bookshelf-oa	WHO meningitis 2025: factores de riesgo para Listeria

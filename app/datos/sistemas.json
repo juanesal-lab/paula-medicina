@@ -1,0 +1,171 @@
+{
+  "version": 1,
+  "sistemas": [
+    {
+      "id": "oseo",
+      "nombre": "Sistema óseo",
+      "color": "#E8DCC4",
+      "glb": "modelos/oseo.glb",
+      "bytes": 4930292,
+      "tris": 701877,
+      "estructuras": 277,
+      "visible_inicio": true,
+      "orden": 1,
+      "opcional": false
+    },
+    {
+      "id": "piel",
+      "nombre": "Piel y regiones del cuerpo",
+      "color": "#D8B49A",
+      "glb": "modelos/piel.glb",
+      "bytes": 989396,
+      "tris": 95493,
+      "estructuras": 256,
+      "visible_inicio": true,
+      "orden": 2,
+      "opcional": false,
+      "opacidad": 0.35
+    },
+    {
+      "id": "articular",
+      "nombre": "Sistema articular",
+      "color": "#9FB8C9",
+      "glb": "modelos/articular.glb",
+      "bytes": 2092680,
+      "tris": 231317,
+      "estructuras": 413,
+      "visible_inicio": false,
+      "orden": 3,
+      "opcional": false
+    },
+    {
+      "id": "muscular",
+      "nombre": "Sistema muscular",
+      "color": "#B5523B",
+      "glb": "modelos/muscular.glb",
+      "bytes": 6968692,
+      "tris": 915051,
+      "estructuras": 683,
+      "visible_inicio": false,
+      "orden": 4,
+      "opcional": false
+    },
+    {
+      "id": "cardiovascular",
+      "nombre": "Sistema cardiovascular",
+      "color": "#C8323C",
+      "glb": "modelos/cardiovascular.glb",
+      "bytes": 5202612,
+      "tris": 621334,
+      "estructuras": 676,
+      "visible_inicio": false,
+      "orden": 5,
+      "opcional": false,
+      "colores_subsistema": {
+        "arterias": "#C8323C",
+        "venas": "#3B5BA9",
+        "corazon": "#C8323C"
+      }
+    },
+    {
+      "id": "nervioso",
+      "nombre": "Sistema nervioso",
+      "color": "#E8C547",
+      "glb": "modelos/nervioso.glb",
+      "bytes": 7328108,
+      "tris": 1001999,
+      "estructuras": 582,
+      "visible_inicio": false,
+      "orden": 6,
+      "opcional": false
+    },
+    {
+      "id": "linfatico",
+      "nombre": "Sistema linfático",
+      "color": "#7FB77E",
+      "glb": "modelos/linfatico.glb",
+      "bytes": 800048,
+      "tris": 93382,
+      "estructuras": 164,
+      "visible_inicio": false,
+      "orden": 7,
+      "opcional": false
+    },
+    {
+      "id": "digestivo",
+      "nombre": "Sistema digestivo",
+      "color": "#D99A6C",
+      "glb": "modelos/digestivo.glb",
+      "bytes": 1559856,
+      "tris": 238599,
+      "estructuras": 49,
+      "visible_inicio": false,
+      "orden": 8,
+      "opcional": false
+    },
+    {
+      "id": "respiratorio",
+      "nombre": "Sistema respiratorio",
+      "color": "#E3A0A8",
+      "glb": "modelos/respiratorio.glb",
+      "bytes": 1046300,
+      "tris": 153646,
+      "estructuras": 37,
+      "visible_inicio": false,
+      "orden": 9,
+      "opcional": false
+    },
+    {
+      "id": "urinario",
+      "nombre": "Sistema urinario",
+      "color": "#C9B458",
+      "glb": "modelos/urinario.glb",
+      "bytes": 92276,
+      "tris": 12262,
+      "estructuras": 8,
+      "visible_inicio": false,
+      "orden": 10,
+      "opcional": false
+    },
+    {
+      "id": "reproductor",
+      "nombre": "Sistema reproductor",
+      "color": "#B07AA1",
+      "glb": "modelos/reproductor.glb",
+      "bytes": 104908,
+      "tris": 12865,
+      "estructuras": 14,
+      "visible_inicio": false,
+      "orden": 11,
+      "opcional": false
+    },
+    {
+      "id": "endocrino",
+      "nombre": "Sistema endocrino",
+      "color": "#8E6CC0",
+      "glb": "modelos/endocrino.glb",
+      "bytes": 65956,
+      "tris": 7522,
+      "estructuras": 10,
+      "visible_inicio": false,
+      "orden": 12,
+      "opcional": false
+    },
+    {
+      "id": "inserciones",
+      "nombre": "Orígenes e inserciones musculares",
+      "color": "#D24B4B",
+      "glb": "modelos/inserciones.glb",
+      "bytes": 4689260,
+      "tris": 572240,
+      "estructuras": 705,
+      "visible_inicio": false,
+      "orden": 13,
+      "opcional": true,
+      "colores_subsistema": {
+        "origen": "#D24B4B",
+        "insercion": "#4B7BD2"
+      }
+    }
+  ]
+}

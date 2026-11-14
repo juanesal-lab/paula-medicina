@@ -1,0 +1,47 @@
+id_seccion	linea	dato	estado	fuente	via	ubicacion_en_fuente
+ENDO-T01	38	El diagnóstico es bioquímico; el tamizaje se hace en adultos de cualquier edad con sobrepeso u obesidad y fact	confirmado	F32	pmc-efetch	ADA 2026 cap. 2: tamizaje (Tabla 2.5, recomendación 2.12)
+ENDO-T01	39	Metas: HbA1c menor de 7 % en muchos adultos no embarazadas sin hipoglucemia grave; metas más flexibles en anci	sin_contrastar	F2	-	no contrastado con texto leído
+ENDO-T01	41	Diagnóstico: Criterios ADA 2026: HbA1c de 6,5 % o más; glucosa en ayunas de 126 mg/dL o más; glucosa a las 2 h	corregido	F32	pmc-efetch	ADA 2026 cap. 2: Tabla 2.1 (criterios diagnósticos) y prediabetes
+ENDO-T01	42	Manejo: Cambios de estilo de vida y metformina como base, con titulación lenta hasta un máximo de 2000 mg al d	sin_contrastar	F33	-	no contrastado con texto leído
+ENDO-T01	43	En Colombia: Existe la guía del Ministerio de Salud y Protección Social para el diagnóstico, tratamiento y seg	sin_contrastar	F3	-	no contrastado con texto leído
+ENDO-T02	56	Diagnóstico: CAD según StatPearls: glucosa mayor de 250 mg/dL, pH arterial menor de 7,3, bicarbonato menor de 	sin_contrastar	F5	-	no contrastado con texto leído
+ENDO-T02	57	Manejo: Primero líquidos: solución salina 0,9 % de 15 a 20 mL/kg en la primera hora, luego según sodio corregi	corregido	F5	statpearls-oa	Adult DKA: Treatment (líquidos, potasio, insulina, resolución); ADA 2026 cap. 16
+ENDO-T02	59	Errores típicos: Iniciar insulina con potasio menor de 3,5 mEq/L; suspender la infusión al normalizarse la glu	corregido	F5	statpearls-oa	Adult DKA: Treatment (umbral de potasio 3,5)
+ENDO-T03	66	Déficit de líquidos mayor que en CAD y mortalidad más alta (hasta 20 %, unas 10 veces la de la CAD).	corregido	F6	statpearls-oa	HHS: epidemiología y mortalidad
+ENDO-T03	67	Diagnóstico: Glucosa mayor de 600 mg/dL, osmolaridad efectiva mayor de 320 mOsm/L y ausencia de cetoacidosis s	corregido	F6	statpearls-oa	HHS: definición; ADA 2026 cap. 16: Tabla 16.1
+ENDO-T03	68	Manejo: Reposición de volumen primero con isotónico: bolo de 15 a 20 mL/kg y luego 200 a 250 mL/h en adultos; 	corregido	F6	statpearls-oa	HHS: Treatment (hidratación)
+ENDO-T03	69	Dosis de insulina de 0,05 a 0,1 U/kg por hora, meta de glucosa de 200 a 300 mg/dL, descenso de osmolaridad no 	sin_contrastar	F6	-	no contrastado con texto leído
+ENDO-T04	77	Clasificación ADA: nivel 1 menor de 70 mg/dL y 54 mg/dL o más; nivel 2 menor de 54 mg/dL; nivel 3 evento grave	confirmado	F2	pmc-efetch	ADA 2026 cap. 6: Tabla 6.4 (clasificación de hipoglucemia)
+ENDO-T04	80	Diagnóstico: La prueba de ayuno de 72 h es el estándar para confirmar insulinoma; la glucosa de referencia par	sin_contrastar	F7	-	no contrastado con texto leído
+ENDO-T04	81	Manejo: Paciente consciente con glucosa menor de 70 mg/dL: unos 15 g de carbohidrato que contenga glucosa y re	sin_contrastar	F2	-	no contrastado con texto leído
+ENDO-T05	92	Manejo: Levotiroxina por vía oral en ayunas, separada de calcio, hierro e inhibidores de bomba de protones; en	sin_contrastar	F9	-	no contrastado con texto leído
+ENDO-T05	93	Subclínico: tratar con TSH de 10 mIU/L o más, y valorar síntomas, embarazo o anti-TPO positivos. Embarazo: la 	corregido	F10	statpearls-oa	Subclinical Hypothyroidism; Hashimoto Thyroiditis: tratamiento; Myxedema Coma: dosis de carga
+ENDO-T06	104	Manejo: Betabloqueador (propranolol 10 a 40 mg por vía oral cada 6 a 8 h) para síntomas. Metimazol con dosis i	sin_contrastar	F13	-	no contrastado con texto leído
+ENDO-T07	114	Diagnóstico: Primero TSH. Si está suprimida, gammagrafía (el nódulo caliente casi nunca es maligno). Ecografía	sin_contrastar	F15	-	no contrastado con texto leído
+ENDO-T07	115	Bethesda: seis categorías (I no diagnóstico, II benigno, III atipia de significado indeterminado, IV neoplasia	sin_contrastar	-	-	no contrastado con texto leído
+ENDO-T08	127	Diagnóstico: Tamizaje con al menos dos de tres: cortisol libre urinario de 24 h elevado, cortisol salival noct	corregido	F16	statpearls-oa	Hypercortisolism: pruebas de tamizaje y ACTH
+ENDO-T09	139	Diagnóstico: Cortisol de la mañana bajo sugiere insuficiencia y uno alto la descarta; prueba de estimulación c	sin_contrastar	F17	-	no contrastado con texto leído
+ENDO-T09	141	Manejo: Crisis: no demorar el tratamiento por la confirmación; tomar cortisol y ACTH si es posible y administr	corregido	F17	statpearls-oa	Adrenal Insufficiency: Treatment (crisis y mantenimiento)
+ENDO-T10	152	Diagnóstico: Aldosterona: relación aldosterona/renina elevada, confirmación con prueba de infusión salina (ald	corregido	F18	statpearls-oa	Hyperaldosteronism: prueba de infusión salina; Pheochromocytoma: bloqueo alfa
+ENDO-T10	153	Manejo: Aldosteronismo unilateral: adrenalectomía laparoscópica; bilateral: espironolactona o eplerenona (dosi	sin_contrastar	F18	-	no contrastado con texto leído
+ENDO-T11	160	Calcio corregido por albúmina: calcio medido más 0,8 por (4 menos albúmina en g/dL) ⚠ sin contrastar	sin_contrastar	-	-	no contrastado con texto leído
+ENDO-T11	164	Diagnóstico: Primer paso: confirmar con calcio corregido o calcio iónico y medir PTH intacta; PTH alta o inapr	corregido	F20	statpearls-oa	Hypercalcemia: clasificación por gravedad
+ENDO-T11	165	Manejo (agudo): Solución salina 0,9 % de 200 a 300 mL por hora al inicio, ajustada a una diuresis de más de 10	sin_contrastar	F21	-	no contrastado con texto leído
+ENDO-T11	167	Manejo (hiperparatiroidismo primario): Paratiroidectomía si hay síntomas o complicaciones; si es asintomático,	sin_contrastar	F22	-	no contrastado con texto leído
+ENDO-T12	177	Diagnóstico: La prolactina crece con el tamaño del tumor (unos 200 ng/mL en tumores menores de 1 cm y más en l	corregido	F23	statpearls-oa	Prolactinoma: relación prolactina-tamaño y efecto gancho
+ENDO-T12	178	Manejo: Agonistas dopaminérgicos como primera línea, incluso en macroadenomas: cabergolina de 0,25 mg dos vece	sin_contrastar	F23	-	no contrastado con texto leído
+ENDO-T13	189	Manejo: Calcio (500 a 1200 mg al día) y vitamina D (400 a 800 UI al día) como complemento del tratamiento farm	sin_contrastar	F25	-	no contrastado con texto leído
+ENDO-T14	197	Obesidad: IMC de 30 kg/m2 o más; es una enfermedad crónica y recidivante con efectos sobre diabetes, hipertens	sin_contrastar	F27	-	no contrastado con texto leído
+ENDO-T14	199	Criterios (ATP III): circunferencia abdominal elevada (más de 40 pulgadas en hombres y más de 35 en mujeres en	sin_contrastar	F28	-	no contrastado con texto leído
+ENDO-T14	201	Manejo: Farmacoterapia con IMC de 30 kg/m2 o más, o de 27 kg/m2 o más con comorbilidad relacionada con el peso	sin_contrastar	F29	-	no contrastado con texto leído
+ENDO-C01	208	Estudios: Glucosa capilar y venosa, gases venosos, electrolitos con cálculo de brecha aniónica, cetonas, creat	confirmado	F5	statpearls-oa	Adult DKA: brecha aniónica
+ENDO-C01	209	Manejo: Solución salina 0,9 % de 15 a 20 mL/kg en la primera hora. Con potasio de 5,4 mEq/L no añadir potasio 	corregido	F5	statpearls-oa	Adult DKA: Treatment
+ENDO-C01	210	Perlas: El sodio medido es bajo por dilución; corregirlo con 1,6 mEq/L por cada 100 mg/dL de glucosa sobre 100	confirmado	F5	statpearls-oa	Adult DKA: corrección del sodio (1,6 mEq/L)
+ENDO-C02	218	Manejo: No esperar la confirmación: hidrocortisona 100 mg intravenoso en bolo y luego 200 mg en 24 h. Solución	corregido	F17	statpearls-oa	Adrenal Insufficiency: Treatment
+ENDO-C03	226	Estudios: TSH, T4 libre, T3, hemograma, electrolitos, transaminasas, glucosa, hemocultivos, radiografía de tór	corregido	F14	statpearls-oa	Thyroid Storm: escala de Burch-Wartofsky
+ENDO-C03	227	Manejo: Cuidados intensivos. Betabloqueador para el control de frecuencia: propranolol de 40 a 80 mg cada 4 a 	corregido	F14	statpearls-oa	Thyroid Storm: Treatment
+ENDO-C04	235	Estudios: Calcio corregido = 14,8 más 0,8 por (4 menos 3,0) = 15,6 mg/dL PTH intacta (suprimida), PTHrP, 25-OH	sin_contrastar	-	-	no contrastado con texto leído
+ENDO-C04	236	Manejo: Solución salina 0,9 % de 200 a 300 mL por hora al inicio, con diuresis de más de 100 mL por hora y mon	corregido	F21	statpearls-oa	Malignancy-Related Hypercalcemia: Treatment
+ENDO-C04	237	Perlas: La PTH suprimida con calcio alto excluye hiperparatiroidismo. El efecto de los bisfosfonatos aparece e	confirmado	F21	statpearls-oa	Malignancy-Related Hypercalcemia
+ENDO-C05	244	Estudios: Osmolaridad efectiva = 2 por 134 más 842/18 = 315 mOsm/kg; con sodio corregido de 134 más 1,6 por 7,	confirmado	F6	statpearls-oa	HHS: fórmula de osmolaridad y sodio corregido
+ENDO-C05	245	Manejo: Primero volumen: salina 0,9 % en bolo de 15 a 20 mL/kg y luego 200 a 250 mL/h según hidratación y sodi	sin_contrastar	-	-	no contrastado con texto leído

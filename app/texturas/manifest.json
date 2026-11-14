@@ -1,0 +1,150 @@
+{
+  "version": 1,
+  "generado": "2026-11-13",
+  "tejidos": {
+    "musculo": {
+      "modelo": "gemini-3-pro-image-preview",
+      "prompt": "Seamless tileable texture, top-down macro photograph of skeletal muscle fiber surface, natural rich red, densely packed fine parallel fibers running vertically with even density, evenly spaced thin pale connective lines between fiber bundles, realistic organic irregularity, asymmetric, no mirroring, no wide membranes, no branching, no spots, filling the entire frame edge to edge, flat even diffuse lighting, no shadows, no specular hotspots, no vignette, sharp focus everywhere, anatomical atlas specimen quality, photorealistic, highly detailed surface, uniform homogeneous pattern evenly distributed across the whole frame, no unique or isolated features, no large vessels, no single spots, no folds, no specular highlights, no text, no labels, no borders, no background, no instruments.",
+      "fibras": "vertical",
+      "px": 1024
+    },
+    "hueso": {
+      "modelo": "gemini-3-pro-image-preview",
+      "prompt": "Seamless tileable texture, top-down macro photograph of dry cortical bone surface, ivory to warm off-white, fine porous texture with tiny vascular foramina and faint longitudinal striations, filling the entire frame edge to edge, flat even diffuse lighting, no shadows, no specular hotspots, no vignette, sharp focus everywhere, anatomical atlas specimen quality, photorealistic, highly detailed surface, no text, no labels, no borders, no background, no instruments.",
+      "fibras": null,
+      "px": 1024
+    },
+    "tendon": {
+      "modelo": "gemini-3-pro-image-preview",
+      "prompt": "Seamless tileable texture, top-down macro photograph of tendon and aponeurosis, pearly white-silver dense parallel collagen fibers running vertically, subtle silky sheen, filling the entire frame edge to edge, flat even diffuse lighting, no shadows, no specular hotspots, no vignette, sharp focus everywhere, anatomical atlas specimen quality, photorealistic, highly detailed surface, uniform homogeneous pattern evenly distributed across the whole frame, no unique or isolated features, no large vessels, no single spots, no folds, no specular highlights, no text, no labels, no borders, no background, no instruments.",
+      "fibras": "vertical",
+      "px": 1024
+    },
+    "fascia": {
+      "modelo": "gemini-3-pro-image-preview",
+      "prompt": "Seamless tileable texture, top-down macro photograph of deep fascia surface, off-white fibrous connective tissue with fine dense evenly woven criss-crossing collagen fibers, semi-translucent, no large strands, filling the entire frame edge to edge, flat even diffuse lighting, no shadows, no specular hotspots, no vignette, sharp focus everywhere, anatomical atlas specimen quality, photorealistic, highly detailed surface, uniform homogeneous pattern evenly distributed across the whole frame, no unique or isolated features, no large vessels, no single spots, no folds, no specular highlights, no text, no labels, no borders, no background, no instruments.",
+      "fibras": null,
+      "px": 1024
+    },
+    "cartilago": {
+      "modelo": "gemini-3-pro-image-preview",
+      "prompt": "Seamless tileable texture, top-down macro photograph of hyaline articular cartilage, smooth glossy bluish-white pearl surface with very subtle mottling, filling the entire frame edge to edge, flat even diffuse lighting, no shadows, no specular hotspots, no vignette, sharp focus everywhere, anatomical atlas specimen quality, photorealistic, highly detailed surface, uniform homogeneous pattern evenly distributed across the whole frame, no unique or isolated features, no large vessels, no single spots, no folds, no specular highlights, no text, no labels, no borders, no background, no instruments.",
+      "fibras": null,
+      "px": 1024
+    },
+    "grasa": {
+      "modelo": "gemini-3-pro-image-preview",
+      "prompt": "Seamless tileable texture, top-down macro photograph of subcutaneous adipose tissue, pale yellow lobules separated by thin fibrous septa, filling the entire frame edge to edge, flat even diffuse lighting, no shadows, no specular hotspots, no vignette, sharp focus everywhere, anatomical atlas specimen quality, photorealistic, highly detailed surface, uniform homogeneous pattern evenly distributed across the whole frame, no unique or isolated features, no large vessels, no single spots, no folds, no specular highlights, no text, no labels, no borders, no background, no instruments.",
+      "fibras": null,
+      "px": 1024
+    },
+    "piel": {
+      "modelo": "seedream-4-5",
+      "prompt": "Seamless tileable texture, top-down macro photograph of a warm neutral medium-tone skin surface, fine evenly distributed pores and micro-wrinkles, one single continuous surface, no grid, no panels, no hair, no moles, filling the entire frame edge to edge, flat even diffuse lighting, no shadows, no specular hotspots, no vignette, sharp focus everywhere, scientific reference quality, photorealistic, highly detailed surface, uniform homogeneous pattern evenly distributed across the whole frame, no unique or isolated features, no large vessels, no single spots, no folds, no specular highlights, no text, no labels, no borders, no background, no instruments.",
+      "fibras": null,
+      "px": 1024
+    },
+    "nervio": {
+      "modelo": "gemini-3-pro-image-preview",
+      "prompt": "Seamless tileable texture, top-down macro photograph of peripheral nerve, pale yellowish-white cord surface with fine longitudinal fascicles and tiny red vasa nervorum, filling the entire frame edge to edge, flat even diffuse lighting, no shadows, no specular hotspots, no vignette, sharp focus everywhere, anatomical atlas specimen quality, photorealistic, highly detailed surface, uniform homogeneous pattern evenly distributed across the whole frame, no unique or isolated features, no large vessels, no single spots, no folds, no specular highlights, no text, no labels, no borders, no background, no instruments.",
+      "fibras": "vertical",
+      "px": 1024
+    },
+    "arteria": {
+      "modelo": "gemini-3-pro-image-preview",
+      "prompt": "Seamless tileable texture, top-down macro photograph of artery wall exterior, light red-pink thick elastic tunica with faint circumferential fibers and vasa vasorum, filling the entire frame edge to edge, flat even diffuse lighting, no shadows, no specular hotspots, no vignette, sharp focus everywhere, anatomical atlas specimen quality, photorealistic, highly detailed surface, uniform homogeneous pattern evenly distributed across the whole frame, no unique or isolated features, no large vessels, no single spots, no folds, no specular highlights, no text, no labels, no borders, no background, no instruments.",
+      "fibras": null,
+      "px": 1024
+    },
+    "vena": {
+      "modelo": "gemini-3-pro-image-preview",
+      "prompt": "Seamless tileable texture, top-down macro photograph of vein wall exterior, dark bluish-purple thin wall with subtle translucency and faint longitudinal fibers, filling the entire frame edge to edge, flat even diffuse lighting, no shadows, no specular hotspots, no vignette, sharp focus everywhere, anatomical atlas specimen quality, photorealistic, highly detailed surface, uniform homogeneous pattern evenly distributed across the whole frame, no unique or isolated features, no large vessels, no single spots, no folds, no specular highlights, no text, no labels, no borders, no background, no instruments.",
+      "fibras": null,
+      "px": 1024
+    },
+    "linfatico": {
+      "modelo": "gemini-3-pro-image-preview",
+      "prompt": "Seamless tileable texture, top-down macro photograph of lymph node capsule surface, pale greenish-tan smooth tissue with many tiny fine evenly scattered vessels, no arcs, no large curves, filling the entire frame edge to edge, flat even diffuse lighting, no shadows, no specular hotspots, no vignette, sharp focus everywhere, anatomical atlas specimen quality, photorealistic, highly detailed surface, uniform homogeneous pattern evenly distributed across the whole frame, no unique or isolated features, no large vessels, no single spots, no folds, no specular highlights, no text, no labels, no borders, no background, no instruments.",
+      "fibras": null,
+      "px": 1024
+    },
+    "miocardio": {
+      "modelo": "gemini-3-pro-image-preview",
+      "prompt": "Seamless tileable texture, top-down macro photograph of heart muscle epicardial surface, dark red-brown myocardium with small evenly scattered flecks of yellow epicardial fat and fine branching coronary vessels, filling the entire frame edge to edge, flat even diffuse lighting, no shadows, no specular hotspots, no vignette, sharp focus everywhere, anatomical atlas specimen quality, photorealistic, highly detailed surface, uniform homogeneous pattern evenly distributed across the whole frame, no unique or isolated features, no large vessels, no single spots, no folds, no specular highlights, no text, no labels, no borders, no background, no instruments.",
+      "fibras": null,
+      "px": 1024
+    },
+    "pulmon": {
+      "modelo": "gemini-3-pro-image-preview",
+      "prompt": "Seamless tileable texture, top-down macro photograph of lung pleural surface, pinkish-grey spongy tissue with fine polygonal lobule pattern and faint dark anthracotic speckles, filling the entire frame edge to edge, flat even diffuse lighting, no shadows, no specular hotspots, no vignette, sharp focus everywhere, anatomical atlas specimen quality, photorealistic, highly detailed surface, uniform homogeneous pattern evenly distributed across the whole frame, no unique or isolated features, no large vessels, no single spots, no folds, no specular highlights, no text, no labels, no borders, no background, no instruments.",
+      "fibras": null,
+      "px": 1024
+    },
+    "higado": {
+      "modelo": "gemini-3-pro-image-preview",
+      "prompt": "Seamless tileable texture, top-down macro photograph of liver surface, smooth dark reddish-brown glossy capsule with very fine lobular mottling, filling the entire frame edge to edge, flat even diffuse lighting, no shadows, no specular hotspots, no vignette, sharp focus everywhere, anatomical atlas specimen quality, photorealistic, highly detailed surface, uniform homogeneous pattern evenly distributed across the whole frame, no unique or isolated features, no large vessels, no single spots, no folds, no specular highlights, no text, no labels, no borders, no background, no instruments.",
+      "fibras": null,
+      "px": 1024
+    },
+    "rinon": {
+      "modelo": "gemini-3-pro-image-preview",
+      "prompt": "Seamless tileable texture, top-down macro photograph of kidney capsule surface, smooth reddish-brown tissue with many tiny fine evenly scattered veins, no spots, no dots, filling the entire frame edge to edge, flat even diffuse lighting, no shadows, no specular hotspots, no vignette, sharp focus everywhere, anatomical atlas specimen quality, photorealistic, highly detailed surface, uniform homogeneous pattern evenly distributed across the whole frame, no unique or isolated features, no large vessels, no single spots, no folds, no specular highlights, no text, no labels, no borders, no background, no instruments.",
+      "fibras": null,
+      "px": 1024
+    },
+    "bazo": {
+      "modelo": "seedream-4-5",
+      "prompt": "Seamless tileable texture, top-down macro photograph of a smooth flat soft organic surface, uniform dark purple-maroon color with very faint fine even mottling, slightly moist, no bumps, no cells, no pebbles, no lumps, filling the entire frame edge to edge, flat even diffuse lighting, no shadows, no specular hotspots, no vignette, sharp focus everywhere, scientific reference quality, photorealistic, highly detailed surface, uniform homogeneous pattern evenly distributed across the whole frame, no unique or isolated features, no large vessels, no single spots, no folds, no specular highlights, no text, no labels, no borders, no background, no instruments.",
+      "fibras": null,
+      "px": 1024
+    },
+    "estomago": {
+      "modelo": "gemini-3-pro-image-preview",
+      "prompt": "Seamless tileable texture, top-down macro photograph of stomach and intestine serosa exterior, pale pinkish-tan smooth moist wall with a very fine faint uniform capillary network, no dots, no spots, no bright points, no large vessels, filling the entire frame edge to edge, flat even diffuse lighting, no shadows, no specular hotspots, no vignette, sharp focus everywhere, anatomical atlas specimen quality, photorealistic, highly detailed surface, uniform homogeneous pattern evenly distributed across the whole frame, no unique or isolated features, no large vessels, no single spots, no folds, no specular highlights, no text, no labels, no borders, no background, no instruments.",
+      "fibras": null,
+      "px": 1024
+    },
+    "mucosa": {
+      "modelo": "gemini-3-pro-image-preview",
+      "prompt": "Seamless tileable texture, top-down macro photograph of intestinal mucosa, pink velvety surface densely and uniformly covered with tiny villi, no folds, filling the entire frame edge to edge, flat even diffuse lighting, no shadows, no specular hotspots, no vignette, sharp focus everywhere, anatomical atlas specimen quality, photorealistic, highly detailed surface, uniform homogeneous pattern evenly distributed across the whole frame, no unique or isolated features, no large vessels, no single spots, no folds, no specular highlights, no text, no labels, no borders, no background, no instruments.",
+      "fibras": null,
+      "px": 1024
+    },
+    "glandula": {
+      "modelo": "gemini-3-pro-image-preview",
+      "prompt": "Seamless tileable texture, top-down macro photograph of glandular tissue such as pancreas or thyroid, tan-pink finely lobulated surface with thin connective septa, filling the entire frame edge to edge, flat even diffuse lighting, no shadows, no specular hotspots, no vignette, sharp focus everywhere, anatomical atlas specimen quality, photorealistic, highly detailed surface, uniform homogeneous pattern evenly distributed across the whole frame, no unique or isolated features, no large vessels, no single spots, no folds, no specular highlights, no text, no labels, no borders, no background, no instruments.",
+      "fibras": null,
+      "px": 1024
+    },
+    "cerebro": {
+      "modelo": "gemini-3-pro-image-preview",
+      "prompt": "Seamless tileable texture, top-down macro photograph of cerebral cortex surface, pinkish-beige grey matter under thin pia mater with a dense fine uniform network of tiny hair-thin capillaries, no larger vessels, no lobes, no gyri shapes, flat tissue surface, filling the entire frame edge to edge, flat even diffuse lighting, no shadows, no specular hotspots, no vignette, sharp focus everywhere, anatomical atlas specimen quality, photorealistic, highly detailed surface, uniform homogeneous pattern evenly distributed across the whole frame, no unique or isolated features, no large vessels, no single spots, no folds, no specular highlights, no text, no labels, no borders, no background, no instruments.",
+      "fibras": null,
+      "px": 1024
+    },
+    "cerebelo": {
+      "modelo": "seedream-4-5",
+      "prompt": "Seamless tileable texture, top-down macro photograph of cerebellar cortex surface, pinkish-grey, tightly packed fine straight parallel folia running vertically like thin evenly spaced ridges, no swirls, no curves, filling the entire frame edge to edge, flat even diffuse lighting, no shadows, no specular hotspots, no vignette, sharp focus everywhere, anatomical atlas specimen quality, photorealistic, highly detailed surface, uniform homogeneous pattern evenly distributed across the whole frame, no unique or isolated features, no large vessels, no single spots, no folds, no specular highlights, no text, no labels, no borders, no background, no instruments.",
+      "fibras": "vertical",
+      "px": 1024
+    },
+    "medula": {
+      "modelo": "gemini-3-pro-image-preview",
+      "prompt": "Seamless tileable texture, top-down macro photograph of spinal cord and white matter, creamy white smooth surface with fine longitudinal vessels, filling the entire frame edge to edge, flat even diffuse lighting, no shadows, no specular hotspots, no vignette, sharp focus everywhere, anatomical atlas specimen quality, photorealistic, highly detailed surface, uniform homogeneous pattern evenly distributed across the whole frame, no unique or isolated features, no large vessels, no single spots, no folds, no specular highlights, no text, no labels, no borders, no background, no instruments.",
+      "fibras": null,
+      "px": 1024
+    },
+    "ojo": {
+      "modelo": "gemini-3.1-flash-image-preview",
+      "prompt": "Seamless tileable texture, top-down macro photograph of flat sclera tissue surface, white, with a dense uniform mesh of extremely fine faint hair-thin red capillaries evenly spread, no larger vessels, flat, no dome, no curvature, filling the entire frame edge to edge, flat even diffuse lighting, no shadows, no specular hotspots, no vignette, sharp focus everywhere, anatomical atlas specimen quality, photorealistic, highly detailed surface, uniform homogeneous pattern evenly distributed across the whole frame, no unique or isolated features, no large vessels, no single spots, no folds, no specular highlights, no text, no labels, no borders, no background, no instruments.",
+      "fibras": null,
+      "px": 1024
+    },
+    "diente": {
+      "modelo": "gemini-3-pro-image-preview",
+      "prompt": "Seamless tileable texture, top-down macro photograph of tooth enamel, glossy ivory-white smooth surface with very faint vertical striations, filling the entire frame edge to edge, flat even diffuse lighting, no shadows, no specular hotspots, no vignette, sharp focus everywhere, anatomical atlas specimen quality, photorealistic, highly detailed surface, uniform homogeneous pattern evenly distributed across the whole frame, no unique or isolated features, no large vessels, no single spots, no folds, no specular highlights, no text, no labels, no borders, no background, no instruments.",
+      "fibras": null,
+      "px": 1024
+    }
+  }
+}

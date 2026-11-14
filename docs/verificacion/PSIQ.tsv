@@ -1,0 +1,29 @@
+id_seccion	linea	dato	estado	fuente	via	ubicacion_en_fuente
+PSIQ-T01	35	Episodio depresivo: síntomas casi todos los días durante al menos 2 semanas	confirmado	F3	html	Depressive disorders, criterios de depresión mayor
+PSIQ-T01	42	ISRS: respuesta en 2-3 semanas (hasta 8) / efecto en 4 semanas; continuar 6 meses tras remisión	corregido	F1,F4	html	NG222 inicio y suspensión de antidepresivos; MSD, tratamiento farmacológico
+PSIQ-T01	44	Riesgo de ideación suicida con antidepresivos en menores de 25 años	confirmado	F4	html	MSD, medicamentos para la depresión, seguridad
+PSIQ-T01	47	Error típico: cambiar a las 2 semanas (respuesta 2-3 semanas, hasta 8)	confirmado	F4	html	MSD, medicamentos para la depresión
+PSIQ-T02	52	Manía ≥7 días; hipomanía ≥4 días	confirmado	F6	html	MSD, trastornos bipolares, definición de episodios
+PSIQ-T02	58	Litio: niveles 0,6-0,8 / 0,8-1,0 mmol/L (NICE) vs 0,8-1,2 / 0,8-1,0 (StatPearls); controles; interacciones	corregido	F5,F33,F39	html	NICE CG185 uso del litio; StatPearls Lithium, monitoreo; Lithium Toxicity, interacciones (también vía statpearls-oa)
+PSIQ-T03	72	Antipsicótico: evaluar respuesta tras 4 a 6 semanas	confirmado	F7	html	NICE CG178, prueba de medicación
+PSIQ-T03	73	Mantener tratamiento: riesgo alto de recaída si se suspende en 1 a 2 años	corregido	F7	html	NICE CG178, tratamiento a largo plazo
+PSIQ-T04	89	Benzodiacepinas en TAG: solo corta duración en crisis (se eliminó el rango 2 a 4 semanas)	corregido	F10	html	NICE CG113, recomendaciones TAG y pánico
+PSIQ-T05	98	TEPT >1 mes; estrés agudo primeras 4 semanas	confirmado	F13	html	MSD, TEPT, definición y diferencia con estrés agudo
+PSIQ-T06	114	Suicidio en el mundo: más de 740 000 al año; segunda causa de muerte a los 15-29 años (antes 700 000)	corregido	F16	html	OMS, datos clave del suicidio
+PSIQ-T06	120	SIVIGILA 356: notificación súper inmediata (5-9 años o intentos previos), inmediata (10-17), semanal; protocolo versión 6, 2025	corregido	F18	pdf	INS protocolo 356, tabla de periodicidad y control de cambios
+PSIQ-T07	127	Abstinencia alcohólica: cronología (6 h; alucinosis 12-24 h; convulsiones 6-48 h; DT 48-72 h o 3-8 días)	corregido	F19,F22	html	MSD alcohol, abstinencia; StatPearls Alcohol Withdrawal, complicaciones (también vía statpearls-oa)
+PSIQ-T07	133	Diazepam 5-10 mg IV/oral cada hora; lorazepam 1-2 mg	corregido	F19,F22	html	MSD alcohol, tratamiento de la abstinencia; StatPearls tratamiento (también vía statpearls-oa)
+PSIQ-T07	134	Tiamina 100 mg IV (MSD); dosis altas IV/IM (StatPearls, NICE); parenteral mínimo 5 días	corregido	F19,F20,F22	html	MSD alcohol; NICE CG100 Wernicke; StatPearls tratamiento (también vía statpearls-oa)
+PSIQ-T08	150	Haloperidol 0,5-1 mg en delirium (NICE da solo dosis mínima y una semana o menos; dosis exacta no hallada)	sin_contrastar	F23,F24	html	NICE CG103 manejo; MSD delirium
+PSIQ-T09	166	Bulimia: fluoxetina 60 mg/día; evitar bupropión	confirmado	F25,F40	statpearls-oa	StatPearls Bulimia Nervosa, tratamiento farmacológico
+PSIQ-T10	173	TDAH: inicio antes de los 12 años, al menos dos contextos	confirmado	F27,F41	statpearls-oa	StatPearls ADHD, criterios; NICE NG87, diagnóstico (también vía html)
+PSIQ-T12	204	Litio tóxico clínicamente por encima de 1,5 mmol/L	confirmado	F33	statpearls-oa	Lithium Toxicity, evaluación
+PSIQ-T12	206	SNM: dantroleno 1-2,5 mg/kg IV; bromocriptina 2,5 mg cada 8 h (dosis no halladas en las fuentes leídas)	sin_contrastar	F30,F31	statpearls-oa	NMS, tratamiento (sin dosis)
+PSIQ-T12	207	Ciproheptadina 12 mg y luego 2 mg cada 2 h	confirmado	F38	statpearls-oa	StatPearls Serotonin Syndrome, tratamiento
+PSIQ-T13	219	Tranquilización rápida: lorazepam IM 2 mg; haloperidol IM 5 mg (NG10 no da dosis)	sin_contrastar	F34	html	NICE NG10, tranquilización rápida
+PSIQ-T13	220	Olanzapina IM 10 mg y contraindicación con benzodiacepinas parenterales (no hallado en NG10)	sin_contrastar	F34	html	NICE NG10
+PSIQ-C02	236	DD de abstinencia: delirio a los 3 días de la última ingesta (3-8 días)	confirmado	F19,F22	statpearls-oa	Alcohol Withdrawal, complicaciones
+PSIQ-C02	238	Caso: diazepam 5-10 mg IV o lorazepam 1-2 mg IV cada 10 min; duplicar; fenobarbital 120-240 mg IV cada 20 min; tiamina	corregido	F19,F20,F22	html	MSD alcohol, delirium tremens (también vía statpearls-oa)
+PSIQ-C02	239	Delirium a las 48-72 h (MSD) o 3-8 días (StatPearls)	corregido	F19,F22	html	MSD y StatPearls, cronología (también vía statpearls-oa)
+PSIQ-C03	247	Primer episodio: evaluar respuesta a las 4-6 semanas; mantener 1 a 2 años	confirmado	F7	html	NICE CG178
+PSIQ-C04	256	Caso SNM: dantroleno 1-2,5 mg/kg IV; bromocriptina 2,5 mg cada 8 h	sin_contrastar	F30,F31	statpearls-oa	NMS, tratamiento (sin dosis)

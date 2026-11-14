@@ -1,0 +1,173 @@
+{
+ "version": 1,
+ "sistema": "urinario",
+ "fichas": {
+  "ta2:3358": {
+   "clave": "ta2:3358",
+   "ta2": "3358",
+   "nombre_es": "Riñón",
+   "nombre_la": "Ren",
+   "tipo": "organo",
+   "resumen": "Órgano retroperitoneal en forma de frijol, a cada lado de la columna entre T12 y L3.",
+   "funcion": "Filtra la sangre, regula líquidos y electrolitos, el equilibrio ácido-base y la presión arterial, y produce eritropoyetina y renina.",
+   "irrigacion": "Arteria renal y sus ramas segmentarias (arterias terminales).",
+   "drenaje_venoso": "Vena renal hacia la cava inferior.",
+   "inervacion": "Plexo renal (simpático T10-L1) y vago.",
+   "drenaje_linfatico": "Ganglios aórticos laterales (lumbares).",
+   "musculo": null,
+   "relaciones": null,
+   "relevancia_clinica": [
+    "Los cálculos renales causan cólico en flanco irradiado a ingle.",
+    "La poliquistosis autosómica dominante es causa genética de insuficiencia renal.",
+    "El carcinoma de células renales puede presentarse con tríada de hematuria, dolor y masa."
+   ],
+   "perla": "El riñón derecho es más bajo por el hígado.",
+   "fuentes": [
+    {
+     "titulo": "OpenStax Anatomy & Physiology 2e — Anatomía macroscópica del riñón",
+     "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/25-3-gross-anatomy-of-the-kidney"
+    },
+    {
+     "titulo": "OpenStax Anatomy & Physiology 2e — Anatomía macroscópica del transporte de la orina",
+     "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/25-2-gross-anatomy-of-urine-transport"
+    }
+   ],
+   "revisado": "2026-11-13",
+   "contrastado": false
+  },
+  "ta2:3384": {
+   "clave": "ta2:3384",
+   "ta2": "3384",
+   "nombre_es": "Pelvis renal",
+   "nombre_la": "Pelvis renalis",
+   "tipo": "organo",
+   "resumen": "Pelvis renal, dilatación en embudo que recoge la orina de los cálices.",
+   "funcion": "Dirige la orina al uréter.",
+   "irrigacion": "Arteria renal (ramas ureterales).",
+   "drenaje_venoso": "Vena renal.",
+   "inervacion": "Plexo renal.",
+   "drenaje_linfatico": "Ganglios lumbares.",
+   "musculo": null,
+   "relaciones": null,
+   "relevancia_clinica": [
+    "La hidronefrosis es la dilatación de la pelvis y los cálices por obstrucción.",
+    "La estenosis de la unión pieloureteral es causa congénita.",
+    "Los cálculos coraliformes llenan la pelvis."
+   ],
+   "perla": "Hidronefrosis: dilatación por obstrucción.",
+   "fuentes": [
+    {
+     "titulo": "OpenStax Anatomy & Physiology 2e — Anatomía macroscópica del riñón",
+     "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/25-3-gross-anatomy-of-the-kidney"
+    },
+    {
+     "titulo": "StatPearls: Anatomy, Abdomen and Pelvis Ureter",
+     "url": "https://www.ncbi.nlm.nih.gov/books/NBK532980/"
+    }
+   ],
+   "revisado": "2026-11-13",
+   "contrastado": false
+  },
+  "ta2:3394": {
+   "clave": "ta2:3394",
+   "ta2": "3394",
+   "nombre_es": "Uréter",
+   "nombre_la": "Ureter",
+   "tipo": "organo",
+   "resumen": "Conducto muscular de unos 25 cm que une la pelvis renal con la vejiga.",
+   "funcion": "Transporta la orina por peristalsis.",
+   "irrigacion": "Ramas de las arterias renal, gonadal, ilíaca común y vesical.",
+   "drenaje_venoso": "Venas homónimas.",
+   "inervacion": "Plexos renal, aórtico e hipogástrico.",
+   "drenaje_linfatico": "Ganglios lumbares e ilíacos.",
+   "musculo": null,
+   "relaciones": null,
+   "relevancia_clinica": [
+    "Los cálculos se detienen en tres estrechamientos: unión pieloureteral, cruce con los vasos ilíacos y unión ureterovesical.",
+    "El uréter puede lesionarse en histerectomía al pasar bajo la arteria uterina ('agua bajo el puente').",
+    "El reflujo vesicoureteral predispone a pielonefritis."
+   ],
+   "perla": "Agua bajo el puente: el uréter pasa bajo la arteria uterina o el conducto deferente.",
+   "fuentes": [
+    {
+     "titulo": "StatPearls: Anatomy, Abdomen and Pelvis Ureter",
+     "url": "https://www.ncbi.nlm.nih.gov/books/NBK532980/"
+    },
+    {
+     "titulo": "OpenStax Anatomy & Physiology 2e — Anatomía macroscópica del transporte de la orina",
+     "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/25-2-gross-anatomy-of-urine-transport"
+    }
+   ],
+   "revisado": "2026-11-13",
+   "contrastado": false
+  },
+  "ta2:3401": {
+   "clave": "ta2:3401",
+   "ta2": "3401",
+   "nombre_es": "Vejiga urinaria",
+   "nombre_la": "Vesica urinaria",
+   "tipo": "organo",
+   "resumen": "Víscera hueca muscular de la pelvis que almacena orina.",
+   "funcion": "Almacena hasta unos 400-500 mL de orina y la expulsa en la micción.",
+   "irrigacion": "Arterias vesicales superior e inferior (ilíaca interna).",
+   "drenaje_venoso": "Plexo venoso vesical hacia las ilíacas internas.",
+   "inervacion": "Parasimpático S2-S4 (contracción) y simpático T11-L2 (llenado).",
+   "drenaje_linfatico": "Ganglios ilíacos internos y externos.",
+   "musculo": null,
+   "relaciones": null,
+   "relevancia_clinica": [
+    "El cáncer de vejiga se asocia a tabaco y se presenta con hematuria indolora.",
+    "La rotura intraperitoneal ocurre con la vejiga llena en traumatismo.",
+    "La retención urinaria aguda se alivia con sondaje."
+   ],
+   "perla": "Hematuria indolora: descartar cáncer de vejiga.",
+   "fuentes": [
+    {
+     "titulo": "StatPearls: Anatomy, Abdomen and Pelvis: Bladder",
+     "url": "https://www.ncbi.nlm.nih.gov/books/NBK531465/"
+    }
+   ],
+   "revisado": "2026-11-13",
+   "contrastado": true,
+   "contraste": {
+    "fuente": "StatPearls: Anatomy, Abdomen and Pelvis: Bladder (NBK531465)",
+    "url": "https://www.ncbi.nlm.nih.gov/books/NBK531465/",
+    "campos": {
+     "inervacion": "hallado",
+     "irrigacion": "hallado"
+    },
+    "metodo": "automatico+revision",
+    "fecha": "2026-11-13"
+   }
+  },
+  "ta2:3425": {
+   "clave": "ta2:3425",
+   "ta2": "3425",
+   "nombre_es": "Uretra",
+   "nombre_la": "Urethra",
+   "tipo": "organo",
+   "resumen": "Uretra, conducto que lleva la orina desde la vejiga al exterior.",
+   "funcion": "Permite la micción; en el varón también transporta el semen.",
+   "irrigacion": "Arterias pudenda interna, vesical inferior y rectal media.",
+   "drenaje_venoso": "Plexo venoso prostático y pudendo.",
+   "inervacion": "Nervio pudendo y plexo prostático.",
+   "drenaje_linfatico": "Ganglios ilíacos e inguinales.",
+   "musculo": null,
+   "relaciones": null,
+   "relevancia_clinica": [
+    "La rotura de la uretra bulbar ocurre por caída a horcajadas (mariposa del hematoma).",
+    "La rotura de la uretra membranosa asocia fracturas pélvicas.",
+    "La estenosis uretral causa chorro débil."
+   ],
+   "perla": "Sangre en el meato tras trauma pélvico: no sondar sin uretrografía.",
+   "fuentes": [
+    {
+     "titulo": "OpenStax Anatomy & Physiology 2e — Anatomía macroscópica del transporte de la orina",
+     "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/25-2-gross-anatomy-of-urine-transport"
+    }
+   ],
+   "revisado": "2026-11-13",
+   "contrastado": false
+  }
+ }
+}

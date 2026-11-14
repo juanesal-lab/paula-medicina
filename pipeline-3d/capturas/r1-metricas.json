@@ -1,0 +1,152 @@
+[
+ {
+  "vista": "a-cara-craneo",
+  "config": "ref",
+  "estructuras": 105,
+  "tris": 311035
+ },
+ {
+  "vista": "a-cara-craneo",
+  "config": "A",
+  "ratio": 0.35,
+  "error": 0.002,
+  "estructuras": 105,
+  "tris": 156671
+ },
+ {
+  "vista": "a-cara-craneo",
+  "config": "B",
+  "ratio": 0.2,
+  "error": 0.005,
+  "estructuras": 105,
+  "tris": 82055
+ },
+ {
+  "vista": "a-cara-craneo",
+  "config": "C",
+  "ratio": 0.12,
+  "error": 0.01,
+  "estructuras": 105,
+  "tris": 46489
+ },
+ {
+  "vista": "b-mano-derecha",
+  "config": "ref",
+  "estructuras": 19,
+  "tris": 11834
+ },
+ {
+  "vista": "b-mano-derecha",
+  "config": "A",
+  "ratio": 0.35,
+  "error": 0.002,
+  "estructuras": 19,
+  "tris": 8340
+ },
+ {
+  "vista": "b-mano-derecha",
+  "config": "B",
+  "ratio": 0.2,
+  "error": 0.005,
+  "estructuras": 19,
+  "tris": 5718
+ },
+ {
+  "vista": "b-mano-derecha",
+  "config": "C",
+  "ratio": 0.12,
+  "error": 0.01,
+  "estructuras": 19,
+  "tris": 3682
+ },
+ {
+  "vista": "c-corazon",
+  "config": "ref",
+  "estructuras": 29,
+  "tris": 121782
+ },
+ {
+  "vista": "c-corazon",
+  "config": "A",
+  "ratio": 0.35,
+  "error": 0.002,
+  "estructuras": 29,
+  "tris": 51536
+ },
+ {
+  "vista": "c-corazon",
+  "config": "B",
+  "ratio": 0.2,
+  "error": 0.005,
+  "estructuras": 29,
+  "tris": 30128
+ },
+ {
+  "vista": "c-corazon",
+  "config": "C",
+  "ratio": 0.12,
+  "error": 0.01,
+  "estructuras": 29,
+  "tris": 18060
+ },
+ {
+  "vista": "d-plexo-braquial-der",
+  "config": "ref",
+  "estructuras": 52,
+  "tris": 124704
+ },
+ {
+  "vista": "d-plexo-braquial-der",
+  "config": "A",
+  "ratio": 0.35,
+  "error": 0.002,
+  "estructuras": 52,
+  "tris": 45218
+ },
+ {
+  "vista": "d-plexo-braquial-der",
+  "config": "B",
+  "ratio": 0.2,
+  "error": 0.005,
+  "estructuras": 52,
+  "tris": 26712
+ },
+ {
+  "vista": "d-plexo-braquial-der",
+  "config": "C",
+  "ratio": 0.12,
+  "error": 0.01,
+  "estructuras": 52,
+  "tris": 16778
+ },
+ {
+  "vista": "e-encefalo-lateral",
+  "config": "ref",
+  "estructuras": 250,
+  "tris": 689544
+ },
+ {
+  "vista": "e-encefalo-lateral",
+  "config": "A",
+  "ratio": 0.35,
+  "error": 0.002,
+  "estructuras": 250,
+  "tris": 342857
+ },
+ {
+  "vista": "e-encefalo-lateral",
+  "config": "B",
+  "ratio": 0.2,
+  "error": 0.005,
+  "estructuras": 250,
+  "tris": 226765
+ },
+ {
+  "vista": "e-encefalo-lateral",
+  "config": "C",
+  "ratio": 0.12,
+  "error": 0.01,
+  "estructuras": 250,
+  "tris": 144476
+ }
+]

@@ -1,0 +1,4372 @@
+[
+ {
+  "archivo": "conocimiento/basicas/anatomia.md",
+  "linea": 260,
+  "F": "F2",
+  "nbk": "NBK493212",
+  "citado": "Anatomy, Shoulder and Upper Limb, Axillary Nerve",
+  "real": "Anatomy, Shoulder and Upper Limb, Axillary Nerve.",
+  "score": 1.0,
+  "ok": true
+ },
+ {
+  "archivo": "conocimiento/basicas/anatomia.md",
+  "linea": 261,
+  "F": "F3",
+  "nbk": "NBK448074",
+  "citado": "Humeral Shaft Fractures",
+  "real": "Humeral Shaft Fractures.",
+  "score": 1.0,
+  "ok": true
+ },
+ {
+  "archivo": "conocimiento/basicas/anatomia.md",
+  "linea": 262,
+  "F": "F4",
+  "nbk": "NBK532968",
+  "citado": "Anatomy, Bony Pelvis and Lower Limb: Calf Common Peroneal Nerve",
+  "real": "Anatomy, Bony Pelvis and Lower Limb: Calf Common Peroneal Nerve (Common Fibular Nerve).",
+  "score": 0.85,
+  "ok": true
+ },
+ {
+  "archivo": "conocimiento/basicas/anatomia.md",
+  "linea": 263,
+  "F": "F5",
+  "nbk": "NBK549859",
+  "citado": "Peroneal Nerve Injury",
+  "real": "Peroneal Nerve Injury.",
+  "score": 1.0,
+  "ok": true
+ },
+ {
+  "archivo": "conocimiento/basicas/anatomia.md",
+  "linea": 264,
+  "F": "F6",
+  "nbk": "NBK532304",
+  "citado": "Anatomy, Bony Pelvis and Lower Limb: Nerves",
+  "real": "Anatomy, Bony Pelvis and Lower Limb: Nerves.",
+  "score": 1.0,
+  "ok": true
+ },
+ {
+  "archivo": "conocimiento/basicas/anatomia.md",
+  "linea": 265,
+  "F": "F7",
+  "nbk": "NBK554398",
+  "citado": "Anatomy, Head and Neck, Neck Triangle",
+  "real": "Anatomy, Head and Neck, Neck Triangle.",
+  "score": 1.0,
+  "ok": true
+ },
+ {
+  "archivo": "conocimiento/basicas/anatomia.md",
+  "linea": 266,
+  "F": "F8",
+  "nbk": "NBK537350",
+  "citado": "Cricothyroidotomy",
+  "real": "Cricothyroidotomy.",
+  "score": 1.0,
+  "ok": true
+ },
+ {
+  "archivo": "conocimiento/basicas/anatomia.md",
+  "linea": 267,
+  "F": "F9",
+  "nbk": "NBK459258",
+  "citado": "Anatomy, Airway",
+  "real": "Anatomy, Airway.",
+  "score": 1.0,
+  "ok": true
+ },
+ {
+  "archivo": "conocimiento/basicas/anatomia.md",
+  "linea": 268,
+  "F": "F10",
+  "nbk": "NBK539819",
+  "citado": "Anatomy, Thorax, Mediastinum",
+  "real": "Anatomy, Thorax, Mediastinum.",
+  "score": 1.0,
+  "ok": true
+ },
+ {
+  "archivo": "conocimiento/basicas/anatomia.md",
+  "linea": 269,
+  "F": "F11",
+  "nbk": "NBK470522",
+  "citado": "Anatomy, Thorax, Heart Arteries",
+  "real": "Anatomy, Thorax, Heart Arteries.",
+  "score": 1.0,
+  "ok": true
+ },
+ {
+  "archivo": "conocimiento/basicas/anatomia.md",
+  "linea": 270,
+  "F": "F12",
+  "nbk": "NBK551649",
+  "citado": "Anatomy, Abdomen and Pelvis: Abdominal Wall",
+  "real": "Anatomy, Abdomen and Pelvis: Abdominal Wall.",
+  "score": 1.0,
+  "ok": true
+ },
+ {
+  "archivo": "conocimiento/basicas/anatomia.md",
+  "linea": 271,
+  "F": "F13",
+  "nbk": "NBK470204",
+  "citado": "Anatomy, Abdomen and Pelvis: Inguinal Region (Inguinal Canal)",
+  "real": "Anatomy, Abdomen and Pelvis: Inguinal Region (Inguinal Canal).",
+  "score": 1.0,
+  "ok": true
+ },
+ {
+  "archivo": "conocimiento/basicas/anatomia.md",
+  "linea": 272,
+  "F": "F14",
+  "nbk": "NBK459309",
+  "citado": "Open Inguinal Hernia Repair",
+  "real": "Open Inguinal Hernia Repair.",
+  "score": 1.0,
+  "ok": true
+ },
+ {
+  "archivo": "conocimiento/basicas/anatomia.md",
+  "linea": 273,
+  "F": "F15",
+  "nbk": "NBK534788",
+  "citado": "Anatomy, Abdomen and Pelvis, Peritoneum",
+  "real": "Anatomy, Abdomen and Pelvis, Peritoneum.",
+  "score": 1.0,
+  "ok": true
+ },
+ {
+  "archivo": "conocimiento/basicas/anatomia.md",
+  "linea": 274,
+  "F": "F16",
+  "nbk": "NBK549857",
+  "citado": "Anatomy, Abdomen and Pelvis, Retroperitoneum",
+  "real": "Anatomy, Abdomen and Pelvis, Retroperitoneum.",
+  "score": 1.0,
+  "ok": true
+ },
+ {
+  "archivo": "conocimiento/basicas/anatomia.md",
+  "linea": 275,
+  "F": "F17",
+  "nbk": "NBK459241",
+  "citado": "Anatomy, Abdomen and Pelvis: Celiac Trunk",
+  "real": "Anatomy, Abdomen and Pelvis: Celiac Trunk.",
+  "score": 1.0,
+  "ok": true
+ },
+ {
+  "archivo": "conocimiento/basicas/anatomia.md",
+  "linea": 276,
+  "F": "F18",
+  "nbk": "NBK519560",
+  "citado": "Anatomy, Abdomen and Pelvis: Superior Mesenteric Artery",
+  "real": "Anatomy, Abdomen and Pelvis: Superior Mesenteric Artery.",
+  "score": 1.0,
+  "ok": true
+ },
+ {
+  "archivo": "conocimiento/basicas/anatomia.md",
+  "linea": 277,
+  "F": "F19",
+  "nbk": "NBK482156",
+  "citado": "Anatomy, Abdomen and Pelvis: Inferior Mesenteric Artery",
+  "real": "Anatomy, Abdomen and Pelvis: Inferior Mesenteric Artery.",
+  "score": 1.0,
+  "ok": true
+ },
+ {
+  "archivo": "conocimiento/basicas/anatomia.md",
+  "linea": 278,
+  "F": "F20",
+  "nbk": "NBK554589",
+  "citado": "Anatomy, Abdomen and Pelvis, Portal Venous System (Hepatic Portal System)",
+  "real": "Anatomy, Abdomen and Pelvis, Portal Venous System (Hepatic Portal System).",
+  "score": 1.0,
+  "ok": true
+ },
+ {
+  "archivo": "conocimiento/basicas/anatomia.md",
+  "linea": 279,
+  "F": "F21",
+  "nbk": "NBK448078",
+  "citado": "Esophageal Varices",
+  "real": "Esophageal Varices.",
+  "score": 1.0,
+  "ok": true
+ },
+ {
+  "archivo": "conocimiento/basicas/anatomia.md",
+  "linea": 280,
+  "F": "F22",
+  "nbk": "NBK482200",
+  "citado": "Anatomy, Abdomen and Pelvis: Pelvic Floor",
+  "real": "Anatomy, Abdomen and Pelvis: Pelvic Floor.",
+  "score": 1.0,
+  "ok": true
+ },
+ {
+  "archivo": "conocimiento/basicas/anatomia.md",
+  "linea": 281,
+  "F": "F23",
+  "nbk": "NBK537345",
+  "citado": "Anatomy, Abdomen and Pelvis, Perineal Body",
+  "real": "Anatomy, Abdomen and Pelvis, Perineal Body.",
+  "score": 1.0,
+  "ok": true
+ },
+ {
+  "archivo": "conocimiento/basicas/anatomia.md",
+  "linea": 282,
+  "F": "F24",
+  "nbk": "NBK542289",
+  "citado": "Anatomy, Abdomen and Pelvis: Superficial Perineal Space",
+  "real": "Anatomy, Abdomen and Pelvis: Superficial Perineal Space.",
+  "score": 1.0,
+  "ok": true
+ },
+ {
+  "archivo": "conocimiento/basicas/anatomia.md",
+  "linea": 283,
+  "F": "F25",
+  "nbk": "NBK554601",
+  "citado": "Anatomy, Abdomen and Pelvis: Female Internal Genitals",
+  "real": "Anatomy, Abdomen and Pelvis: Female Internal Genitals.",
+  "score": 1.0,
+  "ok": true
+ },
+ {
+  "archivo": "conocimiento/basicas/anatomia.md",
+  "linea": 284,
+  "F": "F26",
+  "nbk": "NBK470353",
+  "citado": "Neuroanatomy, Cranial Nerve",
+  "real": "Neuroanatomy, Cranial Nerve.",
+  "score": 1.0,
+  "ok": true
+ },
+ {
+  "archivo": "conocimiento/basicas/anatomia.md",
+  "linea": 285,
+  "F": "F27",
+  "nbk": "NBK534861",
+  "citado": "Neuroanatomy, Circle of Willis",
+  "real": "Neuroanatomy, Circle of Willis.",
+  "score": 1.0,
+  "ok": true
+ },
+ {
+  "archivo": "conocimiento/basicas/anatomia.md",
+  "linea": 286,
+  "F": "F28",
+  "nbk": "NBK556132",
+  "citado": "Middle Cerebral Artery Stroke",
+  "real": "Middle Cerebral Artery Stroke.",
+  "score": 1.0,
+  "ok": true
+ },
+ {
+  "archivo": "conocimiento/basicas/anatomia.md",
+  "linea": 287,
+  "F": "F29",
+  "nbk": "NBK545206",
+  "citado": "Neuroanatomy, Spinal Cord Morphology",
+  "real": "Neuroanatomy, Spinal Cord Morphology.",
+  "score": 1.0,
+  "ok": true
+ },
+ {
+  "archivo": "conocimiento/basicas/anatomia.md",
+  "linea": 288,
+  "F": "F30",
+  "nbk": "NBK538135",
+  "citado": "Brown-Séquard Syndrome",
+  "real": "Brown-Séquard Syndrome.",
+  "score": 1.0,
+  "ok": true
+ },
+ {
+  "archivo": "conocimiento/basicas/anatomia.md",
+  "linea": 289,
+  "F": "F31",
+  "nbk": "NBK560731",
+  "citado": "Anterior Spinal Artery Syndrome",
+  "real": "Anterior Spinal Artery Syndrome.",
+  "score": 1.0,
+  "ok": true
+ },
+ {
+  "archivo": "conocimiento/basicas/anatomia.md",
+  "linea": 290,
+  "F": "F32",
+  "nbk": "NBK557553",
+  "citado": "Lumbar Puncture",
+  "real": "Lumbar Puncture (Archived).",
+  "score": 0.77,
+  "ok": true
+ },
+ {
+  "archivo": "conocimiento/basicas/anatomia.md",
+  "linea": 291,
+  "F": "F33",
+  "nbk": "NBK538219",
+  "citado": "Hemothorax",
+  "real": "Hemothorax.",
+  "score": 1.0,
+  "ok": true
+ },
+ {
+  "archivo": "conocimiento/basicas/anatomia.md",
+  "linea": 292,
+  "F": "F34",
+  "nbk": "NBK557798",
+  "citado": "Central Venous Catheter Insertion",
+  "real": "Central Venous Catheter Insertion.",
+  "score": 1.0,
+  "ok": true
+ },
+ {
+  "archivo": "conocimiento/basicas/anatomia.md",
+  "linea": 293,
+  "F": "F35",
+  "nbk": "NBK556109",
+  "citado": "Lung Pancoast Tumor",
+  "real": "Lung Pancoast Tumor.",
+  "score": 1.0,
+  "ok": true
+ },
+ {
+  "archivo": "conocimiento/basicas/anatomia.md",
+  "linea": 294,
+  "F": "F36",
+  "nbk": "NBK563206",
+  "citado": "Anatomy, Head and Neck, Sympathetic Chain",
+  "real": "Anatomy, Head and Neck, Sympathetic Chain.",
+  "score": 1.0,
+  "ok": true
+ },
+ {
+  "archivo": "conocimiento/basicas/anatomia.md",
+  "linea": 295,
+  "F": "F37",
+  "nbk": "NBK513258",
+  "citado": "Anatomy, Head and Neck: Internal Jugular Vein",
+  "real": "Anatomy, Head and Neck: Internal Jugular Vein.",
+  "score": 1.0,
+  "ok": true
+ },
+ {
+  "archivo": "conocimiento/basicas/anatomia.md",
+  "linea": 296,
+  "F": "F38",
+  "nbk": "NBK482258",
+  "citado": "Anatomy, Abdomen and Pelvis, Pelvis",
+  "real": "Anatomy, Abdomen and Pelvis, Pelvis.",
+  "score": 1.0,
+  "ok": true
+ },
+ {
+  "archivo": "conocimiento/basicas/anatomia.md",
+  "linea": 297,
+  "F": "F39",
+  "nbk": "NBK441932",
+  "citado": "Central Cord Syndrome",
+  "real": "Central Cord Syndrome.",
+  "score": 1.0,
+  "ok": true
+ },
+ {
+  "archivo": "conocimiento/basicas/bioquimica.md",
+  "linea": 255,
+  "F": "F1",
+  "nbk": "NBK459277",
+  "citado": "Glycogen Storage Disease",
+  "real": "Glycogen Storage Disease.",
+  "score": 1.0,
+  "ok": true
+ },
+ {
+  "archivo": "conocimiento/basicas/bioquimica.md",
+  "linea": 256,
+  "F": "F2",
+  "nbk": "NBK544346",
+  "citado": "Biochemistry, Gluconeogenesis",
+  "real": "Biochemistry, Gluconeogenesis.",
+  "score": 1.0,
+  "ok": true
+ },
+ {
+  "archivo": "conocimiento/basicas/bioquimica.md",
+  "linea": 257,
+  "F": "F3",
+  "nbk": "NBK560785",
+  "citado": "McArdle Disease (Glycogen Storage Disease Type 5)",
+  "real": "McArdle Disease (Glycogen Storage Disease Type 5).",
+  "score": 1.0,
+  "ok": true
+ },
+ {
+  "archivo": "conocimiento/basicas/bioquimica.md",
+  "linea": 258,
+  "F": "F4",
+  "nbk": "NBK553193",
+  "citado": "Biochemistry, Lipoprotein Metabolism",
+  "real": "Biochemistry, Lipoprotein Metabolism.",
+  "score": 1.0,
+  "ok": true
+ },
+ {
+  "archivo": "conocimiento/basicas/bioquimica.md",
+  "linea": 259,
+  "F": "F5",
+  "nbk": "NBK537040",
+  "citado": "Biochemistry, Lipoprotein Lipase",
+  "real": "Biochemistry, Lipoprotein Lipase.",
+  "score": 1.0,
+  "ok": true
+ },
+ {
+  "archivo": "conocimiento/basicas/bioquimica.md",
+  "linea": 260,
+  "F": "F6",
+  "nbk": "NBK556009",
+  "citado": "Familial Hypercholesterolemia",
+  "real": "Familial Hypercholesterolemia.",
+  "score": 1.0,
+  "ok": true
+ },
+ {
+  "archivo": "conocimiento/basicas/bioquimica.md",
+  "linea": 261,
+  "F": "F7",
+  "nbk": "NBK519561",
+  "citado": "Biochemistry, LDL Cholesterol",
+  "real": "Biochemistry, LDL Cholesterol.",
+  "score": 1.0,
+  "ok": true
+ },
+ {
+  "archivo": "conocimiento/basicas/bioquimica.md",
+  "linea": 262,
+  "F": "F8",
+  "nbk": "NBK459368",
+  "citado": "Hypertriglyceridemia",
+  "real": "Hypertriglyceridemia.",
+  "score": 1.0,
+  "ok": true
+ },
+ {
+  "archivo": "conocimiento/basicas/bioquimica.md",
+  "linea": 263,
+  "F": "F9",
+  "nbk": "NBK493179",
+  "citado": "Biochemistry, Ketogenesis",
+  "real": "Biochemistry, Ketogenesis.",
+  "score": 1.0,
+  "ok": true
+ },
+ {
+  "archivo": "conocimiento/basicas/bioquimica.md",
+  "linea": 264,
+  "F": "F10",
+  "nbk": "NBK560723",
+  "citado": "Adult Diabetic Ketoacidosis",
+  "real": "Adult Diabetic Ketoacidosis.",
+  "score": 1.0,
+  "ok": true
+ },
+ {
+  "archivo": "conocimiento/basicas/bioquimica.md",
+  "linea": 265,
+  "F": "F11",
+  "nbk": "NBK482363",
+  "citado": "Urea Cycle Disorders",
+  "real": "Urea Cycle Disorders.",
+  "score": 1.0,
+  "ok": true
+ },
+ {
+  "archivo": "conocimiento/basicas/bioquimica.md",
+  "linea": 266,
+  "F": "F12",
+  "nbk": "NBK557504",
+  "citado": "Hyperammonemia",
+  "real": "Hyperammonemia.",
+  "score": 1.0,
+  "ok": true
+ },
+ {
+  "archivo": "conocimiento/basicas/bioquimica.md",
+  "linea": 267,
+  "F": "F13",
+  "nbk": "NBK513323",
+  "citado": "Physiology, Urea Cycle",
+  "real": "Physiology, Urea Cycle.",
+  "score": 1.0,
+  "ok": true
+ },
+ {
+  "archivo": "conocimiento/basicas/bioquimica.md",
+  "linea": 268,
+  "F": "F14",
+  "nbk": "NBK537204",
+  "citado": "Vitamin B1 (Thiamine) Deficiency",
+  "real": "Vitamin B1 (Thiamine) Deficiency.",
+  "score": 1.0,
+  "ok": true
+ },
+ {
+  "archivo": "conocimiento/basicas/bioquimica.md",
+  "linea": 269,
+  "F": "F15",
+  "nbk": "NBK441923",
+  "citado": "Vitamin B12 Deficiency",
+  "real": "Vitamin B12 Deficiency.",
+  "score": 1.0,
+  "ok": true
+ },
+ {
+  "archivo": "conocimiento/basicas/bioquimica.md",
+  "linea": 270,
+  "F": "F16",
+  "nbk": "NBK535377",
+  "citado": "Folic Acid Deficiency",
+  "real": "Folic Acid Deficiency.",
+  "score": 1.0,
+  "ok": true
+ },
+ {
+  "archivo": "conocimiento/basicas/bioquimica.md",
+  "linea": 271,
+  "F": "F17",
+  "nbk": "NBK551578",
+  "citado": "Vitamin K",
+  "real": "Vitamin K.",
+  "score": 1.0,
+  "ok": true
+ },
+ {
+  "archivo": "conocimiento/basicas/bioquimica.md",
+  "linea": 272,
+  "F": "F18",
+  "nbk": "NBK493187",
+  "citado": "Vitamin C Deficiency",
+  "real": "Vitamin C Deficiency.",
+  "score": 1.0,
+  "ok": true
+ },
+ {
+  "archivo": "conocimiento/basicas/bioquimica.md",
+  "linea": 274,
+  "F": "F20",
+  "nbk": "NBK537329",
+  "citado": "Biochemistry, Heme Synthesis",
+  "real": "Biochemistry, Heme Synthesis.",
+  "score": 1.0,
+  "ok": true
+ },
+ {
+  "archivo": "conocimiento/basicas/bioquimica.md",
+  "linea": 275,
+  "F": "F21",
+  "nbk": "NBK547665",
+  "citado": "Acute Intermittent Porphyria",
+  "real": "Acute Intermittent Porphyria.",
+  "score": 1.0,
+  "ok": true
+ },
+ {
+  "archivo": "conocimiento/basicas/bioquimica.md",
+  "linea": 276,
+  "F": "F22",
+  "nbk": "NBK546606",
+  "citado": "Gout",
+  "real": "Gout.",
+  "score": 1.0,
+  "ok": true
+ },
+ {
+  "archivo": "conocimiento/basicas/bioquimica.md",
+  "linea": 277,
+  "F": "F23",
+  "nbk": "NBK556079",
+  "citado": "Lesch-Nyhan Syndrome",
+  "real": "Lesch-Nyhan Syndrome.",
+  "score": 1.0,
+  "ok": true
+ },
+ {
+  "archivo": "conocimiento/basicas/bioquimica.md",
+  "linea": 278,
+  "F": "F24",
+  "nbk": "NBK470315",
+  "citado": "Glucose-6-Phosphate Dehydrogenase Deficiency",
+  "real": "Glucose-6-Phosphate Dehydrogenase Deficiency.",
+  "score": 1.0,
+  "ok": true
+ },
+ {
+  "archivo": "conocimiento/basicas/bioquimica.md",
+  "linea": 279,
+  "F": "F25",
+  "nbk": "NBK557744",
+  "citado": "Pharmacokinetics",
+  "real": "Pharmacokinetics.",
+  "score": 1.0,
+  "ok": true
+ },
+ {
+  "archivo": "conocimiento/basicas/bioquimica.md",
+  "linea": 280,
+  "F": "F26",
+  "nbk": "NBK535378",
+  "citado": "Phenylketonuria (PKU)",
+  "real": "Phenylketonuria (PKU).",
+  "score": 1.0,
+  "ok": true
+ },
+ {
+  "archivo": "conocimiento/basicas/bioquimica.md",
+  "linea": 285,
+  "F": "F31",
+  "nbk": "NBK482489",
+  "citado": "Liver Function Tests",
+  "real": "Liver Function Tests.",
+  "score": 1.0,
+  "ok": true
+ },
+ {
+  "archivo": "conocimiento/basicas/bioquimica.md",
+  "linea": 286,
+  "F": "F32",
+  "nbk": "NBK448090",
+  "citado": "Anion Gap and Non-Anion Gap Metabolic Acidosis",
+  "real": "Anion Gap and Non-Anion Gap Metabolic Acidosis.",
+  "score": 1.0,
+  "ok": true
+ },
+ {
+  "archivo": "conocimiento/basicas/bioquimica.md",
+  "linea": 287,
+  "F": "F33",
+  "nbk": "NBK482468",
+  "citado": "Acute Pancreatitis",
+  "real": "Acute Pancreatitis.",
+  "score": 1.0,
+  "ok": true
+ },
+ {
+  "archivo": "conocimiento/basicas/farmacologia.md",
+  "linea": 267,
+  "F": "F1",
+  "nbk": "NBK557744",
+  "citado": "Pharmacokinetics",
+  "real": "Pharmacokinetics.",
+  "score": 1.0,
+  "ok": true
+ },
+ {
+  "archivo": "conocimiento/basicas/farmacologia.md",
+  "linea": 268,
+  "F": "F2",
+  "nbk": "NBK507791",
+  "citado": "Pharmacodynamics",
+  "real": "Pharmacodynamics.",
+  "score": 1.0,
+  "ok": true
+ },
+ {
+  "archivo": "conocimiento/basicas/farmacologia.md",
+  "linea": 269,
+  "F": "F3",
+  "nbk": "NBK537259",
+  "citado": "Norepinephrine",
+  "real": "Norepinephrine.",
+  "score": 1.0,
+  "ok": true
+ },
+ {
+  "archivo": "conocimiento/basicas/farmacologia.md",
+  "linea": 270,
+  "F": "F4",
+  "nbk": "NBK470551",
+  "citado": "Atropine",
+  "real": "Atropine.",
+  "score": 1.0,
+  "ok": true
+ },
+ {
+  "archivo": "conocimiento/basicas/farmacologia.md",
+  "linea": 271,
+  "F": "F5",
+  "nbk": "NBK554560",
+  "citado": "Penicillin",
+  "real": "Penicillin.",
+  "score": 1.0,
+  "ok": true
+ },
+ {
+  "archivo": "conocimiento/basicas/farmacologia.md",
+  "linea": 272,
+  "F": "F6",
+  "nbk": "NBK551517",
+  "citado": "Cephalosporins",
+  "real": "Cephalosporins.",
+  "score": 1.0,
+  "ok": true
+ },
+ {
+  "archivo": "conocimiento/basicas/farmacologia.md",
+  "linea": 273,
+  "F": "F7",
+  "nbk": "NBK557550",
+  "citado": "Gentamicin",
+  "real": "Gentamicin.",
+  "score": 1.0,
+  "ok": true
+ },
+ {
+  "archivo": "conocimiento/basicas/farmacologia.md",
+  "linea": 274,
+  "F": "F8",
+  "nbk": "NBK535454",
+  "citado": "Ciprofloxacin",
+  "real": "Ciprofloxacin.",
+  "score": 1.0,
+  "ok": true
+ },
+ {
+  "archivo": "conocimiento/basicas/farmacologia.md",
+  "linea": 275,
+  "F": "F9",
+  "nbk": "NBK547742",
+  "citado": "Nonsteroidal Anti-Inflammatory Drugs (NSAIDs)",
+  "real": "Nonsteroidal Anti-Inflammatory Drugs (NSAIDs).",
+  "score": 1.0,
+  "ok": true
+ },
+ {
+  "archivo": "conocimiento/basicas/farmacologia.md",
+  "linea": 276,
+  "F": "F10",
+  "nbk": "NBK441917",
+  "citado": "Acetaminophen Toxicity",
+  "real": "Acetaminophen Toxicity.",
+  "score": 1.0,
+  "ok": true
+ },
+ {
+  "archivo": "conocimiento/basicas/farmacologia.md",
+  "linea": 278,
+  "F": "F12",
+  "nbk": "NBK441910",
+  "citado": "Naloxone",
+  "real": "Naloxone.",
+  "score": 1.0,
+  "ok": true
+ },
+ {
+  "archivo": "conocimiento/basicas/farmacologia.md",
+  "linea": 279,
+  "F": "F13",
+  "nbk": "NBK470313",
+  "citado": "Warfarin",
+  "real": "Warfarin.",
+  "score": 0.08,
+  "ok": true
+ },
+ {
+  "archivo": "conocimiento/basicas/farmacologia.md",
+  "linea": 280,
+  "F": "F14",
+  "nbk": "NBK519032",
+  "citado": "Salicylic Acid (Aspirin)",
+  "real": "Salicylic Acid (Aspirin).",
+  "score": 0.15,
+  "ok": true
+ },
+ {
+  "archivo": "conocimiento/basicas/farmacologia.md",
+  "linea": 281,
+  "F": "F15",
+  "nbk": "NBK551578",
+  "citado": "Vitamin K",
+  "real": "Vitamin K.",
+  "score": 1.0,
+  "ok": true
+ },
+ {
+  "archivo": "conocimiento/basicas/farmacologia.md",
+  "linea": 282,
+  "F": "F16",
+  "nbk": "NBK482230",
+  "citado": "Lisinopril",
+  "real": "Lisinopril.",
+  "score": 0.15,
+  "ok": true
+ },
+ {
+  "archivo": "conocimiento/basicas/farmacologia.md",
+  "linea": 283,
+  "F": "F17",
+  "nbk": "NBK554421",
+  "citado": "Spironolactone",
+  "real": "Spironolactone.",
+  "score": 0.15,
+  "ok": true
+ },
+ {
+  "archivo": "conocimiento/basicas/farmacologia.md",
+  "linea": 284,
+  "F": "F18",
+  "nbk": "NBK557838",
+  "citado": "Therapeutic Uses of Diuretic Agents",
+  "real": "Therapeutic Uses of Diuretic Agents.",
+  "score": 1.0,
+  "ok": true
+ },
+ {
+  "archivo": "conocimiento/basicas/farmacologia.md",
+  "linea": 285,
+  "F": "F19",
+  "nbk": "NBK470284",
+  "citado": "Hyperkalemia",
+  "real": "Hyperkalemia.",
+  "score": 1.0,
+  "ok": true
+ },
+ {
+  "archivo": "conocimiento/basicas/farmacologia.md",
+  "linea": 286,
+  "F": "F20",
+  "nbk": "NBK518983",
+  "citado": "Metformin",
+  "real": "Metformin.",
+  "score": 1.0,
+  "ok": true
+ },
+ {
+  "archivo": "conocimiento/basicas/farmacologia.md",
+  "linea": 287,
+  "F": "F21",
+  "nbk": "NBK560723",
+  "citado": "Adult Diabetic Ketoacidosis",
+  "real": "Adult Diabetic Ketoacidosis.",
+  "score": 1.0,
+  "ok": true
+ },
+ {
+  "archivo": "conocimiento/basicas/farmacologia.md",
+  "linea": 288,
+  "F": "F22",
+  "nbk": "NBK499992",
+  "citado": "Lithium Toxicity",
+  "real": "Lithium Toxicity.",
+  "score": 0.16,
+  "ok": true
+ },
+ {
+  "archivo": "conocimiento/basicas/farmacologia.md",
+  "linea": 289,
+  "F": "F23",
+  "nbk": "NBK482377",
+  "citado": "Serotonin Syndrome",
+  "real": "Serotonin Syndrome.",
+  "score": 1.0,
+  "ok": true
+ },
+ {
+  "archivo": "conocimiento/basicas/farmacologia.md",
+  "linea": 290,
+  "F": "F24",
+  "nbk": "NBK441860",
+  "citado": "Long QT Syndrome",
+  "real": "Long QT Syndrome.",
+  "score": 0.14,
+  "ok": true
+ },
+ {
+  "archivo": "conocimiento/basicas/farmacologia.md",
+  "linea": 291,
+  "F": "F25",
+  "nbk": "NBK557698",
+  "citado": "Biochemistry, Cytochrome P450",
+  "real": "Biochemistry, Cytochrome P450.",
+  "score": 1.0,
+  "ok": true
+ },
+ {
+  "archivo": "conocimiento/basicas/farmacologia.md",
+  "linea": 292,
+  "F": "F26",
+  "nbk": "NBK539766",
+  "citado": "Physiology, Maternal Changes",
+  "real": "Physiology, Maternal Changes.",
+  "score": 1.0,
+  "ok": true
+ },
+ {
+  "archivo": "conocimiento/basicas/farmacologia.md",
+  "linea": 293,
+  "F": "F27",
+  "nbk": "NBK470180",
+  "citado": "Flumazenil",
+  "real": "Flumazenil.",
+  "score": 1.0,
+  "ok": true
+ },
+ {
+  "archivo": "conocimiento/basicas/farmacologia.md",
+  "linea": 294,
+  "F": "F28",
+  "nbk": "NBK470430",
+  "citado": "Organophosphate Toxicity",
+  "real": "Organophosphate Toxicity.",
+  "score": 1.0,
+  "ok": true
+ },
+ {
+  "archivo": "conocimiento/basicas/farmacologia.md",
+  "linea": 295,
+  "F": "F29",
+  "nbk": "NBK499839",
+  "citado": "Ondansetron",
+  "real": "Ondansetron.",
+  "score": 1.0,
+  "ok": true
+ },
+ {
+  "archivo": "conocimiento/basicas/farmacologia.md",
+  "linea": 298,
+  "F": "F32",
+  "nbk": "NBK554570",
+  "citado": "Euglycemic Diabetic Ketoacidosis",
+  "real": "Euglycemic Diabetic Ketoacidosis.",
+  "score": 1.0,
+  "ok": true
+ },
+ {
+  "archivo": "conocimiento/basicas/fisiologia.md",
+  "linea": 250,
+  "F": "F1",
+  "nbk": "NBK538338",
+  "citado": "Physiology, Resting Potential",
+  "real": "Physiology, Resting Potential.",
+  "score": 1.0,
+  "ok": true
+ },
+ {
+  "archivo": "conocimiento/basicas/fisiologia.md",
+  "linea": 251,
+  "F": "F2",
+  "nbk": "NBK546639",
+  "citado": "Neuroanatomy, Neuron Action Potential",
+  "real": "Neuroanatomy, Neuron Action Potential.",
+  "score": 1.0,
+  "ok": true
+ },
+ {
+  "archivo": "conocimiento/basicas/fisiologia.md",
+  "linea": 252,
+  "F": "F3",
+  "nbk": "NBK572070",
+  "citado": "Physiology, Cardiac Muscle",
+  "real": "Physiology, Cardiac Muscle.",
+  "score": 1.0,
+  "ok": true
+ },
+ {
+  "archivo": "conocimiento/basicas/fisiologia.md",
+  "linea": 253,
+  "F": "F4",
+  "nbk": "NBK470295",
+  "citado": "Physiology, Frank Starling Law",
+  "real": "Physiology, Frank Starling Law.",
+  "score": 1.0,
+  "ok": true
+ },
+ {
+  "archivo": "conocimiento/basicas/fisiologia.md",
+  "linea": 254,
+  "F": "F5",
+  "nbk": "NBK493197",
+  "citado": "Physiology, Cardiovascular",
+  "real": "Physiology, Cardiovascular.",
+  "score": 1.0,
+  "ok": true
+ },
+ {
+  "archivo": "conocimiento/basicas/fisiologia.md",
+  "linea": 255,
+  "F": "F6",
+  "nbk": "NBK538172",
+  "citado": "Physiology, Baroreceptors",
+  "real": "Physiology, Baroreceptors.",
+  "score": 1.0,
+  "ok": true
+ },
+ {
+  "archivo": "conocimiento/basicas/fisiologia.md",
+  "linea": 256,
+  "F": "F7",
+  "nbk": "NBK470410",
+  "citado": "Physiology, Renin Angiotensin System",
+  "real": "Physiology, Renin Angiotensin System.",
+  "score": 1.0,
+  "ok": true
+ },
+ {
+  "archivo": "conocimiento/basicas/fisiologia.md",
+  "linea": 257,
+  "F": "F8",
+  "nbk": "NBK538509",
+  "citado": "Physiology, Arterial Pressure Regulation",
+  "real": "Physiology, Arterial Pressure Regulation.",
+  "score": 1.0,
+  "ok": true
+ },
+ {
+  "archivo": "conocimiento/basicas/fisiologia.md",
+  "linea": 258,
+  "F": "F9",
+  "nbk": "NBK470382",
+  "citado": "Hemorrhagic Shock",
+  "real": "Hemorrhagic Shock.",
+  "score": 1.0,
+  "ok": true
+ },
+ {
+  "archivo": "conocimiento/basicas/fisiologia.md",
+  "linea": 259,
+  "F": "F10",
+  "nbk": "NBK531492",
+  "citado": "Shock",
+  "real": "Shock.",
+  "score": 1.0,
+  "ok": true
+ },
+ {
+  "archivo": "conocimiento/basicas/fisiologia.md",
+  "linea": 260,
+  "F": "F11",
+  "nbk": "NBK513297",
+  "citado": "Hypovolemia and Hypovolemic Shock",
+  "real": "Hypovolemia and Hypovolemic Shock.",
+  "score": 1.0,
+  "ok": true
+ },
+ {
+  "archivo": "conocimiento/basicas/fisiologia.md",
+  "linea": 261,
+  "F": "F12",
+  "nbk": "NBK539907",
+  "citado": "Physiology, Pulmonary Ventilation and Perfusion",
+  "real": "Physiology, Pulmonary Ventilation and Perfusion.",
+  "score": 1.0,
+  "ok": true
+ },
+ {
+  "archivo": "conocimiento/basicas/fisiologia.md",
+  "linea": 262,
+  "F": "F13",
+  "nbk": "NBK499818",
+  "citado": "Physiology, Oxyhemoglobin Dissociation Curve",
+  "real": "Physiology, Oxyhemoglobin Dissociation Curve.",
+  "score": 1.0,
+  "ok": true
+ },
+ {
+  "archivo": "conocimiento/basicas/fisiologia.md",
+  "linea": 263,
+  "F": "F14",
+  "nbk": "NBK539815",
+  "citado": "Physiology, Oxygen Transport And Carbon Dioxide Dissociation Curve",
+  "real": "Physiology, Oxygen Transport And Carbon Dioxide Dissociation Curve.",
+  "score": 1.0,
+  "ok": true
+ },
+ {
+  "archivo": "conocimiento/basicas/fisiologia.md",
+  "linea": 264,
+  "F": "F15",
+  "nbk": "NBK526028",
+  "citado": "Physiology, Bohr Effect",
+  "real": "Physiology, Bohr Effect.",
+  "score": 1.0,
+  "ok": true
+ },
+ {
+  "archivo": "conocimiento/basicas/fisiologia.md",
+  "linea": 265,
+  "F": "F16",
+  "nbk": "NBK500032",
+  "citado": "Physiology, Glomerular Filtration Rate",
+  "real": "Physiology, Glomerular Filtration Rate.",
+  "score": 1.0,
+  "ok": true
+ },
+ {
+  "archivo": "conocimiento/basicas/fisiologia.md",
+  "linea": 266,
+  "F": "F17",
+  "nbk": "NBK538339",
+  "citado": "Physiology, Renal",
+  "real": "Physiology, Renal.",
+  "score": 1.0,
+  "ok": true
+ },
+ {
+  "archivo": "conocimiento/basicas/fisiologia.md",
+  "linea": 267,
+  "F": "F18",
+  "nbk": "NBK541108",
+  "citado": "Physiology, Osmoregulation and Excretion",
+  "real": "Physiology, Osmoregulation and Excretion.",
+  "score": 1.0,
+  "ok": true
+ },
+ {
+  "archivo": "conocimiento/basicas/fisiologia.md",
+  "linea": 268,
+  "F": "F19",
+  "nbk": "NBK507807",
+  "citado": "Physiology, Acid Base Balance",
+  "real": "Physiology, Acid Base Balance.",
+  "score": 1.0,
+  "ok": true
+ },
+ {
+  "archivo": "conocimiento/basicas/fisiologia.md",
+  "linea": 269,
+  "F": "F20",
+  "nbk": "NBK448090",
+  "citado": "Anion Gap and Non-Anion Gap Metabolic Acidosis",
+  "real": "Anion Gap and Non-Anion Gap Metabolic Acidosis.",
+  "score": 1.0,
+  "ok": true
+ },
+ {
+  "archivo": "conocimiento/basicas/fisiologia.md",
+  "linea": 270,
+  "F": "F22",
+  "nbk": "NBK536919",
+  "citado": "Arterial Blood Gas Analysis: Fundamentals, Interpretation, and Clinical Utility",
+  "real": "Arterial Blood Gas Analysis: Fundamentals, Interpretation, and Clinical Utility.",
+  "score": 1.0,
+  "ok": true
+ },
+ {
+  "archivo": "conocimiento/basicas/fisiologia.md",
+  "linea": 271,
+  "F": "F23",
+  "nbk": "NBK499898",
+  "citado": "Physiology, Anterior Pituitary",
+  "real": "Physiology, Anterior Pituitary.",
+  "score": 1.0,
+  "ok": true
+ },
+ {
+  "archivo": "conocimiento/basicas/fisiologia.md",
+  "linea": 272,
+  "F": "F24",
+  "nbk": "NBK535380",
+  "citado": "Physiology, Hypothalamus",
+  "real": "Physiology, Hypothalamus.",
+  "score": 1.0,
+  "ok": true
+ },
+ {
+  "archivo": "conocimiento/basicas/fisiologia.md",
+  "linea": 273,
+  "F": "F25",
+  "nbk": "NBK538239",
+  "citado": "Physiology, Cortisol",
+  "real": "Physiology, Cortisol.",
+  "score": 1.0,
+  "ok": true
+ },
+ {
+  "archivo": "conocimiento/basicas/fisiologia.md",
+  "linea": 275,
+  "F": "F27",
+  "nbk": "NBK560723",
+  "citado": "Adult Diabetic Ketoacidosis",
+  "real": "Adult Diabetic Ketoacidosis.",
+  "score": 1.0,
+  "ok": true
+ },
+ {
+  "archivo": "conocimiento/basicas/fisiologia.md",
+  "linea": 276,
+  "F": "F28",
+  "nbk": "NBK534848",
+  "citado": "Ketoacidosis",
+  "real": "Ketoacidosis.",
+  "score": 1.0,
+  "ok": true
+ },
+ {
+  "archivo": "conocimiento/basicas/fisiologia.md",
+  "linea": 277,
+  "F": "F29",
+  "nbk": "NBK535425",
+  "citado": "Physiology, Stomach",
+  "real": "Physiology, Stomach.",
+  "score": 1.0,
+  "ok": true
+ },
+ {
+  "archivo": "conocimiento/basicas/fisiologia.md",
+  "linea": 278,
+  "F": "F30",
+  "nbk": "NBK534822",
+  "citado": "Physiology, Gastrin",
+  "real": "Physiology, Gastrin.",
+  "score": 1.0,
+  "ok": true
+ },
+ {
+  "archivo": "conocimiento/basicas/fisiologia.md",
+  "linea": 279,
+  "F": "F31",
+  "nbk": "NBK539766",
+  "citado": "Physiology, Maternal Changes",
+  "real": "Physiology, Maternal Changes.",
+  "score": 1.0,
+  "ok": true
+ },
+ {
+  "archivo": "conocimiento/basicas/fisiologia.md",
+  "linea": 280,
+  "F": "F32",
+  "nbk": "NBK559304",
+  "citado": "Physiology, Pregnancy",
+  "real": "Physiology, Pregnancy.",
+  "score": 1.0,
+  "ok": true
+ },
+ {
+  "archivo": "conocimiento/basicas/fisiologia.md",
+  "linea": 281,
+  "F": "F33",
+  "nbk": "NBK560551",
+  "citado": "Acute Pulmonary Embolism",
+  "real": "Acute Pulmonary Embolism.",
+  "score": 1.0,
+  "ok": true
+ },
+ {
+  "archivo": "conocimiento/basicas/fisiologia.md",
+  "linea": 282,
+  "F": "F34",
+  "nbk": "NBK539701",
+  "citado": "High-Altitude Oxygenation",
+  "real": "High-Altitude Oxygenation.",
+  "score": 1.0,
+  "ok": true
+ },
+ {
+  "archivo": "conocimiento/basicas/fisiologia.md",
+  "linea": 283,
+  "F": "F35",
+  "nbk": "NBK430916",
+  "citado": "High Altitude Cerebral Edema",
+  "real": "High Altitude Cerebral Edema.",
+  "score": 1.0,
+  "ok": true
+ },
+ {
+  "archivo": "conocimiento/basicas/fisiologia.md",
+  "linea": 284,
+  "F": "F36",
+  "nbk": "NBK442011",
+  "citado": "High-Altitude Cardiopulmonary Diseases",
+  "real": "High-Altitude Cardiopulmonary Diseases.",
+  "score": 1.0,
+  "ok": true
+ },
+ {
+  "archivo": "conocimiento/basicas/fisiologia.md",
+  "linea": 285,
+  "F": "F37",
+  "nbk": "NBK554380",
+  "citado": "Physiology, Pulmonary Vascular Resistance",
+  "real": "Physiology, Pulmonary Vascular Resistance.",
+  "score": 1.0,
+  "ok": true
+ },
+ {
+  "archivo": "conocimiento/basicas/fisiologia.md",
+  "linea": 286,
+  "F": "F38",
+  "nbk": "NBK470339",
+  "citado": "Physiology, Aldosterone",
+  "real": "Physiology, Aldosterone.",
+  "score": 1.0,
+  "ok": true
+ },
+ {
+  "archivo": "conocimiento/basicas/fisiologia.md",
+  "linea": 287,
+  "F": "F39",
+  "nbk": "NBK470202",
+  "citado": "Lactic Acidosis",
+  "real": "Lactic Acidosis.",
+  "score": 1.0,
+  "ok": true
+ },
+ {
+  "archivo": "conocimiento/basicas/fisiologia.md",
+  "linea": 288,
+  "F": "F40",
+  "nbk": "NBK493179",
+  "citado": "Biochemistry, Ketogenesis",
+  "real": "Biochemistry, Ketogenesis.",
+  "score": 1.0,
+  "ok": true
+ },
+ {
+  "archivo": "conocimiento/basicas/fisiologia.md",
+  "linea": 289,
+  "F": "F41",
+  "nbk": "NBK547686",
+  "citado": "Physiology, Stroke Volume",
+  "real": "Physiology, Stroke Volume.",
+  "score": 1.0,
+  "ok": true
+ },
+ {
+  "archivo": "conocimiento/basicas/fisiologia.md",
+  "linea": 290,
+  "F": "F42",
+  "nbk": "NBK538226",
+  "citado": "Physiology, Mean Arterial Pressure",
+  "real": "Physiology, Mean Arterial Pressure.",
+  "score": 1.0,
+  "ok": true
+ },
+ {
+  "archivo": "conocimiento/basicas/fisiologia.md",
+  "linea": 291,
+  "F": "F44",
+  "nbk": "NBK526089",
+  "citado": "Physiology, Cardiac",
+  "real": "Physiology, Cardiac.",
+  "score": 1.0,
+  "ok": true
+ },
+ {
+  "archivo": "conocimiento/basicas/fisiologia.md",
+  "linea": 293,
+  "F": "F48",
+  "nbk": "NBK493219",
+  "citado": "Partial Pressure of Oxygen",
+  "real": "Partial Pressure of Oxygen.",
+  "score": 1.0,
+  "ok": true
+ },
+ {
+  "archivo": "conocimiento/basicas/fisiologia.md",
+  "linea": 294,
+  "F": "F49",
+  "nbk": "NBK551617",
+  "citado": "Oxygen Therapy",
+  "real": "Oxygen Therapy.",
+  "score": 1.0,
+  "ok": true
+ },
+ {
+  "archivo": "conocimiento/cirugia/cirugia-general.md",
+  "linea": 229,
+  "F": "F1",
+  "nbk": "NBK493193",
+  "citado": "Appendicitis",
+  "real": "Appendicitis.",
+  "score": 1.0,
+  "ok": true
+ },
+ {
+  "archivo": "conocimiento/cirugia/cirugia-general.md",
+  "linea": 230,
+  "F": "F2",
+  "nbk": "NBK459171",
+  "citado": "Acute cholecystitis",
+  "real": "Acute Cholecystitis.",
+  "score": 1.0,
+  "ok": true
+ },
+ {
+  "archivo": "conocimiento/cirugia/cirugia-general.md",
+  "linea": 231,
+  "F": "F3",
+  "nbk": "NBK558946",
+  "citado": "Cholangitis",
+  "real": "Cholangitis.",
+  "score": 1.0,
+  "ok": true
+ },
+ {
+  "archivo": "conocimiento/cirugia/cirugia-general.md",
+  "linea": 232,
+  "F": "F4",
+  "nbk": "NBK448079",
+  "citado": "Small bowel obstruction",
+  "real": "Small Bowel Obstruction.",
+  "score": 1.0,
+  "ok": true
+ },
+ {
+  "archivo": "conocimiento/cirugia/cirugia-general.md",
+  "linea": 233,
+  "F": "F5",
+  "nbk": "NBK430975",
+  "citado": "Acute mesenteric ischemia",
+  "real": "Venous Insufficiency.",
+  "score": 0.27,
+  "ok": false
+ },
+ {
+  "archivo": "conocimiento/cirugia/cirugia-general.md",
+  "linea": 234,
+  "F": "F6",
+  "nbk": "NBK459316",
+  "citado": "Diverticulitis",
+  "real": "Acute Diverticulitis (Archived).",
+  "score": 0.65,
+  "ok": true
+ },
+ {
+  "archivo": "conocimiento/cirugia/cirugia-general.md",
+  "linea": 235,
+  "F": "F7",
+  "nbk": "NBK459328",
+  "citado": "Acute abdomen",
+  "real": "Acute Abdomen.",
+  "score": 1.0,
+  "ok": true
+ },
+ {
+  "archivo": "conocimiento/cirugia/cirugia-general.md",
+  "linea": 236,
+  "F": "F8",
+  "nbk": "NBK459309",
+  "citado": "Open inguinal hernia repair",
+  "real": "Open Inguinal Hernia Repair.",
+  "score": 1.0,
+  "ok": true
+ },
+ {
+  "archivo": "conocimiento/cirugia/cirugia-general.md",
+  "linea": 237,
+  "F": "F9",
+  "nbk": "NBK537146",
+  "citado": "Cardiac risk assessment",
+  "real": "Cardiac Risk Assessment.",
+  "score": 1.0,
+  "ok": true
+ },
+ {
+  "archivo": "conocimiento/cirugia/cirugia-general.md",
+  "linea": 240,
+  "F": "F12",
+  "nbk": "NBK560533",
+  "citado": "Postoperative wound infections",
+  "real": "Postoperative Wound Infections.",
+  "score": 1.0,
+  "ok": true
+ },
+ {
+  "archivo": "conocimiento/cirugia/cirugia-general.md",
+  "linea": 241,
+  "F": "F13",
+  "nbk": "NBK532305",
+  "citado": "Fluid management",
+  "real": "Fluid Management.",
+  "score": 1.0,
+  "ok": true
+ },
+ {
+  "archivo": "conocimiento/cirugia/cirugia-general.md",
+  "linea": 242,
+  "F": "F14",
+  "nbk": "NBK537182",
+  "citado": "Internal hemorrhoid",
+  "real": "Internal Hemorrhoid.",
+  "score": 1.0,
+  "ok": true
+ },
+ {
+  "archivo": "conocimiento/cirugia/cirugia-general.md",
+  "linea": 243,
+  "F": "F15",
+  "nbk": "NBK526063",
+  "citado": "Anal fissures",
+  "real": "Anal Fissures.",
+  "score": 1.0,
+  "ok": true
+ },
+ {
+  "archivo": "conocimiento/cirugia/cirugia-general.md",
+  "linea": 244,
+  "F": "F16",
+  "nbk": "NBK459167",
+  "citado": "Anorectal abscess",
+  "real": "Anorectal Abscess.",
+  "score": 1.0,
+  "ok": true
+ },
+ {
+  "archivo": "conocimiento/cirugia/cirugia-general.md",
+  "linea": 245,
+  "F": "F17",
+  "nbk": "NBK535406",
+  "citado": "Physiology, wound healing",
+  "real": "Physiology, Wound Healing.",
+  "score": 1.0,
+  "ok": true
+ },
+ {
+  "archivo": "conocimiento/cirugia/trauma.md",
+  "linea": 216,
+  "F": "F7",
+  "nbk": "NBK470382",
+  "citado": "Hemorrhagic shock",
+  "real": "Hemorrhagic Shock.",
+  "score": 1.0,
+  "ok": true
+ },
+ {
+  "archivo": "conocimiento/cirugia/trauma.md",
+  "linea": 217,
+  "F": "F8",
+  "nbk": "NBK559090",
+  "citado": "Tension pneumothorax",
+  "real": "Tension Pneumothorax.",
+  "score": 1.0,
+  "ok": true
+ },
+ {
+  "archivo": "conocimiento/cirugia/trauma.md",
+  "linea": 218,
+  "F": "F9",
+  "nbk": "NBK431090",
+  "citado": "Cardiac tamponade",
+  "real": "Cardiac Tamponade.",
+  "score": 1.0,
+  "ok": true
+ },
+ {
+  "archivo": "conocimiento/cirugia/trauma.md",
+  "linea": 219,
+  "F": "F10",
+  "nbk": "NBK538219",
+  "citado": "Hemothorax",
+  "real": "Hemothorax.",
+  "score": 1.0,
+  "ok": true
+ },
+ {
+  "archivo": "conocimiento/cirugia/trauma.md",
+  "linea": 220,
+  "F": "F11",
+  "nbk": "NBK482194",
+  "citado": "Thoracic trauma",
+  "real": "Thoracic Trauma.",
+  "score": 1.0,
+  "ok": true
+ },
+ {
+  "archivo": "conocimiento/cirugia/trauma.md",
+  "linea": 221,
+  "F": "F12",
+  "nbk": "NBK513298",
+  "citado": "Glasgow Coma Scale",
+  "real": "Glasgow Coma Scale.",
+  "score": 1.0,
+  "ok": true
+ },
+ {
+  "archivo": "conocimiento/cirugia/trauma.md",
+  "linea": 222,
+  "F": "F13",
+  "nbk": "NBK557861",
+  "citado": "Traumatic brain injury",
+  "real": "Traumatic Brain Injury.",
+  "score": 1.0,
+  "ok": true
+ },
+ {
+  "archivo": "conocimiento/cirugia/trauma.md",
+  "linea": 223,
+  "F": "F14",
+  "nbk": "NBK537190",
+  "citado": "Parkland formula",
+  "real": "Parkland Formula.",
+  "score": 1.0,
+  "ok": true
+ },
+ {
+  "archivo": "conocimiento/cirugia/trauma.md",
+  "linea": 224,
+  "F": "F15",
+  "nbk": "NBK534227",
+  "citado": "Burn fluid resuscitation",
+  "real": "Burn Fluid Resuscitation.",
+  "score": 1.0,
+  "ok": true
+ },
+ {
+  "archivo": "conocimiento/cirugia/trauma.md",
+  "linea": 225,
+  "F": "F16",
+  "nbk": "NBK448124",
+  "citado": "Acute compartment syndrome",
+  "real": "Acute Compartment Syndrome.",
+  "score": 1.0,
+  "ok": true
+ },
+ {
+  "archivo": "conocimiento/cirugia/trauma.md",
+  "linea": 226,
+  "F": "F17",
+  "nbk": "NBK459361",
+  "citado": "Neurogenic shock",
+  "real": "Neurogenic Shock.",
+  "score": 1.0,
+  "ok": true
+ },
+ {
+  "archivo": "conocimiento/cirugia/trauma.md",
+  "linea": 228,
+  "F": "F19",
+  "nbk": "NBK558915",
+  "citado": "Permissive hypotension",
+  "real": "Permissive Hypotension.",
+  "score": 1.0,
+  "ok": true
+ },
+ {
+  "archivo": "conocimiento/clinica/semiologia.md",
+  "linea": 224,
+  "F": "F1",
+  "nbk": "NBK534249",
+  "citado": "Medical History",
+  "real": "Medical History.",
+  "score": 1.0,
+  "ok": true
+ },
+ {
+  "archivo": "conocimiento/clinica/semiologia.md",
+  "linea": 225,
+  "F": "F2",
+  "nbk": "NBK553213",
+  "citado": "Vital Sign Assessment",
+  "real": "Vital Sign Assessment.",
+  "score": 1.0,
+  "ok": true
+ },
+ {
+  "archivo": "conocimiento/clinica/semiologia.md",
+  "linea": 226,
+  "F": "F3",
+  "nbk": "NBK553078",
+  "citado": "Cardiac Examination",
+  "real": "Cardiac Examination.",
+  "score": 1.0,
+  "ok": true
+ },
+ {
+  "archivo": "conocimiento/clinica/semiologia.md",
+  "linea": 227,
+  "F": "F4",
+  "nbk": "NBK541010",
+  "citado": "Physiology, Heart Sounds",
+  "real": "Physiology, Heart Sounds.",
+  "score": 1.0,
+  "ok": true
+ },
+ {
+  "archivo": "conocimiento/clinica/semiologia.md",
+  "linea": 228,
+  "F": "F5",
+  "nbk": "NBK507849",
+  "citado": "Innocent Murmur",
+  "real": "Innocent Murmur.",
+  "score": 1.0,
+  "ok": true
+ },
+ {
+  "archivo": "conocimiento/clinica/semiologia.md",
+  "linea": 229,
+  "F": "F6",
+  "nbk": "NBK459253",
+  "citado": "Lung Exam",
+  "real": "Lung Exam.",
+  "score": 1.0,
+  "ok": true
+ },
+ {
+  "archivo": "conocimiento/clinica/semiologia.md",
+  "linea": 230,
+  "F": "F7",
+  "nbk": "NBK518991",
+  "citado": "Egophony",
+  "real": "Egophony.",
+  "score": 1.0,
+  "ok": true
+ },
+ {
+  "archivo": "conocimiento/clinica/semiologia.md",
+  "linea": 231,
+  "F": "F8",
+  "nbk": "NBK448189",
+  "citado": "Pleural Effusion",
+  "real": "Pleural Effusion.",
+  "score": 1.0,
+  "ok": true
+ },
+ {
+  "archivo": "conocimiento/clinica/semiologia.md",
+  "linea": 232,
+  "F": "F9",
+  "nbk": "NBK559090",
+  "citado": "Tension Pneumothorax",
+  "real": "Tension Pneumothorax.",
+  "score": 1.0,
+  "ok": true
+ },
+ {
+  "archivo": "conocimiento/clinica/semiologia.md",
+  "linea": 233,
+  "F": "F10",
+  "nbk": "NBK459220",
+  "citado": "Abdominal Examination",
+  "real": "Abdominal Examination.",
+  "score": 1.0,
+  "ok": true
+ },
+ {
+  "archivo": "conocimiento/clinica/semiologia.md",
+  "linea": 234,
+  "F": "F11",
+  "nbk": "NBK459328",
+  "citado": "Acute Abdomen",
+  "real": "Acute Abdomen.",
+  "score": 1.0,
+  "ok": true
+ },
+ {
+  "archivo": "conocimiento/clinica/semiologia.md",
+  "linea": 235,
+  "F": "F12",
+  "nbk": "NBK557589",
+  "citado": "Neurologic Exam",
+  "real": "Neurologic Exam.",
+  "score": 1.0,
+  "ok": true
+ },
+ {
+  "archivo": "conocimiento/clinica/semiologia.md",
+  "linea": 236,
+  "F": "F13",
+  "nbk": "NBK554448",
+  "citado": "Streptococcal Meningitis",
+  "real": "Streptococcal Meningitis.",
+  "score": 1.0,
+  "ok": true
+ },
+ {
+  "archivo": "conocimiento/clinica/semiologia.md",
+  "linea": 238,
+  "F": "F15",
+  "nbk": "NBK562161",
+  "citado": "Goiter",
+  "real": "Goiter.",
+  "score": 1.0,
+  "ok": true
+ },
+ {
+  "archivo": "conocimiento/clinica/semiologia.md",
+  "linea": 239,
+  "F": "F16",
+  "nbk": "NBK535422",
+  "citado": "Thyroid Nodule",
+  "real": "Thyroid Nodule.",
+  "score": 1.0,
+  "ok": true
+ },
+ {
+  "archivo": "conocimiento/clinica/semiologia.md",
+  "linea": 240,
+  "F": "F17",
+  "nbk": "NBK544252",
+  "citado": "Hyperbilirubinemia",
+  "real": "Hyperbilirubinemia.",
+  "score": 1.0,
+  "ok": true
+ },
+ {
+  "archivo": "conocimiento/clinica/semiologia.md",
+  "linea": 241,
+  "F": "F18",
+  "nbk": "NBK441961",
+  "citado": "Choledocholithiasis",
+  "real": "Choledocholithiasis.",
+  "score": 1.0,
+  "ok": true
+ },
+ {
+  "archivo": "conocimiento/clinica/semiologia.md",
+  "linea": 242,
+  "F": "F19",
+  "nbk": "NBK559217",
+  "citado": "Bile Duct Stricture",
+  "real": "Bile Duct Stricture.",
+  "score": 1.0,
+  "ok": true
+ },
+ {
+  "archivo": "conocimiento/clinica/semiologia.md",
+  "linea": 243,
+  "F": "F20",
+  "nbk": "NBK539698",
+  "citado": "Biliary Obstruction",
+  "real": "Biliary Obstruction.",
+  "score": 1.0,
+  "ok": true
+ },
+ {
+  "archivo": "conocimiento/clinica/semiologia.md",
+  "linea": 244,
+  "F": "F21",
+  "nbk": "NBK554452",
+  "citado": "Peripheral Edema",
+  "real": "Peripheral Edema.",
+  "score": 1.0,
+  "ok": true
+ },
+ {
+  "archivo": "conocimiento/clinica/semiologia.md",
+  "linea": 245,
+  "F": "F23",
+  "nbk": "NBK499965",
+  "citado": "Dyspnea",
+  "real": "Dyspnea.",
+  "score": 1.0,
+  "ok": true
+ },
+ {
+  "archivo": "conocimiento/clinica/semiologia.md",
+  "linea": 246,
+  "F": "F24",
+  "nbk": "NBK557672",
+  "citado": "Chest Pain: Evaluation and Exclusion of Myocardial Infarction and Angina",
+  "real": "Chest Pain: Evaluation and Exclusion of Myocardial Infarction and Angina.",
+  "score": 1.0,
+  "ok": true
+ },
+ {
+  "archivo": "conocimiento/clinica/semiologia.md",
+  "linea": 247,
+  "F": "F25",
+  "nbk": "NBK532265",
+  "citado": "Fever of Unknown Origin",
+  "real": "Fever of Unknown Origin.",
+  "score": 1.0,
+  "ok": true
+ },
+ {
+  "archivo": "conocimiento/clinica/semiologia.md",
+  "linea": 248,
+  "F": "F26",
+  "nbk": "NBK513298",
+  "citado": "Glasgow Coma Scale",
+  "real": "Glasgow Coma Scale.",
+  "score": 1.0,
+  "ok": true
+ },
+ {
+  "archivo": "conocimiento/clinica/semiologia.md",
+  "linea": 249,
+  "F": "F27",
+  "nbk": "NBK557753",
+  "citado": "Capillary Refill Time",
+  "real": "Capillary Refill Time.",
+  "score": 1.0,
+  "ok": true
+ },
+ {
+  "archivo": "conocimiento/clinica/semiologia.md",
+  "linea": 250,
+  "F": "F28",
+  "nbk": "NBK430939",
+  "citado": "Septic Shock",
+  "real": "Septic Shock.",
+  "score": 1.0,
+  "ok": true
+ },
+ {
+  "archivo": "conocimiento/clinica/semiologia.md",
+  "linea": 252,
+  "F": "F30",
+  "nbk": "NBK549801",
+  "citado": "Cushing Reflex",
+  "real": "Cushing Reflex.",
+  "score": 1.0,
+  "ok": true
+ },
+ {
+  "archivo": "conocimiento/clinica/semiologia.md",
+  "linea": 253,
+  "F": "F31",
+  "nbk": "NBK538295",
+  "citado": "Papilledema",
+  "real": "Papilledema.",
+  "score": 1.0,
+  "ok": true
+ },
+ {
+  "archivo": "conocimiento/clinica/semiologia.md",
+  "linea": 254,
+  "F": "F32",
+  "nbk": "NBK557491",
+  "citado": "Diagnostic Testing Accuracy: Sensitivity, Specificity, Predictive Values and Likelihood Ratios",
+  "real": "Diagnostic Testing Accuracy: Sensitivity, Specificity, Predictive Values and Likelihood Ratios.",
+  "score": 1.0,
+  "ok": true
+ },
+ {
+  "archivo": "conocimiento/clinica/semiologia.md",
+  "linea": 255,
+  "F": "F33",
+  "nbk": "NBK470382",
+  "citado": "Hemorrhagic Shock",
+  "real": "Hemorrhagic Shock.",
+  "score": 1.0,
+  "ok": true
+ },
+ {
+  "archivo": "conocimiento/dermatologia/dermatologia.md",
+  "linea": 297,
+  "F": "F14",
+  "nbk": "NBK531456",
+  "citado": "Leishmaniasis",
+  "real": "Leishmaniasis.",
+  "score": 1.0,
+  "ok": true
+ },
+ {
+  "archivo": "conocimiento/dermatologia/dermatologia.md",
+  "linea": 304,
+  "F": "F21",
+  "nbk": "NBK470409",
+  "citado": "Malignant Melanoma",
+  "real": "Malignant Melanoma.",
+  "score": 1.0,
+  "ok": true
+ },
+ {
+  "archivo": "conocimiento/dermatologia/dermatologia.md",
+  "linea": 312,
+  "F": "F29",
+  "nbk": "NBK459323",
+  "citado": "Stevens-Johnson Syndrome and Toxic Epidermal Necrolysis",
+  "real": "Stevens-Johnson Syndrome and Toxic Epidermal Necrolysis.",
+  "score": 1.0,
+  "ok": true
+ },
+ {
+  "archivo": "conocimiento/dermatologia/dermatologia.md",
+  "linea": 316,
+  "F": "F33",
+  "nbk": "NBK544360",
+  "citado": "Tinea Corporis",
+  "real": "Tinea Corporis.",
+  "score": 1.0,
+  "ok": true
+ },
+ {
+  "archivo": "conocimiento/gineco-obstetricia/ginecologia.md",
+  "linea": 227,
+  "F": "F2",
+  "nbk": "NBK557403",
+  "citado": "Intrauterine Device Placement and Removal",
+  "real": "Intrauterine Device Placement and Removal.",
+  "score": 1.0,
+  "ok": true
+ },
+ {
+  "archivo": "conocimiento/gineco-obstetricia/ginecologia.md",
+  "linea": 228,
+  "F": "F3",
+  "nbk": "NBK559157",
+  "citado": "Postcoital Contraception",
+  "real": "Postcoital Contraception.",
+  "score": 1.0,
+  "ok": true
+ },
+ {
+  "archivo": "conocimiento/gineco-obstetricia/ginecologia.md",
+  "linea": 229,
+  "F": "F4",
+  "nbk": "NBK539737",
+  "citado": "Levonorgestrel",
+  "real": "Levonorgestrel.",
+  "score": 1.0,
+  "ok": true
+ },
+ {
+  "archivo": "conocimiento/gineco-obstetricia/ginecologia.md",
+  "linea": 232,
+  "F": "F7",
+  "nbk": "NBK532913",
+  "citado": "Abnormal Uterine Bleeding",
+  "real": "Abnormal Uterine Bleeding.",
+  "score": 1.0,
+  "ok": true
+ },
+ {
+  "archivo": "conocimiento/gineco-obstetricia/ginecologia.md",
+  "linea": 237,
+  "F": "F12",
+  "nbk": "NBK431093",
+  "citado": "Cervical Cancer",
+  "real": "Cervical Cancer.",
+  "score": 1.0,
+  "ok": true
+ },
+ {
+  "archivo": "conocimiento/gineco-obstetricia/ginecologia.md",
+  "linea": 238,
+  "F": "F13",
+  "nbk": "NBK564514",
+  "citado": "Colposcopy",
+  "real": "Colposcopy.",
+  "score": 1.0,
+  "ok": true
+ },
+ {
+  "archivo": "conocimiento/gineco-obstetricia/ginecologia.md",
+  "linea": 240,
+  "F": "F15",
+  "nbk": "NBK539816",
+  "citado": "Mammography BI-RADS Grading",
+  "real": "Mammography BI RADS Grading.",
+  "score": 0.98,
+  "ok": true
+ },
+ {
+  "archivo": "conocimiento/gineco-obstetricia/ginecologia.md",
+  "linea": 241,
+  "F": "F16",
+  "nbk": "NBK482286",
+  "citado": "Breast Cancer",
+  "real": "Breast Cancer.",
+  "score": 1.0,
+  "ok": true
+ },
+ {
+  "archivo": "conocimiento/gineco-obstetricia/ginecologia.md",
+  "linea": 244,
+  "F": "F19",
+  "nbk": "NBK459317",
+  "citado": "Vaginal Candidiasis",
+  "real": "Vaginal Candidiasis.",
+  "score": 1.0,
+  "ok": true
+ },
+ {
+  "archivo": "conocimiento/gineco-obstetricia/ginecologia.md",
+  "linea": 245,
+  "F": "F20",
+  "nbk": "NBK560624",
+  "citado": "Candidiasis",
+  "real": "Candidiasis.",
+  "score": 1.0,
+  "ok": true
+ },
+ {
+  "archivo": "conocimiento/gineco-obstetricia/ginecologia.md",
+  "linea": 246,
+  "F": "F21",
+  "nbk": "NBK534826",
+  "citado": "Trichomoniasis",
+  "real": "Trichomoniasis.",
+  "score": 1.0,
+  "ok": true
+ },
+ {
+  "archivo": "conocimiento/gineco-obstetricia/ginecologia.md",
+  "linea": 248,
+  "F": "F23",
+  "nbk": "NBK499959",
+  "citado": "Pelvic Inflammatory Disease",
+  "real": "Pelvic Inflammatory Disease.",
+  "score": 1.0,
+  "ok": true
+ },
+ {
+  "archivo": "conocimiento/gineco-obstetricia/ginecologia.md",
+  "linea": 249,
+  "F": "F24",
+  "nbk": "NBK499950",
+  "citado": "Fitz-Hugh-Curtis Syndrome",
+  "real": "Fitz-Hugh-Curtis Syndrome.",
+  "score": 1.0,
+  "ok": true
+ },
+ {
+  "archivo": "conocimiento/gineco-obstetricia/ginecologia.md",
+  "linea": 253,
+  "F": "F28",
+  "nbk": "NBK567777",
+  "citado": "Endometriosis",
+  "real": "Endometriosis.",
+  "score": 1.0,
+  "ok": true
+ },
+ {
+  "archivo": "conocimiento/gineco-obstetricia/ginecologia.md",
+  "linea": 255,
+  "F": "F30",
+  "nbk": "NBK482168",
+  "citado": "Amenorrhea",
+  "real": "Amenorrhea.",
+  "score": 1.0,
+  "ok": true
+ },
+ {
+  "archivo": "conocimiento/gineco-obstetricia/ginecologia.md",
+  "linea": 256,
+  "F": "F31",
+  "nbk": "NBK431055",
+  "citado": "Secondary Amenorrhea",
+  "real": "Secondary Amenorrhea.",
+  "score": 1.0,
+  "ok": true
+ },
+ {
+  "archivo": "conocimiento/gineco-obstetricia/ginecologia.md",
+  "linea": 257,
+  "F": "F32",
+  "nbk": "NBK554469",
+  "citado": "Primary Amenorrhea",
+  "real": "Primary Amenorrhea.",
+  "score": 1.0,
+  "ok": true
+ },
+ {
+  "archivo": "conocimiento/gineco-obstetricia/ginecologia.md",
+  "linea": 258,
+  "F": "F33",
+  "nbk": "NBK507826",
+  "citado": "Menopause",
+  "real": "Menopause.",
+  "score": 1.0,
+  "ok": true
+ },
+ {
+  "archivo": "conocimiento/gineco-obstetricia/ginecologia.md",
+  "linea": 259,
+  "F": "F34",
+  "nbk": "NBK493191",
+  "citado": "Hormone Replacement Therapy",
+  "real": "Hormone Replacement Therapy.",
+  "score": 1.0,
+  "ok": true
+ },
+ {
+  "archivo": "conocimiento/gineco-obstetricia/ginecologia.md",
+  "linea": 261,
+  "F": "F36",
+  "nbk": "NBK560840",
+  "citado": "Postmenopausal Syndrome",
+  "real": "Postmenopausal Syndrome (Archived).",
+  "score": 0.84,
+  "ok": true
+ },
+ {
+  "archivo": "conocimiento/gineco-obstetricia/ginecologia.md",
+  "linea": 262,
+  "F": "F37",
+  "nbk": "NBK560541",
+  "citado": "Ovarian Cyst",
+  "real": "Ovarian Cyst.",
+  "score": 1.0,
+  "ok": true
+ },
+ {
+  "archivo": "conocimiento/gineco-obstetricia/ginecologia.md",
+  "linea": 263,
+  "F": "F38",
+  "nbk": "NBK560675",
+  "citado": "Ovarian Torsion",
+  "real": "Ovarian Torsion.",
+  "score": 1.0,
+  "ok": true
+ },
+ {
+  "archivo": "conocimiento/gineco-obstetricia/ginecologia.md",
+  "linea": 264,
+  "F": "F39",
+  "nbk": "NBK570641",
+  "citado": "Pelvic Ultrasound in the Postmenopausal Patient",
+  "real": "Pelvic Ultrasound in the Postmenopausal Patient.",
+  "score": 1.0,
+  "ok": true
+ },
+ {
+  "archivo": "conocimiento/gineco-obstetricia/ginecologia.md",
+  "linea": 265,
+  "F": "F40",
+  "nbk": "NBK556033",
+  "citado": "Female Infertility",
+  "real": "Female Infertility.",
+  "score": 1.0,
+  "ok": true
+ },
+ {
+  "archivo": "conocimiento/gineco-obstetricia/obstetricia.md",
+  "linea": 263,
+  "F": "F3",
+  "nbk": "NBK570635",
+  "citado": "Initial Antepartum Care",
+  "real": "Initial Antepartum Care.",
+  "score": 1.0,
+  "ok": true
+ },
+ {
+  "archivo": "conocimiento/gineco-obstetricia/obstetricia.md",
+  "linea": 266,
+  "F": "F6",
+  "nbk": "NBK556135",
+  "citado": "Early Pregnancy Diagnosis",
+  "real": "Early Pregnancy Diagnosis.",
+  "score": 1.0,
+  "ok": true
+ },
+ {
+  "archivo": "conocimiento/gineco-obstetricia/obstetricia.md",
+  "linea": 267,
+  "F": "F7",
+  "nbk": "NBK539860",
+  "citado": "Ectopic Pregnancy",
+  "real": "Ectopic Pregnancy.",
+  "score": 1.0,
+  "ok": true
+ },
+ {
+  "archivo": "conocimiento/gineco-obstetricia/obstetricia.md",
+  "linea": 268,
+  "F": "F8",
+  "nbk": "NBK570611",
+  "citado": "Preeclampsia",
+  "real": "Preeclampsia.",
+  "score": 1.0,
+  "ok": true
+ },
+ {
+  "archivo": "conocimiento/gineco-obstetricia/obstetricia.md",
+  "linea": 271,
+  "F": "F11",
+  "nbk": "NBK554392",
+  "citado": "Eclampsia",
+  "real": "Eclampsia.",
+  "score": 1.0,
+  "ok": true
+ },
+ {
+  "archivo": "conocimiento/gineco-obstetricia/obstetricia.md",
+  "linea": 273,
+  "F": "F13",
+  "nbk": "NBK499988",
+  "citado": "Postpartum Hemorrhage",
+  "real": "Postpartum Hemorrhage.",
+  "score": 1.0,
+  "ok": true
+ },
+ {
+  "archivo": "conocimiento/gineco-obstetricia/obstetricia.md",
+  "linea": 274,
+  "F": "F14",
+  "nbk": "NBK507848",
+  "citado": "Oxytocin",
+  "real": "Oxytocin.",
+  "score": 1.0,
+  "ok": true
+ },
+ {
+  "archivo": "conocimiento/gineco-obstetricia/obstetricia.md",
+  "linea": 278,
+  "F": "F18",
+  "nbk": "NBK459155",
+  "citado": "Hydatidiform Mole",
+  "real": "Hydatidiform Mole.",
+  "score": 1.0,
+  "ok": true
+ },
+ {
+  "archivo": "conocimiento/gineco-obstetricia/obstetricia.md",
+  "linea": 279,
+  "F": "F19",
+  "nbk": "NBK557884",
+  "citado": "Rho(D) Immune Globulin",
+  "real": "Rho(D) Immune Globulin.",
+  "score": 1.0,
+  "ok": true
+ },
+ {
+  "archivo": "conocimiento/gineco-obstetricia/obstetricia.md",
+  "linea": 280,
+  "F": "F20",
+  "nbk": "NBK539818",
+  "citado": "Placenta Previa",
+  "real": "Placenta Previa.",
+  "score": 1.0,
+  "ok": true
+ },
+ {
+  "archivo": "conocimiento/gineco-obstetricia/obstetricia.md",
+  "linea": 281,
+  "F": "F21",
+  "nbk": "NBK482335",
+  "citado": "Placental Abruption",
+  "real": "Placental Abruption.",
+  "score": 1.0,
+  "ok": true
+ },
+ {
+  "archivo": "conocimiento/gineco-obstetricia/obstetricia.md",
+  "linea": 282,
+  "F": "F22",
+  "nbk": "NBK545196",
+  "citado": "Gestational Diabetes",
+  "real": "Gestational Diabetes.",
+  "score": 1.0,
+  "ok": true
+ },
+ {
+  "archivo": "conocimiento/gineco-obstetricia/obstetricia.md",
+  "linea": 285,
+  "F": "F25",
+  "nbk": "NBK536939",
+  "citado": "Preterm Labor",
+  "real": "Preterm Labor.",
+  "score": 1.0,
+  "ok": true
+ },
+ {
+  "archivo": "conocimiento/gineco-obstetricia/obstetricia.md",
+  "linea": 287,
+  "F": "F27",
+  "nbk": "NBK562212",
+  "citado": "Tocolysis",
+  "real": "Tocolysis.",
+  "score": 1.0,
+  "ok": true
+ },
+ {
+  "archivo": "conocimiento/gineco-obstetricia/obstetricia.md",
+  "linea": 288,
+  "F": "F28",
+  "nbk": "NBK532888",
+  "citado": "Preterm and Term Prelabor Rupture of Membranes (PPROM and PROM)",
+  "real": "Preterm and Term Prelabor Rupture of Membranes (PPROM and PROM).",
+  "score": 1.0,
+  "ok": true
+ },
+ {
+  "archivo": "conocimiento/gineco-obstetricia/obstetricia.md",
+  "linea": 289,
+  "F": "F29",
+  "nbk": "NBK544290",
+  "citado": "Normal Labor: Physiology, Evaluation, and Management",
+  "real": "Normal Labor: Physiology, Evaluation, and Management.",
+  "score": 1.0,
+  "ok": true
+ },
+ {
+  "archivo": "conocimiento/gineco-obstetricia/obstetricia.md",
+  "linea": 290,
+  "F": "F30",
+  "nbk": "NBK459260",
+  "citado": "Abnormal Labor in Obstetrics: Recognition and Management",
+  "real": "Abnormal Labor in Obstetrics: Recognition and Management.",
+  "score": 1.0,
+  "ok": true
+ },
+ {
+  "archivo": "conocimiento/gineco-obstetricia/obstetricia.md",
+  "linea": 292,
+  "F": "F32",
+  "nbk": "NBK537087",
+  "citado": "Congenital and Maternal Syphilis",
+  "real": "Congenital and Maternal Syphilis.",
+  "score": 1.0,
+  "ok": true
+ },
+ {
+  "archivo": "conocimiento/gineco-obstetricia/obstetricia.md",
+  "linea": 294,
+  "F": "F34",
+  "nbk": "NBK534780",
+  "citado": "Syphilis",
+  "real": "Syphilis.",
+  "score": 1.0,
+  "ok": true
+ },
+ {
+  "archivo": "conocimiento/gineco-obstetricia/obstetricia.md",
+  "linea": 299,
+  "F": "F39",
+  "nbk": "NBK560801",
+  "citado": "Antepartum Infections",
+  "real": "Antepartum Infections.",
+  "score": 1.0,
+  "ok": true
+ },
+ {
+  "archivo": "conocimiento/gineco-obstetricia/obstetricia.md",
+  "linea": 300,
+  "F": "F40",
+  "nbk": "NBK553124",
+  "citado": "Endometritis",
+  "real": "Endometritis.",
+  "score": 1.0,
+  "ok": true
+ },
+ {
+  "archivo": "conocimiento/gineco-obstetricia/obstetricia.md",
+  "linea": 301,
+  "F": "F41",
+  "nbk": "NBK560801",
+  "citado": "Antepartum Infections y sepsis en el embarazo",
+  "real": "Antepartum Infections.",
+  "score": 0.64,
+  "ok": true
+ },
+ {
+  "archivo": "conocimiento/interna/cardiologia.md",
+  "linea": 260,
+  "F": "F1",
+  "nbk": "NBK539859",
+  "citado": "Essential Hypertension",
+  "real": "Essential Hypertension.",
+  "score": 1.0,
+  "ok": true
+ },
+ {
+  "archivo": "conocimiento/interna/cardiologia.md",
+  "linea": 262,
+  "F": "F3",
+  "nbk": "NBK507701",
+  "citado": "Hypertensive Crisis",
+  "real": "Hypertensive Crisis.",
+  "score": 1.0,
+  "ok": true
+ },
+ {
+  "archivo": "conocimiento/interna/cardiologia.md",
+  "linea": 263,
+  "F": "F4",
+  "nbk": "NBK459157",
+  "citado": "Acute Coronary Syndrome",
+  "real": "Acute Coronary Syndrome.",
+  "score": 1.0,
+  "ok": true
+ },
+ {
+  "archivo": "conocimiento/interna/cardiologia.md",
+  "linea": 266,
+  "F": "F7",
+  "nbk": "NBK430873",
+  "citado": "Heart Failure (Congestive Heart Failure)",
+  "real": "Heart Failure (Congestive Heart Failure).",
+  "score": 1.0,
+  "ok": true
+ },
+ {
+  "archivo": "conocimiento/interna/cardiologia.md",
+  "linea": 269,
+  "F": "F10",
+  "nbk": "NBK526072",
+  "citado": "Atrial Fibrillation",
+  "real": "Atrial Fibrillation.",
+  "score": 1.0,
+  "ok": true
+ },
+ {
+  "archivo": "conocimiento/interna/cardiologia.md",
+  "linea": 270,
+  "F": "F11",
+  "nbk": "NBK560651",
+  "citado": "Anticoagulation Therapy",
+  "real": "Anticoagulation Therapy.",
+  "score": 1.0,
+  "ok": true
+ },
+ {
+  "archivo": "conocimiento/interna/cardiologia.md",
+  "linea": 272,
+  "F": "F13",
+  "nbk": "NBK430742",
+  "citado": "Mitral Stenosis",
+  "real": "Mitral Stenosis.",
+  "score": 1.0,
+  "ok": true
+ },
+ {
+  "archivo": "conocimiento/interna/cardiologia.md",
+  "linea": 273,
+  "F": "F14",
+  "nbk": "NBK542205",
+  "citado": "Aortic Valve Disease",
+  "real": "Aortic Valve Disease.",
+  "score": 1.0,
+  "ok": true
+ },
+ {
+  "archivo": "conocimiento/interna/cardiologia.md",
+  "linea": 274,
+  "F": "F15",
+  "nbk": "NBK538286",
+  "citado": "Rheumatic Heart Disease",
+  "real": "Rheumatic Heart Disease.",
+  "score": 1.0,
+  "ok": true
+ },
+ {
+  "archivo": "conocimiento/interna/cardiologia.md",
+  "linea": 275,
+  "F": "F16",
+  "nbk": "NBK557641",
+  "citado": "Infective Endocarditis",
+  "real": "Infective Endocarditis.",
+  "score": 1.0,
+  "ok": true
+ },
+ {
+  "archivo": "conocimiento/interna/cardiologia.md",
+  "linea": 276,
+  "F": "F17",
+  "nbk": "NBK459272",
+  "citado": "Chagas Disease",
+  "real": "Chagas Disease.",
+  "score": 1.0,
+  "ok": true
+ },
+ {
+  "archivo": "conocimiento/interna/cardiologia.md",
+  "linea": 278,
+  "F": "F19",
+  "nbk": "NBK431080",
+  "citado": "Pericarditis",
+  "real": "Pericarditis.",
+  "score": 1.0,
+  "ok": true
+ },
+ {
+  "archivo": "conocimiento/interna/cardiologia.md",
+  "linea": 279,
+  "F": "F20",
+  "nbk": "NBK431090",
+  "citado": "Cardiac Tamponade",
+  "real": "Cardiac Tamponade.",
+  "score": 1.0,
+  "ok": true
+ },
+ {
+  "archivo": "conocimiento/interna/cardiologia.md",
+  "linea": 280,
+  "F": "F21",
+  "nbk": "NBK431089",
+  "citado": "Pericardial Effusion",
+  "real": "Pericardial Effusion.",
+  "score": 1.0,
+  "ok": true
+ },
+ {
+  "archivo": "conocimiento/interna/cardiologia.md",
+  "linea": 281,
+  "F": "F22",
+  "nbk": "NBK559182",
+  "citado": "Hyperlipidemia",
+  "real": "Hyperlipidemia.",
+  "score": 1.0,
+  "ok": true
+ },
+ {
+  "archivo": "conocimiento/interna/cardiologia.md",
+  "linea": 283,
+  "F": "F24",
+  "nbk": "NBK442006",
+  "citado": "Syncope",
+  "real": "Syncope.",
+  "score": 1.0,
+  "ok": true
+ },
+ {
+  "archivo": "conocimiento/interna/cardiologia.md",
+  "linea": 284,
+  "F": "F25",
+  "nbk": "NBK549803",
+  "citado": "Electrocardiogram",
+  "real": "Electrocardiogram.",
+  "score": 1.0,
+  "ok": true
+ },
+ {
+  "archivo": "conocimiento/interna/cardiologia.md",
+  "linea": 285,
+  "F": "F26",
+  "nbk": "NBK470284",
+  "citado": "Hyperkalemia",
+  "real": "Hyperkalemia.",
+  "score": 1.0,
+  "ok": true
+ },
+ {
+  "archivo": "conocimiento/interna/cardiologia.md",
+  "linea": 287,
+  "F": "F28",
+  "nbk": "NBK482167",
+  "citado": "Left Bundle Branch Block",
+  "real": "Left Bundle Branch Block.",
+  "score": 1.0,
+  "ok": true
+ },
+ {
+  "archivo": "conocimiento/interna/cardiologia.md",
+  "linea": 288,
+  "F": "F29",
+  "nbk": "NBK441972",
+  "citado": "Supraventricular Tachycardia",
+  "real": "Supraventricular Tachycardia.",
+  "score": 1.0,
+  "ok": true
+ },
+ {
+  "archivo": "conocimiento/interna/cardiologia.md",
+  "linea": 289,
+  "F": "F30",
+  "nbk": "NBK559054",
+  "citado": "Wide QRS Complex Tachycardia",
+  "real": "Wide QRS Complex Tachycardia.",
+  "score": 1.0,
+  "ok": true
+ },
+ {
+  "archivo": "conocimiento/interna/cardiologia.md",
+  "linea": 290,
+  "F": "F31",
+  "nbk": "NBK532954",
+  "citado": "Ventricular Tachycardia",
+  "real": "Ventricular Tachycardia.",
+  "score": 1.0,
+  "ok": true
+ },
+ {
+  "archivo": "conocimiento/interna/cardiologia.md",
+  "linea": 291,
+  "F": "F32",
+  "nbk": "NBK459147",
+  "citado": "Atrioventricular Block",
+  "real": "Atrioventricular Block.",
+  "score": 1.0,
+  "ok": true
+ },
+ {
+  "archivo": "conocimiento/interna/endocrinologia.md",
+  "linea": 242,
+  "F": "F1",
+  "nbk": "NBK513253",
+  "citado": "Type 2 Diabetes",
+  "real": "Type 2 Diabetes.",
+  "score": 1.0,
+  "ok": true
+ },
+ {
+  "archivo": "conocimiento/interna/endocrinologia.md",
+  "linea": 245,
+  "F": "F4",
+  "nbk": "NBK507713",
+  "citado": "Type 1 Diabetes",
+  "real": "Type 1 Diabetes.",
+  "score": 1.0,
+  "ok": true
+ },
+ {
+  "archivo": "conocimiento/interna/endocrinologia.md",
+  "linea": 246,
+  "F": "F5",
+  "nbk": "NBK560723",
+  "citado": "Adult Diabetic Ketoacidosis",
+  "real": "Adult Diabetic Ketoacidosis.",
+  "score": 1.0,
+  "ok": true
+ },
+ {
+  "archivo": "conocimiento/interna/endocrinologia.md",
+  "linea": 247,
+  "F": "F6",
+  "nbk": "NBK482142",
+  "citado": "Hyperosmolar Hyperglycemic Syndrome",
+  "real": "Hyperosmolar Hyperglycemic Syndrome.",
+  "score": 1.0,
+  "ok": true
+ },
+ {
+  "archivo": "conocimiento/interna/endocrinologia.md",
+  "linea": 248,
+  "F": "F7",
+  "nbk": "NBK573079",
+  "citado": "Non-Diabetic Hypoglycemia",
+  "real": "Non-Diabetic Hypoglycemia.",
+  "score": 1.0,
+  "ok": true
+ },
+ {
+  "archivo": "conocimiento/interna/endocrinologia.md",
+  "linea": 249,
+  "F": "F8",
+  "nbk": "NBK536970",
+  "citado": "Subclinical Hypothyroidism",
+  "real": "Subclinical Hypothyroidism.",
+  "score": 1.0,
+  "ok": true
+ },
+ {
+  "archivo": "conocimiento/interna/endocrinologia.md",
+  "linea": 250,
+  "F": "F9",
+  "nbk": "NBK459262",
+  "citado": "Hashimoto Thyroiditis",
+  "real": "Hashimoto Thyroiditis.",
+  "score": 1.0,
+  "ok": true
+ },
+ {
+  "archivo": "conocimiento/interna/endocrinologia.md",
+  "linea": 251,
+  "F": "F10",
+  "nbk": "NBK545193",
+  "citado": "Myxedema Coma",
+  "real": "Myxedema Coma.",
+  "score": 1.0,
+  "ok": true
+ },
+ {
+  "archivo": "conocimiento/interna/endocrinologia.md",
+  "linea": 253,
+  "F": "F12",
+  "nbk": "NBK537053",
+  "citado": "Hyperthyroidism",
+  "real": "Hyperthyroidism.",
+  "score": 1.0,
+  "ok": true
+ },
+ {
+  "archivo": "conocimiento/interna/endocrinologia.md",
+  "linea": 254,
+  "F": "F13",
+  "nbk": "NBK448195",
+  "citado": "Graves Disease",
+  "real": "Graves Disease.",
+  "score": 1.0,
+  "ok": true
+ },
+ {
+  "archivo": "conocimiento/interna/endocrinologia.md",
+  "linea": 255,
+  "F": "F14",
+  "nbk": "NBK448095",
+  "citado": "Thyroid Storm",
+  "real": "Thyroid Storm.",
+  "score": 1.0,
+  "ok": true
+ },
+ {
+  "archivo": "conocimiento/interna/endocrinologia.md",
+  "linea": 256,
+  "F": "F15",
+  "nbk": "NBK535422",
+  "citado": "Thyroid Nodule",
+  "real": "Thyroid Nodule.",
+  "score": 1.0,
+  "ok": true
+ },
+ {
+  "archivo": "conocimiento/interna/endocrinologia.md",
+  "linea": 257,
+  "F": "F16",
+  "nbk": "NBK551526",
+  "citado": "Hypercortisolism (Cushing Syndrome)",
+  "real": "Hypercortisolism (Cushing Syndrome).",
+  "score": 1.0,
+  "ok": true
+ },
+ {
+  "archivo": "conocimiento/interna/endocrinologia.md",
+  "linea": 258,
+  "F": "F17",
+  "nbk": "NBK441832",
+  "citado": "Adrenal Insufficiency",
+  "real": "Adrenal Insufficiency.",
+  "score": 1.0,
+  "ok": true
+ },
+ {
+  "archivo": "conocimiento/interna/endocrinologia.md",
+  "linea": 259,
+  "F": "F18",
+  "nbk": "NBK499983",
+  "citado": "Hyperaldosteronism",
+  "real": "Hyperaldosteronism.",
+  "score": 1.0,
+  "ok": true
+ },
+ {
+  "archivo": "conocimiento/interna/endocrinologia.md",
+  "linea": 260,
+  "F": "F19",
+  "nbk": "NBK589700",
+  "citado": "Pheochromocytoma",
+  "real": "Pheochromocytoma.",
+  "score": 1.0,
+  "ok": true
+ },
+ {
+  "archivo": "conocimiento/interna/endocrinologia.md",
+  "linea": 261,
+  "F": "F20",
+  "nbk": "NBK430714",
+  "citado": "Hypercalcemia",
+  "real": "Hypercalcemia.",
+  "score": 1.0,
+  "ok": true
+ },
+ {
+  "archivo": "conocimiento/interna/endocrinologia.md",
+  "linea": 262,
+  "F": "F21",
+  "nbk": "NBK482423",
+  "citado": "Malignancy-Related Hypercalcemia",
+  "real": "Malignancy-Related Hypercalcemia.",
+  "score": 1.0,
+  "ok": true
+ },
+ {
+  "archivo": "conocimiento/interna/endocrinologia.md",
+  "linea": 263,
+  "F": "F22",
+  "nbk": "NBK441895",
+  "citado": "Primary Hyperparathyroidism",
+  "real": "Primary Hyperparathyroidism.",
+  "score": 1.0,
+  "ok": true
+ },
+ {
+  "archivo": "conocimiento/interna/endocrinologia.md",
+  "linea": 264,
+  "F": "F23",
+  "nbk": "NBK459347",
+  "citado": "Prolactinoma",
+  "real": "Prolactinoma.",
+  "score": 1.0,
+  "ok": true
+ },
+ {
+  "archivo": "conocimiento/interna/endocrinologia.md",
+  "linea": 265,
+  "F": "F24",
+  "nbk": "NBK559222",
+  "citado": "Pituitary Apoplexy",
+  "real": "Pituitary Apoplexy.",
+  "score": 1.0,
+  "ok": true
+ },
+ {
+  "archivo": "conocimiento/interna/endocrinologia.md",
+  "linea": 266,
+  "F": "F25",
+  "nbk": "NBK559156",
+  "citado": "Osteoporosis in Females",
+  "real": "Osteoporosis in Females.",
+  "score": 1.0,
+  "ok": true
+ },
+ {
+  "archivo": "conocimiento/interna/endocrinologia.md",
+  "linea": 269,
+  "F": "F28",
+  "nbk": "NBK459248",
+  "citado": "Metabolic Syndrome",
+  "real": "Metabolic Syndrome.",
+  "score": 1.0,
+  "ok": true
+ },
+ {
+  "archivo": "conocimiento/interna/endocrinologia.md",
+  "linea": 270,
+  "F": "F29",
+  "nbk": "NBK618375",
+  "citado": "Obesity Medications: Evidence-Based Management",
+  "real": "Obesity Medications: Evidence-Based Management.",
+  "score": 1.0,
+  "ok": true
+ },
+ {
+  "archivo": "conocimiento/interna/gastroenterologia.md",
+  "linea": 236,
+  "F": "F1",
+  "nbk": "NBK554462",
+  "citado": "Gastroesophageal Reflux Disease (GERD)",
+  "real": "Gastroesophageal Reflux Disease (GERD).",
+  "score": 1.0,
+  "ok": true
+ },
+ {
+  "archivo": "conocimiento/interna/gastroenterologia.md",
+  "linea": 237,
+  "F": "F2",
+  "nbk": "NBK534233",
+  "citado": "Helicobacter Pylori",
+  "real": "Helicobacter Pylori.",
+  "score": 1.0,
+  "ok": true
+ },
+ {
+  "archivo": "conocimiento/interna/gastroenterologia.md",
+  "linea": 238,
+  "F": "F3",
+  "nbk": "NBK534792",
+  "citado": "Peptic Ulcer Disease",
+  "real": "Peptic Ulcer Disease.",
+  "score": 1.0,
+  "ok": true
+ },
+ {
+  "archivo": "conocimiento/interna/gastroenterologia.md",
+  "linea": 239,
+  "F": "F4",
+  "nbk": "NBK470300",
+  "citado": "Upper Gastrointestinal Bleeding",
+  "real": "Upper Gastrointestinal Bleeding.",
+  "score": 1.0,
+  "ok": true
+ },
+ {
+  "archivo": "conocimiento/interna/gastroenterologia.md",
+  "linea": 240,
+  "F": "F5",
+  "nbk": "NBK448078",
+  "citado": "Esophageal Varices",
+  "real": "Esophageal Varices.",
+  "score": 1.0,
+  "ok": true
+ },
+ {
+  "archivo": "conocimiento/interna/gastroenterologia.md",
+  "linea": 242,
+  "F": "F7",
+  "nbk": "NBK482468",
+  "citado": "Acute Pancreatitis",
+  "real": "Acute Pancreatitis.",
+  "score": 1.0,
+  "ok": true
+ },
+ {
+  "archivo": "conocimiento/interna/gastroenterologia.md",
+  "linea": 244,
+  "F": "F9",
+  "nbk": "NBK459290",
+  "citado": "Hepatitis A",
+  "real": "Hepatitis A.",
+  "score": 1.0,
+  "ok": true
+ },
+ {
+  "archivo": "conocimiento/interna/gastroenterologia.md",
+  "linea": 245,
+  "F": "F10",
+  "nbk": "NBK555945",
+  "citado": "Hepatitis B",
+  "real": "Hepatitis B.",
+  "score": 1.0,
+  "ok": true
+ },
+ {
+  "archivo": "conocimiento/interna/gastroenterologia.md",
+  "linea": 246,
+  "F": "F11",
+  "nbk": "NBK430897",
+  "citado": "Hepatitis C",
+  "real": "Hepatitis C.",
+  "score": 1.0,
+  "ok": true
+ },
+ {
+  "archivo": "conocimiento/interna/gastroenterologia.md",
+  "linea": 250,
+  "F": "F15",
+  "nbk": "NBK482419",
+  "citado": "Hepatic Cirrhosis",
+  "real": "Hepatic Cirrhosis.",
+  "score": 1.0,
+  "ok": true
+ },
+ {
+  "archivo": "conocimiento/interna/gastroenterologia.md",
+  "linea": 251,
+  "F": "F16",
+  "nbk": "NBK430869",
+  "citado": "Hepatic Encephalopathy",
+  "real": "Hepatic Encephalopathy.",
+  "score": 1.0,
+  "ok": true
+ },
+ {
+  "archivo": "conocimiento/interna/gastroenterologia.md",
+  "linea": 252,
+  "F": "F17",
+  "nbk": "NBK430856",
+  "citado": "Hepatorenal Syndrome",
+  "real": "Hepatorenal Syndrome.",
+  "score": 1.0,
+  "ok": true
+ },
+ {
+  "archivo": "conocimiento/interna/gastroenterologia.md",
+  "linea": 253,
+  "F": "F18",
+  "nbk": "NBK526129",
+  "citado": "Septic Peritonitis",
+  "real": "Septic Peritonitis.",
+  "score": 1.0,
+  "ok": true
+ },
+ {
+  "archivo": "conocimiento/interna/gastroenterologia.md",
+  "linea": 254,
+  "F": "F19",
+  "nbk": "NBK436021",
+  "citado": "Crohn Disease",
+  "real": "Crohn Disease.",
+  "score": 1.0,
+  "ok": true
+ },
+ {
+  "archivo": "conocimiento/interna/gastroenterologia.md",
+  "linea": 255,
+  "F": "F20",
+  "nbk": "NBK459282",
+  "citado": "Ulcerative Colitis",
+  "real": "Ulcerative Colitis.",
+  "score": 1.0,
+  "ok": true
+ },
+ {
+  "archivo": "conocimiento/interna/gastroenterologia.md",
+  "linea": 258,
+  "F": "F23",
+  "nbk": "NBK544337",
+  "citado": "Chronic Diarrhea",
+  "real": "Chronic Diarrhea.",
+  "score": 1.0,
+  "ok": true
+ },
+ {
+  "archivo": "conocimiento/interna/gastroenterologia.md",
+  "linea": 261,
+  "F": "F26",
+  "nbk": "NBK459142",
+  "citado": "Gastric Cancer",
+  "real": "Gastric Cancer.",
+  "score": 1.0,
+  "ok": true
+ },
+ {
+  "archivo": "conocimiento/interna/gastroenterologia.md",
+  "linea": 262,
+  "F": "F27",
+  "nbk": "NBK559064",
+  "citado": "Colorectal Cancer Screening",
+  "real": "Colorectal Cancer Screening.",
+  "score": 1.0,
+  "ok": true
+ },
+ {
+  "archivo": "conocimiento/interna/gastroenterologia.md",
+  "linea": 263,
+  "F": "F28",
+  "nbk": "NBK441900",
+  "citado": "Celiac Disease",
+  "real": "Celiac Disease.",
+  "score": 1.0,
+  "ok": true
+ },
+ {
+  "archivo": "conocimiento/interna/gastroenterologia.md",
+  "linea": 268,
+  "F": "F33",
+  "nbk": "NBK544317",
+  "citado": "Gastrointestinal Bleeding Scan",
+  "real": "Gastrointestinal Bleeding Scan.",
+  "score": 1.0,
+  "ok": true
+ },
+ {
+  "archivo": "conocimiento/interna/hematologia.md",
+  "linea": 252,
+  "F": "F1",
+  "nbk": "NBK560876",
+  "citado": "Iron Deficiency and Microcytic Hypochromic Anemia",
+  "real": "Iron Deficiency and Microcytic Hypochromic Anemia.",
+  "score": 1.0,
+  "ok": true
+ },
+ {
+  "archivo": "conocimiento/interna/hematologia.md",
+  "linea": 254,
+  "F": "F3",
+  "nbk": "NBK441923",
+  "citado": "Vitamin B12 Deficiency",
+  "real": "Vitamin B12 Deficiency.",
+  "score": 1.0,
+  "ok": true
+ },
+ {
+  "archivo": "conocimiento/interna/hematologia.md",
+  "linea": 255,
+  "F": "F4",
+  "nbk": "NBK545151",
+  "citado": "Thalassemia",
+  "real": "Thalassemia.",
+  "score": 1.0,
+  "ok": true
+ },
+ {
+  "archivo": "conocimiento/interna/hematologia.md",
+  "linea": 258,
+  "F": "F7",
+  "nbk": "NBK537130",
+  "citado": "Sickle Cell Trait",
+  "real": "Sickle Cell Trait.",
+  "score": 1.0,
+  "ok": true
+ },
+ {
+  "archivo": "conocimiento/interna/hematologia.md",
+  "linea": 259,
+  "F": "F8",
+  "nbk": "NBK562282",
+  "citado": "Immune Thrombocytopenia",
+  "real": "Immune Thrombocytopenia.",
+  "score": 1.0,
+  "ok": true
+ },
+ {
+  "archivo": "conocimiento/interna/hematologia.md",
+  "linea": 260,
+  "F": "F9",
+  "nbk": "NBK430721",
+  "citado": "Thrombotic Thrombocytopenic Purpura",
+  "real": "Thrombotic Thrombocytopenic Purpura.",
+  "score": 1.0,
+  "ok": true
+ },
+ {
+  "archivo": "conocimiento/interna/hematologia.md",
+  "linea": 261,
+  "F": "F10",
+  "nbk": "NBK441834",
+  "citado": "Disseminated Intravascular Coagulation",
+  "real": "Disseminated Intravascular Coagulation.",
+  "score": 1.0,
+  "ok": true
+ },
+ {
+  "archivo": "conocimiento/interna/hematologia.md",
+  "linea": 262,
+  "F": "F11",
+  "nbk": "NBK470265",
+  "citado": "Hemophilia A",
+  "real": "Hemophilia A.",
+  "score": 1.0,
+  "ok": true
+ },
+ {
+  "archivo": "conocimiento/interna/hematologia.md",
+  "linea": 263,
+  "F": "F12",
+  "nbk": "NBK459222",
+  "citado": "Von Willebrand Disease",
+  "real": "Von Willebrand Disease.",
+  "score": 1.0,
+  "ok": true
+ },
+ {
+  "archivo": "conocimiento/interna/hematologia.md",
+  "linea": 264,
+  "F": "F13",
+  "nbk": "NBK482330",
+  "citado": "Heparin-Induced Thrombocytopenia",
+  "real": "Heparin-Induced Thrombocytopenia.",
+  "score": 1.0,
+  "ok": true
+ },
+ {
+  "archivo": "conocimiento/interna/hematologia.md",
+  "linea": 265,
+  "F": "F14",
+  "nbk": "NBK507708",
+  "citado": "Deep Venous Thrombosis",
+  "real": "Deep Venous Thrombosis.",
+  "score": 1.0,
+  "ok": true
+ },
+ {
+  "archivo": "conocimiento/interna/hematologia.md",
+  "linea": 266,
+  "F": "F15",
+  "nbk": "NBK560551",
+  "citado": "Acute Pulmonary Embolism",
+  "real": "Acute Pulmonary Embolism.",
+  "score": 1.0,
+  "ok": true
+ },
+ {
+  "archivo": "conocimiento/interna/hematologia.md",
+  "linea": 268,
+  "F": "F17",
+  "nbk": "NBK470313",
+  "citado": "Warfarin",
+  "real": "Warfarin.",
+  "score": 0.08,
+  "ok": true
+ },
+ {
+  "archivo": "conocimiento/interna/hematologia.md",
+  "linea": 269,
+  "F": "F18",
+  "nbk": "NBK560651",
+  "citado": "Anticoagulation Therapy",
+  "real": "Anticoagulation Therapy.",
+  "score": 1.0,
+  "ok": true
+ },
+ {
+  "archivo": "conocimiento/interna/hematologia.md",
+  "linea": 270,
+  "F": "F19",
+  "nbk": "NBK507875",
+  "citado": "Acute Myeloid Leukemia",
+  "real": "Acute Myeloid Leukemia.",
+  "score": 1.0,
+  "ok": true
+ },
+ {
+  "archivo": "conocimiento/interna/hematologia.md",
+  "linea": 271,
+  "F": "F20",
+  "nbk": "NBK470433",
+  "citado": "Chronic Lymphocytic Leukemia",
+  "real": "Chronic Lymphocytic Leukemia.",
+  "score": 1.0,
+  "ok": true
+ },
+ {
+  "archivo": "conocimiento/interna/hematologia.md",
+  "linea": 273,
+  "F": "F22",
+  "nbk": "NBK499969",
+  "citado": "Hodgkin Lymphoma",
+  "real": "Hodgkin Lymphoma.",
+  "score": 1.0,
+  "ok": true
+ },
+ {
+  "archivo": "conocimiento/interna/hematologia.md",
+  "linea": 275,
+  "F": "F24",
+  "nbk": "NBK534764",
+  "citado": "Multiple Myeloma",
+  "real": "Multiple Myeloma.",
+  "score": 1.0,
+  "ok": true
+ },
+ {
+  "archivo": "conocimiento/interna/hematologia.md",
+  "linea": 277,
+  "F": "F26",
+  "nbk": "NBK541102",
+  "citado": "Febrile Neutropenia",
+  "real": "Febrile Neutropenia.",
+  "score": 1.0,
+  "ok": true
+ },
+ {
+  "archivo": "conocimiento/interna/hematologia.md",
+  "linea": 280,
+  "F": "F29",
+  "nbk": "NBK574536",
+  "citado": "Noninfectious Complications of Blood Transfusion",
+  "real": "Noninfectious Complications of Blood Transfusion.",
+  "score": 1.0,
+  "ok": true
+ },
+ {
+  "archivo": "conocimiento/interna/hematologia.md",
+  "linea": 281,
+  "F": "F30",
+  "nbk": "NBK448158",
+  "citado": "Hemolytic Transfusion Reaction",
+  "real": "Hemolytic Transfusion Reaction.",
+  "score": 1.0,
+  "ok": true
+ },
+ {
+  "archivo": "conocimiento/interna/hematologia.md",
+  "linea": 282,
+  "F": "F31",
+  "nbk": "NBK518985",
+  "citado": "Tumor Lysis Syndrome",
+  "real": "Tumor Lysis Syndrome.",
+  "score": 1.0,
+  "ok": true
+ },
+ {
+  "archivo": "conocimiento/interna/hematologia.md",
+  "linea": 283,
+  "F": "F32",
+  "nbk": "NBK557660",
+  "citado": "Polycythemia Vera",
+  "real": "Polycythemia Vera.",
+  "score": 1.0,
+  "ok": true
+ },
+ {
+  "archivo": "conocimiento/interna/infectologia.md",
+  "linea": 275,
+  "F": "F4",
+  "nbk": "NBK551711",
+  "citado": "Malaria",
+  "real": "Malaria.",
+  "score": 1.0,
+  "ok": true
+ },
+ {
+  "archivo": "conocimiento/interna/infectologia.md",
+  "linea": 276,
+  "F": "F5",
+  "nbk": "NBK430732",
+  "citado": "Dengue fever",
+  "real": "Dengue Fever.",
+  "score": 1.0,
+  "ok": true
+ },
+ {
+  "archivo": "conocimiento/interna/infectologia.md",
+  "linea": 277,
+  "F": "F6",
+  "nbk": "NBK430939",
+  "citado": "Sepsis",
+  "real": "Septic Shock.",
+  "score": 0.44,
+  "ok": false
+ },
+ {
+  "archivo": "conocimiento/interna/infectologia.md",
+  "linea": 283,
+  "F": "F12",
+  "nbk": "NBK459272",
+  "citado": "Chagas disease",
+  "real": "Chagas Disease.",
+  "score": 1.0,
+  "ok": true
+ },
+ {
+  "archivo": "conocimiento/interna/infectologia.md",
+  "linea": 284,
+  "F": "F13",
+  "nbk": "NBK441858",
+  "citado": "Leptospirosis",
+  "real": "Leptospirosis.",
+  "score": 1.0,
+  "ok": true
+ },
+ {
+  "archivo": "conocimiento/interna/infectologia.md",
+  "linea": 289,
+  "F": "F18",
+  "nbk": "NBK534780",
+  "citado": "Syphilis",
+  "real": "Syphilis.",
+  "score": 1.0,
+  "ok": true
+ },
+ {
+  "archivo": "conocimiento/interna/infectologia.md",
+  "linea": 291,
+  "F": "F20",
+  "nbk": "NBK531507",
+  "citado": "Chikungunya",
+  "real": "Viral Arthritis.",
+  "score": 0.15,
+  "ok": false
+ },
+ {
+  "archivo": "conocimiento/interna/infectologia.md",
+  "linea": 292,
+  "F": "F21",
+  "nbk": "NBK604195",
+  "citado": "Zika virus",
+  "real": "Vertical Transplacental Infections.",
+  "score": 0.23,
+  "ok": false
+ },
+ {
+  "archivo": "conocimiento/interna/infectologia.md",
+  "linea": 293,
+  "F": "F22",
+  "nbk": "NBK597352",
+  "citado": "Yellow fever",
+  "real": "Nutrition: Micronutrient Intake, Imbalances, and Interventions.",
+  "score": 0.17,
+  "ok": false
+ },
+ {
+  "archivo": "conocimiento/interna/nefrologia.md",
+  "linea": 227,
+  "F": "F2",
+  "nbk": "NBK560678",
+  "citado": "Prerenal Kidney Failure",
+  "real": "Prerenal Kidney Failure.",
+  "score": 1.0,
+  "ok": true
+ },
+ {
+  "archivo": "conocimiento/interna/nefrologia.md",
+  "linea": 228,
+  "F": "F3",
+  "nbk": "NBK552160",
+  "citado": "Acute kidney injury: prevention, detection and management",
+  "real": "(PMID 31909927; título vacío en esummary: revisar a mano)",
+  "score": 0.21,
+  "ok": false
+ },
+ {
+  "archivo": "conocimiento/interna/nefrologia.md",
+  "linea": 229,
+  "F": "F4",
+  "nbk": "NBK535404",
+  "citado": "Chronic Kidney Disease",
+  "real": "Chronic Kidney Disease.",
+  "score": 1.0,
+  "ok": true
+ },
+ {
+  "archivo": "conocimiento/interna/nefrologia.md",
+  "linea": 232,
+  "F": "F7",
+  "nbk": "NBK470444",
+  "citado": "Nephrotic Syndrome",
+  "real": "Nephrotic Syndrome.",
+  "score": 1.0,
+  "ok": true
+ },
+ {
+  "archivo": "conocimiento/interna/nefrologia.md",
+  "linea": 233,
+  "F": "F8",
+  "nbk": "NBK538255",
+  "citado": "Infection-Related Glomerulonephritis",
+  "real": "Infection-Related Glomerulonephritis.",
+  "score": 1.0,
+  "ok": true
+ },
+ {
+  "archivo": "conocimiento/interna/nefrologia.md",
+  "linea": 234,
+  "F": "F9",
+  "nbk": "NBK333429",
+  "citado": "Post-Streptococcal Glomerulonephritis",
+  "real": "Post-Streptococcal Glomerulonephritis.",
+  "score": 1.0,
+  "ok": true
+ },
+ {
+  "archivo": "conocimiento/interna/nefrologia.md",
+  "linea": 235,
+  "F": "F10",
+  "nbk": "NBK470386",
+  "citado": "Hyponatremia",
+  "real": "Hyponatremia.",
+  "score": 1.0,
+  "ok": true
+ },
+ {
+  "archivo": "conocimiento/interna/nefrologia.md",
+  "linea": 236,
+  "F": "F11",
+  "nbk": "NBK441960",
+  "citado": "Hypernatremia",
+  "real": "Hypernatremia.",
+  "score": 1.0,
+  "ok": true
+ },
+ {
+  "archivo": "conocimiento/interna/nefrologia.md",
+  "linea": 237,
+  "F": "F12",
+  "nbk": "NBK470284",
+  "citado": "Hyperkalemia",
+  "real": "Hyperkalemia.",
+  "score": 1.0,
+  "ok": true
+ },
+ {
+  "archivo": "conocimiento/interna/nefrologia.md",
+  "linea": 238,
+  "F": "F13",
+  "nbk": "NBK482465",
+  "citado": "Hypokalemia",
+  "real": "Hypokalemia.",
+  "score": 1.0,
+  "ok": true
+ },
+ {
+  "archivo": "conocimiento/interna/nefrologia.md",
+  "linea": 239,
+  "F": "F14",
+  "nbk": "NBK448090",
+  "citado": "Anion Gap and Non-Anion Gap Metabolic Acidosis",
+  "real": "Anion Gap and Non-Anion Gap Metabolic Acidosis.",
+  "score": 1.0,
+  "ok": true
+ },
+ {
+  "archivo": "conocimiento/interna/nefrologia.md",
+  "linea": 240,
+  "F": "F15",
+  "nbk": "NBK470202",
+  "citado": "Lactic Acidosis",
+  "real": "Lactic Acidosis.",
+  "score": 1.0,
+  "ok": true
+ },
+ {
+  "archivo": "conocimiento/interna/nefrologia.md",
+  "linea": 241,
+  "F": "F16",
+  "nbk": "NBK519537",
+  "citado": "Acute Pyelonephritis",
+  "real": "Acute Pyelonephritis.",
+  "score": 1.0,
+  "ok": true
+ },
+ {
+  "archivo": "conocimiento/interna/nefrologia.md",
+  "linea": 242,
+  "F": "F17",
+  "nbk": "NBK442014",
+  "citado": "Renal Calculi, Nephrolithiasis",
+  "real": "Renal Calculi, Nephrolithiasis.",
+  "score": 1.0,
+  "ok": true
+ },
+ {
+  "archivo": "conocimiento/interna/nefrologia.md",
+  "linea": 243,
+  "F": "F18",
+  "nbk": "NBK534200",
+  "citado": "Diabetic Nephropathy",
+  "real": "Diabetic Nephropathy.",
+  "score": 1.0,
+  "ok": true
+ },
+ {
+  "archivo": "conocimiento/interna/nefrologia.md",
+  "linea": 244,
+  "F": "F19",
+  "nbk": "NBK563296",
+  "citado": "Hemodialysis",
+  "real": "Hemodialysis.",
+  "score": 1.0,
+  "ok": true
+ },
+ {
+  "archivo": "conocimiento/interna/nefrologia.md",
+  "linea": 245,
+  "F": "F20",
+  "nbk": "NBK556028",
+  "citado": "Continuous Renal Replacement Therapy",
+  "real": "Continuous Renal Replacement Therapy.",
+  "score": 1.0,
+  "ok": true
+ },
+ {
+  "archivo": "conocimiento/interna/nefrologia.md",
+  "linea": 246,
+  "F": "F21",
+  "nbk": "NBK441859",
+  "citado": "Uremia",
+  "real": "Uremia.",
+  "score": 1.0,
+  "ok": true
+ },
+ {
+  "archivo": "conocimiento/interna/nefrologia.md",
+  "linea": 247,
+  "F": "F22",
+  "nbk": "NBK448168",
+  "citado": "Rhabdomyolysis",
+  "real": "Rhabdomyolysis.",
+  "score": 1.0,
+  "ok": true
+ },
+ {
+  "archivo": "conocimiento/interna/nefrologia.md",
+  "linea": 248,
+  "F": "F23",
+  "nbk": "NBK448066",
+  "citado": "Contrast-Induced Nephropathy",
+  "real": "Contrast-Induced Nephropathy.",
+  "score": 1.0,
+  "ok": true
+ },
+ {
+  "archivo": "conocimiento/interna/neumologia.md",
+  "linea": 246,
+  "F": "F1",
+  "nbk": "NBK430901",
+  "citado": "Asthma",
+  "real": "Asthma.",
+  "score": 1.0,
+  "ok": true
+ },
+ {
+  "archivo": "conocimiento/interna/neumologia.md",
+  "linea": 247,
+  "F": "F2",
+  "nbk": "NBK526070",
+  "citado": "Status Asthmaticus",
+  "real": "Status Asthmaticus.",
+  "score": 1.0,
+  "ok": true
+ },
+ {
+  "archivo": "conocimiento/interna/neumologia.md",
+  "linea": 250,
+  "F": "F5",
+  "nbk": "NBK559281",
+  "citado": "Chronic Obstructive Pulmonary Disease (COPD)",
+  "real": "Chronic Obstructive Pulmonary Disease (COPD).",
+  "score": 1.0,
+  "ok": true
+ },
+ {
+  "archivo": "conocimiento/interna/neumologia.md",
+  "linea": 253,
+  "F": "F8",
+  "nbk": "NBK430749",
+  "citado": "Community-Acquired Pneumonia",
+  "real": "Community-Acquired Pneumonia.",
+  "score": 1.0,
+  "ok": true
+ },
+ {
+  "archivo": "conocimiento/interna/neumologia.md",
+  "linea": 256,
+  "F": "F11",
+  "nbk": "NBK557666",
+  "citado": "Antitubercular Medications",
+  "real": "Antitubercular Medications.",
+  "score": 1.0,
+  "ok": true
+ },
+ {
+  "archivo": "conocimiento/interna/neumologia.md",
+  "linea": 259,
+  "F": "F14",
+  "nbk": "NBK560551",
+  "citado": "Acute Pulmonary Embolism",
+  "real": "Acute Pulmonary Embolism.",
+  "score": 1.0,
+  "ok": true
+ },
+ {
+  "archivo": "conocimiento/interna/neumologia.md",
+  "linea": 260,
+  "F": "F15",
+  "nbk": "NBK448189",
+  "citado": "Pleural Effusion",
+  "real": "Pleural Effusion.",
+  "score": 1.0,
+  "ok": true
+ },
+ {
+  "archivo": "conocimiento/interna/neumologia.md",
+  "linea": 261,
+  "F": "F16",
+  "nbk": "NBK513353",
+  "citado": "Physiology, Pleural Fluid",
+  "real": "Physiology, Pleural Fluid.",
+  "score": 1.0,
+  "ok": true
+ },
+ {
+  "archivo": "conocimiento/interna/neumologia.md",
+  "linea": 262,
+  "F": "F17",
+  "nbk": "NBK534297",
+  "citado": "Parapneumonic Pleural Effusions and Empyema Thoracis",
+  "real": "Parapneumonic Pleural Effusions and Empyema Thoracis.",
+  "score": 1.0,
+  "ok": true
+ },
+ {
+  "archivo": "conocimiento/interna/neumologia.md",
+  "linea": 263,
+  "F": "F18",
+  "nbk": "NBK441866",
+  "citado": "Thoracentesis",
+  "real": "Thoracentesis.",
+  "score": 1.0,
+  "ok": true
+ },
+ {
+  "archivo": "conocimiento/interna/neumologia.md",
+  "linea": 264,
+  "F": "F19",
+  "nbk": "NBK538316",
+  "citado": "Acute Pneumothorax Evaluation and Treatment",
+  "real": "Acute Pneumothorax Evaluation and Treatment.",
+  "score": 1.0,
+  "ok": true
+ },
+ {
+  "archivo": "conocimiento/interna/neumologia.md",
+  "linea": 265,
+  "F": "F20",
+  "nbk": "NBK559090",
+  "citado": "Tension Pneumothorax",
+  "real": "Tension Pneumothorax.",
+  "score": 1.0,
+  "ok": true
+ },
+ {
+  "archivo": "conocimiento/interna/neumologia.md",
+  "linea": 266,
+  "F": "F21",
+  "nbk": "NBK556143",
+  "citado": "Solitary Pulmonary Nodule",
+  "real": "Solitary Pulmonary Nodule.",
+  "score": 1.0,
+  "ok": true
+ },
+ {
+  "archivo": "conocimiento/interna/neumologia.md",
+  "linea": 267,
+  "F": "F22",
+  "nbk": "NBK482357",
+  "citado": "Lung Cancer",
+  "real": "Lung Cancer.",
+  "score": 1.0,
+  "ok": true
+ },
+ {
+  "archivo": "conocimiento/interna/neumologia.md",
+  "linea": 268,
+  "F": "F23",
+  "nbk": "NBK448162",
+  "citado": "Idiopathic Pulmonary Fibrosis",
+  "real": "Idiopathic Pulmonary Fibrosis.",
+  "score": 1.0,
+  "ok": true
+ },
+ {
+  "archivo": "conocimiento/interna/neumologia.md",
+  "linea": 269,
+  "F": "F24",
+  "nbk": "NBK541084",
+  "citado": "Interstitial Lung Disease",
+  "real": "Interstitial Lung Disease.",
+  "score": 1.0,
+  "ok": true
+ },
+ {
+  "archivo": "conocimiento/interna/neumologia.md",
+  "linea": 270,
+  "F": "F25",
+  "nbk": "NBK459252",
+  "citado": "Obstructive Sleep Apnea",
+  "real": "Obstructive Sleep Apnea.",
+  "score": 1.0,
+  "ok": true
+ },
+ {
+  "archivo": "conocimiento/interna/neumologia.md",
+  "linea": 271,
+  "F": "F26",
+  "nbk": "NBK536919",
+  "citado": "Arterial Blood Gas Analysis: Fundamentals, Interpretation, and Clinical Utility",
+  "real": "Arterial Blood Gas Analysis: Fundamentals, Interpretation, and Clinical Utility.",
+  "score": 1.0,
+  "ok": true
+ },
+ {
+  "archivo": "conocimiento/interna/neumologia.md",
+  "linea": 272,
+  "F": "F27",
+  "nbk": "NBK482268",
+  "citado": "Alveolar Gas Equation",
+  "real": "Alveolar Gas Equation.",
+  "score": 1.0,
+  "ok": true
+ },
+ {
+  "archivo": "conocimiento/interna/neumologia.md",
+  "linea": 274,
+  "F": "F29",
+  "nbk": "NBK526127",
+  "citado": "Respiratory Failure in Adults",
+  "real": "Respiratory Failure in Adults.",
+  "score": 1.0,
+  "ok": true
+ },
+ {
+  "archivo": "conocimiento/interna/reumatologia.md",
+  "linea": 250,
+  "F": "F1",
+  "nbk": "NBK441999",
+  "citado": "Rheumatoid Arthritis",
+  "real": "Rheumatoid Arthritis.",
+  "score": 1.0,
+  "ok": true
+ },
+ {
+  "archivo": "conocimiento/interna/reumatologia.md",
+  "linea": 253,
+  "F": "F4",
+  "nbk": "NBK535405",
+  "citado": "Systemic Lupus Erythematosus",
+  "real": "Systemic Lupus Erythematosus.",
+  "score": 1.0,
+  "ok": true
+ },
+ {
+  "archivo": "conocimiento/interna/reumatologia.md",
+  "linea": 254,
+  "F": "F5",
+  "nbk": "NBK499817",
+  "citado": "Lupus Nephritis",
+  "real": "Lupus Nephritis.",
+  "score": 1.0,
+  "ok": true
+ },
+ {
+  "archivo": "conocimiento/interna/reumatologia.md",
+  "linea": 255,
+  "F": "F6",
+  "nbk": "NBK546606",
+  "citado": "Gout",
+  "real": "Gout.",
+  "score": 1.0,
+  "ok": true
+ },
+ {
+  "archivo": "conocimiento/interna/reumatologia.md",
+  "linea": 257,
+  "F": "F8",
+  "nbk": "NBK540151",
+  "citado": "Calcium Pyrophosphate Deposition Disease",
+  "real": "Calcium Pyrophosphate Deposition Disease.",
+  "score": 1.0,
+  "ok": true
+ },
+ {
+  "archivo": "conocimiento/interna/reumatologia.md",
+  "linea": 258,
+  "F": "F9",
+  "nbk": "NBK538176",
+  "citado": "Septic Arthritis",
+  "real": "Septic Arthritis.",
+  "score": 1.0,
+  "ok": true
+ },
+ {
+  "archivo": "conocimiento/interna/reumatologia.md",
+  "linea": 259,
+  "F": "F10",
+  "nbk": "NBK470173",
+  "citado": "Ankylosing Spondylitis",
+  "real": "Ankylosing Spondylitis.",
+  "score": 1.0,
+  "ok": true
+ },
+ {
+  "archivo": "conocimiento/interna/reumatologia.md",
+  "linea": 261,
+  "F": "F12",
+  "nbk": "NBK459376",
+  "citado": "Giant Cell Arteritis (Temporal Arteritis)",
+  "real": "Giant Cell Arteritis (Temporal Arteritis).",
+  "score": 1.0,
+  "ok": true
+ },
+ {
+  "archivo": "conocimiento/interna/reumatologia.md",
+  "linea": 262,
+  "F": "F13",
+  "nbk": "NBK537274",
+  "citado": "Polymyalgia Rheumatica",
+  "real": "Polymyalgia Rheumatica.",
+  "score": 1.0,
+  "ok": true
+ },
+ {
+  "archivo": "conocimiento/interna/reumatologia.md",
+  "linea": 263,
+  "F": "F14",
+  "nbk": "NBK554372",
+  "citado": "ANCA-Associated Vasculitis",
+  "real": "ANCA-Associated Vasculitis.",
+  "score": 1.0,
+  "ok": true
+ },
+ {
+  "archivo": "conocimiento/interna/reumatologia.md",
+  "linea": 264,
+  "F": "F15",
+  "nbk": "NBK459127",
+  "citado": "Takayasu Arteritis",
+  "real": "Takayasu Arteritis.",
+  "score": 1.0,
+  "ok": true
+ },
+ {
+  "archivo": "conocimiento/interna/reumatologia.md",
+  "linea": 265,
+  "F": "F16",
+  "nbk": "NBK545186",
+  "citado": "Vasculitis",
+  "real": "Vasculitis.",
+  "score": 1.0,
+  "ok": true
+ },
+ {
+  "archivo": "conocimiento/interna/reumatologia.md",
+  "linea": 266,
+  "F": "F17",
+  "nbk": "NBK430875",
+  "citado": "Systemic Sclerosis (Scleroderma)",
+  "real": "Systemic Sclerosis (Scleroderma).",
+  "score": 1.0,
+  "ok": true
+ },
+ {
+  "archivo": "conocimiento/interna/reumatologia.md",
+  "linea": 267,
+  "F": "F18",
+  "nbk": "NBK430980",
+  "citado": "Antiphospholipid Syndrome",
+  "real": "Antiphospholipid Syndrome.",
+  "score": 1.0,
+  "ok": true
+ },
+ {
+  "archivo": "conocimiento/interna/reumatologia.md",
+  "linea": 268,
+  "F": "F19",
+  "nbk": "NBK558917",
+  "citado": "Dermatomyositis",
+  "real": "Dermatomyositis.",
+  "score": 1.0,
+  "ok": true
+ },
+ {
+  "archivo": "conocimiento/interna/reumatologia.md",
+  "linea": 270,
+  "F": "F21",
+  "nbk": "NBK562339",
+  "citado": "Antineutrophil Cytoplasmic Antibodies (ANCA) Test",
+  "real": "Antineutrophil Cytoplasmic Antibodies (ANCA) Test.",
+  "score": 1.0,
+  "ok": true
+ },
+ {
+  "archivo": "conocimiento/interna/reumatologia.md",
+  "linea": 271,
+  "F": "F22",
+  "nbk": "NBK534224",
+  "citado": "Chikungunya Fever",
+  "real": "Chikungunya Fever.",
+  "score": 1.0,
+  "ok": true
+ },
+ {
+  "archivo": "conocimiento/interna/reumatologia.md",
+  "linea": 275,
+  "F": "F26",
+  "nbk": "NBK540974",
+  "citado": "Fibromyalgia",
+  "real": "Fibromyalgia.",
+  "score": 1.0,
+  "ok": true
+ },
+ {
+  "archivo": "conocimiento/neurologia/neurologia.md",
+  "linea": 316,
+  "F": "F18",
+  "nbk": "NBK532254",
+  "citado": "Guillain-Barré Syndrome",
+  "real": "Guillain-Barre Syndrome.",
+  "score": 0.98,
+  "ok": true
+ },
+ {
+  "archivo": "conocimiento/pediatria/pediatria.md",
+  "linea": 312,
+  "F": "F7",
+  "nbk": "NBK459215",
+  "citado": "Respiratory Syncytial Virus Infection in Children",
+  "real": "Respiratory Syncytial Virus Infection in Children.",
+  "score": 1.0,
+  "ok": true
+ },
+ {
+  "archivo": "conocimiento/pediatria/pediatria.md",
+  "linea": 313,
+  "F": "F8",
+  "nbk": "NBK519531",
+  "citado": "Laryngotracheobronchitis",
+  "real": "Laryngotracheobronchitis.",
+  "score": 1.0,
+  "ok": true
+ },
+ {
+  "archivo": "conocimiento/pediatria/pediatria.md",
+  "linea": 315,
+  "F": "F10",
+  "nbk": "NBK546685",
+  "citado": "Pediatric Bronchospasm",
+  "real": "Pediatric Bronchospasm.",
+  "score": 1.0,
+  "ok": true
+ },
+ {
+  "archivo": "conocimiento/pediatria/pediatria.md",
+  "linea": 316,
+  "F": "F11",
+  "nbk": "NBK441823",
+  "citado": "Asthma Medication in Children",
+  "real": "Asthma Medication in Children.",
+  "score": 1.0,
+  "ok": true
+ },
+ {
+  "archivo": "conocimiento/pediatria/pediatria.md",
+  "linea": 320,
+  "F": "F15",
+  "nbk": "NBK572069",
+  "citado": "Pediatric and Neonatal Resuscitation",
+  "real": "Pediatric and Neonatal Resuscitation.",
+  "score": 1.0,
+  "ok": true
+ },
+ {
+  "archivo": "conocimiento/pediatria/pediatria.md",
+  "linea": 321,
+  "F": "F16",
+  "nbk": "NBK532930",
+  "citado": "Neonatal Jaundice",
+  "real": "Neonatal Jaundice.",
+  "score": 1.0,
+  "ok": true
+ },
+ {
+  "archivo": "conocimiento/pediatria/pediatria.md",
+  "linea": 323,
+  "F": "F18",
+  "nbk": "NBK531478",
+  "citado": "Neonatal Sepsis",
+  "real": "Neonatal Sepsis.",
+  "score": 1.0,
+  "ok": true
+ },
+ {
+  "archivo": "conocimiento/pediatria/pediatria.md",
+  "linea": 324,
+  "F": "F19",
+  "nbk": "NBK448123",
+  "citado": "Febrile Seizure",
+  "real": "Febrile Seizure.",
+  "score": 1.0,
+  "ok": true
+ },
+ {
+  "archivo": "conocimiento/pediatria/pediatria.md",
+  "linea": 325,
+  "F": "F20",
+  "nbk": "NBK599548",
+  "citado": "Urinary Tract Infections in Children",
+  "real": "Urinary Tract Infections In Children.",
+  "score": 1.0,
+  "ok": true
+ },
+ {
+  "archivo": "conocimiento/pediatria/pediatria.md",
+  "linea": 326,
+  "F": "F21",
+  "nbk": "NBK448190",
+  "citado": "Roseola Infantum",
+  "real": "Roseola Infantum.",
+  "score": 1.0,
+  "ok": true
+ },
+ {
+  "archivo": "conocimiento/pediatria/pediatria.md",
+  "linea": 327,
+  "F": "F22",
+  "nbk": "NBK513309",
+  "citado": "Erythema Infectiosum",
+  "real": "Erythema Infectiosum.",
+  "score": 1.0,
+  "ok": true
+ },
+ {
+  "archivo": "conocimiento/pediatria/pediatria.md",
+  "linea": 329,
+  "F": "F24",
+  "nbk": "NBK459146",
+  "citado": "Child Abuse and Neglect",
+  "real": "Child Abuse and Neglect.",
+  "score": 1.0,
+  "ok": true
+ },
+ {
+  "archivo": "conocimiento/pediatria/pediatria.md",
+  "linea": 331,
+  "F": "F26",
+  "nbk": "NBK500001",
+  "citado": "Cyanotic Heart Disease",
+  "real": "Cyanotic Heart Disease.",
+  "score": 1.0,
+  "ok": true
+ },
+ {
+  "archivo": "conocimiento/pediatria/pediatria.md",
+  "linea": 332,
+  "F": "F27",
+  "nbk": "NBK557518",
+  "citado": "Developmental Milestones",
+  "real": "Developmental Milestones.",
+  "score": 1.0,
+  "ok": true
+ },
+ {
+  "archivo": "conocimiento/pediatria/pediatria.md",
+  "linea": 333,
+  "F": "F28",
+  "nbk": "NBK436022",
+  "citado": "Pediatric Dehydration",
+  "real": "Pediatric Dehydration.",
+  "score": 1.0,
+  "ok": true
+ },
+ {
+  "archivo": "conocimiento/psiquiatria/psiquiatria.md",
+  "linea": 281,
+  "F": "F22",
+  "nbk": "NBK441882",
+  "citado": "Alcohol Withdrawal Syndrome",
+  "real": "Alcohol Withdrawal Syndrome.",
+  "score": 1.0,
+  "ok": true
+ },
+ {
+  "archivo": "conocimiento/psiquiatria/psiquiatria.md",
+  "linea": 289,
+  "F": "F30",
+  "nbk": "NBK482282",
+  "citado": "Neuroleptic Malignant Syndrome",
+  "real": "Neuroleptic Malignant Syndrome.",
+  "score": 1.0,
+  "ok": true
+ },
+ {
+  "archivo": "conocimiento/psiquiatria/psiquiatria.md",
+  "linea": 292,
+  "F": "F33",
+  "nbk": "NBK499992",
+  "citado": "Lithium Toxicity",
+  "real": "Lithium Toxicity.",
+  "score": 0.16,
+  "ok": true
+ },
+ {
+  "archivo": "conocimiento/salud-publica/salud-publica.md",
+  "linea": 220,
+  "F": "F1",
+  "nbk": "NBK557491",
+  "citado": "Diagnostic Testing Accuracy: Sensitivity, Specificity, Predictive Values and Likelihood Ratios",
+  "real": "Diagnostic Testing Accuracy: Sensitivity, Specificity, Predictive Values and Likelihood Ratios.",
+  "score": 1.0,
+  "ok": true
+ },
+ {
+  "archivo": "conocimiento/salud-publica/salud-publica.md",
+  "linea": 221,
+  "F": "F2",
+  "nbk": "NBK431098",
+  "citado": "Odds Ratio",
+  "real": "Odds Ratio.",
+  "score": 1.0,
+  "ok": true
+ },
+ {
+  "archivo": "conocimiento/salud-publica/salud-publica.md",
+  "linea": 223,
+  "F": "F4",
+  "nbk": "NBK574513",
+  "citado": "Study Bias",
+  "real": "Study Bias.",
+  "score": 1.0,
+  "ok": true
+ },
+ {
+  "archivo": "conocimiento/urgencias/urgencias.md",
+  "linea": 230,
+  "F": "F1",
+  "nbk": "NBK613285",
+  "citado": "Advanced Cardiac Life Support (ACLS)",
+  "real": "Advanced Cardiac Life Support (ACLS).",
+  "score": 1.0,
+  "ok": true
+ },
+ {
+  "archivo": "conocimiento/urgencias/urgencias.md",
+  "linea": 232,
+  "F": "F3",
+  "nbk": "NBK560730",
+  "citado": "Endotracheal intubation techniques",
+  "real": "Endotracheal Intubation Techniques.",
+  "score": 1.0,
+  "ok": true
+ },
+ {
+  "archivo": "conocimiento/urgencias/urgencias.md",
+  "linea": 233,
+  "F": "F4",
+  "nbk": "NBK482124",
+  "citado": "Anaphylaxis",
+  "real": "Anaphylaxis.",
+  "score": 1.0,
+  "ok": true
+ },
+ {
+  "archivo": "conocimiento/urgencias/urgencias.md",
+  "linea": 234,
+  "F": "F5",
+  "nbk": "NBK430686",
+  "citado": "Status epilepticus",
+  "real": "Status Epilepticus.",
+  "score": 1.0,
+  "ok": true
+ },
+ {
+  "archivo": "conocimiento/urgencias/urgencias.md",
+  "linea": 235,
+  "F": "F6",
+  "nbk": "NBK513298",
+  "citado": "Glasgow Coma Scale",
+  "real": "Glasgow Coma Scale.",
+  "score": 1.0,
+  "ok": true
+ },
+ {
+  "archivo": "conocimiento/urgencias/urgencias.md",
+  "linea": 236,
+  "F": "F7",
+  "nbk": "NBK430939",
+  "citado": "Sepsis",
+  "real": "Septic Shock.",
+  "score": 0.44,
+  "ok": false
+ },
+ {
+  "archivo": "conocimiento/urgencias/urgencias.md",
+  "linea": 237,
+  "F": "F8",
+  "nbk": "NBK470382",
+  "citado": "Hemorrhagic shock",
+  "real": "Hemorrhagic Shock.",
+  "score": 1.0,
+  "ok": true
+ },
+ {
+  "archivo": "conocimiento/urgencias/urgencias.md",
+  "linea": 238,
+  "F": "F9",
+  "nbk": "NBK459361",
+  "citado": "Neurogenic shock",
+  "real": "Neurogenic Shock.",
+  "score": 1.0,
+  "ok": true
+ },
+ {
+  "archivo": "conocimiento/urgencias/urgencias.md",
+  "linea": 240,
+  "F": "F11",
+  "nbk": "NBK554397",
+  "citado": "Scopolamine",
+  "real": "Scopolamine.",
+  "score": 1.0,
+  "ok": true
+ },
+ {
+  "archivo": "conocimiento/urgencias/urgencias.md",
+  "linea": 241,
+  "F": "F12",
+  "nbk": "NBK557541",
+  "citado": "Muscarinic antagonists",
+  "real": "Muscarinic Antagonists.",
+  "score": 1.0,
+  "ok": true
+ },
+ {
+  "archivo": "conocimiento/urgencias/urgencias.md",
+  "linea": 242,
+  "F": "F13",
+  "nbk": "NBK470430",
+  "citado": "Organophosphate toxicity",
+  "real": "Organophosphate Toxicity.",
+  "score": 1.0,
+  "ok": true
+ },
+ {
+  "archivo": "conocimiento/urgencias/urgencias.md",
+  "linea": 243,
+  "F": "F14",
+  "nbk": "NBK558908",
+  "citado": "Pralidoxime",
+  "real": "Pralidoxime.",
+  "score": 1.0,
+  "ok": true
+ },
+ {
+  "archivo": "conocimiento/urgencias/urgencias.md",
+  "linea": 246,
+  "F": "F17",
+  "nbk": "NBK431065",
+  "citado": "Rattlesnake toxicity",
+  "real": "Rattlesnake Toxicity.",
+  "score": 1.0,
+  "ok": true
+ }
+]

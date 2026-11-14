@@ -1,0 +1,508 @@
+{
+ "_doc": "Reglas declarativas de clasificacion. Cada regla se evalua en orden y gana la primera que casa. Campos de seleccion: archivo, tipoMalla, grupo (regex sobre la ruta de grupos 'A/B/C' sin la g final), nombre (regex sobre el nombre base del objeto). Campos de salida: sistema, subsistema, capa (0-5 o 'heuristica'). Los patrones de nombre solo se usan cuando no hay grupo util.",
+ "descartar_tipos": [
+  "descartar",
+  "etiqueta"
+ ],
+ "etiqueta_sin_ta2_max_tris": 13,
+ "sistema": [
+  {
+   "archivo": "SkeletalSystem100",
+   "tipoMalla": [
+    "origen",
+    "insercion"
+   ],
+   "sistema": "inserciones",
+   "subsistema": "origenes-inserciones",
+   "capa": 4
+  },
+  {
+   "archivo": "SkeletalSystem100",
+   "grupo": "Cranium$|Bones_of_cranium|Extracranial_bones_of_head|Auditory_ossicles",
+   "sistema": "oseo",
+   "subsistema": "craneo",
+   "capa": 4
+  },
+  {
+   "archivo": "SkeletalSystem100",
+   "grupo": "Teeth",
+   "sistema": "oseo",
+   "subsistema": "dientes",
+   "capa": 4
+  },
+  {
+   "archivo": "SkeletalSystem100",
+   "grupo": "Vertebral_column",
+   "sistema": "oseo",
+   "subsistema": "columna-vertebral",
+   "capa": 4
+  },
+  {
+   "archivo": "SkeletalSystem100",
+   "grupo": "Thoracic_skeleton|Costal_cartilages",
+   "sistema": "oseo",
+   "subsistema": "torax-oseo",
+   "capa": 4
+  },
+  {
+   "archivo": "SkeletalSystem100",
+   "grupo": "Bones_of_upper_limb",
+   "sistema": "oseo",
+   "subsistema": "miembro-superior",
+   "capa": 4
+  },
+  {
+   "archivo": "SkeletalSystem100",
+   "grupo": "Bones_of_lower_limb",
+   "sistema": "oseo",
+   "subsistema": "miembro-inferior",
+   "capa": 4
+  },
+  {
+   "archivo": "SkeletalSystem100",
+   "grupo": "Laryngeal_cartilages|Nasal_cartilages",
+   "sistema": "oseo",
+   "subsistema": "cartilagos",
+   "capa": 4
+  },
+  {
+   "archivo": "SkeletalSystem100",
+   "sistema": "oseo",
+   "subsistema": "otros",
+   "capa": 4
+  },
+  {
+   "archivo": "MuscularSystem100",
+   "grupo": "Fasciae",
+   "sistema": "muscular",
+   "subsistema": "fascias",
+   "capa": 1
+  },
+  {
+   "archivo": "MuscularSystem100",
+   "grupo": "Tendon_sheaths|Bursae",
+   "sistema": "muscular",
+   "subsistema": "vainas-bolsas",
+   "capa": "heuristica"
+  },
+  {
+   "archivo": "MuscularSystem100",
+   "grupo": "Superficial_",
+   "sistema": "muscular",
+   "subsistema": "musculos",
+   "capa": 1
+  },
+  {
+   "archivo": "MuscularSystem100",
+   "grupo": "Deep_",
+   "sistema": "muscular",
+   "subsistema": "musculos",
+   "capa": 2
+  },
+  {
+   "archivo": "MuscularSystem100",
+   "sistema": "muscular",
+   "subsistema": "musculos",
+   "capa": "heuristica"
+  },
+  {
+   "archivo": "CardioVascular41",
+   "nombre": "^(Ascending_aorta|Thoracic_aorta|Abdominal_aorta|Aortic_arch|Brachiocephalic_trunk|Superior_vena_cava|Inferior_vena_cava.*|Pulmonary_trunk)$",
+   "sistema": "cardiovascular",
+   "subsistemaPorGrupo": true,
+   "capa": 5
+  },
+  {
+   "archivo": "CardioVascular41",
+   "grupo": "Heart$|Valvular_complex_of_heart",
+   "sistema": "cardiovascular",
+   "subsistema": "corazon",
+   "capa": 5
+  },
+  {
+   "archivo": "CardioVascular41",
+   "grupo": "Arteries_of_heart",
+   "sistema": "cardiovascular",
+   "subsistema": "arterias",
+   "capa": 5
+  },
+  {
+   "archivo": "CardioVascular41",
+   "grupo": "Cardiac_veins",
+   "sistema": "cardiovascular",
+   "subsistema": "venas",
+   "capa": 5
+  },
+  {
+   "archivo": "CardioVascular41",
+   "grupo": "Pulmonary_arteries",
+   "sistema": "cardiovascular",
+   "subsistema": "arterias",
+   "capa": 5
+  },
+  {
+   "archivo": "CardioVascular41",
+   "grupo": "Pulmonary_veins",
+   "sistema": "cardiovascular",
+   "subsistema": "venas",
+   "capa": 5
+  },
+  {
+   "archivo": "CardioVascular41",
+   "grupo": "Arterial_system",
+   "sistema": "cardiovascular",
+   "subsistema": "arterias",
+   "capa": 3
+  },
+  {
+   "archivo": "CardioVascular41",
+   "grupo": "Venous_system",
+   "sistema": "cardiovascular",
+   "subsistema": "venas",
+   "capa": 3
+  },
+  {
+   "archivo": "CardioVascular41",
+   "sistema": "cardiovascular",
+   "subsistema": "arterias",
+   "capa": 3
+  },
+  {
+   "archivo": "NervousSystem100",
+   "grupo": "Central_nervous_system",
+   "sistema": "nervioso",
+   "subsistema": "snc",
+   "capa": 5
+  },
+  {
+   "archivo": "NervousSystem100",
+   "grupo": "Sense_organs",
+   "sistema": "nervioso",
+   "subsistema": "sentidos",
+   "capa": 5
+  },
+  {
+   "archivo": "NervousSystem100",
+   "grupo": "Peripheral_nervous_system",
+   "sistema": "nervioso",
+   "subsistema": "snp",
+   "capa": 3
+  },
+  {
+   "archivo": "NervousSystem100",
+   "sistema": "nervioso",
+   "subsistema": "snp",
+   "capa": 3
+  },
+  {
+   "archivo": "VisceralSystem100",
+   "grupo": "Digestive_system|Abdominopelvic_cavity",
+   "sistema": "digestivo",
+   "capa": 5
+  },
+  {
+   "archivo": "VisceralSystem100",
+   "grupo": "Respiratory_system|Thoracic_cavity",
+   "sistema": "respiratorio",
+   "capa": 5
+  },
+  {
+   "archivo": "VisceralSystem100",
+   "grupo": "Urinary_system",
+   "sistema": "urinario",
+   "capa": 5
+  },
+  {
+   "archivo": "VisceralSystem100",
+   "grupo": "Genital_systems",
+   "sistema": "reproductor",
+   "capa": 5
+  },
+  {
+   "archivo": "VisceralSystem100",
+   "grupo": "Endocrine_glands",
+   "sistema": "endocrino",
+   "capa": 5
+  },
+  {
+   "archivo": "VisceralSystem100",
+   "nombre": "(?i)(colon|intestin|stomach|liver|pancrea|gallbladder|bile|oesophag|tongue|pharyn|salivary|parotid|gingiva|omentum|mesenter)",
+   "sistema": "digestivo",
+   "capa": 5
+  },
+  {
+   "archivo": "VisceralSystem100",
+   "nombre": "(?i)(lung|bronch|trachea|larynx|pleura|epiglottis|nasal)",
+   "sistema": "respiratorio",
+   "capa": 5
+  },
+  {
+   "archivo": "VisceralSystem100",
+   "nombre": "(?i)(kidney|ureter|bladder|urethra|renal)",
+   "sistema": "urinario",
+   "capa": 5
+  },
+  {
+   "archivo": "VisceralSystem100",
+   "nombre": "(?i)(testis|penis|prostate|deferens|epididym|seminal|uterus|ovary|vagina)",
+   "sistema": "reproductor",
+   "capa": 5
+  },
+  {
+   "archivo": "VisceralSystem100",
+   "nombre": "(?i)(thyroid|parathyroid|suprarenal|hypophysis|pineal|adrenal)",
+   "sistema": "endocrino",
+   "capa": 5
+  },
+  {
+   "archivo": "Joints100",
+   "sistema": "articular",
+   "capa": 4
+  },
+  {
+   "archivo": "LymphoidOrgans100",
+   "sistema": "linfatico",
+   "capa": 3
+  },
+  {
+   "archivo": "Regions_of_human_body100",
+   "sistema": "piel",
+   "subsistema": "regiones",
+   "capa": 0
+  }
+ ],
+ "subsistema_por_grupo": [
+  {
+   "grupo": "Heart$|Valvular_complex_of_heart",
+   "subsistema": "corazon"
+  },
+  {
+   "grupo": "Venous_system",
+   "subsistema": "venas"
+  },
+  {
+   "grupo": "Arterial_system",
+   "subsistema": "arterias"
+  }
+ ],
+ "subsistema_otros": {
+  "Joints100": [
+   {
+    "grupo": "Joints_of_skull",
+    "subsistema": "craneo"
+   },
+   {
+    "grupo": "Joints_of_vertebral_column",
+    "subsistema": "columna-vertebral"
+   },
+   {
+    "grupo": "Thoracic_joints",
+    "subsistema": "torax"
+   },
+   {
+    "grupo": "Laryngeal_joints",
+    "subsistema": "laringe"
+   },
+   {
+    "grupo": "Joints_of_upper_limb",
+    "subsistema": "miembro-superior"
+   },
+   {
+    "grupo": "Joints_of_lower_limb",
+    "subsistema": "miembro-inferior"
+   }
+  ],
+  "LymphoidOrgans100": [
+   {
+    "grupo": "Lymph_nodes",
+    "subsistema": "ganglios-linfaticos"
+   },
+   {
+    "grupo": "Lymphoid_organs|Thymus|Pharyngeal_lymphoid",
+    "subsistema": "organos-linfoides"
+   }
+  ],
+  "VisceralSystem100": [
+   {
+    "grupo": "Peritoneal_structures",
+    "subsistema": "peritoneo"
+   },
+   {
+    "grupo": "Thoracic_cavity",
+    "subsistema": "pleura"
+   },
+   {
+    "grupo": "Tracheobronchial_tree",
+    "subsistema": "via-aerea"
+   },
+   {
+    "grupo": "Lungs",
+    "subsistema": "pulmones"
+   },
+   {
+    "grupo": "Digestive_canal|Mouth|Pharynx",
+    "subsistema": "tubo-digestivo"
+   },
+   {
+    "grupo": "Male_genital_system",
+    "subsistema": "genital-masculino"
+   }
+  ]
+ },
+ "region_por_grupo": [
+  {
+   "grupo": "Spinal_cord|Vertebral_column|Joints_of_vertebral_column|Dorsal_part_of_muscular|Epaxial|Hypaxial_muscles_of_back|Thoracolumbar_fascia|Regions_of_back",
+   "region": "dorso"
+  },
+  {
+   "grupo": "Cranial_part|Muscles_of_head|Fasciae_of_head|Cranium|Extracranial_bones_of_head|Teeth|Regions_of_head|Joints_of_skull|Brain|Meninges|Eye|Ear|Auditory_ossicles|Nasal_cartilages|Lymph_nodes_of_head|Cranial_veins|Cerebral_arterial_circle|Mouth|Pharynx",
+   "region": "cabeza"
+  },
+  {
+   "grupo": "Cervical_part|Muscles_of_neck|Fasciae_of_neck|Cervical_fasciae|Regions_of_neck|Lymph_nodes_of_neck|Laryngeal|Larynx|Thyroid|Endocrine_glands$",
+   "region": "cuello"
+  },
+  {
+   "grupo": "Thoracic_part|Muscles_of_thorax|Thoracic_skeleton|Thoracic_joints|Fasciae_of_thorax|Regions_of_thorax|Heart$|Arteries_of_heart|Cardiac_veins|Valvular_complex|Lungs|Tracheobronchial|Thoracic_cavity|Thoracic_lymph_nodes|Pulmonary_",
+   "region": "tórax"
+  },
+  {
+   "grupo": "Abdominal_part|Muscles_of_abdomen|Fasciae_of_abdomen|Regions_of_abdomen|Abdominopelvic_cavity|Abdominal_lymph_nodes|Digestive_canal|Hepatic_portal_vein",
+   "region": "abdomen"
+  },
+  {
+   "grupo": "Pelvic_part|Muscles_of_pelvis|Regions_of_perineum|Pelvic_lymph_nodes|Male_genital_system|Joints_of_pelvic_girdle|Bones_of_pelvic_girdle|Aortic_bifurcation",
+   "region": "pelvis"
+  },
+  {
+   "grupo": "upper_limb|Pectoral_girdle|Brachial_plexus|Joints_of_pectoral_girdle",
+   "region": "miembro superior"
+  },
+  {
+   "grupo": "lower_limb|Lumbosacral_plexus|pelvic_girdle",
+   "region": "miembro inferior"
+  }
+ ],
+ "region_por_centroide_cm": {
+  "_doc": "Alternativa cuando no hay grupo util (alturas en cm del FBX, cuerpo de unos 171 cm; Y arriba). Brazo: |x| > 20 por debajo del hombro.",
+  "cabeza_min_y": 152,
+  "cuello_min_y": 142,
+  "torax_min_y": 117,
+  "abdomen_min_y": 97,
+  "pelvis_min_y": 78,
+  "brazo_abs_x": 20,
+  "general_si_altura_mayor_cm": 80
+ },
+ "licencias_nc": [
+  {
+   "nombre": "(?i)(cochlea|vestibul|semicircular_canal|bony_ampulla|spiral_canal|membranous_labyrinth|utricle|saccule)",
+   "grupo": "Internal_ear|Ear",
+   "licencia": "CC-BY-NC-SA-4.0",
+   "motivo": "oido interno (University of Dundee)"
+  },
+  {
+   "nombre": "^(Kidney|Renal_pelvis)",
+   "archivo": "VisceralSystem100",
+   "licencia": "CC-BY-NC-4.0",
+   "motivo": "rinon (Lissie Cowley)"
+  }
+ ],
+ "capas_musculo": {
+  "umbral_cm": 1.95,
+  "muestras_por_malla": 600,
+  "radio_busqueda_celdas": 8,
+  "espaciado_muestreo_piel_cm": 0.5
+ },
+ "region_por_nombre": [
+  {
+   "nombre": "^(Liver|.*_of_liver.*|Bile_duct|Gallbladder|Pancreas|Pancreatic_duct|Accessory_pancreatic_duct|Stomach|Duodenum|Jejunum|Kidney.*|Renal_pelvis.*|Ureter.*|Suprarenal_gland.*|Greater_omentum|Lesser_omentum|Mesocolon|Meso-appendix|Omental_taenia|Free_taenia|Mesocolic_taenia|.*_colon|Vermiform_appendix)$",
+   "region": "abdomen"
+  },
+  {
+   "nombre": "^(Oesophagus|Trachea|Pleura|Thymus.*)$",
+   "region": "tórax"
+  },
+  {
+   "nombre": "^(Urinary_bladder|Urethra)$",
+   "region": "pelvis"
+  },
+  {
+   "nombre": "^(Pineal_gland|Neurohypophysis|Adenohypophysis|Hypophysis)$",
+   "region": "cabeza"
+  },
+  {
+   "nombre": "^(Thyroid_gland|Inferior_parathyroid_gland.*|Superior_parathyroid_gland.*|Epiglottis)$",
+   "region": "cuello"
+  }
+ ],
+ "presupuesto": {
+  "_doc": "v2 (orden de la direccion, sustituye SPEC 6.7): ratio fijo por sistema (oseo sin decimar); error = tope de meshoptimizer. Topes globales: total 45 MB, 4,5 M tris con todo visible sin inserciones, oseo+piel 9 MB. 'bytes' = tope por sistema (+10 % de tolerancia).",
+  "sistemas": {
+   "piel": {
+    "ratio": 0.6,
+    "error": 0.003,
+    "bytes": 1500000
+   },
+   "oseo": {
+    "ratio": 1,
+    "error": 0,
+    "bytes": 8000000,
+    "_doc": "sin decimar (orden de la direccion: cada huesito)"
+   },
+   "articular": {
+    "ratio": 0.6,
+    "error": 0.003,
+    "bytes": 3500000
+   },
+   "muscular": {
+    "ratio": 0.38,
+    "error": 0.004,
+    "bytes": 10000000
+   },
+   "cardiovascular": {
+    "ratio": 0.38,
+    "error": 0.003,
+    "bytes": 8000000
+   },
+   "nervioso": {
+    "ratio": 0.38,
+    "error": 0.003,
+    "bytes": 10000000
+   },
+   "linfatico": {
+    "ratio": 0.6,
+    "error": 0.003,
+    "bytes": 1500000
+   },
+   "inserciones": {
+    "ratio": 0.6,
+    "error": 0.003,
+    "bytes": 8000000,
+    "opciones": {
+     "umbral": 40,
+     "minTris": 16
+    }
+   }
+  },
+  "visceral": {
+   "sistemas": [
+    "digestivo",
+    "respiratorio",
+    "urinario",
+    "reproductor",
+    "endocrino"
+   ],
+   "ratio": 0.6,
+   "error": 0.003,
+   "bytes": 6000000
+  },
+  "lockBorder": true,
+  "tolerancia": 0.1,
+  "iteraciones_max": 10
+ },
+ "preferir_lado_si_hay_pareja": true,
+ "_doc_lado": "Si un objeto = termino TA2 + r/l y existe su gemelo contralateral, se usa el termino sin la letra (Tibial -> Tibia izquierda). Sin pareja (Liver, Vomer) no se toca.",
+ "alias_objeto": {
+  "Insular_branches_of_middle_cerebral_artery_(M2-segment)l": "Insular_branches_of_middle_cerebral_artery_(M2)l"
+ }
+}

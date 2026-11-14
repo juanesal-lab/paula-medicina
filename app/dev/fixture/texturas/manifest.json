@@ -1,0 +1,150 @@
+{
+  "version": 1,
+  "generado": "2026-11-13",
+  "tejidos": {
+    "musculo": {
+      "modelo": "procedural-prueba",
+      "prompt": "textura procedural de prueba (no es una fotografía)",
+      "fibras": "vertical",
+      "px": 512
+    },
+    "tendon": {
+      "modelo": "procedural-prueba",
+      "prompt": "textura procedural de prueba (no es una fotografía)",
+      "fibras": "vertical",
+      "px": 512
+    },
+    "fascia": {
+      "modelo": "procedural-prueba",
+      "prompt": "textura procedural de prueba (no es una fotografía)",
+      "fibras": null,
+      "px": 512
+    },
+    "hueso": {
+      "modelo": "procedural-prueba",
+      "prompt": "textura procedural de prueba (no es una fotografía)",
+      "fibras": null,
+      "px": 512
+    },
+    "cartilago": {
+      "modelo": "procedural-prueba",
+      "prompt": "textura procedural de prueba (no es una fotografía)",
+      "fibras": null,
+      "px": 512
+    },
+    "grasa": {
+      "modelo": "procedural-prueba",
+      "prompt": "textura procedural de prueba (no es una fotografía)",
+      "fibras": null,
+      "px": 512
+    },
+    "piel": {
+      "modelo": "procedural-prueba",
+      "prompt": "textura procedural de prueba (no es una fotografía)",
+      "fibras": null,
+      "px": 512
+    },
+    "nervio": {
+      "modelo": "procedural-prueba",
+      "prompt": "textura procedural de prueba (no es una fotografía)",
+      "fibras": "vertical",
+      "px": 512
+    },
+    "arteria": {
+      "modelo": "procedural-prueba",
+      "prompt": "textura procedural de prueba (no es una fotografía)",
+      "fibras": null,
+      "px": 512
+    },
+    "vena": {
+      "modelo": "procedural-prueba",
+      "prompt": "textura procedural de prueba (no es una fotografía)",
+      "fibras": null,
+      "px": 512
+    },
+    "linfatico": {
+      "modelo": "procedural-prueba",
+      "prompt": "textura procedural de prueba (no es una fotografía)",
+      "fibras": null,
+      "px": 512
+    },
+    "miocardio": {
+      "modelo": "procedural-prueba",
+      "prompt": "textura procedural de prueba (no es una fotografía)",
+      "fibras": null,
+      "px": 512
+    },
+    "pulmon": {
+      "modelo": "procedural-prueba",
+      "prompt": "textura procedural de prueba (no es una fotografía)",
+      "fibras": null,
+      "px": 512
+    },
+    "higado": {
+      "modelo": "procedural-prueba",
+      "prompt": "textura procedural de prueba (no es una fotografía)",
+      "fibras": null,
+      "px": 512
+    },
+    "rinon": {
+      "modelo": "procedural-prueba",
+      "prompt": "textura procedural de prueba (no es una fotografía)",
+      "fibras": null,
+      "px": 512
+    },
+    "bazo": {
+      "modelo": "procedural-prueba",
+      "prompt": "textura procedural de prueba (no es una fotografía)",
+      "fibras": null,
+      "px": 512
+    },
+    "estomago": {
+      "modelo": "procedural-prueba",
+      "prompt": "textura procedural de prueba (no es una fotografía)",
+      "fibras": null,
+      "px": 512
+    },
+    "mucosa": {
+      "modelo": "procedural-prueba",
+      "prompt": "textura procedural de prueba (no es una fotografía)",
+      "fibras": null,
+      "px": 512
+    },
+    "glandula": {
+      "modelo": "procedural-prueba",
+      "prompt": "textura procedural de prueba (no es una fotografía)",
+      "fibras": null,
+      "px": 512
+    },
+    "cerebro": {
+      "modelo": "procedural-prueba",
+      "prompt": "textura procedural de prueba (no es una fotografía)",
+      "fibras": null,
+      "px": 512
+    },
+    "cerebelo": {
+      "modelo": "procedural-prueba",
+      "prompt": "textura procedural de prueba (no es una fotografía)",
+      "fibras": "vertical",
+      "px": 512
+    },
+    "medula": {
+      "modelo": "procedural-prueba",
+      "prompt": "textura procedural de prueba (no es una fotografía)",
+      "fibras": null,
+      "px": 512
+    },
+    "ojo": {
+      "modelo": "procedural-prueba",
+      "prompt": "textura procedural de prueba (no es una fotografía)",
+      "fibras": null,
+      "px": 512
+    },
+    "diente": {
+      "modelo": "procedural-prueba",
+      "prompt": "textura procedural de prueba (no es una fotografía)",
+      "fibras": null,
+      "px": 512
+    }
+  }
+}

@@ -1,0 +1,42 @@
+id_seccion	linea	dato	estado	fuente	via	ubicacion_en_fuente
+NEUMO-T01	39	Diagnóstico: una relación VEF1/CVF baja que mejora 12 % y 200 mL o más tras el broncodilatador respalda el dia	confirmado	F1	statpearls-oa	Asthma: Evaluation (reversibilidad broncodilatadora); GINA 2025: manejo de exacerbación (flujo pico)
+NEUMO-T01	41	Exacerbación grave: oxígeno para saturación de 93-95 %, SABA inhalado (salbutamol 4-10 inhalaciones con aerocá	corregido	F3	pdf	GINA 2025 resumen: manejo de exacerbaciones en atención aguda; Status Asthmaticus: albuterol nebulizado
+NEUMO-T01	42	Dosis habitual de ipratropio nebulizado de 0,5 mg ⚠ sin contrastar	sin_contrastar	F2	-	no contrastado con texto leído
+NEUMO-T01	43	Falta de respuesta: sulfato de magnesio 2 g intravenoso en infusión de 20 minutos; el magnesio nebulizado tien	corregido	F2	statpearls-oa	Status Asthmaticus: sulfato de magnesio
+NEUMO-T02	55	Gravedad GOLD 1-4 por VEF1 posbroncodilatador (80 % o más, 50 % a menos de 80 %, 30 % a menos de 50 %, menos d	corregido	F5	statpearls-oa	COPD: Evaluation (gravedad por VEF1)
+NEUMO-T02	60	Oxigenoterapia crónica si PaO2 es 55 mmHg o menos (o saturación de 88 % o menos), o entre 55 y 60 mmHg con cor	corregido	F6	pdf	GOLD 2025: oxigenoterapia a largo plazo
+NEUMO-T02	61	Exacerbación: SABA con o sin anticolinérgico de acción corta, prednisona 40 mg al día por vía oral durante 5 d	confirmado	F5	statpearls-oa	COPD: Treatment (exacerbación, corticoide y oxígeno)
+NEUMO-T02	62	Ventilación no invasiva si hay insuficiencia respiratoria hipercápnica aguda (pH menor de 7,35 con PaCO2 mayor	corregido	F5	statpearls-oa	COPD: Treatment (VNI en insuficiencia hipercápnica)
+NEUMO-T03	73	CURB-65 suma un punto por: confusión, urea de 20 mg/dL o más, frecuencia respiratoria de 30/min o más, presión	corregido	F8	statpearls-oa	Community-Acquired Pneumonia: Evaluation (CURB-65)
+NEUMO-T03	74	Un puntaje de 2 o más sugiere hospitalización; el umbral de 3 o más para valorar UCI ⚠ sin contrastar	sin_contrastar	-	-	no contrastado con texto leído
+NEUMO-T03	78	Dosis habituales de adulto: amoxicilina 1 g cada 8 horas o doxiciclina 100 mg cada 12 horas ⚠ sin contrastar	sin_contrastar	F8	-	no contrastado con texto leído
+NEUMO-T03	79	Hospitalizado no grave: betalactámico (cefotaxima, ceftriaxona, ampicilina-sulbactam o ertapenem) más macrólid	sin_contrastar	F8	-	no contrastado con texto leído
+NEUMO-T03	80	La duración es de 5 a 7 días si hay respuesta clínica favorable (sin fiebre durante más de 48 a 72 horas y sin	corregido	F8	statpearls-oa	Community-Acquired Pneumonia: Treatment (duración)
+NEUMO-T03	81	En Colombia: no se verificó una GPC nacional de NAC del adulto; la GPC de MinSalud/IETS de neumonía y bronquio	sin_contrastar	F9	-	no contrastado con texto leído
+NEUMO-T03	83	Errores típicos: tratar como NAC un cuadro con derrame paraneumónico sin drenar; usar fluoroquinolona como pri	confirmado	F13	pdf	ABECÉ TB: definición de sintomático respiratorio (tos de más de 15 días)
+NEUMO-T04	89	Clínica: tos de más de 15 días (sintomático respiratorio según el ABECÉ colombiano), hemoptisis, fiebre vesper	corregido	F13	pdf	ABECÉ TB: sintomático respiratorio
+NEUMO-T04	94	Dosis diaria por peso en adulto (Resolución 227 de 2020, Tabla 26): isoniazida 5 mg/kg (4-6; máximo 300 mg), r	corregido	F30	pdf	Resolución 227 de 2020: Tabla 26 (dosis recomendadas en adultos)
+NEUMO-T04	96	La OMS acepta un esquema de 4 meses con isoniazida, rifapentina, moxifloxacino y pirazinamida en mayores de 12	confirmado	F12	bookshelf-oa	WHO TB módulo 4 2025: regímenes de 4 meses para TB sensible
+NEUMO-T05	110	PERC permite descartar TEP sin dímero D cuando la probabilidad es baja y se cumplen los 8 criterios (edad meno	confirmado	F14	statpearls-oa	Acute Pulmonary Embolism: Evaluation (criterios PERC)
+NEUMO-T05	113	Anticoagulación inmediata si la sospecha es alta: enoxaparina 1 mg/kg SC cada 12 horas o ACOD: rivaroxabán 15 	confirmado	F31	statpearls-oa	Enoxaparin, Rivaroxaban, Apixaban: dosificación en TEV; Acute PE: duración
+NEUMO-T05	114	Alto riesgo (hipotensión: presión sistólica menor de 90 mmHg o caída de 40 mmHg o más): trombólisis sistémica 	confirmado	F34	statpearls-oa	Alteplase: dosis en TEP; Acute PE: definición de inestabilidad hemodinámica
+NEUMO-T06	125	Diagnóstico: radiografía (borramiento del seno costofrénico con unos 200 mL o más) y ecografía; toracocentesis	confirmado	F16	statpearls-oa	Pleural Effusion: criterios de Light y radiografía (200 mL)
+NEUMO-T06	127	Las guías difieren: los criterios de Light pueden clasificar como exudado algunos trasudados cardiacos tratado	sin_contrastar	F15	-	no contrastado con texto leído
+NEUMO-T07	143	Las guías difieren: el tamaño que define "grande" varía entre guías; StatPearls usa un borde visible de más de	corregido	F19	statpearls-oa	Acute Pneumothorax: definición de tamaño (2 cm)
+NEUMO-T08	150	Nódulo solitario: lesión redonda de menos de 3 cm rodeada de pulmón; la mayoría es benigna (granuloma, infecci	confirmado	F21	statpearls-oa	Solitary Pulmonary Nodule: definición (menos de 3 cm)
+NEUMO-T08	154	Diagnóstico: TC de tórax; PET-TC con sensibilidad cercana al 80 % y especificidad cercana al 88 % para estadif	confirmado	F22	statpearls-oa	Lung Cancer: PET
+NEUMO-T09	167	Manejo: FPI: antifibróticos (nintedanib 150 mg cada 12 horas o pirfenidona, que se titula desde 267 mg tres ve	corregido	F23	statpearls-oa	Idiopathic Pulmonary Fibrosis: Treatment (nintedanib, pirfenidona)
+NEUMO-T10	176	Diagnóstico: polisomnografía en laboratorio (estándar); poligrafía domiciliaria aceptable en probabilidad alta	sin_contrastar	-	-	no contrastado con texto leído
+NEUMO-T11	184	Valores de referencia: pH 7,35-7,45, PaCO2 35-45 mmHg y bicarbonato 22-26 mEq/L.	confirmado	F26	statpearls-oa	Arterial Blood Gas Analysis: valores normales
+NEUMO-T11	185	Insuficiencia respiratoria tipo I (hipoxémica): PaO2 menor de 60 mmHg con PaCO2 normal o baja (neumonía, SDRA,	corregido	F29	statpearls-oa	Respiratory Failure in Adults: definiciones
+NEUMO-T11	188	Diagnóstico: secuencia: pH (acidemia o alcalemia), CO2 y bicarbonato para el trastorno primario, compensación 	sin_contrastar	F26	-	no contrastado con texto leído
+NEUMO-T12	197	Definición de Berlín: inicio dentro de los 7 días de un insulto, opacidades bilaterales en la radiografía o TC	sin_contrastar	F28	-	no contrastado con texto leído
+NEUMO-T12	200	Manejo: ventilación protectora con volumen corriente de 4 a 8 mL/kg de peso ideal y presión meseta menor de 30	sin_contrastar	F28	-	no contrastado con texto leído
+NEUMO-C01	208	Manejo: (1) Oxígeno para saturación de 93-95 %. (2) Salbutamol con aerocámara 4-10 inhalaciones cada 20 minuto	corregido	F3	pdf	GINA 2025 y Status Asthmaticus: manejo de crisis
+NEUMO-C02	217	Manejo: (1) Reducir el oxígeno a la menor cantidad que logre saturación de 88-92 % (por ejemplo, mascarilla Ve	confirmado	F6	statpearls-oa	COPD: Treatment (oxígeno controlado y VNI); GOLD 2025
+NEUMO-C02	218	Perlas: la acidosis respiratoria con bicarbonato alto es "aguda sobre crónica"; el objetivo no es normalizar l	confirmado	F6	pdf	GOLD 2025: manejo de exacerbación
+NEUMO-C02	219	Errores típicos: dar oxígeno sin control para "subir la saturación"; omitir la VNI por somnolencia leve; retir	confirmado	F5	statpearls-oa	COPD: Treatment (oxígeno controlado)
+NEUMO-C03	226	Manejo: (1) Aislamiento respiratorio mientras sea bacilífero; notificación inmediata al SIVIGILA. (2) Iniciar 	corregido	F30	pdf	Resolución 227 de 2020, Tabla 26; WHO TB módulo 4 2025 (momento del TAR)
+NEUMO-C04	234	Estudios: Wells alto (signos de TVP, FC de más de 100/min, inmovilización) = TEP probable: ir directo a angio-	confirmado	F14	statpearls-oa	Acute Pulmonary Embolism: Wells
+NEUMO-C04	235	Manejo: (1) Estratificar: normotensa, con signos de disfunción de VD en ECG: riesgo intermedio; medir troponin	confirmado	F31	statpearls-oa	Enoxaparin y Rivaroxaban: dosificación; Alteplase: dosis en TEP
+NEUMO-C05	243	Estudios: ecografía torácica (localizaciones, tabiques y guía de punción); toracocentesis diagnóstica con pH, 	confirmado	F17	statpearls-oa	Parapneumonic Pleural Effusions: pH, glucosa y drenaje
