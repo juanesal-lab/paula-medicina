@@ -28,7 +28,7 @@ Proyecto de estudio para una estudiante de medicina en Colombia: una tutora dent
   ```
   y abre http://localhost:8765 en el navegador.
 - **GitHub Pages**: publica la carpeta del repositorio y entra a la subruta `/app/` (por ejemplo `https://<usuario>.github.io/<repositorio>/app/`). La app usa solo rutas relativas, por lo que funciona en cualquier subruta.
-- URL de GitHub Pages de esta instalación: **sin configurar** (cuando exista, se escribe aquí y la skill la ofrece).
+- URL de GitHub Pages de esta instalación: **https://juanesal-lab.github.io/paula-medicina/app/**
 
 El modelo 3D es **masculino**: no incluye pelvis femenina, útero, ovarios ni mama. La base de conocimiento cubre esos temas en texto.
 
@@ -49,3 +49,9 @@ Requieren Node 22 y no tienen dependencias.
 ## Aviso clínico
 
 Esto es material de estudio. No sustituye el criterio clínico, las guías vigentes de tu institución ni la supervisión docente. Ante una emergencia real, acude a urgencias o llama a la línea 123 (Colombia). No introduzcas datos de pacientes reales identificables.
+
+## Usarla en claude.ai (sin instalar nada)
+1. Descarga `dist/paula.skill` de este repositorio (trae la tutora y toda la base de conocimiento).
+2. En claude.ai: Ajustes → Capacidades → Skills → subir skill, y elige ese archivo.
+3. En un chat nuevo escribe `/paula` o simplemente pregunta algo de medicina.
+4. La app de anatomía se abre en https://juanesal-lab.github.io/paula-medicina/app/

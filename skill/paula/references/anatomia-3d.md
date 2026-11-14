@@ -3,10 +3,13 @@
 La app está en `app/` (web estática con three.js y modelos de Z-Anatomy). Esta referencia dice cómo abrirla, leer lo que Paula selecciona y manejarla.
 
 ## 1. Abrir la app (en este orden)
+**Link en la nube:** https://juanesal-lab.github.io/paula-medicina/app/ (funciona en cualquier navegador y en el celular, sin instalar nada).
+
+0. **Sin proyecto local o sin panel de navegador** (por ejemplo en claude.ai o en el celular): no intentes arrancar servidores. Dale a Paula ese link y pídele que lo abra en otra pestaña. No puedes leer su selección desde ahí: cuando toque una estructura y pulse "Preguntar a mi tutora", la app copia la pregunta y ella la pega en el chat; trabaja con ese texto. Si pide algo como "muéstrame los huesos de la mano separados", explícale los pasos en la app (Explorador → Sistema óseo → Miembro superior → Ver solo esto / Separar esto) en vez de ejecutar `paulaApp`.
 1. **Panel con configuración.** Si existe `.claude/launch.json` con una configuración llamada `paula-anatomia`, ábrela con `preview_start` por nombre.
 2. **Copiar la configuración.** Si no existe, ofrécele copiarla (con su permiso) desde `assets/launch.json` de esta skill a `.claude/launch.json` del proyecto. Si ya hay un `launch.json`, fusiona la configuración sin borrar las demás. Luego `preview_start`.
 3. **Servidor manual.** Si no hay panel de navegador o `preview_start` falla, ejecuta `python3 servidor.py 8765 --directory app` (en segundo plano) y abre `http://localhost:8765`. Si el entorno no deja abrir puertos locales, dilo y pasa al paso 4.
-4. **GitHub Pages.** Si `README.md` del proyecto trae una URL de GitHub Pages, dásela. Si no la trae, dile que puede abrir `app/index.html` mediante un servidor local o publicar la carpeta (ver `docs/INSTALACION.md`).
+4. **Link en la nube.** Si nada de lo anterior funciona, dale el link de arriba. Si no la trae, dile que puede abrir `app/index.html` mediante un servidor local o publicar la carpeta (ver `docs/INSTALACION.md`).
 - Si `app/index.html` no existe, dilo: la app todavía no está instalada.
 
 ## 2. Leer lo que seleccionó
